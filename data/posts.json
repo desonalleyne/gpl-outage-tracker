@@ -1,0 +1,232 @@
+[
+ {
+  "id": "3f419a176796939fc08e13a04f452206",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid0VmqTt5j9SmFiXuCikhq5XwBX1pHHmf4ktzERaVDoMGTp4FtRskECgGdTjjV3aSkel",
+  "title": "ADVISORY – SERVICE INTERRUPTION (ESSEQUIBO COAST) Guyana Power and Light Inc. (GPL) wishes to advise customers from Boun...",
+  "published": "2026-11-14T02:22:38+00:00",
+  "text": "ADVISORY – SERVICE INTERRUPTION (ESSEQUIBO COAST)\n Guyana Power and Light Inc. (GPL) wishes to advise customers from Bounty Hall to Charity that they are experiencing a service interruption due to the distribution feeder going offline.\n GPL’s technical teams are working to restore electricity supply to all affected customers.\n We apologize for the inconvenience caused and thank customers for their continued patience and understanding.",
+  "images": [],
+  "captured_at": "2026-11-14T03:19:56.849400+00:00",
+  "type": "unplanned",
+  "region": "Essequibo Coast",
+  "cause": "No reason given",
+  "feeder_offline": true,
+  "feeders": [],
+  "areas": [
+   "Bounty Hall",
+   "Charity",
+   "Charity that they",
+   "Essequibo Coast"
+  ],
+  "times": [],
+  "suspected_shedding": [
+   "peak hours"
+  ]
+ },
+ {
+  "id": "3cc4e4260ad38d18402e31fde765c9d6",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid029QcsS3FicBP3aNEeewakWptkJKKi6AdS3tyAGJKdYPD5no67JZrF3vyogRwcd7TCl",
+  "title": "UPDATE – SERVICE RESTORATION IN PROGRESS (EAST BANK DEMERARA) Guyana Power and Light Inc. (GPL) wishes to advise that el...",
+  "published": "2026-11-14T01:50:26+00:00",
+  "text": "UPDATE – SERVICE RESTORATION IN PROGRESS (EAST BANK DEMERARA)\n Guyana Power and Light Inc. (GPL) wishes to advise that electricity supply has been restored to customers from Garden of Eden to Sarah Johanna.\n Customers from Sarah Johanna to Timehri and Long Creek remain affected following the earlier distribution feeder going offline.\n GPL’s technical teams continue to work to restore electricity supply to all remaining affected customers as quickly and safely as possible.\n GPL apologises for the continued inconvenience and thanks customers for their patience and understanding.",
+  "images": [],
+  "captured_at": "2026-11-14T03:19:56.849400+00:00",
+  "type": "restored",
+  "region": "East Bank Demerara",
+  "cause": null,
+  "feeder_offline": true,
+  "feeders": [],
+  "areas": [
+   "East Bank Demerara",
+   "Garden of Eden",
+   "Long Creek",
+   "Sarah Johanna",
+   "Timehri"
+  ],
+  "times": [],
+  "suspected_shedding": []
+ },
+ {
+  "id": "9c75b444661343f774e6dc355c0be4ba",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid02EMJ7J3S7aSdYvXMfgyD8dewYMRTHcZS8GvQjVZn8LYYYycNCjTDp7HrE1V7sKaFDl",
+  "title": "ADVISORY – SERVICE INTERRUPTION (WEST DEMERARA) Guyana Power and Light Inc. (GPL) wishes to advise customers from Best t...",
+  "published": "2026-11-13T22:57:43+00:00",
+  "text": "ADVISORY – SERVICE INTERRUPTION (WEST DEMERARA)\n Guyana Power and Light Inc. (GPL) wishes to advise customers from Best to Vriesland that they are currently experiencing an interruption in electricity supply due to a distribution feeder going offline.\n GPL’s technical teams are working to identify the cause and restore electricity supply to all affected customers as quickly and safely as possible.\n GPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
+  "images": [],
+  "captured_at": "2026-11-14T03:19:56.849400+00:00",
+  "type": "unplanned",
+  "region": "West Demerara",
+  "cause": "No reason given",
+  "feeder_offline": true,
+  "feeders": [],
+  "areas": [
+   "Best",
+   "Vriesland",
+   "Vriesland that they",
+   "West Demerara"
+  ],
+  "times": [],
+  "suspected_shedding": [
+   "peak hours",
+   "rotation"
+  ]
+ },
+ {
+  "id": "c11d40f26accbf5adbc4f00e0ee0e6a8",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid0DbcVeCSRfPExNzPHvdzZvP6vJ5YqofCSvAWpvr9vqriQmqM9HgJSErXf68xVmMv1l",
+  "title": "ADVISORY – SERVICE INTERRUPTION (EAST BANK DEMERARA) Guyana Power and Light Inc. (GPL) wishes to advise customers from G...",
+  "published": "2026-11-13T21:56:06+00:00",
+  "text": "ADVISORY – SERVICE INTERRUPTION (EAST BANK DEMERARA)\n Guyana Power and Light Inc. (GPL) wishes to advise customers from Garden of Eden to Timehri and Long Creek that they are currently experiencing an interruption in electricity supply due to a distribution feeder going offline.\n GPL’s technical teams are working to identify the cause and restore electricity supply to all affected customers as quickly and safely as possible.\n GPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
+  "images": [],
+  "captured_at": "2026-11-14T03:19:56.849400+00:00",
+  "type": "unplanned",
+  "region": "East Bank Demerara",
+  "cause": "No reason given",
+  "feeder_offline": true,
+  "feeders": [],
+  "areas": [
+   "East Bank Demerara",
+   "Garden of Eden",
+   "Long Creek",
+   "Timehri"
+  ],
+  "times": [],
+  "suspected_shedding": [
+   "peak hours",
+   "rotation"
+  ]
+ },
+ {
+  "id": "d0c3a57e3b478671ca6ff97510d2a258",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid0mE8iRvtrjERbptvZcyUxgGxndcgBcSMTVjFejBsd3SfMfhsKyAD2JVsM5ruoUVBl",
+  "title": "We’re excited to announce the search for a results oriented and motivated individuals to join our team. Click the link t...",
+  "published": "2026-11-13T21:18:17+00:00",
+  "text": "We’re excited to announce the search for a results oriented and motivated individuals to join our team. Click the link to view the job description and apply https://gplinc.com/about-us/vacancies/",
+  "images": [
+   "https://scontent-hou1-1.xx.fbcdn.net/v/t39.30808-6/906607001_122212688036585308_2204709478459856578_n.jpg?stp=dst-jpg_s1080x2048_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=xiyAbJotKoIQ7kNvwHRjIv0&_nc_oc=Adp_tWE-Up65kmwV4XjFMj3sN7Za8C3tbxaJ2KdA50bSPJEuJvfmWYtD-bdusTnR4_E&_nc_zt=23&_nc_ht=scontent-hou1-1.xx&_nc_gid=2VKD0azjfHpABZ5BKtLM_w&_nc_ss=7c289&oh=00_AQSEcl0xNri3xjA1gl2xVz80WzgmzJgnEXwJwojMt6XO1g&oe=6AFDA70A"
+  ],
+  "captured_at": "2026-11-14T03:19:56.849400+00:00",
+  "type": "other",
+  "region": null,
+  "cause": null,
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [],
+  "times": [],
+  "suspected_shedding": []
+ },
+ {
+  "id": "79c91eeeac32629f2e9bb1f929fc44bd",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid027Uwfp7F9ZQqCfJ3kSEqBPntUSXkjMyZa45o2LZWpqh6CZ8WwR6qRZYJUvz6HXVVEl",
+  "title": "SERVICE INTERRUPTION ADVISORY Dear Customers, Guyana Power and Light Inc. (GPL) wishes to advise customers from Nandy Pa...",
+  "published": "2026-07-25T19:38:23+00:00",
+  "text": "SERVICE INTERRUPTION ADVISORY\n Dear Customers,\n Guyana Power and Light Inc. (GPL) wishes to advise customers from Nandy Park to Grove that they are currently experiencing a service interruption.\n GPL's technical teams have been dispatched and are investigating the cause of the interruption to facilitate the restoration of electricity supply as quickly and safely as possible.\n GPL sincerely apologises for the inconvenience caused and thanks customers for their patience and understanding. Further updates will be provided as more information becomes available.",
+  "images": [],
+  "captured_at": "2026-11-14T03:19:56.849400+00:00",
+  "type": "unplanned",
+  "region": "Gpl",
+  "cause": "No reason given",
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [
+   "Grove",
+   "Grove that they",
+   "Nandy Park"
+  ],
+  "times": [],
+  "suspected_shedding": [
+   "rotation"
+  ]
+ },
+ {
+  "id": "66b5b3f7dd6915fa869ffcc22cec3b97",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid022JchyF18DkTC7VrmGKtetNF9zpiUDVDDkLRmtkohSYRpp4xuBfT1hsz6qA19tQ2Xl",
+  "title": "UPDATE – SERVICE INTERRUPTION Dear Customers, Guyana Power and Light Inc. (GPL) wishes to advise customers in North & So...",
+  "published": "2026-07-25T19:23:56+00:00",
+  "text": "UPDATE – SERVICE INTERRUPTION\n Dear Customers,\n Guyana Power and Light Inc. (GPL) wishes to advise customers in North & South Ruimveldt, Tucville, Guyhoc, and Lamaha Park that remedial works are currently underway to address the cause of the service interruption.\n Our technical teams are working to restore electricity supply to affected customers as quickly and safely as possible.\n GPL sincerely apologises for the inconvenience caused and thanks customers for their continued patience and understanding. Further updates will be provided as more information becomes available.",
+  "images": [],
+  "captured_at": "2026-11-14T03:19:56.849400+00:00",
+  "type": "update",
+  "region": "Gpl",
+  "cause": null,
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [
+   "Guyhoc",
+   "Lamaha Park",
+   "South Ruimveldt",
+   "Tucville"
+  ],
+  "times": [],
+  "suspected_shedding": []
+ },
+ {
+  "id": "108dccafbb3e5e1d6b79bd34af8d5e4c",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid02MoGWiE8jo1xKM8RYMX2z98TA57tE691wknzcnHKTy7W7q1BXV1svi51JUht4g1tkl",
+  "title": "SERVICE INTERRUPTION ADVISORY Dear Customers, Guyana Power and Light Inc. (GPL) wishes to advise customers in North & So...",
+  "published": "2026-07-25T18:34:38+00:00",
+  "text": "SERVICE INTERRUPTION ADVISORY\n Dear Customers,\n Guyana Power and Light Inc. (GPL) wishes to advise customers in North & South Ruimveldt, Tucville, Guyhoc, and Lamaha Park that they are currently experiencing a service interruption.\n GPL's technical team is en route to investigate the cause of the interruption and determine the necessary corrective action to restore electricity supply as quickly and safely as possible.\n GPL sincerely apologises for the inconvenience caused and thanks customers for their patience and understanding. Further updates will be provided as more information becomes available.",
+  "images": [],
+  "captured_at": "2026-11-14T03:19:56.849400+00:00",
+  "type": "unplanned",
+  "region": "Gpl",
+  "cause": "No reason given",
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [
+   "Guyhoc",
+   "Lamaha Park",
+   "South Ruimveldt",
+   "Tucville"
+  ],
+  "times": [],
+  "suspected_shedding": [
+   "rotation"
+  ]
+ },
+ {
+  "id": "ccca5e364963576b3e2d99ecf17a0583",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid0VzfHXfPrRB5G8gpJ3QmTtb9Sdvef4Y2fjwckndBWqCASm269dUcnaeNNRH8k9B4Ll",
+  "title": "Consistent with my earlier commitment, I will establish an International Commission of Inquiry with wide-ranging terms o...",
+  "published": "2026-07-25T17:53:08+00:00",
+  "text": "Consistent with my earlier commitment, I will establish an International Commission of Inquiry with wide-ranging terms of reference to conduct a thorough, independent and transparent investigation into the MV Barima tragedy.",
+  "images": [
+   "https://scontent-ams2-1.xx.fbcdn.net/v/t15.5256-10/754453541_1362120782692405_4105844264005533672_n.jpg?stp=dst-jpg_p565x565_tt6&_nc_cat=105&ccb=1-7&_nc_sid=3a9e82&_nc_ohc=HvDRLsHIQg4Q7kNvwGdvvQt&_nc_oc=Adpqoz5lme8XTpzpgpQ1bjrXu2jh2krsyTnp5RgQdtCiBskqQTfnO1uXYSbvdBucKim9ndJxPWE2N_vVWv-W_4Kg&_nc_zt=23&_nc_ht=scontent-ams2-1.xx&_nc_gid=jmBanGLPBllzeigQyK2ykg&_nc_ss=7b289&oh=00_AQAGF3h4GMkjJqjql6jF1ThkFbawUmg9zQ91Nohxo05W5g&oe=6A6AF70E"
+  ],
+  "captured_at": "2026-11-14T03:19:56.849400+00:00",
+  "type": "other",
+  "region": null,
+  "cause": null,
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [],
+  "times": [],
+  "suspected_shedding": []
+ },
+ {
+  "id": "63ed839294f3f95ca3fda669c5726a86",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid05GqjFbqg1qHnwVdPUesj5US3o7S1igQGZvQjARLMf9b1mrfPHR3eHKksEY21eYiYl",
+  "title": "SERVICE INTERRUPTION ADVISORY Dear Customers, Guyana Power and Light Inc. (GPL) wishes to advise customers in Section A...",
+  "published": "2026-07-25T11:47:00+00:00",
+  "text": "SERVICE INTERRUPTION ADVISORY\n Dear Customers,\n Guyana Power and Light Inc. (GPL) wishes to advise customers in Section A Grove and Diamond, Coverden New Scheme, Grove, Farm, and Herstelling New Scheme that they are currently experiencing a service interruption due to damage to the electricity network caused by a vehicular accident along the Mocha Access Road.\n GPL's technical teams are en route to the location to assess the damage and undertake the necessary corrective works to restore electricity supply as quickly and safely as possible.\n An investigation has also commenced to identify and locate the driver and vehicle involved in the incident.\n GPL sincerely apologises for the inconvenience caused and thanks customers for their patience and understanding. Further updates will be provided as more information becomes available.",
+  "images": [
+   "https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-6/753848908_122199239918585308_8621419931699460933_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=106&ccb=1-7&_nc_sid=e21142&_nc_ohc=8axE3NxErgIQ7kNvwGR0DBO&_nc_oc=AdplRKA0McXAQGTqrgqxQd3nPk_puCwl7oPlMUt8Qm4wzkRiBDmGUiG9HK-q2Hx3ar_jjba3QW-rTawfhdOBH_j8&_nc_zt=23&_nc_ht=scontent-ams2-1.xx&_nc_gid=jmBanGLPBllzeigQyK2ykg&_nc_ss=7b289&oh=00_AQDP6ks6evBmpNezLC9_BJnziXWFiY0gDgbBYjd5vIr53Q&oe=6A6AE581"
+  ],
+  "captured_at": "2026-11-14T03:19:56.849400+00:00",
+  "type": "unplanned",
+  "region": "Gpl",
+  "cause": "Third-party contact",
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [
+   "Coverden",
+   "Diamond",
+   "Farm",
+   "Grove",
+   "Herstelling",
+   "Mocha"
+  ],
+  "times": [],
+  "suspected_shedding": []
+ }
+]
