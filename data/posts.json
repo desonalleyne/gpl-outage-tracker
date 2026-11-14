@@ -1,5 +1,47 @@
 [
  {
+  "id": "869151ce8a29ce2d1f235a84b6102961",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid0C1Dmnjw6G4rEnKx5aUsqgMucgfbMEu4HUhYmMbTc5ma9fiRcVVjMNomDQ8JPEosxl",
+  "title": "UPDATE – SERVICE INTERRUPTION (ESSEQUIBO COAST) Guyana Power and Light Inc. (GPL) wishes to advise customers that restor...",
+  "published": "2026-11-14T06:17:38+00:00",
+  "text": "UPDATE – SERVICE INTERRUPTION (ESSEQUIBO COAST)\n Guyana Power and Light Inc. (GPL) wishes to advise customers that restoration efforts are currently underway following the earlier trip at the Anna Regina Power Station.\n Technical teams are actively working to restore electricity supply to the remaining affected customers.\n GPL apologises for the inconvenience caused and thanks customers for their continued patience and understanding.",
+  "images": [],
+  "captured_at": "2026-11-14T06:44:55.661490+00:00",
+  "type": "update",
+  "region": "Essequibo Coast",
+  "rules": "2026-11-14c",
+  "cause": null,
+  "feeder_offline": true,
+  "feeders": [],
+  "areas": [
+   "Anna Regina"
+  ],
+  "times": [],
+  "suspected_shedding": [],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
+ },
+ {
+  "id": "a3a6092ffc584e0a94cf3a342e5728d6",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid02XBrNu4djDjnQ3Gqys6tvz5cCUTZ1feYXWmwyJccqeTLPmxhudEyds8CjekENE6VQl",
+  "title": "ADVISORY – SERVICE INTERRUPTION (ESSEQUIBO COAST) Dear Customers, please be advised that sections of the Essequibo Coast...",
+  "published": "2026-11-14T06:02:07+00:00",
+  "text": "ADVISORY – SERVICE INTERRUPTION (ESSEQUIBO COAST)\n Dear Customers, please be advised that sections of the Essequibo Coast are currently experiencing a service interruption due to a trip at the Anna Regina Power station. \n Technical teams are working to identify the cause and restore electricity supply to all affected customers. \n GPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
+  "images": [],
+  "captured_at": "2026-11-14T06:44:55.661490+00:00",
+  "type": "unplanned",
+  "region": "Essequibo Coast",
+  "rules": "2026-11-14c",
+  "cause": "No reason given",
+  "feeder_offline": true,
+  "feeders": [],
+  "areas": [
+   "Anna Regina"
+  ],
+  "times": [],
+  "suspected_shedding": [],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
+ },
+ {
   "id": "e22e70dae1cfefcbe27dc5c99cc4ab7e",
   "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid02HmHzKUmWiJcMo35pGWD1Py7z3CDurXkihrq7qPQ52AZCDPcy9Z87iiYFWU2JCiF3l",
   "title": "NIGHT TWO WITH GPL AT GUYEXPO 2026 Customers stopped by the Guyana Power and Light Inc. (GPL) booth to get help with the...",
