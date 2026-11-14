@@ -1,5 +1,25 @@
 [
  {
+  "id": "e22e70dae1cfefcbe27dc5c99cc4ab7e",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid02HmHzKUmWiJcMo35pGWD1Py7z3CDurXkihrq7qPQ52AZCDPcy9Z87iiYFWU2JCiF3l",
+  "title": "NIGHT TWO WITH GPL AT GUYEXPO 2026 Customers stopped by the Guyana Power and Light Inc. (GPL) booth to get help with the...",
+  "published": "2026-11-14T03:48:10+00:00",
+  "text": "NIGHT TWO WITH GPL AT GUYEXPO 2026\n Customers stopped by the Guyana Power and Light Inc. (GPL) booth to get help with their electricity service, ask questions and speak directly with our team about their concerns.\n Thank you to everyone who took the time to visit us om night two of GuyExpo 2026. #PoweringCommunities #GuyExpo",
+  "images": [
+   "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/904809304_122212722470585308_1809596202298104961_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=e21142&_nc_ohc=7KDW19tGH0kQ7kNvwFCtG08&_nc_oc=AdoAfZU3yoeaBl-Fg2U7NUoKjHx7CM4YPBv9NfhUlUefkcEfoqxT5VQnI0rEYSWAGqpJVE6A_hqrxRVKdyXF2Blq&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=ibpve8Y-bjoazpce0iAaTA&_nc_ss=7c289&oh=00_AQRTx_8zfWRnOnRYjOtxcrDBpMJflu0GD6PTH-7SRitLcQ&oe=6AFDA7F8"
+  ],
+  "captured_at": "2026-11-14T05:18:08.661667+00:00",
+  "type": "other",
+  "region": "Gpl",
+  "cause": null,
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [],
+  "times": [],
+  "suspected_shedding": [],
+  "link_check": "looks live (400)"
+ },
+ {
   "id": "3f419a176796939fc08e13a04f452206",
   "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid0VmqTt5j9SmFiXuCikhq5XwBX1pHHmf4ktzERaVDoMGTp4FtRskECgGdTjjV3aSkel",
   "title": "ADVISORY – SERVICE INTERRUPTION (ESSEQUIBO COAST) Guyana Power and Light Inc. (GPL) wishes to advise customers from Boun...",
@@ -13,15 +33,14 @@
   "feeder_offline": true,
   "feeders": [],
   "areas": [
-   "Bounty Hall",
-   "Charity",
-   "Charity that they",
+   "Bounty Hall to Charity",
    "Essequibo Coast"
   ],
   "times": [],
   "suspected_shedding": [
    "peak hours"
-  ]
+  ],
+  "link_check": "looks live (400)"
  },
  {
   "id": "3cc4e4260ad38d18402e31fde765c9d6",
@@ -37,14 +56,14 @@
   "feeder_offline": true,
   "feeders": [],
   "areas": [
+   "Garden of Eden to Sarah Johanna",
+   "Sarah Johanna to Timehri",
    "East Bank Demerara",
-   "Garden of Eden",
-   "Long Creek",
-   "Sarah Johanna",
-   "Timehri"
+   "Long Creek"
   ],
   "times": [],
-  "suspected_shedding": []
+  "suspected_shedding": [],
+  "link_check": "looks live (400)"
  },
  {
   "id": "9c75b444661343f774e6dc355c0be4ba",
@@ -60,16 +79,15 @@
   "feeder_offline": true,
   "feeders": [],
   "areas": [
-   "Best",
-   "Vriesland",
-   "Vriesland that they",
+   "Best to Vriesland",
    "West Demerara"
   ],
   "times": [],
   "suspected_shedding": [
    "peak hours",
    "rotation"
-  ]
+  ],
+  "link_check": "looks live (400)"
  },
  {
   "id": "c11d40f26accbf5adbc4f00e0ee0e6a8",
@@ -85,16 +103,16 @@
   "feeder_offline": true,
   "feeders": [],
   "areas": [
+   "Garden of Eden to Timehri",
    "East Bank Demerara",
-   "Garden of Eden",
-   "Long Creek",
-   "Timehri"
+   "Long Creek"
   ],
   "times": [],
   "suspected_shedding": [
    "peak hours",
    "rotation"
-  ]
+  ],
+  "link_check": "looks live (400)"
  },
  {
   "id": "d0c3a57e3b478671ca6ff97510d2a258",
@@ -113,7 +131,52 @@
   "feeders": [],
   "areas": [],
   "times": [],
-  "suspected_shedding": []
+  "suspected_shedding": [],
+  "link_check": "looks live (400)"
+ },
+ {
+  "id": "44d77f89898877a08a8c955dc1ce3bfb",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid02168SCeqR5BduTo4RZAQtoe47neDe3q2JpYPYE97SJSaFYYHJJ12vfnVXBhbhL8nGl",
+  "title": "Guyana Power and Light Inc. (GPL) is upgrading 20,000 customers in Georgetown to smart meters as part of efforts to mode...",
+  "published": "2026-11-13T19:04:20+00:00",
+  "text": "Guyana Power and Light Inc. (GPL) is upgrading 20,000 customers in Georgetown to smart meters as part of efforts to modernise the electricity network and improve service delivery.\n The new meters will provide automatic readings and support faster restoration efforts. The meter, base and installation will be provided at no cost to customers.\n More information, including installation schedules and other important details, will be shared shortly.\n Customers are encouraged to follow GPL’s official social media platforms for updates on when installations will commence in their communities.",
+  "images": [
+   "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/905939016_122212674998585308_186462250647240145_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=e21142&_nc_ohc=0P73nyqKrzcQ7kNvwH93dPF&_nc_oc=AdoFkfDibUrlmTtOJivVjyaUpztZZHYOQQTtvbTBMvOqQErTzB1jslCFnP0g9yxyk8MS3ud5ByvF7N6GEVnTcxYj&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=ibpve8Y-bjoazpce0iAaTA&_nc_ss=7c289&oh=00_AQRkAXgMmUhPPvxjtjYhXy9_yOKGFnUyenLlUqfnU-DHvg&oe=6AFDA141"
+  ],
+  "captured_at": "2026-11-14T05:18:08.661667+00:00",
+  "type": "planned",
+  "region": "Gpl",
+  "cause": "Planned works",
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [
+   "Georgetown"
+  ],
+  "times": [],
+  "suspected_shedding": [],
+  "link_check": "looks live (400)"
+ },
+ {
+  "id": "c197dda97f56aac9d5a82da2dffbf7ef",
+  "link": "https://www.facebook.com/reel/1963656731278712/",
+  "title": "SMART METERS ARE COMING TO GEORGETOWN! Guyana Power and Light Inc. (GPL) is upgrading 20,000 customers in Georgetown to...",
+  "published": "2026-11-13T18:15:21+00:00",
+  "text": "SMART METERS ARE COMING TO GEORGETOWN!\n Guyana Power and Light Inc. (GPL) is upgrading 20,000 customers in Georgetown to smart meters as part of efforts to modernise the electricity network and improve service delivery.\n The new meters will provide automatic readings and support faster restoration efforts. The meter, base and installation will be provided at no cost to customers.\n More information, including installation schedules and other important details, will be shared shortly.\n Customers are encouraged to follow GPL’s official social media platforms for updates on when installations will commence in their communities.",
+  "images": [
+   "https://scontent-lga3-3.xx.fbcdn.net/v/t15.5256-10/900857878_1749194076181874_8209415988768148345_n.jpg?stp=dst-jpg_p565x565_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=3a9e82&_nc_ohc=xYCB16VIa2wQ7kNvwGukdv7&_nc_oc=AdoLwAAS9vhNpeFKb8cdyUoIQCY7rMwsCU69kP-N_-XHaPKVGItzIg8IERFyXhVg8biPDSp_UoxEB_GajGDIx_zq&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&_nc_gid=ibpve8Y-bjoazpce0iAaTA&_nc_ss=7c289&oh=00_AQSAMlYMDQJFejl-v50_i96fPEoxVC0D5v75CKTOeyGTpw&oe=6AFDAC59"
+  ],
+  "captured_at": "2026-11-14T05:18:08.661667+00:00",
+  "type": "planned",
+  "region": "Gpl",
+  "cause": "Planned works",
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [
+   "Georgetown"
+  ],
+  "times": [],
+  "suspected_shedding": [],
+  "link_check": "looks live (400)"
  },
  {
   "id": "79c91eeeac32629f2e9bb1f929fc44bd",
@@ -129,9 +192,7 @@
   "feeder_offline": false,
   "feeders": [],
   "areas": [
-   "Grove",
-   "Grove that they",
-   "Nandy Park"
+   "Nandy Park to Grove"
   ],
   "times": [],
   "suspected_shedding": [
@@ -152,10 +213,10 @@
   "feeder_offline": false,
   "feeders": [],
   "areas": [
-   "Guyhoc",
-   "Lamaha Park",
    "South Ruimveldt",
-   "Tucville"
+   "Tucville",
+   "Guyhoc",
+   "Lamaha Park"
   ],
   "times": [],
   "suspected_shedding": []
@@ -174,10 +235,10 @@
   "feeder_offline": false,
   "feeders": [],
   "areas": [
-   "Guyhoc",
-   "Lamaha Park",
    "South Ruimveldt",
-   "Tucville"
+   "Tucville",
+   "Guyhoc",
+   "Lamaha Park"
   ],
   "times": [],
   "suspected_shedding": [
@@ -219,10 +280,10 @@
   "feeder_offline": false,
   "feeders": [],
   "areas": [
-   "Coverden",
-   "Diamond",
-   "Farm",
    "Grove",
+   "Diamond",
+   "Coverden",
+   "Farm",
    "Herstelling",
    "Mocha"
   ],
