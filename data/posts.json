@@ -1,5 +1,151 @@
 [
  {
+  "id": "693dbf3edceef6ecacdf2bc7825e23da",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid02XjCLdhXFLpJMcvmD7mSFWisdZ41P91ZWNJ3WHUPcuugyc4FqpdhKjF3uFay1NVgUl",
+  "title": "UPDATE — EAST COAST DEMERARA The Guyana Power and Light Inc. (GPL) wishes to advise customers from Lusignan to Enmore th...",
+  "published": "2026-11-14T19:01:34+00:00",
+  "text": "UPDATE — EAST COAST DEMERARA\n The Guyana Power and Light Inc. (GPL) wishes to advise customers from Lusignan to Enmore that electricity was briefly restored following the removal of a threat to our network, before the feeder suffered a subsequent trip.\n Our technical teams have been deployed to conduct a further inspection of the line to identify and remove any possible threats before electricity can be safely restored.\n GPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
+  "images": [],
+  "captured_at": "2026-11-14T21:09:47.354538+00:00",
+  "type": "update",
+  "region": "East Coast Demerara",
+  "rules": "2026-11-14c",
+  "cause": null,
+  "feeder_offline": true,
+  "feeders": [],
+  "areas": [
+   "Lusignan to Enmore"
+  ],
+  "times": [],
+  "suspected_shedding": [],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
+ },
+ {
+  "id": "656a67ab4714213cbc7ec092e1a564ab",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid0N4jL7bUvYFEp7Z6K4e4Lp6HZmRJKLVK5euG9DmymxAp4iXuff31EiAgGTqfJobNol",
+  "title": "ADVISORY || EMERGENCY SERVICE INTERRUPTION- EAST COAST DEMERARA Guyana Power and Light Inc. (GPL) wishes to inform cust...",
+  "published": "2026-11-14T17:49:31+00:00",
+  "text": "ADVISORY || EMERGENCY SERVICE INTERRUPTION- EAST COAST DEMERARA \n Guyana Power and Light Inc. (GPL) wishes to inform customers from Lusignan to Enmore that you are currently experiencing a service interruption due to a feeder going offline.\n Our teams are working to restore electricity supply as soon as possible.\n GPL sincerely apologises for any inconvenience caused and thank customers for their understanding.",
+  "images": [],
+  "captured_at": "2026-11-14T21:09:47.354538+00:00",
+  "type": "unplanned",
+  "region": "East Coast Demerara",
+  "rules": "2026-11-14c",
+  "cause": "No reason given",
+  "feeder_offline": true,
+  "feeders": [],
+  "areas": [
+   "Lusignan to Enmore"
+  ],
+  "times": [],
+  "suspected_shedding": [
+   "rotation"
+  ],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
+ },
+ {
+  "id": "83858e3e844cf82f4d9f46f5ca12f80e",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid07uucPaXvkcxFWgZ1V8GPNseVTdv19vuu5E5gLx4UZhLipheYrGxjrFnDqArWWtm6l",
+  "title": "ADVISORY || EMERGENCY SERVICE INTERRUPTION- GEORGETOWN Guyana Power and Light Inc. (GPL) wishes to inform customers in...",
+  "published": "2026-11-14T17:27:56+00:00",
+  "text": "ADVISORY || EMERGENCY SERVICE INTERRUPTION- GEORGETOWN \n Guyana Power and Light Inc. (GPL) wishes to inform customers in South and North Ruimveldt, Tucville, Lamaha Park & Springs, Guyhoc Park & Gardens, Roxanne Burnham Gardens and Shirley Field Ridley Square that you are currently experiencing a service interruption due to a feeder going offline.\n Our teams are working towards restoring power in all affected areas as soon as possible.\n GPL sincerely apologises for any inconvenience caused and thank customers for their understanding.",
+  "images": [],
+  "captured_at": "2026-11-14T21:09:47.354538+00:00",
+  "type": "unplanned",
+  "region": "Georgetown",
+  "rules": "2026-11-14c",
+  "cause": "No reason given",
+  "feeder_offline": true,
+  "feeders": [],
+  "areas": [
+   "North Ruimveldt",
+   "Tucville",
+   "Lamaha Park",
+   "Guyhoc"
+  ],
+  "times": [],
+  "suspected_shedding": [
+   "rotation"
+  ],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
+ },
+ {
+  "id": "6a706961c9332f5b5cff19c1c868db4a",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid0nz1yawHSRa4LHXqPVhxhfxP3qHHEDiwTNPzBbuSGPVCodneUjYVWnJSyC1y2j4BZl",
+  "title": "ADVISORY || EMERGENCY SERVICE INTERRUPTION- BERBICE Guyana Power and Light Inc. (GPL) wishes to inform customers from C...",
+  "published": "2026-11-14T17:16:34+00:00",
+  "text": "ADVISORY || EMERGENCY SERVICE INTERRUPTION- BERBICE \n Guyana Power and Light Inc. (GPL) wishes to inform customers from Columbia to Central Mahaicony and from #53 Village to Auchylne that you are currently experiencing a service interruption due to a feeder going offline.\n Our teams are working assiduously to restore power as soon as possible.\n GPL sincerely apologises for any inconvenience caused and thank customers for their understanding.",
+  "images": [],
+  "captured_at": "2026-11-14T21:09:47.354538+00:00",
+  "type": "unplanned",
+  "region": "Berbice",
+  "rules": "2026-11-14c",
+  "cause": "No reason given",
+  "feeder_offline": true,
+  "feeders": [],
+  "areas": [
+   "Columbia to Central Mahaicony"
+  ],
+  "times": [],
+  "suspected_shedding": [
+   "rotation"
+  ],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
+ },
+ {
+  "id": "78afdbbe3ab8a4e24128d480aebfd067",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid035upE6Tp5C95kwtFH8KRD4tSBPvVskbapis7krR6fUYqB99BrPLPKKHEfDk2LgSWel",
+  "title": "ADVISORY || EMERGENCY SERVICE INTERRUPTION- EAST BANK DEMERARA Guyana Power and Light Inc. (GPL) wishes to inform custo...",
+  "published": "2026-11-14T17:08:27+00:00",
+  "text": "ADVISORY || EMERGENCY SERVICE INTERRUPTION- EAST BANK DEMERARA \n Guyana Power and Light Inc. (GPL) wishes to inform customers in Grove, Diamond, Coverden New Scheme, Farm and Herstelling New Scheme ans Mocha that you are currently experiencing a service interruption due to a feeder going offline.\n Our teams are working to restore power in the shortest possible time.\n GPL sincerely apologises for any inconvenience caused and thank customers for their understanding.",
+  "images": [],
+  "captured_at": "2026-11-14T21:09:47.354538+00:00",
+  "type": "unplanned",
+  "region": "East Bank Demerara",
+  "rules": "2026-11-14c",
+  "cause": "No reason given",
+  "feeder_offline": true,
+  "feeders": [],
+  "areas": [
+   "Grove",
+   "Diamond",
+   "Coverden",
+   "Farm",
+   "Herstelling",
+   "Mocha"
+  ],
+  "times": [],
+  "suspected_shedding": [
+   "rotation"
+  ],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
+ },
+ {
+  "id": "7f12d2bbd505b716b45f417f0e714fe5",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid0npWuHJd3euXxX4VqFxwm1fbUVFnjUuzDxndhrxHngteqaGu2Ho3u7FFJFx438BHBl",
+  "title": "ADVISORY || EMERGENCY SERVICE INTERRUPTION - EAST BANK DEMERARA Guyana Power and Light Inc. (GPL) wishes to inform cust...",
+  "published": "2026-11-14T16:27:43+00:00",
+  "text": "ADVISORY || EMERGENCY SERVICE INTERRUPTION - EAST BANK DEMERARA \n Guyana Power and Light Inc. (GPL) wishes to inform customers at Providence National Stadium, Section C Grove and Eastern Diamond Housing Scheme that you are currently experiencing a service interruption due to a feeder trip.\n Our teams are currently working towards restoring power in all affected areas as soon as possible.\n GPL sincerely apologises for any inconvenience caused and thank customers for their understanding.",
+  "images": [],
+  "captured_at": "2026-11-14T21:09:47.354538+00:00",
+  "type": "unplanned",
+  "region": "East Bank Demerara",
+  "rules": "2026-11-14c",
+  "cause": "No reason given",
+  "feeder_offline": true,
+  "feeders": [],
+  "areas": [
+   "Providence",
+   "Grove",
+   "Diamond"
+  ],
+  "times": [],
+  "suspected_shedding": [
+   "rotation"
+  ],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
+ },
+ {
   "id": "6967346a0b0ceec936c2fd63d9019e03",
   "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid0LQWus3ZUePjB1abG4UVqXGNQTqtfYyDAweT3VBMTu8HK7JQryoW5kS3fcEiKuj1tl",
   "title": "The Guyana Power & Light Inc. invites bids from suitably qualified and experienced bidders for the Supply, Delivery, Ins...",
