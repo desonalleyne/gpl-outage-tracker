@@ -10,14 +10,14 @@
   ],
   "captured_at": "2026-11-14T05:18:08.661667+00:00",
   "type": "other",
-  "region": "Gpl",
+  "region": null,
   "cause": null,
   "feeder_offline": false,
   "feeders": [],
   "areas": [],
   "times": [],
   "suspected_shedding": [],
-  "link_check": "looks live (400)"
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
  {
   "id": "3f419a176796939fc08e13a04f452206",
@@ -33,14 +33,13 @@
   "feeder_offline": true,
   "feeders": [],
   "areas": [
-   "Bounty Hall to Charity",
-   "Essequibo Coast"
+   "Bounty Hall to Charity"
   ],
   "times": [],
   "suspected_shedding": [
    "peak hours"
   ],
-  "link_check": "looks live (400)"
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
  {
   "id": "3cc4e4260ad38d18402e31fde765c9d6",
@@ -58,12 +57,11 @@
   "areas": [
    "Garden of Eden to Sarah Johanna",
    "Sarah Johanna to Timehri",
-   "East Bank Demerara",
    "Long Creek"
   ],
   "times": [],
   "suspected_shedding": [],
-  "link_check": "looks live (400)"
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
  {
   "id": "9c75b444661343f774e6dc355c0be4ba",
@@ -79,15 +77,14 @@
   "feeder_offline": true,
   "feeders": [],
   "areas": [
-   "Best to Vriesland",
-   "West Demerara"
+   "Best to Vriesland"
   ],
   "times": [],
   "suspected_shedding": [
    "peak hours",
    "rotation"
   ],
-  "link_check": "looks live (400)"
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
  {
   "id": "c11d40f26accbf5adbc4f00e0ee0e6a8",
@@ -104,7 +101,6 @@
   "feeders": [],
   "areas": [
    "Garden of Eden to Timehri",
-   "East Bank Demerara",
    "Long Creek"
   ],
   "times": [],
@@ -112,7 +108,7 @@
    "peak hours",
    "rotation"
   ],
-  "link_check": "looks live (400)"
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
  {
   "id": "d0c3a57e3b478671ca6ff97510d2a258",
@@ -132,7 +128,7 @@
   "areas": [],
   "times": [],
   "suspected_shedding": [],
-  "link_check": "looks live (400)"
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
  {
   "id": "44d77f89898877a08a8c955dc1ce3bfb",
@@ -144,17 +140,15 @@
    "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/905939016_122212674998585308_186462250647240145_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=e21142&_nc_ohc=0P73nyqKrzcQ7kNvwH93dPF&_nc_oc=AdoFkfDibUrlmTtOJivVjyaUpztZZHYOQQTtvbTBMvOqQErTzB1jslCFnP0g9yxyk8MS3ud5ByvF7N6GEVnTcxYj&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=ibpve8Y-bjoazpce0iAaTA&_nc_ss=7c289&oh=00_AQRkAXgMmUhPPvxjtjYhXy9_yOKGFnUyenLlUqfnU-DHvg&oe=6AFDA141"
   ],
   "captured_at": "2026-11-14T05:18:08.661667+00:00",
-  "type": "planned",
-  "region": "Gpl",
-  "cause": "Planned works",
+  "type": "other",
+  "region": "Georgetown",
+  "cause": null,
   "feeder_offline": false,
   "feeders": [],
-  "areas": [
-   "Georgetown"
-  ],
+  "areas": [],
   "times": [],
   "suspected_shedding": [],
-  "link_check": "looks live (400)"
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
  {
   "id": "c197dda97f56aac9d5a82da2dffbf7ef",
@@ -166,17 +160,15 @@
    "https://scontent-lga3-3.xx.fbcdn.net/v/t15.5256-10/900857878_1749194076181874_8209415988768148345_n.jpg?stp=dst-jpg_p565x565_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=3a9e82&_nc_ohc=xYCB16VIa2wQ7kNvwGukdv7&_nc_oc=AdoLwAAS9vhNpeFKb8cdyUoIQCY7rMwsCU69kP-N_-XHaPKVGItzIg8IERFyXhVg8biPDSp_UoxEB_GajGDIx_zq&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&_nc_gid=ibpve8Y-bjoazpce0iAaTA&_nc_ss=7c289&oh=00_AQSAMlYMDQJFejl-v50_i96fPEoxVC0D5v75CKTOeyGTpw&oe=6AFDAC59"
   ],
   "captured_at": "2026-11-14T05:18:08.661667+00:00",
-  "type": "planned",
-  "region": "Gpl",
-  "cause": "Planned works",
+  "type": "other",
+  "region": "Georgetown",
+  "cause": null,
   "feeder_offline": false,
   "feeders": [],
-  "areas": [
-   "Georgetown"
-  ],
+  "areas": [],
   "times": [],
   "suspected_shedding": [],
-  "link_check": "looks live (400)"
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (400, no post text)"
  },
  {
   "id": "79c91eeeac32629f2e9bb1f929fc44bd",
@@ -187,7 +179,7 @@
   "images": [],
   "captured_at": "2026-11-14T03:19:56.849400+00:00",
   "type": "unplanned",
-  "region": "Gpl",
+  "region": null,
   "cause": "No reason given",
   "feeder_offline": false,
   "feeders": [],
@@ -208,7 +200,7 @@
   "images": [],
   "captured_at": "2026-11-14T03:19:56.849400+00:00",
   "type": "update",
-  "region": "Gpl",
+  "region": null,
   "cause": null,
   "feeder_offline": false,
   "feeders": [],
@@ -230,7 +222,7 @@
   "images": [],
   "captured_at": "2026-11-14T03:19:56.849400+00:00",
   "type": "unplanned",
-  "region": "Gpl",
+  "region": null,
   "cause": "No reason given",
   "feeder_offline": false,
   "feeders": [],
@@ -275,7 +267,7 @@
   ],
   "captured_at": "2026-11-14T03:19:56.849400+00:00",
   "type": "unplanned",
-  "region": "Gpl",
+  "region": null,
   "cause": "Third-party contact",
   "feeder_offline": false,
   "feeders": [],
