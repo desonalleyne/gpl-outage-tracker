@@ -14,6 +14,7 @@ import os
 import re
 import sys
 import urllib.error
+import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
@@ -51,6 +52,16 @@ UNPLANNED = re.compile(r"\b(unplanned|trip(?:ped)?|fault|emergency|shutdown|shut
 RESTORED = re.compile(r"\b(restored|repowered|re-?energi[sz]ed|reclosed|service restoration|power has (?:been )?(?:returned|restored)|has returned)\b", re.I)
 UPDATE = re.compile(r"^\s*update\b", re.I)   # follow-up to an outage already posted
 REGION = re.compile(r"\(([^)]{3,40})\)")       # GPL titles end with the region, e.g. "(WEST DEMERARA)"
+# Region-level names. These go in "region", never in "areas".
+REGIONS = ["Georgetown", "East Bank Demerara", "East Coast Demerara", "West Demerara", "West Bank Demerara",
+           "West Coast Demerara", "Essequibo Coast", "Essequibo Islands", "East Berbice", "West Berbice",
+           "Berbice", "Corentyne", "Essequibo", "East Bank", "East Coast", "West Bank", "West Coast", "Demerara"]
+REGION_SET = {r.lower() for r in REGIONS}
+REGION_RE = re.compile(r"\b(" + "|".join(re.escape(r) for r in sorted(REGIONS, key=len, reverse=True)) + r")\b", re.I)
+# A post has to talk about power actually being off to count as an outage.
+# Stops things like the smart-meter announcement ("installation", "upgrade") counting as planned outages.
+OUTAGE = re.compile(r"interruption|outage|without (?:power|electricity|service|supply)|offline|\btrip|shut ?down|"
+                    r"load.?shedding|power cut|de-?energi|disrupt|(?:switched|turned) off|no (?:power|electricity)|blackout", re.I)
 NAME = r"[A-Z][\w'\-]*(?:\s(?:of|en|de|on)?\s?[A-Z][\w'\-]*)*"   # capitalised words only, e.g. "Garden of Eden"
 RANGE = re.compile(r"\bfrom (" + NAME + r") to (" + NAME + r")")
 SHEDDING = re.compile(r"load.?shedding|rotation(?:al)? basis|rotating outages?", re.I)
@@ -130,6 +141,8 @@ def classify(text: str, title: str = ""):
         return "restored"
     if SHEDDING.search(text):
         return "load-shedding"
+    if not OUTAGE.search(text):
+        return "other"
     if PLANNED.search(text):
         return "planned"
     if UNPLANNED.search(text) or OFFLINE.search(text):
@@ -160,13 +173,22 @@ def extract(post):
             areas.append(stretch)
         taken.append(m.span())
     for m in AREA_RE.finditer(body):
-        if any(a <= m.start() < b for a, b in taken):
+        if any(a <= m.start() < b for a, b in taken) or m.group(1).lower() in REGION_SET:
             continue
         name = canon[m.group(1).lower()]
         if name not in areas:
             areas.append(name)
-    rm = REGION.search(post.get("title", ""))
-    region = rm.group(1).strip().title() if rm else None
+    region = None
+    for inside in REGION.findall(post.get("title", "")):   # skip "(GPL)"
+        if inside.strip().upper() in ("GPL", "GPL INC", "INC"):
+            continue
+        hit = REGION_RE.search(inside)
+        region = REGIONS[[r.lower() for r in REGIONS].index(hit.group(1).lower())] if hit else inside.strip().title()
+        break
+    if not region:
+        hit = REGION_RE.search(body)
+        if hit:
+            region = REGIONS[[r.lower() for r in REGIONS].index(hit.group(1).lower())]
     times = [f"{int(h):02d}:{mm} {u.lower()}" for h, mm, u in TIME_RE.findall(text)]
     t = classify(text, post.get("title", ""))
     return {"type": t, "region": region,
@@ -214,17 +236,30 @@ def flag_suspected_shedding(archive):
         p["suspected_shedding"] = why
 
 
-GONE = re.compile(r"content isn.t available|page isn.t available|link you followed may be broken|"
-                  r"may have been removed|only shared it with a small group", re.I)
+GONE = re.compile(r"no longer available|content isn.t available|page isn.t available|"
+                  r"link you followed may be broken|may have been removed|only shared it with a small group", re.I)
+UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36",
+      "Accept-Language": "en-US,en;q=0.9"}
+
+
+def fetch(url):
+    req = urllib.request.Request(url, headers=UA)
+    try:
+        with urllib.request.urlopen(req, timeout=20) as r:
+            return r.status, r.read(600_000).decode("utf-8", "ignore")
+    except urllib.error.HTTPError as e:
+        return e.code, e.read(200_000).decode("utf-8", "ignore")
 
 
 def check_links(archive, days=7, limit=25):
-    """Open recent posts on Facebook and mark the ones that now say they're unavailable.
+    """Ask Facebook whether recent posts still exist, and mark the ones that are gone.
 
-    The feed alone can't be trusted for this: rss.app keeps serving posts it already
-    saw, even after GPL deletes them. Facebook often shows a login page to scripts, so
-    a post is only marked deleted when the page clearly says it's gone. The last result
-    is stored in "link_check" so you can see what happened.
+    The feed alone can't tell us this: rss.app keeps serving posts it already saw,
+    even after GPL deletes them. So each run looks the post up through Facebook's
+    embed page, which works without logging in and says "no longer available" for
+    deleted posts. If that's inconclusive it tries the plain mobile page.
+    A post is only marked deleted when Facebook clearly says so. What came back is
+    kept in "link_check" so you can see why.
     """
     now = datetime.now(timezone.utc)
     todo = []
@@ -238,27 +273,28 @@ def check_links(archive, days=7, limit=25):
         if age <= days:
             todo.append(p)
     for p in todo[:limit]:
-        url = p["link"].replace("://m.facebook.com", "://mbasic.facebook.com")
-        req = urllib.request.Request(url, headers={
-            "User-Agent": "Mozilla/5.0 (Linux; Android 14) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Mobile Safari/537.36",
-            "Accept-Language": "en-US,en;q=0.9"})
-        try:
-            with urllib.request.urlopen(req, timeout=20) as r:
-                page = r.read(400_000).decode("utf-8", "ignore")
-                status = r.status
-        except urllib.error.HTTPError as e:
-            page, status = e.read(200_000).decode("utf-8", "ignore"), e.code
-        except Exception as e:
-            p["link_check"] = f"error: {type(e).__name__}"
-            continue
-        if GONE.search(page) or status in (404, 410):
-            p["deleted_from_source"] = True
-            p["deleted_seen_at"] = now.isoformat()
-            p["link_check"] = f"gone ({status})"
-        elif "login" in page.lower() and "pfbid" not in page:
-            p["link_check"] = f"login wall ({status})"
-        else:
-            p["link_check"] = f"looks live ({status})"
+        www = p["link"].replace("://m.facebook.com", "://www.facebook.com")
+        tries = [("embed", "https://www.facebook.com/plugins/post.php?href=" + urllib.parse.quote(www, safe="")),
+                 ("mobile", www.replace("://www.", "://mbasic."))]
+        notes = []
+        for name, url in tries:
+            try:
+                status, page = fetch(url)
+            except Exception as e:
+                notes.append(f"{name}: error {type(e).__name__}")
+                continue
+            if GONE.search(page) or status in (404, 410):
+                p["deleted_from_source"] = True
+                p["deleted_seen_at"] = now.isoformat()
+                notes.append(f"{name}: gone ({status})")
+                break
+            snippet = re.sub(r"\W+", " ", (p.get("text") or "")[:60]).strip().split(" ")[:5]
+            plain = re.sub(r"\W+", " ", html.unescape(page))
+            if snippet and " ".join(snippet) in plain:
+                notes.append(f"{name}: live ({status})")
+                break
+            notes.append(f"{name}: unclear ({status}, {'login page' if 'login' in page.lower() else 'no post text'})")
+        p["link_check"] = "; ".join(notes)
 
 
 def main():
