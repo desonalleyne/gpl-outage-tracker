@@ -13,6 +13,7 @@ import json
 import os
 import re
 import sys
+import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
@@ -148,11 +149,22 @@ def extract(post):
     text = f"{post.get('title','')}\n{post.get('text','')}"
     feeders = sorted({(f"{m.group(1)} F{int(m.group(2))}" if m.group(1) else f"F{int(m.group(2))}")
                       for m in FEEDER_RE.finditer(text)})
+    # Areas come from the body only (the title just repeats the region).
+    # "from Bounty Hall to Charity" is kept as one stretch, since it covers the villages in between.
+    body = post.get("text", "")
     canon = {a.lower(): a for a in AREAS}
-    areas = {canon[m.group(1).lower()] for m in AREA_RE.finditer(text)}
-    for a, b in RANGE.findall(post.get("text", "")):   # "from Best to Vriesland"
-        areas.update({a.strip(), b.strip()})
-    areas = sorted(areas)
+    areas, taken = [], []
+    for m in RANGE.finditer(body):
+        stretch = f"{m.group(1).strip()} to {m.group(2).strip()}"
+        if stretch not in areas:
+            areas.append(stretch)
+        taken.append(m.span())
+    for m in AREA_RE.finditer(body):
+        if any(a <= m.start() < b for a, b in taken):
+            continue
+        name = canon[m.group(1).lower()]
+        if name not in areas:
+            areas.append(name)
     rm = REGION.search(post.get("title", ""))
     region = rm.group(1).strip().title() if rm else None
     times = [f"{int(h):02d}:{mm} {u.lower()}" for h, mm, u in TIME_RE.findall(text)]
@@ -202,6 +214,53 @@ def flag_suspected_shedding(archive):
         p["suspected_shedding"] = why
 
 
+GONE = re.compile(r"content isn.t available|page isn.t available|link you followed may be broken|"
+                  r"may have been removed|only shared it with a small group", re.I)
+
+
+def check_links(archive, days=7, limit=25):
+    """Open recent posts on Facebook and mark the ones that now say they're unavailable.
+
+    The feed alone can't be trusted for this: rss.app keeps serving posts it already
+    saw, even after GPL deletes them. Facebook often shows a login page to scripts, so
+    a post is only marked deleted when the page clearly says it's gone. The last result
+    is stored in "link_check" so you can see what happened.
+    """
+    now = datetime.now(timezone.utc)
+    todo = []
+    for p in archive:
+        if p.get("deleted_from_source") or not p.get("link"):
+            continue
+        try:
+            age = (now - datetime.fromisoformat(p.get("published") or p["captured_at"])).days
+        except Exception:
+            continue
+        if age <= days:
+            todo.append(p)
+    for p in todo[:limit]:
+        url = p["link"].replace("://m.facebook.com", "://mbasic.facebook.com")
+        req = urllib.request.Request(url, headers={
+            "User-Agent": "Mozilla/5.0 (Linux; Android 14) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Mobile Safari/537.36",
+            "Accept-Language": "en-US,en;q=0.9"})
+        try:
+            with urllib.request.urlopen(req, timeout=20) as r:
+                page = r.read(400_000).decode("utf-8", "ignore")
+                status = r.status
+        except urllib.error.HTTPError as e:
+            page, status = e.read(200_000).decode("utf-8", "ignore"), e.code
+        except Exception as e:
+            p["link_check"] = f"error: {type(e).__name__}"
+            continue
+        if GONE.search(page) or status in (404, 410):
+            p["deleted_from_source"] = True
+            p["deleted_seen_at"] = now.isoformat()
+            p["link_check"] = f"gone ({status})"
+        elif "login" in page.lower() and "pfbid" not in page:
+            p["link_check"] = f"login wall ({status})"
+        else:
+            p["link_check"] = f"looks live ({status})"
+
+
 def main():
     url = os.environ.get("FEED_URL")
     if not url:
@@ -240,6 +299,8 @@ def main():
     for p in archive:
         if oldest and (p.get("published") or "") > oldest and p["id"] not in current:
             p["deleted_from_source"] = True
+
+    check_links(archive)
 
     archive.sort(key=lambda p: p.get("published") or p.get("captured_at") or "", reverse=True)
     POSTS.parent.mkdir(parents=True, exist_ok=True)
