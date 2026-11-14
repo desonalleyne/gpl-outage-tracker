@@ -1,5 +1,47 @@
 [
  {
+  "id": "6967346a0b0ceec936c2fd63d9019e03",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid0LQWus3ZUePjB1abG4UVqXGNQTqtfYyDAweT3VBMTu8HK7JQryoW5kS3fcEiKuj1tl",
+  "title": "The Guyana Power & Light Inc. invites bids from suitably qualified and experienced bidders for the Supply, Delivery, Ins...",
+  "published": "2026-11-14T13:53:49+00:00",
+  "text": "The Guyana Power & Light Inc. invites bids from suitably qualified and experienced bidders for the Supply, Delivery, Installation and Commissioning of Alternator Complete. \n Click on the link for more information: https://gplinc.com/…/gpl-pd-039-2026-supply-delivery-insta…/",
+  "images": [
+   "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-6/906606611_122212782326585308_6849603821017489153_n.jpg?stp=dst-jpg_p640x640_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=BvmtPRREXJsQ7kNvwEAG2L_&_nc_oc=Adp5KXsGz7r8AaXn_GfldCzslPCXBcqbW4xbv4m_3vTXoREepDfvUvfn_JkVS6PP1hvQ36IfxB4NElCk_hG1-NS5&_nc_zt=23&_nc_ht=scontent-dfw6-1.xx&_nc_gid=nojt1qoHmMxgB8_Rox-wlw&_nc_ss=7c289&oh=00_AQS2WcG6cYaWb7WPUlh0Y6mAe8JnVv3ldbvwI9JdH3LGvQ&oe=6AFE691D"
+  ],
+  "captured_at": "2026-11-14T16:52:40.467088+00:00",
+  "type": "other",
+  "region": null,
+  "rules": "2026-11-14c",
+  "cause": null,
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [],
+  "times": [],
+  "suspected_shedding": [],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
+ },
+ {
+  "id": "ef1ef3f0a182b2ed3ed2ac3fa866ecdb",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid023t64LSkHgfDZChwGTtDRU2d9F59N2euKazu9hGDRHJNAGnDjpMFVBcWXfN6DGxNBl",
+  "title": "The Guyana Power & Light Inc. invites bids from suitably qualified and experienced bidders for the Supply and Delivery o...",
+  "published": "2026-11-14T13:52:12+00:00",
+  "text": "The Guyana Power & Light Inc. invites bids from suitably qualified and experienced bidders for the Supply and Delivery of Pickup and Light Duty Trucks. Click on the link for more information: https://gplinc.com/…/gpl-pd-035-2026-supply-and-delivery-o…/",
+  "images": [
+   "https://scontent-dfw6-2.xx.fbcdn.net/v/t39.30808-6/906938187_122212781876585308_7187095368250754305_n.jpg?stp=dst-jpg_p640x640_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=AUPtK9-nHoIQ7kNvwFNFbx0&_nc_oc=Adp6TlMvkKrX0GX_p0nqSLzn9_jwzZHMmlSBMFuoA2Ctf1fSti4XJfQeQ1p47_1HY2Pf8ozmeUWLYl0gqwSTuPMp&_nc_zt=23&_nc_ht=scontent-dfw6-2.xx&_nc_gid=nojt1qoHmMxgB8_Rox-wlw&_nc_ss=7c289&oh=00_AQTChYVM79czNdz5EXwjOVO0zxwi6Mf4pe_KbrBzCTarUA&oe=6AFE4753"
+  ],
+  "captured_at": "2026-11-14T16:52:40.467088+00:00",
+  "type": "other",
+  "region": null,
+  "rules": "2026-11-14c",
+  "cause": null,
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [],
+  "times": [],
+  "suspected_shedding": [],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
+ },
+ {
   "id": "869151ce8a29ce2d1f235a84b6102961",
   "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid0C1Dmnjw6G4rEnKx5aUsqgMucgfbMEu4HUhYmMbTc5ma9fiRcVVjMNomDQ8JPEosxl",
   "title": "UPDATE – SERVICE INTERRUPTION (ESSEQUIBO COAST) Guyana Power and Light Inc. (GPL) wishes to advise customers that restor...",
@@ -329,7 +371,8 @@
   "areas": [],
   "times": [],
   "suspected_shedding": [],
-  "rules": "2026-11-14c"
+  "rules": "2026-11-14c",
+  "deleted_from_source": true
  },
  {
   "id": "63ed839294f3f95ca3fda669c5726a86",
