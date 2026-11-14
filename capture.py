@@ -58,6 +58,10 @@ REGIONS = ["Georgetown", "East Bank Demerara", "East Coast Demerara", "West Deme
            "Berbice", "Corentyne", "Essequibo", "East Bank", "East Coast", "West Bank", "West Coast", "Demerara"]
 REGION_SET = {r.lower() for r in REGIONS}
 REGION_RE = re.compile(r"\b(" + "|".join(re.escape(r) for r in sorted(REGIONS, key=len, reverse=True)) + r")\b", re.I)
+WHEN = re.compile(r"\b\d{1,2}[:.]?\d{2}\s*(?:hrs|hours|h\b|am|pm|a\.m\.|p\.m\.)|\b(?:mon|tue|wednes|thurs|fri|satur|sun)day\b|"
+                  r"\b(?:jan|feb|mar|apr|may|jun|jul|aug|sep|sept|oct|nov|dec)[a-z]*\.? \d{1,2}\b|\b\d{1,2}(?:st|nd|rd|th)?\s+(?:of\s+)?(?:jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)|"
+                  r"\b\d{1,2}/\d{1,2}(?:/\d{2,4})?\b|\btoday\b|\btomorrow\b|\btonight\b|\bthis (?:morning|afternoon|evening)\b", re.I)
+RULES_VERSION = "2026-11-14c"   # bump when the rules change; every post records which version labelled it
 # A post has to talk about power actually being off to count as an outage.
 # Stops things like the smart-meter announcement ("installation", "upgrade") counting as planned outages.
 OUTAGE = re.compile(r"interruption|outage|without (?:power|electricity|service|supply)|offline|\btrip|shut ?down|"
@@ -144,7 +148,9 @@ def classify(text: str, title: str = ""):
     if not OUTAGE.search(text):
         return "other"
     if PLANNED.search(text):
-        return "planned"
+        # A planned outage has to say when. An announcement about upgrades or
+        # installations with no date or time is just a notice.
+        return "planned" if WHEN.search(text) else "other"
     if UNPLANNED.search(text) or OFFLINE.search(text):
         return "unplanned"
     return "other"
@@ -191,7 +197,7 @@ def extract(post):
             region = REGIONS[[r.lower() for r in REGIONS].index(hit.group(1).lower())]
     times = [f"{int(h):02d}:{mm} {u.lower()}" for h, mm, u in TIME_RE.findall(text)]
     t = classify(text, post.get("title", ""))
-    return {"type": t, "region": region,
+    return {"type": t, "region": region, "rules": RULES_VERSION,
             "cause": cause(text, t) if t in ("unplanned", "planned", "load-shedding") else None,
             "feeder_offline": bool(OFFLINE.search(text)),
             "feeders": feeders, "areas": areas, "times": times}

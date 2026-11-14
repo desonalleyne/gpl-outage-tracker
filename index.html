@@ -52,17 +52,28 @@ input[type=search]{font:inherit;width:100%;padding:8px 10px;border-radius:8px;bo
 .badge.del{color:var(--critical);border-color:var(--critical)}
 .post p{margin:4px 0 0;white-space:pre-wrap}
 .post a{color:var(--text-secondary)}
+[data-f]{cursor:pointer}
+.tile[data-f]:hover{border-color:var(--text-muted)}
+.tile.on{border-color:var(--text-primary);box-shadow:inset 0 0 0 1px var(--text-primary)}
+.fbar{position:sticky;top:0;z-index:5;background:var(--surface-0);padding:8px 0;margin:-4px 0 12px;display:none;gap:6px;flex-wrap:wrap;align-items:center;border-bottom:1px solid var(--border)}
+.fbar.show{display:flex}
+.chip{font:inherit;font-size:13px;padding:4px 10px;border-radius:999px;border:1px solid var(--text-primary);background:var(--text-primary);color:var(--surface-1);cursor:pointer}
+.fbar .lnk{font:inherit;font-size:13px;background:none;border:none;color:var(--text-secondary);text-decoration:underline;cursor:pointer;padding:4px}
+.fbar .cnt{font-size:13px;color:var(--text-secondary);margin-left:4px}
+.tapnote{color:var(--text-muted);font-size:12px;margin:-8px 0 12px}
 .empty{color:var(--text-muted);padding:24px 0;text-align:center}
 </style>
 </head>
 <body>
 <div class="viz-root"><div class="wrap">
   <h1>GPL Outage Tracker</h1>
-  <p class="sub">Because deleting posts dont mean it didnt happen</p>
+  <p class="sub">GPL deletes its outage posts after a day or so. This keeps them.</p>
   <div id="banner"></div>
   <div class="filters" id="range" role="group" aria-label="Time range">
     <button data-d="7">7 days</button><button data-d="30" aria-pressed="true">30 days</button><button data-d="90">90 days</button><button data-d="0">All</button>
   </div>
+  <p class="tapnote">Tap any number, bar, day or square to filter everything to just those posts.</p>
+  <div class="fbar" id="fbar"></div>
   <div class="tiles" id="tiles"></div>
   <div class="card">
     <h2>Outage notices per day</h2><p class="hint">Guyana time. Restorations not counted.</p>
@@ -80,7 +91,7 @@ input[type=search]{font:inherit;width:100%;padding:8px 10px;border-radius:8px;bo
       <div id="areas"></div></div>
   </div>
   <div class="card"><h2>Stated reason for outage</h2><p class="hint">Whatever GPL said caused it</p><div id="causes"></div></div>
-  <div class="card">
+  <div class="card" id="postsCard">
     <h2>Posts</h2><p class="hint" id="postcount"></p>
     <input type="search" id="q" placeholder="Search">
     <div class="posts" id="posts"></div>
@@ -129,10 +140,41 @@ async function load(){
   render();
 }
 
+// Filters set by tapping charts. One per key; tapping the same thing again removes it.
+const FILTERS={};
+const nice=d=>new Date(d+"T12:00:00Z").toLocaleDateString("en-GB",{weekday:"short",day:"numeric",month:"short",timeZone:"UTC"});
+function makeFilter(key,val){
+  switch(key){
+    case"day":return{label:nice(val),fn:p=>dayKey(p.when)===val};
+    case"slot":{const[wd,h]=val.split("-").map(Number);return{label:`${WD[wd]} ${String(h).padStart(2,"0")}:00–${String(h).padStart(2,"0")}:59`,fn:p=>{const d=gy(p.when);return d.getUTCDay()===wd&&d.getUTCHours()===h}}}
+    case"region":return{label:val,fn:p=>(p.region||"Not stated")===val};
+    case"area":return{label:val,fn:p=>(p.areas||[]).includes(val)};
+    case"cause":return{label:val,fn:p=>TCOL[p.type]&&(p.cause||"No reason given")===val};
+    case"bucket":return{label:(TYPES.find(t=>t.k===val)||{}).label,fn:p=>TCOL[p.type]&&bucket(p)===val};
+    case"kind":return{label:{outage:"Outage notices",unplanned:"Unplanned",suspected:"Suspected load shedding",deleted:"Deleted by GPL"}[val],
+      fn:{outage:p=>!!TCOL[p.type],unplanned:p=>p.type==="unplanned",suspected:isSus,deleted:p=>!!p.deleted_from_source}[val]};
+  }
+}
+function toggleFilter(key,val){
+  if(key==="clear"){Object.keys(FILTERS).forEach(k=>delete FILTERS[k]);render();return}
+  if(FILTERS[key]&&FILTERS[key].val===val)delete FILTERS[key];
+  else FILTERS[key]={val,...makeFilter(key,val)};
+  hideTip();render();
+}
+function scoped(){const F=Object.values(FILTERS);return inRange().filter(p=>F.every(f=>f.fn(p)))}
+function fbar(n){
+  const el=document.getElementById("fbar"),F=Object.entries(FILTERS);
+  el.classList.toggle("show",F.length>0);
+  el.innerHTML=F.map(([k,f])=>`<button class="chip" data-f="${k}|${esc(f.val)}" title="Remove">${esc(f.label)} ✕</button>`).join("")+
+    `<span class="cnt">${n} post${n===1?"":"s"}</span><button class="lnk" id="goPosts">See posts</button><button class="lnk" data-f="clear|">Clear</button>`;
+  const g=document.getElementById("goPosts");if(g)g.onclick=()=>document.getElementById("postsCard").scrollIntoView({behavior:"smooth"});
+}
+document.addEventListener("click",e=>{const el=e.target.closest("[data-f]");if(!el)return;const i=el.dataset.f.indexOf("|");toggleFilter(el.dataset.f.slice(0,i),el.dataset.f.slice(i+1))});
+
 function inRange(){if(!DAYS)return ALL;const cut=Date.now()-DAYS*864e5;return ALL.filter(p=>new Date(p.when).getTime()>=cut)}
 
 function render(){
-  const P=inRange(),O=P.filter(p=>TCOL[p.type]);
+  const P=scoped(),O=P.filter(p=>TCOL[p.type]);fbar(P.length);
   tiles(P,O);daily(O);cal(O);causes(O);heat(O.filter(p=>p.type==="unplanned"));areas(O);posts(P);
 }
 
@@ -140,18 +182,19 @@ function tiles(P,O){
   const un=O.filter(p=>p.type==="unplanned").length,sus=O.filter(isSus).length,nr=O.filter(p=>p.cause==="No reason given").length,del=P.filter(p=>p.deleted_from_source).length;
   const spanDays=DAYS||Math.max(1,Math.ceil((Date.now()-Math.min(...ALL.map(p=>+new Date(p.when))))/864e5));
   document.getElementById("tiles").innerHTML=[
-    ["Outage notices",O.length,`${(O.length/spanDays).toFixed(1)} per day`],
-    ["Unplanned",un,O.length?`${Math.round(un/O.length*100)}% of notices`:"—"],
-    ["Suspected load shedding",sus,un?`${Math.round(sus/un*100)}% of unplanned`:"—"],
-    ["No reason given",nr,O.length?`${Math.round(nr/O.length*100)}% of notices`:"—"],
-    ["Deleted by GPL",del,"gone from Facebook"],
-    ["Total saved",ALL.length,"every post, not just outages"]
-  ].map(([k,v,n])=>`<div class="tile"><div class="k">${k}</div><div class="v">${v}</div><div class="n">${n}</div></div>`).join("");
+    ["Outage notices",O.length,`${(O.length/spanDays).toFixed(1)} per day`,"kind|outage"],
+    ["Unplanned",un,O.length?`${Math.round(un/O.length*100)}% of notices`:"—","kind|unplanned"],
+    ["Suspected load shedding",sus,un?`${Math.round(sus/un*100)}% of unplanned`:"—","kind|suspected"],
+    ["No reason given",nr,O.length?`${Math.round(nr/O.length*100)}% of notices`:"—","cause|No reason given"],
+    ["Deleted by GPL",del,"gone from Facebook","kind|deleted"],
+    ["Total saved",ALL.length,"every post, not just outages","clear|"]
+  ].map(([k,v,n,f])=>{const[fk,fv]=f.split("|"),on=FILTERS[fk]&&FILTERS[fk].val===fv;
+    return `<div class="tile${on?" on":""}" data-f="${esc(f)}" role="button" tabindex="0"><div class="k">${k}</div><div class="v">${v}</div><div class="n">${n}</div></div>`}).join("");
 }
 
 function daily(O){
   const el=document.getElementById("daily");
-  document.getElementById("legend").innerHTML=TYPES.map(t=>`<span><i style="background:${t.k==="suspected"?"repeating-linear-gradient(45deg,var(--series-3) 0 2px,var(--surface-1) 2px 4px)":t.c}"></i>${t.label}</span>`).join("");
+  document.getElementById("legend").innerHTML=TYPES.map(t=>`<span data-f="bucket|${t.k}"><i style="background:${t.k==="suspected"?"repeating-linear-gradient(45deg,var(--series-3) 0 2px,var(--surface-1) 2px 4px)":t.c}"></i>${t.label}</span>`).join("");
   const n=DAYS||Math.max(7,Math.ceil((Date.now()-Math.min(...O.map(p=>+new Date(p.when)),Date.now()))/864e5)+1);
   const days=[];for(let i=n-1;i>=0;i--)days.push(new Date(Date.now()+GY-i*864e5).toISOString().slice(0,10));
   const by={};days.forEach(d=>by[d]={});O.forEach(p=>{const d=dayKey(p.when),k=bucket(p);if(by[d])by[d][k]=(by[d][k]||0)+1});
@@ -168,7 +211,7 @@ function daily(O){
     const dt=new Date(d+"T12:00:00Z"),lab=dt.toLocaleDateString("en-GB",{day:"numeric",month:"short",timeZone:"UTC"});
     const tot=parts.reduce((a,p)=>a+p.c,0);
     const tt=`<b>${WD[dt.getUTCDay()]} ${lab}</b><br>`+(tot?TYPES.map(t=>by[d][t.k]?`${t.label}: ${by[d][t.k]}`:"").filter(Boolean).join("<br>"):"No outage notices");
-    s+=`<rect x="${L+i*bw}" y="${T}" width="${bw}" height="${ph}" fill="transparent" data-tip="${esc(tt)}"/>`;
+    s+=`<rect x="${L+i*bw}" y="${T}" width="${bw}" height="${ph}" fill="transparent" data-f="day|${d}" data-tip="${esc(tt)}"/>`;
     if(i%every===0||i===days.length-1&&days.length<=14)s+=`<text x="${x+w/2}" y="${H-6}" text-anchor="middle">${lab}</text>`});
   el.innerHTML=s+`<line x1="${L}" x2="${W}" y1="${T+ph}" y2="${T+ph}" stroke="var(--text-muted)"/></svg>`;bindTips(el);
 }
@@ -195,7 +238,7 @@ function cal(O){
       s+=`<rect x="${x+1.5}" y="${y+1.5}" width="${cw-3}" height="${ch-3}" rx="5" fill="${fillFor(n)}"/>`+
          `<text x="${x+7}" y="${y+15}" style="fill:${dark?"var(--surface-1)":"var(--text-secondary)"}">${num}</text>`+
          (n?`<text x="${x+cw-7}" y="${y+ch-8}" text-anchor="end" style="fill:${dark?"var(--surface-1)":"var(--text-primary)"};font-weight:600">${n}</text>`:"")+
-         `<rect x="${x}" y="${y}" width="${cw}" height="${ch}" fill="transparent" data-tip="${esc(tipFor(d,v))}"/>`;
+         `<rect x="${x}" y="${y}" width="${cw}" height="${ch}" fill="transparent" data-f="day|${d.toISOString().slice(0,10)}" data-tip="${esc(tipFor(d,v))}"/>`;
     }
     el.innerHTML=s+"</svg>";bindTips(el);return;
   }
@@ -206,7 +249,7 @@ function cal(O){
     const d=new Date(+start+(w*7+r)*864e5);if(d<first||d>today)continue;
     const k=d.toISOString().slice(0,10),v=by[k],n=v?v.n:0,x=L+w*cs;
     if(d.getUTCMonth()!==lastM&&r===0||w===0&&r===0&&lastM<0){lastM=d.getUTCMonth();s+=`<text x="${x+1}" y="${T-5}">${d.toLocaleDateString("en-GB",{month:"short",timeZone:"UTC"})}</text>`}
-    s+=`<rect x="${x+1}" y="${T+r*cs+1}" width="${cs-2}" height="${cs-2}" rx="${Math.min(4,cs/5)}" fill="${fillFor(n)}" data-tip="${esc(tipFor(d,v))}"/>`;
+    s+=`<rect x="${x+1}" y="${T+r*cs+1}" width="${cs-2}" height="${cs-2}" rx="${Math.min(4,cs/5)}" fill="${fillFor(n)}" data-f="day|${k}" data-tip="${esc(tipFor(d,v))}"/>`;
   }
   el.innerHTML=s+"</svg>";bindTips(el);
 }
@@ -220,7 +263,7 @@ function heat(U){
   [1,2,3,4,5,6,0].forEach((wd,r)=>{s+=`<text x="${L-6}" y="${T+r*ch+ch/2+4}" text-anchor="end">${WD[wd]}</text>`;
     for(let h=0;h<24;h++){const v=g[wd][h],f=v?`var(${ramp[Math.min(4,Math.floor((v/max)*4.999))]})`:"var(--seq-0)";
       const hl=`${String(h).padStart(2,"0")}:00–${String(h).padStart(2,"0")}:59`;
-      s+=`<rect x="${L+h*cw+1}" y="${T+r*ch+1}" width="${cw-2}" height="${ch-2}" rx="3" fill="${f}" data-tip="<b>${WD[wd]} ${hl}</b><br>${v} unplanned post${v===1?"":"s"}"/>`}});
+      s+=`<rect x="${L+h*cw+1}" y="${T+r*ch+1}" width="${cw-2}" height="${ch-2}" rx="3" fill="${f}" data-f="slot|${wd}-${h}" data-tip="<b>${WD[wd]} ${hl}</b><br>${v} unplanned post${v===1?"":"s"}"/>`}});
   [0,6,12,18,23].forEach(h=>s+=`<text x="${L+h*cw+cw/2}" y="${H-4}" text-anchor="middle">${String(h).padStart(2,"0")}h</text>`);
   el.innerHTML=U.length?s+"</svg>":'<div class="empty">No unplanned outages here</div>';bindTips(el);
 }
@@ -237,7 +280,7 @@ function areas(O){
     s+=`<text x="${L-8}" y="${y+rh/2+4}" text-anchor="end" style="fill:var(--text-secondary)">${esc(a)}</text>`+
        `<path d="M${L},${y+5}H${L+w-4}q4,0 4,4V${y+rh-9}q0,4 -4,4H${L}Z" fill="var(--series-1)"/>`+
        `<text x="${L+w+6}" y="${y+rh/2+4}">${v}</text>`+
-       `<rect x="0" y="${y}" width="${W}" height="${rh}" fill="transparent" data-tip="<b>${esc(a)}</b><br>${v} outage post${v===1?"":"s"}"/>`});
+       `<rect x="0" y="${y}" width="${W}" height="${rh}" fill="transparent" data-f="${GEO==="region"?"region":"area"}|${esc(a)}" data-tip="<b>${esc(a)}</b><br>${v} outage post${v===1?"":"s"}"/>`});
   el.innerHTML=s+"</svg>";bindTips(el);
 }
 
@@ -252,7 +295,7 @@ function causes(O){
     s+=`<text x="${L-8}" y="${y+rh/2+4}" text-anchor="end" style="fill:var(--text-secondary)">${esc(a)}</text>`+
        `<path d="M${L},${y+5}H${L+w-4}q4,0 4,4V${y+rh-9}q0,4 -4,4H${L}Z" fill="${f}"/>`+
        `<text x="${L+w+6}" y="${y+rh/2+4}">${v} · ${Math.round(v/tot*100)}%</text>`+
-       `<rect x="0" y="${y}" width="${W}" height="${rh}" fill="transparent" data-tip="<b>${esc(a)}</b><br>${v} notice${v===1?"":"s"} (${Math.round(v/tot*100)}%)${sus?`<br>${sus} flagged as suspected load shedding`:""}"/>`});
+       `<rect x="0" y="${y}" width="${W}" height="${rh}" fill="transparent" data-f="cause|${esc(a)}" data-tip="<b>${esc(a)}</b><br>${v} notice${v===1?"":"s"} (${Math.round(v/tot*100)}%)${sus?`<br>${sus} flagged as suspected load shedding`:""}"/>`});
   el.innerHTML=s+"</svg>";bindTips(el);
 }
 
@@ -277,8 +320,9 @@ document.getElementById("range").addEventListener("click",e=>{const b=e.target.c
   DAYS=+b.dataset.d;document.querySelectorAll("#range button").forEach(x=>x.setAttribute("aria-pressed",x===b));render()});
 document.getElementById("geo").addEventListener("click",e=>{const b=e.target.closest("button");if(!b)return;
   GEO=b.dataset.g;document.getElementById("geoLabel").textContent=GEO==="region"?"region":"area";
-  document.querySelectorAll("#geo button").forEach(x=>x.setAttribute("aria-pressed",x===b));areas(inRange().filter(p=>TCOL[p.type]))});
-document.getElementById("q").addEventListener("input",()=>posts(inRange()));
+  document.querySelectorAll("#geo button").forEach(x=>x.setAttribute("aria-pressed",x===b));areas(scoped().filter(p=>TCOL[p.type]))});
+document.getElementById("q").addEventListener("input",()=>posts(scoped()));
+document.addEventListener("keydown",e=>{if((e.key==="Enter"||e.key===" ")&&e.target.matches(".tile[data-f]")){e.preventDefault();e.target.click()}});
 let rt;addEventListener("resize",()=>{clearTimeout(rt);rt=setTimeout(render,150)});
 load();
 </script>
