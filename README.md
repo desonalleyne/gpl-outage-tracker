@@ -1,22 +1,54 @@
 # GPL Outage Tracker
 
-Archives every post from GPL's Facebook page before it gets deleted, then charts the outages.
+GPL posts outage notices on Facebook and then deletes them, usually by the next day. That makes it hard to look back and see how often the lights actually go off, where, and what GPL said the reason was.
 
-How it works: an RSS bridge turns the Facebook page into a feed. A GitHub Action checks that feed every 30 minutes and adds new posts to `data/posts.json`. Nothing is ever removed from that file. If a post vanishes from the feed while newer posts are still there, it's marked "Deleted by GPL". The dashboard (`index.html`) is served free by GitHub Pages.
+This repo keeps a copy of every post. Every 30 minutes a GitHub Action reads the page and saves anything new to `data/posts.json`. The dashboard is `index.html`, served by GitHub Pages.
 
-## Setup (about 15 minutes)
+## What gets counted
 
-1. **Make the feed.** Go to rss.app (or fetchrss.com), choose "Facebook page", paste GPL's page URL and copy the feed URL it gives you. Pick the fastest refresh your plan allows. If the bridge checks only once a day, posts that GPL deletes quickly can slip through.
-2. **Create a GitHub repo.** Make it **public**: Pages and Actions minutes are free for public repos. A private repo has 2,000 Action minutes a month, so change the cron schedule to hourly. Upload everything in this folder, including the hidden `.github` folder.
-3. **Add the feed URL as a secret.** Go to Settings → Secrets and variables → Actions → New repository secret. Name it `FEED_URL` and paste the feed URL as the value.
-4. **Turn on the dashboard.** Go to Settings → Pages → Source: "Deploy from a branch" → `main`, folder `/ (root)`. Your site will be at `https://<you>.github.io/<repo>/`.
-5. **Run it once.** Go to Actions → "Capture GPL posts" → Run workflow. After that it runs on its own.
+Each post is sorted into one of these:
 
-To check the layout before any real data has come in, open the site with `?demo` on the end of the URL. This shows labelled sample data.
+- unplanned outage
+- planned outage
+- load shedding (only when GPL actually says so)
+- restoration or update (not counted as a new outage)
+- anything else, like job ads (ignored)
 
-## Tuning
+The stated reason comes from the wording of the post: a vehicle, trees, weather, equipment, generation, and so on. Most "a feeder went offline" posts don't give a reason at all, so those show up as "No reason given".
 
-- **Areas:** `AREAS` in `scripts/capture.py` lists the place names it looks for. Add any that GPL uses and the list misses.
-- **Classification:** posts are labelled unplanned, planned, load-shedding, restored or other, based on keywords (`PLANNED`, `UNPLANNED` and the others at the top of the script). Adjust these after you've looked at a few weeks of real posts.
-- **Image-only posts:** many planned-outage notices are flyers with little text. The image URLs are saved in `images`, but Facebook image links expire. If those posts matter, they'll need OCR or an image download step.
-- **Reprocessing:** if you change the parsing rules, existing posts keep their old labels. Delete the derived fields or re-run `extract()` over the archive to update them.
+"Suspected load shedding" is my own guess, not something GPL says. It flags unplanned outages that give no reason and either happen between 5 and 11 pm, or come within 3 hours of a different feeder going off on the same grid. Each flagged post shows which of those it hit, so you can judge for yourself.
+
+## Setting it up
+
+1. Make the repo public, so Pages and Actions are free.
+2. Add the RSS feed link as a secret called `FEED_URL`: Settings → Secrets and variables → Actions.
+3. Turn on Pages: Settings → Pages, deploy from `main`, folder `/ (root)`.
+4. Go to Actions → Capture GPL posts → Run workflow to kick off the first run.
+
+The workflow file lives at `.github/workflows/capture.yml`.
+
+If you want to see the dashboard before any posts have come in, add `?demo` to the end of the URL. That loads fake sample data.
+
+## Fixing mistakes
+
+Don't edit `data/posts.json` by hand. Every run recalculates it from the post text, so your changes would be wiped.
+
+If the same mistake keeps coming up, fix the rule in `capture.py`. Place names are in the `AREAS` list, and the keywords for reasons are in `CAUSES`. The next run will update every saved post, old ones included.
+
+If it's just one post that came out wrong, add a correction to `corrections.json` using the post's `id`:
+
+```json
+{
+  "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid0...": {
+    "areas": ["Best", "Vriesland"],
+    "cause": "Equipment failure"
+  }
+}
+```
+
+Whatever you put there wins over the calculated value on every run.
+
+## Known gaps
+
+- The feed only holds the latest 10 or so posts. If rss.app doesn't check often enough, a post GPL deletes quickly can be missed.
+- Some notices are just an image with little text. Those are saved, but the areas and times on the image aren't read.
