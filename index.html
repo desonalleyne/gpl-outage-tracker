@@ -58,27 +58,31 @@ input[type=search]{font:inherit;width:100%;padding:8px 10px;border-radius:8px;bo
 <body>
 <div class="viz-root"><div class="wrap">
   <h1>GPL Outage Tracker</h1>
-  <p class="sub">Every post from GPL's Facebook page, archived the moment it appears, including posts GPL deletes later.</p>
+  <p class="sub">Because deleting posts dont mean it didnt happen</p>
   <div id="banner"></div>
   <div class="filters" id="range" role="group" aria-label="Time range">
     <button data-d="7">7 days</button><button data-d="30" aria-pressed="true">30 days</button><button data-d="90">90 days</button><button data-d="0">All</button>
   </div>
   <div class="tiles" id="tiles"></div>
   <div class="card">
-    <h2>Outage notices per day</h2><p class="hint">Days are in Guyana time (UTC−4). Restoration notices aren't counted.</p>
+    <h2>Outage notices per day</h2><p class="hint">Guyana time. Restorations not counted.</p>
     <div class="legend" id="legend"></div>
     <div id="daily"></div>
   </div>
+  <div class="card">
+    <h2>Outages by date</h2><p class="hint">Darker means more outage posts that day</p>
+    <div id="cal"></div>
+  </div>
   <div class="grid2">
-    <div class="card"><h2>When unplanned outages are posted</h2><p class="hint">Number of posts by weekday and hour</p><div id="heat"></div></div>
-    <div class="card"><h2>Where outages hit</h2><p class="hint">Number of outage posts per <span id="geoLabel">region</span></p>
+    <div class="card"><h2>Time of day</h2><p class="hint">Unplanned outage posts by weekday and hour</p><div id="heat"></div></div>
+    <div class="card"><h2>Where outages hit</h2><p class="hint">Outage posts by <span id="geoLabel">region</span></p>
       <div class="filters" id="geo" role="group" aria-label="Group by" style="margin-bottom:8px"><button data-g="region" aria-pressed="true">Region</button><button data-g="areas">Area</button></div>
       <div id="areas"></div></div>
   </div>
-  <div class="card"><h2>Stated reason for outage</h2><p class="hint">What GPL's post says caused it. Planned and stated load-shedding notices are included.</p><div id="causes"></div></div>
+  <div class="card"><h2>Stated reason for outage</h2><p class="hint">Whatever GPL said caused it</p><div id="causes"></div></div>
   <div class="card">
-    <h2>Archived posts</h2><p class="hint" id="postcount"></p>
-    <input type="search" id="q" placeholder="Search text, area or feeder…">
+    <h2>Posts</h2><p class="hint" id="postcount"></p>
+    <input type="search" id="q" placeholder="Search">
     <div class="posts" id="posts"></div>
   </div>
 </div></div>
@@ -119,7 +123,7 @@ function demoData(){ // clearly-labelled fake data for previewing the layout onl
 }
 
 async function load(){
-  if(isDemo){ALL=demoData();document.getElementById("banner").innerHTML='<div class="banner">Showing <b>sample data</b> to preview the layout. These aren\'t real GPL posts. Remove <code>?demo</code> from the URL to see the real archive.</div>';}
+  if(isDemo){ALL=demoData();document.getElementById("banner").innerHTML='<div class="banner">Fake data, just to show the layout. Drop <code>?demo</code> from the URL for the real thing.</div>';}
   else{try{ALL=await (await fetch("data/posts.json",{cache:"no-store"})).json()}catch(e){ALL=[]}}
   ALL=ALL.filter(p=>p.published||p.captured_at).map(p=>({...p,when:p.published||p.captured_at})).sort((a,b)=>a.when<b.when?1:-1);
   render();
@@ -129,7 +133,7 @@ function inRange(){if(!DAYS)return ALL;const cut=Date.now()-DAYS*864e5;return AL
 
 function render(){
   const P=inRange(),O=P.filter(p=>TCOL[p.type]);
-  tiles(P,O);daily(O);causes(O);heat(O.filter(p=>p.type==="unplanned"));areas(O);posts(P);
+  tiles(P,O);daily(O);cal(O);causes(O);heat(O.filter(p=>p.type==="unplanned"));areas(O);posts(P);
 }
 
 function tiles(P,O){
@@ -140,8 +144,8 @@ function tiles(P,O){
     ["Unplanned",un,O.length?`${Math.round(un/O.length*100)}% of notices`:"—"],
     ["Suspected load shedding",sus,un?`${Math.round(sus/un*100)}% of unplanned`:"—"],
     ["No reason given",nr,O.length?`${Math.round(nr/O.length*100)}% of notices`:"—"],
-    ["Deleted by GPL",del,"posts saved only here"],
-    ["Total archived",ALL.length,"all time, all post types"]
+    ["Deleted by GPL",del,"gone from Facebook"],
+    ["Total saved",ALL.length,"every post, not just outages"]
   ].map(([k,v,n])=>`<div class="tile"><div class="k">${k}</div><div class="v">${v}</div><div class="n">${n}</div></div>`).join("");
 }
 
@@ -169,6 +173,44 @@ function daily(O){
   el.innerHTML=s+`<line x1="${L}" x2="${W}" y1="${T+ph}" y2="${T+ph}" stroke="var(--text-muted)"/></svg>`;bindTips(el);
 }
 
+function cal(O){
+  const el=document.getElementById("cal");
+  const today=new Date(Date.now()+GY);today.setUTCHours(0,0,0,0);
+  const first=DAYS?new Date(today-(DAYS-1)*864e5):new Date(Math.min(today,...O.map(p=>{const d=gy(p.when);d.setUTCHours(0,0,0,0);return +d})));
+  const start=new Date(first);start.setUTCDate(start.getUTCDate()-((start.getUTCDay()+6)%7)); // back to Monday
+  const by={};O.forEach(p=>{const k=dayKey(p.when);(by[k]=by[k]||{n:0})[bucket(p)]=(by[k][bucket(p)]||0)+1;by[k].n++});
+  const weeks=Math.ceil(((today-start)/864e5+1)/7),max=Math.max(1,...Object.values(by).map(v=>v.n));
+  const W=Math.max(300,el.clientWidth),ramp=["--seq-1","--seq-2","--seq-3","--seq-4","--seq-5"];
+  const fillFor=n=>n?`var(${ramp[Math.min(4,Math.floor(n/max*4.999))]})`:"var(--seq-0)";
+  const tipFor=(d,v)=>{const nice=d.toLocaleDateString("en-GB",{weekday:"short",day:"numeric",month:"short",timeZone:"UTC"});
+    return `<b>${nice}</b><br>`+(v?TYPES.filter(t=>v[t.k]).map(t=>`${t.label}: ${v[t.k]}`).join("<br>"):"No outage posts")};
+  if(weeks<=6){ // short range: draw it like a normal month calendar, one row per week
+    const T=18,cw=Math.min(64,W/7),ch=Math.min(44,cw*.8),H=T+weeks*ch;
+    let s=`<svg viewBox="0 0 ${Math.min(W,cw*7)} ${H}" style="max-width:${cw*7}px" role="img" aria-label="Outage posts by date">`;
+    ["Mon","Tue","Wed","Thu","Fri","Sat","Sun"].forEach((d,c)=>s+=`<text x="${c*cw+cw/2}" y="12" text-anchor="middle">${d}</text>`);
+    for(let w=0;w<weeks;w++)for(let c=0;c<7;c++){
+      const d=new Date(+start+(w*7+c)*864e5);if(d<first||d>today)continue;
+      const v=by[d.toISOString().slice(0,10)],n=v?v.n:0,x=c*cw,y=T+w*ch;
+      const dark=n&&n/max>.55,num=d.getUTCDate()===1||(w===0&&+d===+first)?d.toLocaleDateString("en-GB",{day:"numeric",month:"short",timeZone:"UTC"}):d.getUTCDate();
+      s+=`<rect x="${x+1.5}" y="${y+1.5}" width="${cw-3}" height="${ch-3}" rx="5" fill="${fillFor(n)}"/>`+
+         `<text x="${x+7}" y="${y+15}" style="fill:${dark?"var(--surface-1)":"var(--text-secondary)"}">${num}</text>`+
+         (n?`<text x="${x+cw-7}" y="${y+ch-8}" text-anchor="end" style="fill:${dark?"var(--surface-1)":"var(--text-primary)"};font-weight:600">${n}</text>`:"")+
+         `<rect x="${x}" y="${y}" width="${cw}" height="${ch}" fill="transparent" data-tip="${esc(tipFor(d,v))}"/>`;
+    }
+    el.innerHTML=s+"</svg>";bindTips(el);return;
+  }
+  const L=34,T=16,cs=Math.min(26,(W-L)/weeks),H=T+7*cs+4;
+  let s=`<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Outage posts by date">`;let lastM=-1;
+  ["Mon","","Wed","","Fri","","Sun"].forEach((d,r)=>d&&(s+=`<text x="${L-6}" y="${T+r*cs+cs/2+4}" text-anchor="end">${d}</text>`));
+  for(let w=0;w<weeks;w++)for(let r=0;r<7;r++){
+    const d=new Date(+start+(w*7+r)*864e5);if(d<first||d>today)continue;
+    const k=d.toISOString().slice(0,10),v=by[k],n=v?v.n:0,x=L+w*cs;
+    if(d.getUTCMonth()!==lastM&&r===0||w===0&&r===0&&lastM<0){lastM=d.getUTCMonth();s+=`<text x="${x+1}" y="${T-5}">${d.toLocaleDateString("en-GB",{month:"short",timeZone:"UTC"})}</text>`}
+    s+=`<rect x="${x+1}" y="${T+r*cs+1}" width="${cs-2}" height="${cs-2}" rx="${Math.min(4,cs/5)}" fill="${fillFor(n)}" data-tip="${esc(tipFor(d,v))}"/>`;
+  }
+  el.innerHTML=s+"</svg>";bindTips(el);
+}
+
 function heat(U){
   const el=document.getElementById("heat");const g=Array.from({length:7},()=>Array(24).fill(0));
   U.forEach(p=>{const d=gy(p.when);g[d.getUTCDay()][d.getUTCHours()]++});
@@ -180,7 +222,7 @@ function heat(U){
       const hl=`${String(h).padStart(2,"0")}:00–${String(h).padStart(2,"0")}:59`;
       s+=`<rect x="${L+h*cw+1}" y="${T+r*ch+1}" width="${cw-2}" height="${ch-2}" rx="3" fill="${f}" data-tip="<b>${WD[wd]} ${hl}</b><br>${v} unplanned post${v===1?"":"s"}"/>`}});
   [0,6,12,18,23].forEach(h=>s+=`<text x="${L+h*cw+cw/2}" y="${H-4}" text-anchor="middle">${String(h).padStart(2,"0")}h</text>`);
-  el.innerHTML=U.length?s+"</svg>":'<div class="empty">No unplanned outages in this range yet</div>';bindTips(el);
+  el.innerHTML=U.length?s+"</svg>":'<div class="empty">No unplanned outages here</div>';bindTips(el);
 }
 
 let GEO="region";
@@ -188,7 +230,7 @@ function areas(O){
   const el=document.getElementById("areas");const c={};
   O.forEach(p=>(GEO==="region"?[p.region||"Not stated"]:(p.areas||[])).forEach(a=>c[a]=(c[a]||0)+1));
   const rows=Object.entries(c).sort((a,b)=>b[1]-a[1]).slice(0,10);
-  if(!rows.length){el.innerHTML='<div class="empty">No areas found in posts yet</div>';return}
+  if(!rows.length){el.innerHTML='<div class="empty">No places named yet</div>';return}
   const max=rows[0][1],W=Math.max(300,el.clientWidth),L=110,rh=24,H=rows.length*rh;
   let s=`<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Most-mentioned areas">`;
   rows.forEach(([a,v],i)=>{const y=i*rh,w=Math.max(4,v/max*(W-L-34));
@@ -217,7 +259,7 @@ function causes(O){
 function posts(P){
   const q=document.getElementById("q").value.trim().toLowerCase();
   const L=P.filter(p=>!q||[p.title,p.text,p.cause,isSus(p)?"suspected load shedding":"",...(p.areas||[]),...(p.feeders||[])].join(" ").toLowerCase().includes(q));
-  document.getElementById("postcount").textContent=`${L.length} post${L.length===1?"":"s"} in this range`;
+  document.getElementById("postcount").textContent=`${L.length} post${L.length===1?"":"s"}`;
   const lab={unplanned:"Unplanned",planned:"Planned","load-shedding":"Load shedding",update:"Update",restored:"Restored"};lab.restored="Restored";lab.other="Other";
   document.getElementById("posts").innerHTML=L.length?L.slice(0,300).map(p=>{const d=gy(p.when);
     return `<div class="post"><div class="meta"><span>${WD[d.getUTCDay()]} ${d.toISOString().slice(0,16).replace("T"," ")}</span>
@@ -228,7 +270,7 @@ function posts(P){
     ${p.region?`<span class="badge">${esc(p.region)}</span>`:""}
     ${(p.feeders||[]).map(f=>`<span class="badge">${esc(f)}</span>`).join("")}
     ${p.link?`<a href="${esc(p.link)}" target="_blank" rel="noopener">original</a>`:""}</div>
-    <p>${esc(p.text||p.title)}</p></div>`}).join(""):'<div class="empty">Nothing captured yet. The first posts will show up after the capture job runs.</div>';
+    <p>${esc(p.text||p.title)}</p></div>`}).join(""):'<div class="empty">Nothing saved yet.</div>';
 }
 
 document.getElementById("range").addEventListener("click",e=>{const b=e.target.closest("button");if(!b)return;
