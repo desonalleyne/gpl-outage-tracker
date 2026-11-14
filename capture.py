@@ -21,6 +21,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
 POSTS = ROOT / "data" / "posts.json"
+# Manual fixes that survive every run: {"<post id>": {"areas": [...], "cause": "...", ...}}
+OVERRIDES = ROOT / "corrections.json"
 
 # Areas commonly named in GPL notices. Add to this list as new names show up.
 AREAS = [
@@ -48,7 +50,8 @@ UNPLANNED = re.compile(r"\b(unplanned|trip(?:ped)?|fault|emergency|shutdown|shut
 RESTORED = re.compile(r"\b(restored|repowered|re-?energi[sz]ed|reclosed|service restoration|power has (?:been )?(?:returned|restored)|has returned)\b", re.I)
 UPDATE = re.compile(r"^\s*update\b", re.I)   # follow-up to an outage already posted
 REGION = re.compile(r"\(([^)]{3,40})\)")       # GPL titles end with the region, e.g. "(WEST DEMERARA)"
-RANGE = re.compile(r"\bfrom ([A-Z][\w'\- ]{1,30}?) to ([A-Z][\w'\- ]{1,30}?)(?= and | are | is | remain|,|\.)")
+NAME = r"[A-Z][\w'\-]*(?:\s(?:of|en|de|on)?\s?[A-Z][\w'\-]*)*"   # capitalised words only, e.g. "Garden of Eden"
+RANGE = re.compile(r"\bfrom (" + NAME + r") to (" + NAME + r")")
 SHEDDING = re.compile(r"load.?shedding|rotation(?:al)? basis|rotating outages?", re.I)
 OFFLINE = re.compile(r"\b(trip(?:ped|s)?|went offline|gone offline|going offline|goes offline|is offline|taken offline|de-?energi[sz]ed|out of service)\b", re.I)
 
@@ -223,8 +226,10 @@ def main():
         seen[p["id"]] = p
         new += 1
 
+    fixes = json.loads(OVERRIDES.read_text()) if OVERRIDES.exists() else {}
     for p in archive:
         p.update(extract(p))
+        p.update(fixes.get(p["id"], {}))
     flag_suspected_shedding(archive)
 
     # Posts no longer in the feed were probably deleted from Facebook. Mark, never remove.
