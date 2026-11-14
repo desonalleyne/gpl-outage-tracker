@@ -17,7 +17,8 @@
   "areas": [],
   "times": [],
   "suspected_shedding": [],
-  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)",
+  "rules": "2026-11-14c"
  },
  {
   "id": "3f419a176796939fc08e13a04f452206",
@@ -39,7 +40,8 @@
   "suspected_shedding": [
    "peak hours"
   ],
-  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)",
+  "rules": "2026-11-14c"
  },
  {
   "id": "3cc4e4260ad38d18402e31fde765c9d6",
@@ -61,7 +63,8 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)",
+  "rules": "2026-11-14c"
  },
  {
   "id": "9c75b444661343f774e6dc355c0be4ba",
@@ -84,7 +87,8 @@
    "peak hours",
    "rotation"
   ],
-  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)",
+  "rules": "2026-11-14c"
  },
  {
   "id": "c11d40f26accbf5adbc4f00e0ee0e6a8",
@@ -108,7 +112,8 @@
    "peak hours",
    "rotation"
   ],
-  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)",
+  "rules": "2026-11-14c"
  },
  {
   "id": "d0c3a57e3b478671ca6ff97510d2a258",
@@ -128,7 +133,8 @@
   "areas": [],
   "times": [],
   "suspected_shedding": [],
-  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)",
+  "rules": "2026-11-14c"
  },
  {
   "id": "44d77f89898877a08a8c955dc1ce3bfb",
@@ -148,7 +154,8 @@
   "areas": [],
   "times": [],
   "suspected_shedding": [],
-  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)",
+  "rules": "2026-11-14c"
  },
  {
   "id": "c197dda97f56aac9d5a82da2dffbf7ef",
@@ -168,7 +175,8 @@
   "areas": [],
   "times": [],
   "suspected_shedding": [],
-  "link_check": "embed: unclear (400, no post text); mobile: unclear (400, no post text)"
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (400, no post text)",
+  "rules": "2026-11-14c"
  },
  {
   "id": "79c91eeeac32629f2e9bb1f929fc44bd",
@@ -189,7 +197,8 @@
   "times": [],
   "suspected_shedding": [
    "rotation"
-  ]
+  ],
+  "rules": "2026-11-14c"
  },
  {
   "id": "66b5b3f7dd6915fa869ffcc22cec3b97",
@@ -211,7 +220,8 @@
    "Lamaha Park"
   ],
   "times": [],
-  "suspected_shedding": []
+  "suspected_shedding": [],
+  "rules": "2026-11-14c"
  },
  {
   "id": "108dccafbb3e5e1d6b79bd34af8d5e4c",
@@ -235,7 +245,8 @@
   "times": [],
   "suspected_shedding": [
    "rotation"
-  ]
+  ],
+  "rules": "2026-11-14c"
  },
  {
   "id": "ccca5e364963576b3e2d99ecf17a0583",
@@ -254,7 +265,8 @@
   "feeders": [],
   "areas": [],
   "times": [],
-  "suspected_shedding": []
+  "suspected_shedding": [],
+  "rules": "2026-11-14c"
  },
  {
   "id": "63ed839294f3f95ca3fda669c5726a86",
@@ -280,6 +292,7 @@
    "Mocha"
   ],
   "times": [],
-  "suspected_shedding": []
+  "suspected_shedding": [],
+  "rules": "2026-11-14c"
  }
 ]
