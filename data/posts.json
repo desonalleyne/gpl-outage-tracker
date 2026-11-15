@@ -1,5 +1,66 @@
 [
  {
+  "id": "9ec6b715a7378ca7d046b01c88be6656",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid0328xYPYxpaiyMALXYt5nNpkQGsTKJHWLgivvxBNGeq9MM3F6Zfdn2Ke4jeNH16Q9Kl",
+  "title": "ADVISORY – SERVICE INTERRUPTION (GEORGETOWN) Guyana Power and Light Inc. (GPL) wishes to advise customers in Water Stree...",
+  "published": "2026-11-15T03:27:06+00:00",
+  "text": "ADVISORY – SERVICE INTERRUPTION (GEORGETOWN)\n Guyana Power and Light Inc. (GPL) wishes to advise customers in Water Street, Lombard Street, Alexander Village and River View that they are currently experiencing an interruption in electricity supply due to a system disturbance on a distribution feeder.\n GPL’s technical teams are working to identify the cause and restore electricity supply to all affected customers as quickly and safely as possible.\n GPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
+  "images": [],
+  "captured_at": "2026-11-15T08:16:01.927202+00:00",
+  "type": "unplanned",
+  "region": "Georgetown",
+  "rules": "2026-11-14c",
+  "cause": "No reason given",
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [],
+  "times": [],
+  "suspected_shedding": [],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
+ },
+ {
+  "id": "f6b504bdaaa113d4ac6787b2668a1e3d",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid02TTwjxroVWgJQ8f38JoY2kpmMBuU9x9LdyLtE1cvwDuGRWXZKm9ienbgEQLKqeN9ml",
+  "title": "ADVISORY – ESSEQUIBO COAST Dear customers between Riverstown and Supenaam, please be informed that the service interrup...",
+  "published": "2026-11-15T01:17:45+00:00",
+  "text": "ADVISORY – ESSEQUIBO COAST \n Dear customers between Riverstown and Supenaam, please be informed that the service interruption being experienced is due to a section of our distribution feeder coming offline. \n Our teams are working additional to restore power within the shortest possible time. \n We sincerely apologize for the inconvenience caused. \n Additional information will be provided in a subsequent post.",
+  "images": [],
+  "captured_at": "2026-11-15T08:16:01.927202+00:00",
+  "type": "unplanned",
+  "region": "Essequibo Coast",
+  "rules": "2026-11-14c",
+  "cause": "No reason given",
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [],
+  "times": [],
+  "suspected_shedding": [
+   "peak hours"
+  ]
+ },
+ {
+  "id": "bb4afa74f6a1648189453b429a3e6b42",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid06m54gJzkkegQnQPhgtaWXdit3HAWzDuYoNDYu5vsyK4u8dU7ZL7EW2ufbkpTAKZUl",
+  "title": "Day 3 at GuyExpo 2026! GPL is back at the National Exhibition Centre, Sophia, engaging with customers, sharing informati...",
+  "published": "2026-11-15T00:33:14+00:00",
+  "text": "Day 3 at GuyExpo 2026!\n GPL is back at the National Exhibition Centre, Sophia, engaging with customers, sharing information on our services and initiatives, and answering your questions.\n Visit us at Booth 49 and connect with the GPL team.\n 📅 November 12–15, 2026\n 📍 National Exhibition Centre, Sophia\n #GPL #GuyExpo2026 #Day3 #CustomerEngagement #PoweringGuyana",
+  "images": [
+   "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/906111180_122212837334585308_4843611700981929909_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=e21142&_nc_ohc=qY73nC2UxWQQ7kNvwGq0QAZ&_nc_oc=AdqDyxGX5svB4A2KidXKH0RTig9dyd-ZvEiLMg5p51Zuda2umLrQ8XxbFudf-miuOYlVJ3QtbAKqv7ifL8_sBfip&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=Qdgero5ZRt0VfMikcr6ZhA&_nc_ss=7f289&oh=00_AQTDwuIIjavmMqfBbnNyiINidc7ILqSH1rPyAaZD-IOGeA&oe=6AFF346D"
+  ],
+  "captured_at": "2026-11-15T08:16:01.927202+00:00",
+  "type": "other",
+  "region": null,
+  "rules": "2026-11-14c",
+  "cause": null,
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [
+   "Sophia"
+  ],
+  "times": [],
+  "suspected_shedding": []
+ },
+ {
   "id": "97327bf1d26766181eb21b912381b86d",
   "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid026LpqfLBj4W8Do7HjnCeo7o6c9YD2gvgGHDizX9r5DjG8dHffx46AT3bvgWY3NS7Zl",
   "title": "ADVISORY — EAST BANK DEMERARA The Guyana Power and Light Inc. (GPL) wishes to advise customers from Heroes Highway, Agri...",
