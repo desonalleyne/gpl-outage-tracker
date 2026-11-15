@@ -36,7 +36,8 @@
   "times": [],
   "suspected_shedding": [
    "peak hours"
-  ]
+  ],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
  {
   "id": "bb4afa74f6a1648189453b429a3e6b42",
@@ -58,7 +59,8 @@
    "Sophia"
   ],
   "times": [],
-  "suspected_shedding": []
+  "suspected_shedding": [],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
  {
   "id": "97327bf1d26766181eb21b912381b86d",
