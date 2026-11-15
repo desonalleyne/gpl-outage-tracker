@@ -1,5 +1,122 @@
 [
  {
+  "id": "97327bf1d26766181eb21b912381b86d",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid026LpqfLBj4W8Do7HjnCeo7o6c9YD2gvgGHDizX9r5DjG8dHffx46AT3bvgWY3NS7Zl",
+  "title": "ADVISORY — EAST BANK DEMERARA The Guyana Power and Light Inc. (GPL) wishes to advise customers from Heroes Highway, Agri...",
+  "published": "2026-11-14T22:57:24+00:00",
+  "text": "ADVISORY — EAST BANK DEMERARA\n The Guyana Power and Light Inc. (GPL) wishes to advise customers from Heroes Highway, Agricola to Nandy Park that the service interruption being experienced is due to the feeder coming offline.\n Our technical teams are working to identify and resolve the issue and restore electricity as soon as possible.\n GPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
+  "images": [],
+  "captured_at": "2026-11-15T01:12:44.095270+00:00",
+  "type": "unplanned",
+  "region": "East Bank Demerara",
+  "rules": "2026-11-14c",
+  "cause": "No reason given",
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [
+   "Agricola",
+   "Nandy Park"
+  ],
+  "times": [],
+  "suspected_shedding": [
+   "peak hours",
+   "rotation"
+  ],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
+ },
+ {
+  "id": "2fa8198ccb9111cb62d95dec356e2a55",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid0ipE64EJR1p4ZrBYyf8jH4mXJXqs6JMMzNprrgasDiWoWmpJ4FRejhfruAPFUcYiNl",
+  "title": "ADVISORY — BERBICE The Guyana Power and Light Inc. (GPL) wishes to advise customers from Moleson Creek to #76 Village th...",
+  "published": "2026-11-14T22:38:01+00:00",
+  "text": "ADVISORY — BERBICE\n The Guyana Power and Light Inc. (GPL) wishes to advise customers from Moleson Creek to #76 Village that the service interruption being experienced is due to the feeder coming offline.\n Our technical teams are working to identify and resolve the issue and restore electricity as soon as possible.\n GPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
+  "images": [],
+  "captured_at": "2026-11-15T01:12:44.095270+00:00",
+  "type": "unplanned",
+  "region": "Berbice",
+  "rules": "2026-11-14c",
+  "cause": "No reason given",
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [],
+  "times": [],
+  "suspected_shedding": [
+   "peak hours",
+   "rotation"
+  ],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
+ },
+ {
+  "id": "161dd5678421aaa969ff5a9ae74343e1",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid0qPv4xZ6jfPw5pNAKLQkJGSdE9uMDko6xHkEQFTVFf7eusYu7E27FhzRZJNDVP13xl",
+  "title": "ADVISORY — GEORGETOWN Dear customers in Kitty, Campbellville and Subryanville, please be advised that the service inter...",
+  "published": "2026-11-14T21:34:55+00:00",
+  "text": "ADVISORY — GEORGETOWN \n Dear customers in Kitty, Campbellville and Subryanville, please be advised that the service interruption being experienced is due to a feeder coming offline. \n Our teams are working assiduously to restore power to the affected areas within the shortest possible time. \n We sincerely apologize for the inconvenience. \n Additional information will be provided in a subsequent post.",
+  "images": [],
+  "captured_at": "2026-11-15T01:12:44.095270+00:00",
+  "type": "unplanned",
+  "region": "Georgetown",
+  "rules": "2026-11-14c",
+  "cause": "No reason given",
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [
+   "Kitty",
+   "Campbellville"
+  ],
+  "times": [],
+  "suspected_shedding": [
+   "peak hours",
+   "rotation"
+  ],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
+ },
+ {
+  "id": "85284bd3a222a87390f225d400585ec6",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid02g1W6D2r4JwrvX8w2kLmii36R6wULFts6jc5ra6bk7UmyDsegTXMtJEGXBVSJan7fl",
+  "title": "UPDATE — EAST COAST DEMERARA The Guyana Power and Light Inc. (GPL) wishes to advise customers from Lusignan to Enmore th...",
+  "published": "2026-11-14T20:45:50+00:00",
+  "text": "UPDATE — EAST COAST DEMERARA\n The Guyana Power and Light Inc. (GPL) wishes to advise customers from Lusignan to Enmore that our technical teams have identified additional threats to the network.\n Our teams are working to address these issues and will attempt to restore electricity to sections of the affected area shortly, once the identified sections of the network have been safely separated to allow the remaining sections to be repowered.\n Additional information will be provided in a subsequent post. \n GPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
+  "images": [],
+  "captured_at": "2026-11-15T01:12:44.095270+00:00",
+  "type": "restored",
+  "region": "East Coast Demerara",
+  "rules": "2026-11-14c",
+  "cause": null,
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [
+   "Lusignan to Enmore"
+  ],
+  "times": [],
+  "suspected_shedding": [],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
+ },
+ {
+  "id": "feaa18803619f2ebf7100088d5bebd10",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid0sohpwyAFyZpe2Ewb3gaiB4KPKbpYWot6q4wAK6tRm6sYbXvEjoYzegZBagmqA4jnl",
+  "title": "UPDATE— GEORGETOWN Guyana Power and Light Inc. (GPL) wishes to inform customers in South and North Ruimveldt, Tucville,...",
+  "published": "2026-11-14T20:41:32+00:00",
+  "text": "UPDATE— GEORGETOWN \n Guyana Power and Light Inc. (GPL) wishes to inform customers in South and North Ruimveldt, Tucville, Lamaha Park & Springs, Guyhoc Park & Gardens, Roxanne Burnham Gardens and Shirley Field Ridley Square that efforts are ongoing to restore power following a feeder going offline. \n Additional information will be provided in a subsequent post.\n GPL sincerely apologises for any inconvenience caused and thank customers for their understanding.",
+  "images": [],
+  "captured_at": "2026-11-15T01:12:44.095270+00:00",
+  "type": "update",
+  "region": "Georgetown",
+  "rules": "2026-11-14c",
+  "cause": null,
+  "feeder_offline": true,
+  "feeders": [],
+  "areas": [
+   "North Ruimveldt",
+   "Tucville",
+   "Lamaha Park",
+   "Guyhoc"
+  ],
+  "times": [],
+  "suspected_shedding": [],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
+ },
+ {
   "id": "693dbf3edceef6ecacdf2bc7825e23da",
   "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid02XjCLdhXFLpJMcvmD7mSFWisdZ41P91ZWNJ3WHUPcuugyc4FqpdhKjF3uFay1NVgUl",
   "title": "UPDATE — EAST COAST DEMERARA The Guyana Power and Light Inc. (GPL) wishes to advise customers from Lusignan to Enmore th...",
