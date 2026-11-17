@@ -1,5 +1,161 @@
 [
  {
+  "id": "f55ff9608620b1b3d16e6e2d97fcf33e",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid027SH3wYxz8AQoG1niEuqo1rGwwGFSMpdgFzNKgbPFDu6q5Ua8PKfpycCcCvwGkJs7l",
+  "title": "UPDATE – SERVICE INTERRUPTION (ESSEQUIBO COAST) Guyana Power and Light Inc. (GPL) wishes to advise customers from Rivers...",
+  "published": "2026-11-17T00:32:35+00:00",
+  "text": "UPDATE – SERVICE INTERRUPTION (ESSEQUIBO COAST)\n Guyana Power and Light Inc. (GPL) wishes to advise customers from Riverstown to Supenaam, sections of Anna Regina, Cotton Field, and Bush Lot that they continue to experience an interruption in electricity supply due to the distribution feeder going offline.\n Technical teams are actively working to restore electricity supply to all affected customers as quickly and safely as possible.\n GPL apologises for the inconvenience caused and thanks customers for their continued patience and understanding.",
+  "images": [],
+  "captured_at": "2026-11-17T01:57:48.659325+00:00",
+  "type": "update",
+  "region": "Essequibo Coast",
+  "rules": "2026-11-14c",
+  "cause": null,
+  "feeder_offline": true,
+  "feeders": [],
+  "areas": [
+   "Riverstown to Supenaam",
+   "Anna Regina"
+  ],
+  "times": [],
+  "suspected_shedding": []
+ },
+ {
+  "id": "5472f12b83f5c2a3b62aada0e6b766af",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid0e1ddPhFYRLkkWqezB4iw6r3B2rwFvcGd2ANiXLxo9FEzLUPiwuVTmYbPgnkLL5Ykl",
+  "title": "ADVISORY – SERVICE INTERRUPTION (EAST BANK DEMERARA) Guyana Power and Light Inc. (GPL) wishes to advise customers from G...",
+  "published": "2026-11-16T23:12:55+00:00",
+  "text": "ADVISORY – SERVICE INTERRUPTION (EAST BANK DEMERARA)\n Guyana Power and Light Inc. (GPL) wishes to advise customers from Garden of Eden to Grove they are currently experiencing a service interruption due to the distribution feeder going offline. \n GPL’s technical teams are working to restore electricity supply to all affected customers. \n GPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
+  "images": [],
+  "captured_at": "2026-11-17T01:57:48.659325+00:00",
+  "type": "unplanned",
+  "region": "East Bank Demerara",
+  "rules": "2026-11-14c",
+  "cause": "No reason given",
+  "feeder_offline": true,
+  "feeders": [],
+  "areas": [
+   "Garden of Eden to Grove"
+  ],
+  "times": [],
+  "suspected_shedding": [
+   "peak hours",
+   "rotation"
+  ]
+ },
+ {
+  "id": "152df4892e0a5c9f055bc094b8664a70",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid0tniM5U3v6xtZYQrYfAFekLX6kdmbXgw4AQaaJaZa9feaRajUjfYDkeS38H63uQvGl",
+  "title": "EMERGENCY SERVICE INTERRUPTION - (ANNA REGINA) Dear Customers, please be advised that Guyana Power and Light, Inc. (GPL)...",
+  "published": "2026-11-16T22:49:30+00:00",
+  "text": "EMERGENCY SERVICE INTERRUPTION - (ANNA REGINA)\n Dear Customers, please be advised that Guyana Power and Light, Inc. (GPL) will be conducting emergency maintenance works on two generators at Anna Regina.\n These works will commence at 12:00 am, during which sections of Anna Regina will experience interruptions in electricity supply at intervals as the maintenance works are carried out.\n GPL recognises the inconvenience caused by unscheduled service interruptions, however, these measures are necessary to ensure the continued reliability and efficiency of electricity generation.\n We apologise for the inconvenience caused and thank our customers for their patience and understanding.",
+  "images": [],
+  "captured_at": "2026-11-17T01:57:48.659325+00:00",
+  "type": "planned",
+  "region": "Anna Regina",
+  "rules": "2026-11-14c",
+  "cause": "Planned works",
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [
+   "Anna Regina"
+  ],
+  "times": [
+   "12:00 am"
+  ],
+  "suspected_shedding": []
+ },
+ {
+  "id": "e58ae0529609fa96fd4ce25c179d36af",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid02apJUjnCwPG3fhKRd3Vbegrkd9UYSureE7wADabTwWjzCS5TYieQUWYWidjWUEAEil",
+  "title": "UPDATE – SERVICE INTERRUPTION (GEORGETOWN) Guyana Power and Light Inc. (GPL) wishes to advise customers from Kitty, Camp...",
+  "published": "2026-11-16T22:42:45+00:00",
+  "text": "UPDATE – SERVICE INTERRUPTION (GEORGETOWN)\n Guyana Power and Light Inc. (GPL) wishes to advise customers from Kitty, Campbellville, Subryanville and surrounding environs that restoration efforts have commenced, with the exception of Kitty and Subryanville, where technical teams continue to carry out checks.\n GPL’s technical teams are working to restore electricity supply to the remaining affected customers as quickly and safely as possible.\n GPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
+  "images": [],
+  "captured_at": "2026-11-17T01:57:48.659325+00:00",
+  "type": "update",
+  "region": "Georgetown",
+  "rules": "2026-11-14c",
+  "cause": null,
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [
+   "Kitty",
+   "Campbellville"
+  ],
+  "times": [],
+  "suspected_shedding": []
+ },
+ {
+  "id": "541681714f887f478220338a45b8fbf7",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid0ufH3t4rU6nnwtyEx39hmfKqYcmBfNnhmaWzypbFLTBSbjRaJdG9kkLHCP9CVKonzl",
+  "title": "ADVISORY – SERVICE INTERRUPTION (ESSEQUIBO COAST) Guyana Power and Light Inc. (GPL) wishes to advise customers from Rive...",
+  "published": "2026-11-16T22:09:53+00:00",
+  "text": "ADVISORY – SERVICE INTERRUPTION (ESSEQUIBO COAST)\n Guyana Power and Light Inc. (GPL) wishes to advise customers from Riverstown to Supenaam that they are experiencing a service interruption due to the distribution feeder going offline.\n GPL’s technical teams are working to restore electricity supply to all affected customers.\n We apologize for the inconvenience caused and thank customers for their continued patience and understanding.",
+  "images": [],
+  "captured_at": "2026-11-17T01:57:48.659325+00:00",
+  "type": "unplanned",
+  "region": "Essequibo Coast",
+  "rules": "2026-11-14c",
+  "cause": "No reason given",
+  "feeder_offline": true,
+  "feeders": [],
+  "areas": [
+   "Riverstown to Supenaam"
+  ],
+  "times": [],
+  "suspected_shedding": [
+   "peak hours"
+  ]
+ },
+ {
+  "id": "fba21250af29dd8ca88f673c3e7f1a0d",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid0MuT2KJtUzJrcvt1ExMEtZd4RU3jarVQ8rZXzXWJi4Q1EvVPob676whrpqahXpxn7l",
+  "title": "ADVISORY – SERVICE INTERRUPTION (GEORGETOWN) Guyana Power and Light Inc. (GPL) wishes to advise customers from Kitty, C...",
+  "published": "2026-11-16T21:29:34+00:00",
+  "text": "ADVISORY – SERVICE INTERRUPTION (GEORGETOWN) \n Guyana Power and Light Inc. (GPL) wishes to advise customers from Kitty, Campbellville, Subryanville and surrounding environs that they are currently experiencing an interruption in electricity supply due to the distribution feeder going offline. \n Our technical teams are working to identify the cause and restore electricity supply to all affected customers. \n We apologize for the inconvenience caused and thank customers for their patience and understanding.",
+  "images": [],
+  "captured_at": "2026-11-17T01:57:48.659325+00:00",
+  "type": "unplanned",
+  "region": "Georgetown",
+  "rules": "2026-11-14c",
+  "cause": "No reason given",
+  "feeder_offline": true,
+  "feeders": [],
+  "areas": [
+   "Kitty",
+   "Campbellville"
+  ],
+  "times": [],
+  "suspected_shedding": [
+   "peak hours",
+   "rotation"
+  ]
+ },
+ {
+  "id": "c43904f15466b8a832acc32e33eda0f2",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid0PrUt5qQ81baVnTr4oVqgeuYGW5jFozuswF6PGWncCNDop2HN7KUTgtVF5XXSTakhl",
+  "title": "EMERGENCY SERVICE INTERRUPTION - (EAST BANK DEMERARA) Dear Customers, please be advised that Guyana Power and Light Inc....",
+  "published": "2026-11-16T20:32:04+00:00",
+  "text": "EMERGENCY SERVICE INTERRUPTION - (EAST BANK DEMERARA)\n Dear Customers, please be advised that Guyana Power and Light Inc. (GPL) will be conducting emergency works at Avenue A, Diamond to to address a network structure that has been observed emitting smoke.\n As a result, customers from Grove to Providence will experience an interruption in electricity supply as these corrective works are carried out. \n GPL recognises the inconvenience caused by unscheduled service interruptions, however, these measures are necessary to ensure the continued safety, reliability and integrity of the electricity network.\n We apologise for the inconvenience caused and thank our customers for their patience and understanding.",
+  "images": [
+   "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-6/915062381_122213062574585308_1753939873618223577_n.jpg?stp=dst-jpg_p640x640_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=2e5b1e&_nc_ohc=3yzB2a9i3SsQ7kNvwEbIdJo&_nc_oc=Adq1p2NgvjC69xN9TuabXlrZMf82h80nWV6jpB_qyNH_Jj9AFO-nHHk3u-yMQihCTbCy9hxJWVhmWZ99N3zvyX8O&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=5SX--8qSsxnzAX6zKzE4QQ&_nc_ss=7c289&oh=00_AQR1-mHLcj6mHz5y4wmwEz1QWbb_IuibcM6ywbnYl921QQ&oe=6B0151EA"
+  ],
+  "captured_at": "2026-11-17T01:57:48.659325+00:00",
+  "type": "other",
+  "region": "East Bank Demerara",
+  "rules": "2026-11-14c",
+  "cause": null,
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [
+   "Grove to Providence",
+   "Diamond"
+  ],
+  "times": [],
+  "suspected_shedding": []
+ },
+ {
   "id": "1c5b8fb6efcf6eed3ca4adf5c2a4db58",
   "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid0Xmi8n44RocLCwfqCLy3Jg4sgWk2RwYfm5CudWY1fPcjzDqN8i5QfZGNZpznbAhj8l",
   "title": "GPL ENGAGES CONTRACTORS ON ONGOING INFRASTRUCTURE PROJECTS Guyana Power and Light Inc. (GPL), represented by Mr. Kesh Na...",
@@ -17,7 +173,8 @@
   "feeders": [],
   "areas": [],
   "times": [],
-  "suspected_shedding": []
+  "suspected_shedding": [],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
  {
   "id": "395dc91bd73c046e871fe74d6ffb41cd",
@@ -37,7 +194,8 @@
   "feeders": [],
   "areas": [],
   "times": [],
-  "suspected_shedding": []
+  "suspected_shedding": [],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
  {
   "id": "52859e8164268f1bca4c81b6b32249ca",
@@ -57,7 +215,8 @@
    "Grove"
   ],
   "times": [],
-  "suspected_shedding": []
+  "suspected_shedding": [],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
  {
   "id": "9cc0a7a90b8d42553b4b625846d525e3",
@@ -75,7 +234,8 @@
   "feeders": [],
   "areas": [],
   "times": [],
-  "suspected_shedding": []
+  "suspected_shedding": [],
+  "link_check": "embed: live (400)"
  },
  {
   "id": "287e349012fb4fd4dd4ffddd99a4aeff",
@@ -93,7 +253,8 @@
   "feeders": [],
   "areas": [],
   "times": [],
-  "suspected_shedding": []
+  "suspected_shedding": [],
+  "link_check": "embed: live (400)"
  },
  {
   "id": "4d45f03828e1ca2b37c59045835f3279",
@@ -114,7 +275,8 @@
    "Diamond"
   ],
   "times": [],
-  "suspected_shedding": []
+  "suspected_shedding": [],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
  {
   "id": "5c54ee45f46643ee7417abbbc6a37a83",
@@ -134,7 +296,8 @@
   "feeders": [],
   "areas": [],
   "times": [],
-  "suspected_shedding": []
+  "suspected_shedding": [],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
  {
   "id": "b13ea25fdbf23ad91b22e6e0543c52dd",
@@ -154,7 +317,8 @@
    "Anna Regina"
   ],
   "times": [],
-  "suspected_shedding": []
+  "suspected_shedding": [],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
  {
   "id": "f6023d8ee247e01ca60ae51176dc3bc6",
