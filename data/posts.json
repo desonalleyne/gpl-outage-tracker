@@ -1,10 +1,91 @@
 [
  {
+  "id": "c4d1fdb269e65f6df0a1689a31f8f5d1",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid0218eDkFkdnGmqALk9WA8yFaHrUiJzazMNfyXwq4BmtHCWNQkN5ngPRRhm2cxYmpibl",
+  "title": "UPDATE – SERVICE INTERRUPTION (ESSEQUIBO COAST) Guyana Power and Light Inc. (GPL) wishes to advise that electricity has...",
+  "published": "2026-11-17T05:02:04+00:00",
+  "text": "UPDATE – SERVICE INTERRUPTION (ESSEQUIBO COAST)\n Guyana Power and Light Inc. (GPL) wishes to advise that electricity has been restored to Bush Lot, Reliance, Mainstay, Land of Plenty and Three Friends.\n Efforts are being made to restore power to areas between Devonshire Castle and Charity, Henrietta Public Road, Richmond Public Road, La Belle Alliance and sections of Lima following a service interruption due to a feeder coming offline. \n Additional information will be provided in a subsequent post. \n We sincerely apologize for the inconvenience caused.",
+  "images": [],
+  "captured_at": "2026-11-17T10:30:35.037242+00:00",
+  "type": "restored",
+  "region": "Essequibo Coast",
+  "rules": "2026-11-14c",
+  "cause": null,
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [
+   "Charity"
+  ],
+  "times": [],
+  "suspected_shedding": []
+ },
+ {
+  "id": "cbfcdbe01d1e2f47445f16d0a11d84df",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid02tgVDMTVVv84ZJt8r9AunYAN8r9Lz6jJrQgkTc9vYZcjSCdTa5B9KV7AzU4kUVsgXl",
+  "title": "UPDATE – SERVICE INTERRUPTION (ESSEQUIBO COAST) Guyana Power and Light Inc. (GPL) wishes to advise that electricity has...",
+  "published": "2026-11-17T04:12:47+00:00",
+  "text": "UPDATE – SERVICE INTERRUPTION (ESSEQUIBO COAST)\n Guyana Power and Light Inc. (GPL) wishes to advise that electricity has been restored to Bush Lot, Reliance, Mainstay, Land of Plenty and Three Friends.\n Efforts are being made to restore power to areas between Devonshire Castle and Charity, Henrietta Public Road, Aberdeen and Columbia following a service interruption due to a feeder coming offline. \n Additional information will be provided in a subsequent post. \n We sincerely apologize for the inconvenience caused.",
+  "images": [],
+  "captured_at": "2026-11-17T10:30:35.037242+00:00",
+  "type": "restored",
+  "region": "Essequibo Coast",
+  "rules": "2026-11-14c",
+  "cause": null,
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [
+   "Charity"
+  ],
+  "times": [],
+  "suspected_shedding": []
+ },
+ {
+  "id": "f829088a61d740089d2b0a09492993bc",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid0fxzWk4fc53gdn8ySDvMuJSv7sirXJmZesjePQinNxWpz6uujKFQhvD87xYdAnUR4l",
+  "title": "ADVISORY — ESSEQUIBO COAST Dear customers between Devonshire Castle and Charity, please be informed that the service in...",
+  "published": "2026-11-17T03:24:05+00:00",
+  "text": "ADVISORY — ESSEQUIBO COAST \n Dear customers between Devonshire Castle and Charity, please be informed that the service interruption being experienced is due to a feeder coming offline. \n Our teams are working to restore power to the affected areas. \n Meanwhile, power has been restored to areas between Riverstown and Vilvorden and Vilvorden to Supernaam. \n We sincerely apologize for the inconvenience caused and thank you for your patience and understanding during this period.",
+  "images": [],
+  "captured_at": "2026-11-17T10:30:35.037242+00:00",
+  "type": "restored",
+  "region": "Essequibo Coast",
+  "rules": "2026-11-14c",
+  "cause": null,
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [
+   "Charity"
+  ],
+  "times": [],
+  "suspected_shedding": []
+ },
+ {
+  "id": "cd2e560e23aac0f495160b89ee8d44fb",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid02oruios1Z8bY6We5NSKAf3WC3wH35uJUpjbB3q3Hqa1PcMBawgmmHEuVaUoeGmnpTl",
+  "title": "UPDATE – SERVICE INTERRUPTION (ESSEQUIBO COAST) Guyana Power and Light Inc. (GPL) wishes to advise that efforts are bein...",
+  "published": "2026-11-17T03:16:58+00:00",
+  "text": "UPDATE – SERVICE INTERRUPTION (ESSEQUIBO COAST)\n Guyana Power and Light Inc. (GPL) wishes to advise that efforts are being made to repower areas from Riverstown to Supenaam, sections of Anna Regina, Cotton Field, Bush Lot, Reliance, Mainstay, Land of Plenty, Three Friend, Aberdeen and Columbia following an interruption in electricity supply due to the distribution feeder going offline.\n GPL apologises for the inconvenience caused and thanks customers for their continued patience and understanding.",
+  "images": [],
+  "captured_at": "2026-11-17T10:30:35.037242+00:00",
+  "type": "update",
+  "region": "Essequibo Coast",
+  "rules": "2026-11-14c",
+  "cause": null,
+  "feeder_offline": true,
+  "feeders": [],
+  "areas": [
+   "Riverstown to Supenaam",
+   "Anna Regina"
+  ],
+  "times": [],
+  "suspected_shedding": []
+ },
+ {
   "id": "f55ff9608620b1b3d16e6e2d97fcf33e",
   "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid027SH3wYxz8AQoG1niEuqo1rGwwGFSMpdgFzNKgbPFDu6q5Ua8PKfpycCcCvwGkJs7l",
   "title": "UPDATE – SERVICE INTERRUPTION (ESSEQUIBO COAST) Guyana Power and Light Inc. (GPL) wishes to advise customers from Rivers...",
   "published": "2026-11-17T00:32:35+00:00",
-  "text": "UPDATE – SERVICE INTERRUPTION (ESSEQUIBO COAST)\n Guyana Power and Light Inc. (GPL) wishes to advise customers from Riverstown to Supenaam, sections of Anna Regina, Cotton Field, and Bush Lot that they continue to experience an interruption in electricity supply due to the distribution feeder going offline.\n Technical teams are actively working to restore electricity supply to all affected customers as quickly and safely as possible.\n GPL apologises for the inconvenience caused and thanks customers for their continued patience and understanding.",
+  "text": "UPDATE – SERVICE INTERRUPTION (ESSEQUIBO COAST)\n Guyana Power and Light Inc. (GPL) wishes to advise customers from Riverstown to Supenaam, sections of Anna Regina, Cotton Field, Bush Lot, Reliance, Mainstay, Land of Plenty, Three Friend, Aberdeen and Columbia that they continue to experience an interruption in electricity supply due to the distribution feeder going offline.\n Technical teams are actively working to restore electricity supply to all affected customers as quickly and safely as possible.\n GPL apologises for the inconvenience caused and thanks customers for their continued patience and understanding.",
   "images": [],
   "captured_at": "2026-11-17T01:57:48.659325+00:00",
   "type": "update",
@@ -18,7 +99,8 @@
    "Anna Regina"
   ],
   "times": [],
-  "suspected_shedding": []
+  "suspected_shedding": [],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
  {
   "id": "5472f12b83f5c2a3b62aada0e6b766af",
@@ -41,7 +123,8 @@
   "suspected_shedding": [
    "peak hours",
    "rotation"
-  ]
+  ],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
  {
   "id": "152df4892e0a5c9f055bc094b8664a70",
@@ -63,7 +146,8 @@
   "times": [
    "12:00 am"
   ],
-  "suspected_shedding": []
+  "suspected_shedding": [],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
  {
   "id": "e58ae0529609fa96fd4ce25c179d36af",
@@ -84,7 +168,8 @@
    "Campbellville"
   ],
   "times": [],
-  "suspected_shedding": []
+  "suspected_shedding": [],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
  {
   "id": "541681714f887f478220338a45b8fbf7",
@@ -106,7 +191,8 @@
   "times": [],
   "suspected_shedding": [
    "peak hours"
-  ]
+  ],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
  {
   "id": "fba21250af29dd8ca88f673c3e7f1a0d",
@@ -130,7 +216,8 @@
   "suspected_shedding": [
    "peak hours",
    "rotation"
-  ]
+  ],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
  {
   "id": "c43904f15466b8a832acc32e33eda0f2",
@@ -153,7 +240,8 @@
    "Diamond"
   ],
   "times": [],
-  "suspected_shedding": []
+  "suspected_shedding": [],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
  {
   "id": "1c5b8fb6efcf6eed3ca4adf5c2a4db58",
