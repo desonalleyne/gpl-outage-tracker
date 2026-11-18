@@ -1,5 +1,255 @@
 [
  {
+  "id": "0473569e21b0ecd38d74a24f694f286c",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid02QCuPWDZ7hnBaKdDHp8g9HFy2ctBmwKmWAZac1CGgurSqNtsjMJisJdPcxQ4gAeXNl",
+  "title": "ADVISORY — WEST COAST BERBICE The Guyana Power and Light Inc. wishes to inform customers that due to a distribution feed...",
+  "published": "2026-11-18T18:20:36+00:00",
+  "text": "ADVISORY — WEST COAST BERBICE\n The Guyana Power and Light Inc. wishes to inform customers that due to a distribution feeder coming offline at our Onverwagt Substation, customers from Onverwagt to Inverness are experiencing an interruption in electricity supply.\n Our teams are working assiduously to restore power within the shortest possible time.\n Additional information will be provided in a subsequent post.\n We sincerely apologize for the inconvenience caused.",
+  "images": [],
+  "captured_at": "2026-11-18T19:15:56.249676+00:00",
+  "type": "unplanned",
+  "region": "West Coast",
+  "rules": "2026-11-14c",
+  "cause": "Equipment failure",
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [
+   "Onverwagt to Inverness"
+  ],
+  "times": [],
+  "suspected_shedding": []
+ },
+ {
+  "id": "9d13ae67c7911d70ac68996cfa1a7d43",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid02h994T1e7TdmuP2CE8EacE9t9AarfKjbskanJjCDz5qjB3ZYxVpc9jd3TBqo6viipl",
+  "title": "ADVISORY — GEORGETOWN The Guyana Power and Light Inc. wishes to inform customers that due to a distribution feeder comi...",
+  "published": "2026-11-18T18:00:58+00:00",
+  "text": "ADVISORY — GEORGETOWN \n The Guyana Power and Light Inc. wishes to inform customers that due to a distribution feeder coming offline at our Sophia Substation, the following areas are experiencing an interruption in electricity supply: \n — \"A\" to \"E\" Fields, Sophia \n Our teams are working assiduously to restore power within the shortest possible time. \n Additional information will be provided in a subsequent post. \n We sincerely apologize for the inconvenience caused.",
+  "images": [],
+  "captured_at": "2026-11-18T19:15:56.249676+00:00",
+  "type": "unplanned",
+  "region": "Georgetown",
+  "rules": "2026-11-14c",
+  "cause": "Equipment failure",
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [
+   "Sophia"
+  ],
+  "times": [],
+  "suspected_shedding": []
+ },
+ {
+  "id": "524035733cd00b8fdb606115dcabe221",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid02Uh3PujhBEpnT7Mpene93uusNDRCuKH1Zoywwdrf9tP4hQQhJj7k68pDngEUmjEgjl",
+  "title": "UPDATE #2 – PLANNED MAINTENANCE EAST BERBICE-CORENTYNE The Guyana Power and Light Inc. (GPL) wishes to advise customers...",
+  "published": "2026-11-18T17:55:29+00:00",
+  "text": "UPDATE #2 – PLANNED MAINTENANCE\n EAST BERBICE-CORENTYNE\n The Guyana Power and Light Inc. (GPL) wishes to advise customers in Seawell Village & Grand Canal that, due to unforeseen circumstances, additional time is required to complete the ongoing planned maintenance works.\n The works, which include the transfer of Medium Voltage (MV) Mains and the replacement of crossarms, pins and insulators, are now expected to be completed by 14:30 hrs. \n GPL apologises for the extended interruption and thanks customers for their continued patience and understanding.",
+  "images": [
+   "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/912909482_122213299958585308_768848219673923265_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=2e5b1e&_nc_ohc=bEgNJtQ_nuQQ7kNvwFu3BxJ&_nc_oc=AdqsWXkygZIS0BkjgdQzTnucWSdr2AUblVBloROBMWywVURuJB7U7ej1nc8xah4MvJaVJIlDWVGaSGctMueEqWnD&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=A-3kU-yiwnxVWdXyl5dS-w&_nc_ss=7c289&oh=00_AQRwk_A7VwHD0CXZbt6Msy4bgVN20kkSdx2mjS-C0Aqrng&oe=6B03D10B"
+  ],
+  "captured_at": "2026-11-18T19:15:56.249676+00:00",
+  "type": "update",
+  "region": "East Berbice",
+  "rules": "2026-11-14c",
+  "cause": null,
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [
+   "Canal"
+  ],
+  "times": [
+   "14:30 hrs"
+  ],
+  "suspected_shedding": []
+ },
+ {
+  "id": "6ba905bf54956030e3c4674b3c5e7499",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid032jabuyQt5DzGUE2WGBRvGgToLmdEVozekTK2vJKrfMHJfBo7YPhB6XYeuiBp8NNSl",
+  "title": "SIX TO APPEAR IN COURT TODAY OVER ATTACK ON GPL’S GOOD HOPE SUBSTATION The Guyana Police Force has announced that six pe...",
+  "published": "2026-11-18T17:12:19+00:00",
+  "text": "SIX TO APPEAR IN COURT TODAY OVER ATTACK ON GPL’S GOOD HOPE SUBSTATION\n The Guyana Police Force has announced that six persons are scheduled to appear before the Vigilance Magistrate’s Court today, Wednesday, November 18, 2026, on terrorism charges in connection with the November 10 fire at the Guyana Power and Light Inc.’s (GPL) Good Hope Substation, East Coast Demerara.\n The Police identified the accused as Alex Simpson, Timothy James, Yannick McCalman, Shane Fordyce, Jonathan Cox and Osafo Browne.\n According to the Police, the six have been charged with terrorism, contrary to Section 309A(1)(b)(ii) of the Criminal Law (Offences) Act, Chapter 8:01.\n The charges stem from the alleged use of flammable substances to set fire to the GPL substation, causing damage to the facility.\n The Guyana Police Force has also indicated that further charges are pending in relation to the alleged arson attack at Strathspey School, East Coast Demerara.\n Further information is expected following their court appearance.\n Source: Guyana Police Force",
+  "images": [
+   "https://scontent-lga3-3.xx.fbcdn.net/v/t39.30808-6/913239803_122213295794585308_3655568967263078177_n.jpg?_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=ebae6b&_nc_ohc=9vqZSi8MnnYQ7kNvwF7HE45&_nc_oc=AdrmKt8z6D4q5ZUYf-K17kzkhLyQbxt8BwAo8PyB5pxa2G3_GKot73x5J44rZwue2274E2mwMVpO2OO18F7E0GbK&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&_nc_gid=A-3kU-yiwnxVWdXyl5dS-w&_nc_ss=7c289&oh=00_AQTHpSD5vl3Brg1SO9p2DUdFrvZF-c6PAY-jKoM5f8_A8w&oe=6B03B25F"
+  ],
+  "captured_at": "2026-11-18T19:15:56.249676+00:00",
+  "type": "other",
+  "region": "East Coast Demerara",
+  "rules": "2026-11-14c",
+  "cause": null,
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [],
+  "times": [],
+  "suspected_shedding": []
+ },
+ {
+  "id": "2fcec65aac3434d6458427e48af2cc47",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid038JjSCS2uGz9YEdUoyUhRxC7DUVbiMR1EkQ6fKzTY4usW52aymyWRXTi2AQvrhaxkl",
+  "title": "Guyana Power & Light Inc. Posted",
+  "published": "2026-11-18T17:04:22+00:00",
+  "text": "",
+  "images": [],
+  "captured_at": "2026-11-18T19:15:56.249676+00:00",
+  "type": "other",
+  "region": null,
+  "rules": "2026-11-14c",
+  "cause": null,
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [],
+  "times": [],
+  "suspected_shedding": []
+ },
+ {
+  "id": "263ee154b5103a63dade1c7221d1d5bb",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid0QEYTiUmu4QifUVgHftWTzy3RpBGmc767U1JxeU6qinJ4b65iaFfdAQDzbfTha7tpl",
+  "title": "UPDATE – PLANNED MAINTENANCE EAST BERBICE-CORENTYNE As part of GPL’s ongoing efforts to modernize the electricity netw...",
+  "published": "2026-11-18T15:55:30+00:00",
+  "text": "UPDATE – PLANNED MAINTENANCE \n EAST BERBICE-CORENTYNE\n As part of GPL’s ongoing efforts to modernize the electricity network and ensure a more reliable and efficient supply to customers in East Berbice-Corentyne, our teams are currently conducting planned maintenance works in Seawell Village & Grand Canal.\n These works include the transfer of Medium Voltage (MV) Mains and the replacement of crossarms, pins and insulators.\n As a result, customers from Seawell Village & Grand Canal are currently experiencing an interruption in electricity supply. Power is expected to be restored by 14:00 hrs.\n We apologise for any inconvenience caused and thank you for your understanding.",
+  "images": [
+   "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/912661026_122213289152585308_2341129777201621053_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=2e5b1e&_nc_ohc=afaNSALyGA4Q7kNvwH8zlFq&_nc_oc=AdoJBIUEaqBzapQDfbV1cWajD4vj1_dN0Tib-Bat1YPxbYvXe3Y7kUBuSIY5PWp4D1Q&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=1Me0R8CfSGx715bc8TfldQ&_nc_ss=7c289&oh=00_AQRhgqClC0OfrCcjEIVSf9Ds-yEGGH48Xmrwh09Q0HuSyQ&oe=6B03A4FD"
+  ],
+  "captured_at": "2026-11-18T19:15:56.249676+00:00",
+  "type": "update",
+  "region": "East Berbice",
+  "rules": "2026-11-14c",
+  "cause": null,
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [
+   "Canal"
+  ],
+  "times": [
+   "14:00 hrs"
+  ],
+  "suspected_shedding": []
+ },
+ {
+  "id": "e585919c005fff6cc094b887eb835daa",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid02jdBpw6Vk8wBhrkG2wGAu9tnaL1qwBEn3U5Dk7kxLVPkmRmX6YiiGuRsZBAWE7qjsl",
+  "title": "UPDATE – ROAD WORKS WEST COAST DEMERARA In keeping with the Government of Guyana’s extensive and transformative road i...",
+  "published": "2026-11-18T15:08:34+00:00",
+  "text": "UPDATE – ROAD WORKS \n WEST COAST DEMERARA\n In keeping with the Government of Guyana’s extensive and transformative road infrastructure programme, works being undertaken along the West Coast Demerara at Stewartville are ongoing.\n The transferring of Medium Voltage Mains & Line Hardware is necessary to accommodate the Central Housing & Planning Authority (CH&PA) ongoing road expansion project.\n As a result, customers between Leonora and Naamryck continue to experience an interruption in power supply. Electricity is expected to be restored by 14:00 hrs upon completion of the works.\n GPL regrets any inconvenience these works may cause and thanks its valued customers for their patience and understanding as we continue to support national infrastructure development while delivering a safe and reliable electricity service.",
+  "images": [
+   "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/912746595_122213283056585308_5010113689070244276_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=e21142&_nc_ohc=QZndomJ_TIMQ7kNvwGjCCf7&_nc_oc=Ado8UfbNe4Sz9itpEwYEsJQqTC1qygoxu90Ivmy2dIg1ZDPFSkww3C1RrnpOXGVGT1c&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=1Me0R8CfSGx715bc8TfldQ&_nc_ss=7c289&oh=00_AQS6pWTywQEmwNHuR5fM7D22ZIfNh8eQ0jkVdVHi0mdELQ&oe=6B03A3FD"
+  ],
+  "captured_at": "2026-11-18T19:15:56.249676+00:00",
+  "type": "restored",
+  "region": "West Coast Demerara",
+  "rules": "2026-11-14c",
+  "cause": null,
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [
+   "Leonora"
+  ],
+  "times": [
+   "14:00 hrs"
+  ],
+  "suspected_shedding": []
+ },
+ {
+  "id": "c8b30fd6edb0a6094012d6e378343482",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid02iBCqZF74DjcYcbbn3UZLDhSJwKcwRjFrLeuQmjfKbS4QSaJuVqWZd3Bcw9wH2okal",
+  "title": "Guyana Power and Light Inc. (GPL) is upgrading 20,000 customers in Georgetown to smart meters as part of efforts to mode...",
+  "published": "2026-11-18T14:41:47+00:00",
+  "text": "Guyana Power and Light Inc. (GPL) is upgrading 20,000 customers in Georgetown to smart meters as part of efforts to modernise the electricity network and improve service delivery.\n The new meters will provide automatic readings and support faster restoration efforts. The meter, base and installation will be provided at no cost to customers.\n More information, including installation schedules and other important details, will be shared shortly.\n Customers are encouraged to follow GPL’s official social media platforms for updates on when installations will commence in their communities.",
+  "images": [
+   "https://scontent-lga3-3.xx.fbcdn.net/v/t39.30808-6/912746804_122213280236585308_5650162864675730939_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=e21142&_nc_ohc=UQnSjp3w0NUQ7kNvwEXJl8F&_nc_oc=Adrcrb2R07Kq45WJy9JjFRCc9eN6TGVkc8Q3pFk5EUaiUE_gazpdUCauKg6O_Js55Zo&_nc_zt=23&_nc_ht=scontent-lga3-3.xx&_nc_gid=1Me0R8CfSGx715bc8TfldQ&_nc_ss=7c289&oh=00_AQReBMEo6VzTpLkNTqCuCOgLZifMroSzdXldV9sdIceavg&oe=6B03C1BF"
+  ],
+  "captured_at": "2026-11-18T19:15:56.249676+00:00",
+  "type": "other",
+  "region": "Georgetown",
+  "rules": "2026-11-14c",
+  "cause": null,
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [],
+  "times": [],
+  "suspected_shedding": []
+ },
+ {
+  "id": "fea4ef6d6c470f1c8d3fae53ce1ffe24",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid02BpQkbdWk7wdhFYtykEGLSek9Aa4BSMFCUGwiC9Hcs5vFZP71exgFT4ZYmAeeAhLSl",
+  "title": "Stay connected to your GPL account anytime, anywhere with the My GPL Portal. With the portal, you can: • Pay your bills...",
+  "published": "2026-11-18T14:40:22+00:00",
+  "text": "Stay connected to your GPL account anytime, anywhere with the My GPL Portal. \n With the portal, you can:\n • Pay your bills online\n • View your consumption history\n • Update your contact information\n • Submit your meter reading\n • Access more convenient account services\n Scan the QR code and sign up today.\n #GPL #MyGPLPortal #CustomerService #OnlineServices #PoweringGuyana",
+  "images": [
+   "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/914579582_122213279870585308_8106480040781574306_n.jpg?_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=2e5b1e&_nc_ohc=E66zzAEWlGsQ7kNvwHjfqAq&_nc_oc=AdqBooTHMHoR8DRI7PowU8H8sD59MaH02-MpfmkckZvFTohvupr8lbSwnD0_I90bAaE&_nc_zt=23&_nc_ht=scontent-lga3-2.xx&_nc_gid=1Me0R8CfSGx715bc8TfldQ&_nc_ss=7c289&oh=00_AQToW5Iq9VAvnu2Vo66Gvb-pfT4fGuKCKV1LopXqOVLVqA&oe=6B03B008"
+  ],
+  "captured_at": "2026-11-18T19:15:56.249676+00:00",
+  "type": "other",
+  "region": null,
+  "rules": "2026-11-14c",
+  "cause": null,
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [],
+  "times": [],
+  "suspected_shedding": []
+ },
+ {
+  "id": "38c9ff19478d5e6d84c5b818e83403e5",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid0zhR5Bugu1WqGzrMuB6sX4adnDKE149h53juKgDYoDQuWqTwLMArQjbRsrD7bwznYl",
+  "title": "REMINDER!",
+  "published": "2026-11-18T13:31:04+00:00",
+  "text": "REMINDER!",
+  "images": [
+   "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-6/913154345_122213143256585308_3341151677267145905_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=2e5b1e&_nc_ohc=bN2l1kzI4HEQ7kNvwGx2s8d&_nc_oc=Adpi4F7ldLJHT1LzaarRNrFEDDkjwbthZgh-WHNlGLicgMTADR_98FkS-528cVC5370&_nc_zt=23&_nc_ht=scontent-lga3-1.xx&_nc_gid=1Me0R8CfSGx715bc8TfldQ&_nc_ss=7c289&oh=00_AQTdN8jTPkoJpAFACvQpGjP10tyVE9-l4J3FyJYGBuZc0g&oe=6B03B59D"
+  ],
+  "captured_at": "2026-11-18T19:15:56.249676+00:00",
+  "type": "other",
+  "region": null,
+  "rules": "2026-11-14c",
+  "cause": null,
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [],
+  "times": [],
+  "suspected_shedding": []
+ },
+ {
+  "id": "479954736f185ed8a4ad725b6a45ed6e",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid02nVQTZZCj7iQJC8RCHVB1bqGMpAmKvp317pTdXryqBtQfpV8nrfnbDrx8uzf1B1Lbl",
+  "title": "REMINDER!",
+  "published": "2026-11-18T13:29:43+00:00",
+  "text": "REMINDER!",
+  "images": [
+   "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/913010379_122213142848585308_5250186210675624926_n.jpg?stp=dst-jpg_p843x403_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=2e5b1e&_nc_ohc=rH8iBcWEBHMQ7kNvwH_zOlL&_nc_oc=Adrr2VlHOPer1GyJKntFvflXKkFuadvxEsl05XzpckxLHoIysgay0A8OqYQHkWkMniZxQt2Yp7dIaUBpEpnQNktG&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=hLLk28f68Xw56OJtmfTx1g&_nc_ss=7c289&oh=00_AQQAtCTGvWw7g7zZ06T79qRggTO8FURv_vucqDHDaSVfow&oe=6B03AAC0"
+  ],
+  "captured_at": "2026-11-18T19:15:56.249676+00:00",
+  "type": "other",
+  "region": null,
+  "rules": "2026-11-14c",
+  "cause": null,
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [],
+  "times": [],
+  "suspected_shedding": []
+ },
+ {
+  "id": "9e902c7cdb8828e04a53b0743552693c",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid0NSuKS9Xn3BRQsiqnm99cgwhVUgLXtXriStiJZeZ8NKwQ4EeTu2JvR6vxQHdfd6Til",
+  "title": "ADVISORY || PLANNED MAINTENANCE- EAST COAST DEMERARA",
+  "published": "2026-11-18T12:05:26+00:00",
+  "text": "ADVISORY || PLANNED MAINTENANCE- EAST COAST DEMERARA",
+  "images": [
+   "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/914552895_122213264270585308_3686656890786388663_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=2e5b1e&_nc_ohc=wmNG6Bw-6ckQ7kNvwHPsjrz&_nc_oc=Adr7gsDZ-Jxb663rSPLAahB0poWI3Bjyo9KxF1q6cbXRW4fRvEMC0xyY6zDgz1aZRVHjyhudw9XbFXSqfvxRe_84&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&_nc_gid=hLLk28f68Xw56OJtmfTx1g&_nc_ss=7c289&oh=00_AQT9Wiww-ar8Urq8tY2YjX74CA6kaejmKBNFVu5PEe4Hzg&oe=6B03968F"
+  ],
+  "captured_at": "2026-11-18T19:15:56.249676+00:00",
+  "type": "other",
+  "region": "East Coast Demerara",
+  "rules": "2026-11-14c",
+  "cause": null,
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [],
+  "times": [],
+  "suspected_shedding": []
+ },
+ {
   "id": "5a9fbfc5f75022e27681a6a3cfd2e09d",
   "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid036GgBPMAXiDhpJr4GbwDJPfEDiq9oCw2W6ufJxV5hK2VHRkH89qopm7v5CfUrjaD1l",
   "title": "ADVISORY – SERVICE INTERRUPTION (ESSEQUIBO COAST) Guyana Power and Light Inc. (GPL) wishes to advise customers from Onde...",
@@ -17,7 +267,8 @@
    "Onderneeming to Supenaam"
   ],
   "times": [],
-  "suspected_shedding": []
+  "suspected_shedding": [],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
  {
   "id": "ad2cca66e16fc3aa696147aedb4c8cae",
@@ -40,7 +291,8 @@
   "suspected_shedding": [
    "peak hours",
    "rotation"
-  ]
+  ],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
  {
   "id": "58361c91eb3a55e609db2f3e7e02f8cb",
@@ -61,7 +313,8 @@
    "Best"
   ],
   "times": [],
-  "suspected_shedding": []
+  "suspected_shedding": [],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
  {
   "id": "211407bd42dc07a4dabe17d78136f7bc",
@@ -82,7 +335,8 @@
   "suspected_shedding": [
    "peak hours",
    "rotation"
-  ]
+  ],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
  {
   "id": "5be1e2354522ef797b39fd4c81f18d09",
@@ -104,7 +358,8 @@
   "times": [],
   "suspected_shedding": [
    "peak hours"
-  ]
+  ],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
  {
   "id": "48cf09a8660f58ee4e244d9e50911170",
