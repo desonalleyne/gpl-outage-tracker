@@ -1,5 +1,48 @@
 [
  {
+  "id": "48cf09a8660f58ee4e244d9e50911170",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid0yF74EDPnTxLfnhEwgF4CmvzQKfF349ybrUu5Yr2htt9FTnTi8HQ2fDcKWT82cbcUl",
+  "title": "ADVISORY — GEORGETOWN The Guyana Power and Light Inc. wishes to advise that following a distribution feeder going offli...",
+  "published": "2026-11-17T23:43:44+00:00",
+  "text": "ADVISORY — GEORGETOWN \n The Guyana Power and Light Inc. wishes to advise that following a distribution feeder going offline at our New Georgetown Substation, the following areas are currently experiencing an interruption in power supply:\n - Lamaha Gardens\n - Section K, Campbellville\n Please be assured that our teams are working assiduously to restore power to the aforementioned areas within the shortest possible time.\n Additional information will be provided in a subsequent post.\n We sincerely apologize for the inconvenience caused.",
+  "images": [],
+  "captured_at": "2026-11-18T02:12:48.317779+00:00",
+  "type": "unplanned",
+  "region": "Georgetown",
+  "rules": "2026-11-14c",
+  "cause": "Equipment failure",
+  "feeder_offline": true,
+  "feeders": [],
+  "areas": [
+   "Lamaha",
+   "Campbellville"
+  ],
+  "times": [],
+  "suspected_shedding": []
+ },
+ {
+  "id": "441b76f99838fea91c475a6fa5f9ee57",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid02xaZ2dT5BKe5MyqreHedB4Uh5xHwtmGUEw27V588DFSzZAKn4b11kJXLnkJp7GTv5l",
+  "title": "ADVISORY — GEORGETOWN The Guyana Power and Light Inc. wishes to advise that following a distribution feeder going offli...",
+  "published": "2026-11-17T22:30:25+00:00",
+  "text": "ADVISORY — GEORGETOWN \n The Guyana Power and Light Inc. wishes to advise that following a distribution feeder going offline at our New Georgetown Substation, the following areas are currently experiencing an interruption in power suppy: \n - Industrial Site to Houston\n - Rahaman Turn to Eccles Public Road\n - Sections of Republic Park to Providence Public Road\n Please be assured that our teams are working assiduously to restore power to the aforementioned areas within the shortest possible time. \n Additional information will be provided in a subsequent post. \n We sincerely apologize for the inconvenience caused.",
+  "images": [],
+  "captured_at": "2026-11-18T02:12:48.317779+00:00",
+  "type": "unplanned",
+  "region": "Georgetown",
+  "rules": "2026-11-14c",
+  "cause": "Equipment failure",
+  "feeder_offline": true,
+  "feeders": [],
+  "areas": [
+   "Houston",
+   "Eccles",
+   "Providence"
+  ],
+  "times": [],
+  "suspected_shedding": []
+ },
+ {
   "id": "602940de6ee57c8b0e7f02e4e1dffbdc",
   "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid0kwdpNBi9Rk2CPZvraPrUgH2fZ8WJvLFysCKQNvB8uYfo4r2GSyFgHUAmZCLzck7Fl",
   "title": "UPDATE #3 – MAINTENANCE (SKELDON POWER PLANT) Guyana Power and Light Inc. (GPL) wishes to advise customers that the sche...",
@@ -17,7 +60,8 @@
    "Skeldon"
   ],
   "times": [],
-  "suspected_shedding": []
+  "suspected_shedding": [],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
  {
   "id": "43280d39f892011995ea35b8d41a5344",
@@ -37,7 +81,8 @@
   "times": [
    "16:00 hrs"
   ],
-  "suspected_shedding": []
+  "suspected_shedding": [],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
  {
   "id": "7cc1c2d942b47ee68948bd6c658cf7c6",
@@ -61,7 +106,8 @@
   "times": [
    "12:00 hrs"
   ],
-  "suspected_shedding": []
+  "suspected_shedding": [],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
  {
   "id": "e18011475abc81c72f55deb37737370d",
@@ -85,7 +131,8 @@
   "times": [
    "12:00 hrs"
   ],
-  "suspected_shedding": []
+  "suspected_shedding": [],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
  {
   "id": "6819f621a3d38f4bd23046bc0533cd3d",
@@ -103,7 +150,8 @@
   "feeders": [],
   "areas": [],
   "times": [],
-  "suspected_shedding": []
+  "suspected_shedding": [],
+  "link_check": "embed: live (400)"
  },
  {
   "id": "c5318ff0009f452e2287dded554fa2e1",
@@ -121,7 +169,8 @@
   "feeders": [],
   "areas": [],
   "times": [],
-  "suspected_shedding": []
+  "suspected_shedding": [],
+  "link_check": "embed: live (400)"
  },
  {
   "id": "ffc007236ecd72f3c9f8d7498a965c3d",
@@ -141,7 +190,8 @@
   "feeders": [],
   "areas": [],
   "times": [],
-  "suspected_shedding": []
+  "suspected_shedding": [],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
  {
   "id": "fc69968bc3b2dfaefbf8d8a6f9ffdbd5",
@@ -161,7 +211,8 @@
   "feeders": [],
   "areas": [],
   "times": [],
-  "suspected_shedding": []
+  "suspected_shedding": [],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
  {
   "id": "ccdbc0459b7e128daa2e8990f641130e",
@@ -182,7 +233,8 @@
    "Grove"
   ],
   "times": [],
-  "suspected_shedding": []
+  "suspected_shedding": [],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
  {
   "id": "c4d1fdb269e65f6df0a1689a31f8f5d1",
