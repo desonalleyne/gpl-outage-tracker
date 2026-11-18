@@ -1,5 +1,112 @@
 [
  {
+  "id": "5a9fbfc5f75022e27681a6a3cfd2e09d",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid036GgBPMAXiDhpJr4GbwDJPfEDiq9oCw2W6ufJxV5hK2VHRkH89qopm7v5CfUrjaD1l",
+  "title": "ADVISORY – SERVICE INTERRUPTION (ESSEQUIBO COAST) Guyana Power and Light Inc. (GPL) wishes to advise customers from Onde...",
+  "published": "2026-11-18T06:08:05+00:00",
+  "text": "ADVISORY – SERVICE INTERRUPTION (ESSEQUIBO COAST)\n Guyana Power and Light Inc. (GPL) wishes to advise customers from Onderneeming to Supenaam that they are currently experiencing an interruption in electricity supply due to a distribution feeder going offline.\n GPL’s technical teams are investigating the cause and working to restore electricity supply to all affected customers as quickly and safely as possible.\n GPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
+  "images": [],
+  "captured_at": "2026-11-18T10:31:10.535880+00:00",
+  "type": "unplanned",
+  "region": "Essequibo Coast",
+  "rules": "2026-11-14c",
+  "cause": "No reason given",
+  "feeder_offline": true,
+  "feeders": [],
+  "areas": [
+   "Onderneeming to Supenaam"
+  ],
+  "times": [],
+  "suspected_shedding": []
+ },
+ {
+  "id": "ad2cca66e16fc3aa696147aedb4c8cae",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid0319dCA6HYYhHTGHJhKfaVUmhw6vVZKBkX31ozuRi42TdjLK4feHih6V4kPpm5jxEwl",
+  "title": "ADVISORY – SERVICE INTERRUPTION (ESSEQUIBO COAST) Guyana Power and Light Inc. (GPL) wishes to advise customers from Rive...",
+  "published": "2026-11-18T02:08:00+00:00",
+  "text": "ADVISORY – SERVICE INTERRUPTION (ESSEQUIBO COAST)\n Guyana Power and Light Inc. (GPL) wishes to advise customers from Riverstown to Supenaam that they are currently experiencing an interruption in electricity supply due to a distribution feeder going offline.\n GPL’s technical teams are investigating the cause and working to restore electricity supply to all affected customers as quickly and safely as possible.\n GPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
+  "images": [],
+  "captured_at": "2026-11-18T10:31:10.535880+00:00",
+  "type": "unplanned",
+  "region": "Essequibo Coast",
+  "rules": "2026-11-14c",
+  "cause": "No reason given",
+  "feeder_offline": true,
+  "feeders": [],
+  "areas": [
+   "Riverstown to Supenaam"
+  ],
+  "times": [],
+  "suspected_shedding": [
+   "peak hours",
+   "rotation"
+  ]
+ },
+ {
+  "id": "58361c91eb3a55e609db2f3e7e02f8cb",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid021oxaRgjhg7wfweyFKS596PRBeEc4fk2JxNakLmfG3QdR4SeEqpis1UTqxqPFi8yPl",
+  "title": "UPDATE — WEST COAST DEMERARA The Guyana Power and Light Inc. wishes to advise that incremental restoration has commenced...",
+  "published": "2026-11-18T02:04:59+00:00",
+  "text": "UPDATE — WEST COAST DEMERARA\n The Guyana Power and Light Inc. wishes to advise that incremental restoration has commenced following a distribution feeder going offline at our Edinburgh Substation. \n Thus far, areas between Edinburgh to sections of Windsor Forest have been repowered. \n Our teams are working to restore power to areas between the remaining affected areas of Windsor Forest and Best Village. \n Additional information will be provided in a subsequent post.\n We sincerely apologize for the inconvenience caused.",
+  "images": [],
+  "captured_at": "2026-11-18T10:31:10.535880+00:00",
+  "type": "update",
+  "region": "West Coast Demerara",
+  "rules": "2026-11-14c",
+  "cause": null,
+  "feeder_offline": true,
+  "feeders": [],
+  "areas": [
+   "Edinburgh",
+   "Best"
+  ],
+  "times": [],
+  "suspected_shedding": []
+ },
+ {
+  "id": "211407bd42dc07a4dabe17d78136f7bc",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid02ZEtnmP8gBT6815q1DiE78YcxfTEtT5ENKpyDWTeTA6RQsH9cKeDA4gdmL614D7SVl",
+  "title": "ADVISORY — ESSEQUIBO COAST Dear customers between Riverstown and Supenaam, please be advised that the service interrupt...",
+  "published": "2026-11-18T02:01:55+00:00",
+  "text": "ADVISORY — ESSEQUIBO COAST \n Dear customers between Riverstown and Supenaam, please be advised that the service interruption being experienced is due to a section of the distribution feeder coming offline.\n Please rest assured that all efforts are being made to restore power within the shortest possible time. \n Additional information will be provided in a subsequent post. \n We sincerely apologize for the inconvenience caused.",
+  "images": [],
+  "captured_at": "2026-11-18T10:31:10.535880+00:00",
+  "type": "unplanned",
+  "region": "Essequibo Coast",
+  "rules": "2026-11-14c",
+  "cause": "No reason given",
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [],
+  "times": [],
+  "suspected_shedding": [
+   "peak hours",
+   "rotation"
+  ]
+ },
+ {
+  "id": "5be1e2354522ef797b39fd4c81f18d09",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid02mYiJqA3ooiRqwdGPrp1ZBWSCTtdcfQtGogGpe4ZvE2MfzSx9AzJ1Lffi7bmtDdnl",
+  "title": "ADVISORY — WEST COAST DEMERARA The Guyana Power and Light Inc. wishes to advise that following a distribution feeder goi...",
+  "published": "2026-11-18T01:07:45+00:00",
+  "text": "ADVISORY — WEST COAST DEMERARA\n The Guyana Power and Light Inc. wishes to advise that following a distribution feeder going offline, customers from Edinburgh to Best, West Coast Demerara, are currently experiencing an interruption in power supply.\n Please be assured that our teams are working assiduously to restore power to the affected areas within the shortest possible time.\n Additional information will be provided in a subsequent post.\n We sincerely apologize for the inconvenience caused.",
+  "images": [],
+  "captured_at": "2026-11-18T10:31:10.535880+00:00",
+  "type": "unplanned",
+  "region": "West Coast Demerara",
+  "rules": "2026-11-14c",
+  "cause": "No reason given",
+  "feeder_offline": true,
+  "feeders": [],
+  "areas": [
+   "Edinburgh to Best"
+  ],
+  "times": [],
+  "suspected_shedding": [
+   "peak hours"
+  ]
+ },
+ {
   "id": "48cf09a8660f58ee4e244d9e50911170",
   "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid0yF74EDPnTxLfnhEwgF4CmvzQKfF349ybrUu5Yr2htt9FTnTi8HQ2fDcKWT82cbcUl",
   "title": "ADVISORY — GEORGETOWN The Guyana Power and Light Inc. wishes to advise that following a distribution feeder going offli...",
@@ -18,7 +125,8 @@
    "Campbellville"
   ],
   "times": [],
-  "suspected_shedding": []
+  "suspected_shedding": [],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
  {
   "id": "441b76f99838fea91c475a6fa5f9ee57",
@@ -40,7 +148,8 @@
    "Providence"
   ],
   "times": [],
-  "suspected_shedding": []
+  "suspected_shedding": [],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
  {
   "id": "602940de6ee57c8b0e7f02e4e1dffbdc",
