@@ -1,5 +1,30 @@
 [
  {
+  "id": "fb:GuyanaPowerAndLight:1795200516",
+  "fb_time": 1795200516,
+  "link": "https://www.facebook.com/GuyanaPowerAndLight",
+  "title": "ADVISORY — West Demerara",
+  "published": "2026-11-20T18:48:36+00:00",
+  "text": "ADVISORY — West Demerara\n\nThe Guyana Power and Light Inc. (GPL) wishes to advise customers from Best to Vriesland that the service interruption being experienced is due to a feeder coming offline at our Vreed-en-Hoop Substation.\n\nOur technical teams are working to identify and resolve the issue and restore electricity as soon as possible.\n\nGPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
+  "images": [],
+  "reactions": 1,
+  "comments": 0,
+  "shares": 1,
+  "captured_at": "2026-11-20T18:50:03.312239+00:00",
+  "type": "unplanned",
+  "region": "West Demerara",
+  "rules": "2026-11-19a",
+  "cause": "No reason given",
+  "feeder_offline": true,
+  "feeders": [],
+  "areas": [
+   "Best to Vriesland",
+   "Vreed-en-Hoop"
+  ],
+  "times": [],
+  "suspected_shedding": []
+ },
+ {
   "id": "fb:GuyanaPowerAndLight:1795195023",
   "fb_time": 1795195023,
   "link": "https://www.facebook.com/GuyanaPowerAndLight",
@@ -8,7 +33,7 @@
   "text": "UPDATE – SERVICE RESTORATION IN PROGRESS (ESSEQUIBO COAST)\n\nGuyana Power and Light Inc. (GPL) wishes to advise that power restoration efforts are ongoing following the earlier system disturbance at the Anna Regina Power Station.\n\nElectricity supply has been restored to customers in the following areas:\n\n- Anna Regina to Lima\n- Lima to Devonshire Castle\n- Anna Regina to La Union\n\nGPL’s technical teams continue to work to restore electricity supply to all remaining affected customers as quickly and safely as possible.\n\nGPL apologises for the continued inconvenience and thanks customers for their patience and understanding.",
   "images": [],
   "reactions": 13,
-  "comments": 12,
+  "comments": 13,
   "shares": 2,
   "captured_at": "2026-11-20T17:20:03.576273+00:00",
   "type": "restored",
@@ -65,7 +90,7 @@
   ],
   "reactions": 59,
   "comments": 54,
-  "shares": 19,
+  "shares": 20,
   "captured_at": "2026-11-20T16:00:03.440192+00:00",
   "type": "unplanned",
   "region": "Georgetown",
