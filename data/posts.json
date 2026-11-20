@@ -1,5 +1,29 @@
 [
  {
+  "id": "fb:GuyanaPowerAndLight:1795192239",
+  "fb_time": 1795192239,
+  "link": "https://www.facebook.com/GuyanaPowerAndLight",
+  "title": "ADVISORY – SERVICE INTERRUPTION (ESSEQUIBO COAST)",
+  "published": "2026-11-20T16:30:39+00:00",
+  "text": "ADVISORY – SERVICE INTERRUPTION (ESSEQUIBO COAST)\n\nGuyana Power and Light Inc. (GPL) wishes to advise customers on the Essequibo Coast that they are currently experiencing an interruption in electricity supply due to a system disturbance at the Anna Regina Power Station.\n\nGPL’s technical teams are working to identify the cause and restore electricity supply to all affected customers as quickly and safely as possible.\n\nGPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
+  "images": [],
+  "reactions": 0,
+  "comments": 0,
+  "shares": 1,
+  "captured_at": "2026-11-20T16:35:03.251692+00:00",
+  "type": "unplanned",
+  "region": "Essequibo Coast",
+  "rules": "2026-11-19a",
+  "cause": "System disturbance",
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [
+   "Anna Regina"
+  ],
+  "times": [],
+  "suspected_shedding": []
+ },
+ {
   "id": "fb:GuyanaPowerAndLight:1795190281",
   "fb_time": 1795190281,
   "link": "https://www.facebook.com/GuyanaPowerAndLight",
@@ -12,8 +36,8 @@
    "https://scontent-gru2-1.xx.fbcdn.net/v/t39.30808-6/914266651_122213563826585308_2035413372203865573_n.jpg?stp=cp6_dst-jpegr_p261x260_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=sdVV7g8JLiwQ7kNvwFNMwwf&_nc_oc=AdriZswj1hTNK2ZIQlxYuTrSlMbhdVhCegiQnXnzPwXERvvPVNr3z9ZwJjO-EmDlQj0&_nc_zt=23&se=-1&_nc_ht=scontent-gru2-1.xx&edm=ADwHzz8EAAAA&_nc_gid=1Euv_iHE2DQSEhFFv6kzRA&oh=00_AQQVViHhPUBtjZU9kvqVFVY3OfwHnW1czZSo8dfZpt1lig&oe=6B06342B",
    "https://scontent-gru2-1.xx.fbcdn.net/v/t39.30808-6/910708516_122213563910585308_2834165946219988243_n.jpg?stp=cp6_dst-jpegr_p261x260_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=hswjKJtyDGoQ7kNvwF-oE49&_nc_oc=AdoyVkLd7V0zRdyd05d06G9imPvJCzR9iNz7PPgDxbTWtlNm3LFzDzhgm0SIBuiYgIQ&_nc_zt=23&se=-1&_nc_ht=scontent-gru2-1.xx&edm=ADwHzz8EAAAA&_nc_gid=1Euv_iHE2DQSEhFFv6kzRA&oh=00_AQQQ0BBRc6rbcWBe_qx5N9UKz8uGROZObpmiXHtD-_Lrcg&oe=6B063016"
   ],
-  "reactions": 26,
-  "comments": 15,
+  "reactions": 27,
+  "comments": 19,
   "shares": 7,
   "captured_at": "2026-11-20T16:00:03.440192+00:00",
   "type": "unplanned",
@@ -35,7 +59,7 @@
   "text": "UPDATE – SERVICE INTERRUPTION (BERBICE)\n\nGuyana Power and Light Inc.  wishes to update customers from Canefield to Williamsburg and Canefield to Kortberaadt on the ongoing service interruption.\n\nGPL’s technical teams have successfully rectified the damage to the switchgear at the Canefield Substation. However, during attempts to repower the substation, a technical fault was encountered on the busbar, a key network component responsible for facilitating the transmission of electricity from the substation to customers.\n\nOur technical teams are currently investigating the fault to determine the necessary corrective actions.\n\nFurther information, including an estimated restoration time, will be provided as it becomes available.\n\nGPL apologises for the continued inconvenience and thanks customers for their patience and understanding.",
   "images": [],
   "reactions": 82,
-  "comments": 142,
+  "comments": 148,
   "shares": 22,
   "captured_at": "2026-11-20T12:10:03.938230+00:00",
   "type": "update",
@@ -85,7 +109,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 76,
+  "missing_runs": 77,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-20T10:20:03.078115+00:00"
  },
@@ -101,7 +125,7 @@
    "https://scontent-gru2-2.xx.fbcdn.net/v/t39.30808-6/912981929_122213524496585308_2868716100683759206_n.jpg?stp=dst-jpg_p261x260_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=5FHVP81vSnUQ7kNvwF_23Pa&_nc_oc=AdoiriQB3qjJ1S1j3EDwi7JCpiHiaw7I08IYDGkyhNIFcNtTB5FlNWjHfbmyJLk0F94&_nc_zt=23&_nc_ht=scontent-gru2-2.xx&edm=ADwHzz8EAAAA&_nc_gid=JO0LLbabC5555X1mOKsK_Q&oh=00_AQTkkEC3ZBnR3nKp-N6ARe-tZGR4VEUx_qwoQbLk7Jwwog&oe=6B05F726",
    "https://scontent-gru3-1.xx.fbcdn.net/v/t39.30808-6/913777501_122213524538585308_7893374483372923039_n.jpg?stp=dst-jpg_p261x260_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=8ZIueYr0CgEQ7kNvwGwgt0q&_nc_oc=AdqNfY24Q9qdCGfNruz6CMdhYAkIlDJru2p8LCz8PiDIFbJCJR-6_6g84QKgk21KPIg&_nc_zt=23&_nc_ht=scontent-gru3-1.xx&edm=ADwHzz8EAAAA&_nc_gid=JO0LLbabC5555X1mOKsK_Q&oh=00_AQSnRC3S4JvK0JoQJgRRhvvwQCKiDwHhjKOADqr7xEW91w&oe=6B05E542"
   ],
-  "reactions": 111,
+  "reactions": 112,
   "comments": 123,
   "shares": 45,
   "captured_at": "2026-11-20T09:35:03.313666+00:00",
@@ -149,7 +173,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 76,
+  "missing_runs": 77,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-20T10:20:03.078115+00:00"
  },
