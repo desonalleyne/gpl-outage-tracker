@@ -1,5 +1,136 @@
 [
  {
+  "id": "d80e8a7cd1acdc1cae497e1e04b233f6",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid02yVdWyenx2eDoXsSHYfn5jjfrpBP23wshGTRkektWx18BGfbU2QM8WpAgsm4CJJfHl",
+  "title": "ADVISORY – SERVICE INTERRUPTION (ESSEQUIBO COAST) Guyana Power and Light Inc. (GPL) wishes to advise customers in the fo...",
+  "published": "2026-11-19T23:21:49+00:00",
+  "text": "ADVISORY – SERVICE INTERRUPTION (ESSEQUIBO COAST)\n Guyana Power and Light Inc. (GPL) wishes to advise customers in the following areas that they are currently experiencing an interruption in electricity supply due to reduced generation capacity at the Anna Regina Power Station:\n - Vilvoorden to Supenaam\n - Riverstown to Supenaam\n - Anna Regina\n - Richmond\n - Henrietta Housing Scheme\n This follows a damaged voltage regulator on a rented 1.5-megawatt (MW) Caterpillar (CAT) generator set. **A replacement voltage regulator is expected to be reprogrammed and delivered tomorrow morning** to facilitate the necessary repairs.\n GPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
+  "images": [],
+  "captured_at": "2026-11-20T01:05:35.365795+00:00",
+  "type": "unplanned",
+  "region": "Essequibo Coast",
+  "rules": "2026-11-14c",
+  "cause": "Generation shortfall",
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [
+   "Anna Regina"
+  ],
+  "times": [],
+  "suspected_shedding": []
+ },
+ {
+  "id": "52104b19e4e8a4aa6189f30e1b4e8fe0",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid0qMWs9WLJH6BS738axciRDvpdPKNZxUG8Yof1jTZNSTfjp7ySZrJEC1MZgDf6kGrZl",
+  "title": "ADVISORY – SERVICE INTERRUPTION (EAST COAST DEMERARA) Guyana Power and Light Inc. wishes to advise customers from Enmore...",
+  "published": "2026-11-19T23:15:33+00:00",
+  "text": "ADVISORY – SERVICE INTERRUPTION (EAST COAST DEMERARA)\n Guyana Power and Light Inc. wishes to advise customers from Enmore to Victoria and environs that they are currently experiencing an interruption in electricity supply due to a distribution feeder going offline.\n GPL’s technical teams are investigating the cause and working to restore electricity supply to all affected customers as quickly and safely as possible.\n GPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
+  "images": [],
+  "captured_at": "2026-11-20T01:05:35.365795+00:00",
+  "type": "unplanned",
+  "region": "East Coast Demerara",
+  "rules": "2026-11-14c",
+  "cause": "No reason given",
+  "feeder_offline": true,
+  "feeders": [],
+  "areas": [
+   "Enmore to Victoria"
+  ],
+  "times": [],
+  "suspected_shedding": [
+   "peak hours",
+   "rotation"
+  ]
+ },
+ {
+  "id": "897d15d509eb6594413dcad4f67c1f4f",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid0jPKVf3pjM9X5Bujkm1tM8xKB86yqMq2bqF6k6Q1NppccfaHmvk3nDTvn2doTAWHyl",
+  "title": "PUBLIC NOTICE – POTENTIAL SERVICE INTERRUPTIONS (ESSEQUIBO COAST) Guyana Power and Light Inc. (GPL) wishes to advise cus...",
+  "published": "2026-11-19T22:24:06+00:00",
+  "text": "PUBLIC NOTICE – POTENTIAL SERVICE INTERRUPTIONS (ESSEQUIBO COAST)\n Guyana Power and Light Inc. (GPL) wishes to advise customers along the Essequibo Coast that a rented 1.5-megawatt (MW) Caterpillar (CAT) generator set at the Anna Regina Power Station has developed a fault due to a damaged voltage regulator.\n A replacement voltage regulator is expected to be reprogrammed and delivered tomorrow morning to facilitate the necessary repairs.\n As a result of the reduction in available generation capacity, customers in sections along the Essequibo Coast may experience interruptions in electricity supply until the issue is resolved.\n GPL’s technical teams are working to address the situation and restore the affected generation capacity as quickly and safely as possible.\n GPL apologises for the inconvenience this may cause and thanks customers for their patience and understanding.",
+  "images": [],
+  "captured_at": "2026-11-20T01:05:35.365795+00:00",
+  "type": "unplanned",
+  "region": "Essequibo Coast",
+  "rules": "2026-11-14c",
+  "cause": "Generation shortfall",
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [
+   "Anna Regina"
+  ],
+  "times": [],
+  "suspected_shedding": []
+ },
+ {
+  "id": "1f2b5d5fb1ea1c1d8383a04d6c89a734",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid035yXm9zx7dsJk8sRe14Mh8Uykjr2jic8CzBP33wQThUmBsSURXJPrLeq9mnHXNgBml",
+  "title": "ADVISORY – SERVICE INTERRUPTION (GEORGETOWN & EAST COAST DEMERARA) Guyana Power and Light Inc. (GPL) wishes to advise cu...",
+  "published": "2026-11-19T22:09:57+00:00",
+  "text": "ADVISORY – SERVICE INTERRUPTION (GEORGETOWN & EAST COAST DEMERARA)\n Guyana Power and Light Inc. (GPL) wishes to advise customers in the following areas that they are currently experiencing an interruption in electricity supply due to a distribution feeder going offline:\n - Alexander Village\n - River View\n - Rahaman Turn to Harold Street\n - Industry to Chateau Margot\n GPL’s technical teams are investigating the cause and working to restore electricity supply to all affected customers as quickly and safely as possible.\n GPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
+  "images": [],
+  "captured_at": "2026-11-20T01:05:35.365795+00:00",
+  "type": "unplanned",
+  "region": "Georgetown",
+  "rules": "2026-11-14c",
+  "cause": "No reason given",
+  "feeder_offline": true,
+  "feeders": [],
+  "areas": [],
+  "times": [],
+  "suspected_shedding": [
+   "peak hours",
+   "rotation"
+  ]
+ },
+ {
+  "id": "4e938b020b00b79a729169f1e01382e9",
+  "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid02iZ3izFLBaMM4eDR9VwEg9nuJgChztR6KzWLrwetXzc6vPzzZAMS9uy7QaoyJZVLUl",
+  "title": "ADVISORY – SERVICE INTERRUPTION (EAST BANK DEMERARA) Guyana Power and Light Inc. (GPL) wishes to advise customers from G...",
+  "published": "2026-11-19T21:49:32+00:00",
+  "text": "ADVISORY – SERVICE INTERRUPTION (EAST BANK DEMERARA)\n Guyana Power and Light Inc. (GPL) wishes to advise customers from Garden of Eden (GOE) to Timehri and along the Soesdyke–Linden Highway to Long Creek that they are currently experiencing an interruption in electricity supply due to a distribution feeder going offline.\n GPL’s technical teams are investigating the cause and working to restore electricity supply to all affected customers as quickly and safely as possible.\n GPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
+  "images": [],
+  "captured_at": "2026-11-20T01:05:35.365795+00:00",
+  "type": "unplanned",
+  "region": "East Bank Demerara",
+  "rules": "2026-11-14c",
+  "cause": "No reason given",
+  "feeder_offline": true,
+  "feeders": [],
+  "areas": [
+   "Garden of Eden",
+   "Timehri",
+   "Soesdyke",
+   "Linden",
+   "Long Creek"
+  ],
+  "times": [],
+  "suspected_shedding": [
+   "peak hours",
+   "rotation"
+  ]
+ },
+ {
+  "id": "803f351f3cb2fe87bcc52cfb8b49de56",
+  "link": "https://www.facebook.com/reel/41045281481725608/",
+  "title": "Need a new electricity connection? GPL makes it easier! Getting connected starts with knowing the process! Visit our web...",
+  "published": "2026-11-19T19:01:37+00:00",
+  "text": "Need a new electricity connection? GPL makes it easier!\n Getting connected starts with knowing the process! Visit our website to learn about the requirements, documents needed, and steps to apply for a new service.\n 🌐 Apply or learn more: www.gplinc.com/services/new-service \n Let us help you get connected!\n #GPLInc #NewService #GetConnected #Guyana",
+  "images": [
+   "https://scontent-dfw5-3.xx.fbcdn.net/v/t15.5256-10/894585781_1107101282147989_972730652479767078_n.jpg?stp=dst-jpg_p565x565_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=3a9e82&_nc_ohc=yqAWfgGxT_YQ7kNvwH87HNz&_nc_oc=Adp6L_didx_5smykUfN8vxvq_5IdTbT-MMgX3nHpho2EgNrFhAVEPAhgQvvxrr_A26XmJkORa6MAbIq3OGrePY9w&_nc_zt=23&_nc_ht=scontent-dfw5-3.xx&_nc_gid=QuAW9RGpfOMjiRqgnZsHDg&_nc_ss=7c289&oh=00_AQR4bpp4EYSsR0vpYsaVCLrPhnZ3qYvpOkjBUsvjOiuebw&oe=6B052CF5"
+  ],
+  "captured_at": "2026-11-20T01:05:35.365795+00:00",
+  "type": "other",
+  "region": null,
+  "rules": "2026-11-14c",
+  "cause": null,
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [],
+  "times": [],
+  "suspected_shedding": []
+ },
+ {
   "id": "31935ec15dd12f8cf4b2b3885f41e753",
   "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid0gTHAdVhdsomdKjZyUAbe3D4eMsCVfVZc6ApR6xHPZimjaf7LCDgNRe9ARJMg4cmkl",
   "title": "ADVISORY – SERVICE INTERRUPTION (GEORGETOWN) Guyana Power and Light Inc. (GPL) wishes to advise customers in Water Stree...",
@@ -17,7 +148,8 @@
   "times": [],
   "suspected_shedding": [
    "rotation"
-  ]
+  ],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
  {
   "id": "4a883382025d2b5f77120069cdbb3482",
@@ -37,7 +169,8 @@
   "feeders": [],
   "areas": [],
   "times": [],
-  "suspected_shedding": []
+  "suspected_shedding": [],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
  {
   "id": "dd7217191d64f20b304b0c0b15b2992e",
@@ -57,7 +190,8 @@
   "times": [],
   "suspected_shedding": [
    "rotation"
-  ]
+  ],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
  {
   "id": "64d0a35cff89d409d6c9c402a6027979",
@@ -79,7 +213,8 @@
   "times": [
    "15:00 hrs"
   ],
-  "suspected_shedding": []
+  "suspected_shedding": [],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
  {
   "id": "e98874ff398d41a37a7a229fec0f979d",
@@ -99,7 +234,8 @@
   "times": [
    "14:00 hrs"
   ],
-  "suspected_shedding": []
+  "suspected_shedding": [],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
  {
   "id": "48f7946cf1114eab1146d30f985d9f46",
@@ -121,7 +257,8 @@
   "times": [
    "14:00 hrs"
   ],
-  "suspected_shedding": []
+  "suspected_shedding": [],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
  {
   "id": "c053c44054c86a04f87b7dc73afef170",
@@ -141,7 +278,8 @@
    "Canje to Auchlyne"
   ],
   "times": [],
-  "suspected_shedding": []
+  "suspected_shedding": [],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
  {
   "id": "642cdb9761480c10d57e9bb5a9ca00a1",
@@ -161,7 +299,8 @@
   "feeders": [],
   "areas": [],
   "times": [],
-  "suspected_shedding": []
+  "suspected_shedding": [],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
  {
   "id": "ffb3b19de880128419d48c2f9a75c356",
@@ -181,7 +320,8 @@
   "feeders": [],
   "areas": [],
   "times": [],
-  "suspected_shedding": []
+  "suspected_shedding": [],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
  {
   "id": "7f0ec4e73a6d0b1829f2a76e79bb4fdb",
@@ -201,7 +341,8 @@
   "feeders": [],
   "areas": [],
   "times": [],
-  "suspected_shedding": []
+  "suspected_shedding": [],
+  "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
  {
   "id": "8c58262b0d2ac31b12dd8ce4c2d4dec4",
