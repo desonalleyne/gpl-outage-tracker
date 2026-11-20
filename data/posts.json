@@ -34,7 +34,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 18,
+  "missing_runs": 19,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-20T10:20:03.078115+00:00"
  },
@@ -50,9 +50,9 @@
    "https://scontent-gru2-2.xx.fbcdn.net/v/t39.30808-6/912981929_122213524496585308_2868716100683759206_n.jpg?stp=dst-jpg_p261x260_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=5FHVP81vSnUQ7kNvwF_23Pa&_nc_oc=AdoiriQB3qjJ1S1j3EDwi7JCpiHiaw7I08IYDGkyhNIFcNtTB5FlNWjHfbmyJLk0F94&_nc_zt=23&_nc_ht=scontent-gru2-2.xx&edm=ADwHzz8EAAAA&_nc_gid=JO0LLbabC5555X1mOKsK_Q&oh=00_AQTkkEC3ZBnR3nKp-N6ARe-tZGR4VEUx_qwoQbLk7Jwwog&oe=6B05F726",
    "https://scontent-gru3-1.xx.fbcdn.net/v/t39.30808-6/913777501_122213524538585308_7893374483372923039_n.jpg?stp=dst-jpg_p261x260_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=8ZIueYr0CgEQ7kNvwGwgt0q&_nc_oc=AdqNfY24Q9qdCGfNruz6CMdhYAkIlDJru2p8LCz8PiDIFbJCJR-6_6g84QKgk21KPIg&_nc_zt=23&_nc_ht=scontent-gru3-1.xx&edm=ADwHzz8EAAAA&_nc_gid=JO0LLbabC5555X1mOKsK_Q&oh=00_AQSnRC3S4JvK0JoQJgRRhvvwQCKiDwHhjKOADqr7xEW91w&oe=6B05E542"
   ],
-  "reactions": 55,
-  "comments": 82,
-  "shares": 23,
+  "reactions": 56,
+  "comments": 85,
+  "shares": 25,
   "captured_at": "2026-11-20T09:35:03.313666+00:00",
   "type": "update",
   "region": "Berbice",
@@ -98,7 +98,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 18,
+  "missing_runs": 19,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-20T10:20:03.078115+00:00"
  },
@@ -110,9 +110,9 @@
   "published": "2026-11-20T04:39:13+00:00",
   "text": "UPDATE — BERBICE\n\nThe Guyana Power and Light Inc. (GPL) wishes to update customers from Canefield to Williamsburg and from Canefield to Kortberaadt on the service interruption currently being experienced.\n\nThis was caused by a system disturbance at our Canefield Substation that took several feeders offline. While trying to restore supply, operatives at the substation saw a flash from one of the switchgear cubicles. As a precaution, the equipment is being checked before electricity is restored.\n\nAdditional information will be provided in a subsequent post.\n\nGPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
   "images": [],
-  "reactions": 72,
-  "comments": 150,
-  "shares": 18,
+  "reactions": 74,
+  "comments": 151,
+  "shares": 19,
   "captured_at": "2026-11-20T05:06:58.612064+00:00",
   "type": "restored",
   "region": "Berbice",
@@ -158,7 +158,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 18,
+  "missing_runs": 19,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-20T10:20:03.078115+00:00"
  },
@@ -170,7 +170,7 @@
   "published": "2026-11-20T02:10:51+00:00",
   "text": "ADVISORY — BERBICE \n\nDear customers between Canefield and Williamsburg and areas between Canefield to Kortberaadt, please be advised that the service interruption being experienced is due to a system disturbance at our Canefield Substation that has resulted in several feeders coming offline. \n\nOur teams are responding and working diligently to restore power within the shortest possible time. \n\nAdditional information will be provided in a subsequent post. \n\nWe sincerely apologize for the inconvenience caused.",
   "images": [],
-  "reactions": 52,
+  "reactions": 53,
   "comments": 147,
   "shares": 12,
   "captured_at": "2026-11-20T05:06:58.612064+00:00",
@@ -215,7 +215,7 @@
   "reactions": 29,
   "comments": 48,
   "shares": 10,
-  "missing_runs": 18,
+  "missing_runs": 19,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-20T10:20:03.078115+00:00"
  },
@@ -241,7 +241,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 18,
+  "missing_runs": 19,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-20T10:20:03.078115+00:00"
  },
@@ -264,7 +264,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 18,
+  "missing_runs": 19,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-20T10:20:03.078115+00:00"
  },
@@ -293,7 +293,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 18,
+  "missing_runs": 19,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-20T10:20:03.078115+00:00"
  },
@@ -323,7 +323,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 18,
+  "missing_runs": 19,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-20T10:20:03.078115+00:00"
  },
@@ -377,7 +377,7 @@
    "rotation"
   ],
   "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)",
-  "missing_runs": 18,
+  "missing_runs": 19,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-20T10:20:03.078115+00:00"
  },
