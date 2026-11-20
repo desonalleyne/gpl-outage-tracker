@@ -61,24 +61,28 @@ REGION_RE = re.compile(r"\b(" + "|".join(re.escape(r) for r in sorted(REGIONS, k
 WHEN = re.compile(r"\b\d{1,2}[:.]?\d{2}\s*(?:hrs|hours|h\b|am|pm|a\.m\.|p\.m\.)|\b(?:mon|tue|wednes|thurs|fri|satur|sun)day\b|"
                   r"\b(?:jan|feb|mar|apr|may|jun|jul|aug|sep|sept|oct|nov|dec)[a-z]*\.? \d{1,2}\b|\b\d{1,2}(?:st|nd|rd|th)?\s+(?:of\s+)?(?:jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)|"
                   r"\b\d{1,2}/\d{1,2}(?:/\d{2,4})?\b|\btoday\b|\btomorrow\b|\btonight\b|\bthis (?:morning|afternoon|evening)\b", re.I)
-RULES_VERSION = "2026-11-14c"   # bump when the rules change; every post records which version labelled it
+RULES_VERSION = "2026-11-19a"   # bump when the rules change; every post records which version labelled it
 # A post has to talk about power actually being off to count as an outage.
 # Stops things like the smart-meter announcement ("installation", "upgrade") counting as planned outages.
 OUTAGE = re.compile(r"interruption|outage|without (?:power|electricity|service|supply)|offline|\btrip|shut ?down|"
                     r"load.?shedding|power cut|de-?energi|disrupt|(?:switched|turned) off|no (?:power|electricity)|blackout", re.I)
 NAME = r"[A-Z][\w'\-]*(?:\s(?:of|en|de|on)?\s?[A-Z][\w'\-]*)*"   # capitalised words only, e.g. "Garden of Eden"
+BETWEEN = re.compile(r"\bbetween (" + NAME + r") (?:and|to) (" + NAME + r")")
+BULLET = re.compile(r"^\s*[-•*]\s+(.+)$", re.M)
+INLIST = re.compile(r"\b(?:customers|areas) in (" + NAME + r"(?:(?:,\s*|\s+and\s+)" + NAME + r")+)")
 RANGE = re.compile(r"\bfrom (" + NAME + r") to (" + NAME + r")")
 SHEDDING = re.compile(r"load.?shedding|rotation(?:al)? basis|rotating outages?", re.I)
-OFFLINE = re.compile(r"\b(trip(?:ped|s)?|went offline|gone offline|going offline|goes offline|is offline|taken offline|de-?energi[sz]ed|out of service)\b", re.I)
+OFFLINE = re.compile(r"\b(trip(?:ped|s)?|(?:went|gone|going|goes|is|taken|come|came|coming|comes) offline|de-?energi[sz]ed|out of service)\b", re.I)
 
 # Stated reason for an outage, checked in this order; the first match wins.
 CAUSES = [
+    ("System disturbance", r"system disturbance|disturbance (?:on|in) the system|system fault|grid disturbance"),
     ("Third-party contact", r"crane|excavator|vehicle|truck|contractor|heavy.?(?:duty )?equipment|kite|third.?party|vandal|sabotage|theft|struck (?:a|the) pole|contact with (?:the|our) (?:network|lines?)|threat"),
     ("Trees & vegetation", r"\btrees?\b|branch|vegetation|bush"),
     ("Weather", r"lightning|storm|heavy rain|high winds?|weather|flood"),
     ("High demand / overload", r"overload|high demand|peak demand|increased demand|demand"),
     ("Generation shortfall", r"generat(?:ion|ing|or)|\bunits?\b|\bengines?\b|power plant|capacity|megawatts?|\bMW\b|fuel"),
-    ("Equipment failure", r"transformer|cable|insulator|breaker|pothead|\blugs?\b|conductor|\bpoles?\b|substation|battery|switch|relay|recloser|lines? (?:came )?down|downed lines?|broken|burnt|leak"),
+    ("Equipment failure", r"transformer|cable|insulator|breaker|pothead|\blugs?\b|conductor|\bpoles?\b|battery|switch|relay|recloser|lines? (?:came )?down|downed lines?|broken|burnt|leak"),
     ("System shutdown", r"total shutdown|system (?:shutdown|collapse)|frequency|blackout across"),
     ("Planned works", r"maintenance|upgrade|installation|scheduled works?|planned works?|network works?|construction|relocat"),
 ]
@@ -177,6 +181,25 @@ def extract(post):
         stretch = f"{m.group(1).strip()} to {m.group(2).strip()}"
         if stretch not in areas:
             areas.append(stretch)
+        taken.append(m.span())
+    # "between Canefield and Williamsburg" / "between Canefield to Kortberaadt"
+    for m in BETWEEN.finditer(body):
+        stretch = f"{m.group(1).strip()} to {m.group(2).strip()}"
+        if stretch not in areas:
+            areas.append(stretch)
+        taken.append(m.span())
+    # bullet lists: "- Canje to Auchlyne"
+    for m in BULLET.finditer(body):
+        item = m.group(1).strip().rstrip(".;,")
+        if 2 < len(item) <= 60 and item not in areas:
+            areas.append(item)
+        taken.append(m.span())
+    # "customers in Albert Street, Robb Street, Alberttown, Bourda and Cummingsburg that ..."
+    for m in INLIST.finditer(body):
+        for item in re.split(r",\s*|\s+and\s+", m.group(1)):
+            item = item.strip()
+            if item and item[0].isupper() and item.lower() not in REGION_SET and item not in areas:
+                areas.append(item)
         taken.append(m.span())
     for m in AREA_RE.finditer(body):
         if any(a <= m.start() < b for a, b in taken) or m.group(1).lower() in REGION_SET:
@@ -303,24 +326,112 @@ def check_links(archive, days=7, limit=25):
         p["link_check"] = "; ".join(notes)
 
 
-def main():
+FB_PAGE = os.environ.get("FB_PAGE", "GuyanaPowerAndLight")
+PLUGIN = ("https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2F{page}"
+          "&tabs=timeline&width=500&height=5000&small_header=true&hide_cover=true")
+
+
+def parse_facebook(page: str):
+    """Pull posts out of Facebook's embeddable page widget.
+
+    The widget's HTML carries the posts as JSON objects like
+    {"message": "...", "createdTime": 1795140786, ...}. Each one is decoded as it's found.
+    """
+    dec = json.JSONDecoder()
+    posts, seen = [], set()
+    for m in re.finditer(r'"message":', page):
+        obj = None
+        # walk back to the "{" that opens this post's object
+        for start in range(m.start() - 1, max(-1, m.start() - 3000), -1):
+            if page[start] != "{":
+                continue
+            try:
+                cand, _ = dec.raw_decode(page, start)
+            except ValueError:
+                continue
+            if isinstance(cand, dict) and "message" in cand and "createdTime" in cand:
+                obj = cand
+                break
+        if not obj:
+            continue
+        msg, ts = obj.get("message") or "", obj.get("createdTime")
+        if not msg or not isinstance(ts, (int, float)) or ts in seen:
+            continue
+        seen.add(ts)
+        link = next((obj[k] for k in ("url", "permalink", "permalinkURL", "postURL", "link")
+                     if isinstance(obj.get(k), str)), None)
+        first = msg.strip().split("\n", 1)[0].strip()
+        posts.append({
+            "id": f"fb:{FB_PAGE}:{int(ts)}",
+            "fb_time": int(ts),
+            "link": link or f"https://www.facebook.com/{FB_PAGE}",
+            "title": first[:200],
+            "published": datetime.fromtimestamp(ts, timezone.utc).isoformat(),
+            "text": msg.strip(),
+            "images": [u for u in [obj.get("photoURL")] + (obj.get("albumPhotoURLs") or []) if u],
+            "reactions": obj.get("reactionCount"), "comments": obj.get("commentCount"),
+            "shares": obj.get("shareCount"),
+        })
+    return posts
+
+
+def fetch_items():
+    """Facebook widget by default; set FEED_URL to use an RSS feed instead."""
     url = os.environ.get("FEED_URL")
-    if not url:
-        sys.exit("Set FEED_URL (a repository secret) to your RSS bridge feed URL.")
-    req = urllib.request.Request(url, headers={"User-Agent": "gpl-outage-tracker/1.0"})
-    with urllib.request.urlopen(req, timeout=60) as r:
-        items = parse_feed(r.read())
+    if url:
+        req = urllib.request.Request(url, headers={"User-Agent": "gpl-outage-tracker/1.0"})
+        with urllib.request.urlopen(req, timeout=60) as r:
+            return "rss", parse_feed(r.read())
+    status, page = fetch(PLUGIN.format(page=FB_PAGE))
+    items = parse_facebook(page)
+    if not items:
+        (ROOT / "last_fetch.html").write_text(page)
+        sys.exit(f"No posts found on the Facebook widget (HTTP {status}). Saved the page to last_fetch.html.")
+    return "facebook", items
+
+
+def norm(t):
+    return re.sub(r"\W+", " ", (t or "").lower()).strip()[:80]
+
+
+def main():
+    source, items = fetch_items()
 
     archive = json.loads(POSTS.read_text()) if POSTS.exists() else []
     seen = {p["id"]: p for p in archive}
     now = datetime.now(timezone.utc).isoformat()
     new = 0
+    # Posts saved from rss.app have different ids. Match them up by text and time
+    # so the same post isn't saved twice.
+    def ptime(p):
+        try:
+            return datetime.fromisoformat(p.get("published") or p["captured_at"]).timestamp()
+        except Exception:
+            return None
+    for p in items:
+        if p["id"] in seen or source != "facebook":
+            continue
+        for old in archive:
+            if "fb_time" in old or norm(old.get("text")) != norm(p["text"]):
+                continue
+            t = ptime(old)
+            if t is None or abs(t - p["fb_time"]) <= 6 * 3600:
+                seen.pop(old["id"], None)
+                old["rss_id"] = old["id"]
+                old.update({k: p[k] for k in ("id", "fb_time", "published", "title")})
+                if "/posts/" not in (old.get("link") or ""):
+                    old["link"] = p["link"]
+                seen[old["id"]] = old
+                break
     for p in items:
         if p["id"] in seen:
             old = seen[p["id"]]
             # Keep the longest text ever seen in case a post is edited down later.
             if len(p["text"]) > len(old.get("text", "")):
                 old["text"] = p["text"]
+            for k in ("reactions", "comments", "shares"):
+                if p.get(k) is not None:
+                    old[k] = p[k]
             continue
         p["captured_at"] = now
         archive.append(p)
@@ -333,21 +444,35 @@ def main():
         p.update(fixes.get(p["id"], {}))
     flag_suspected_shedding(archive)
 
-    # Posts no longer in the feed were probably deleted from Facebook. Mark, never remove.
-    # Only judge posts newer than the oldest feed item; older ones just scrolled out of the feed.
+    # A post that's missing from the page while older posts are still showing was deleted.
+    # It has to be missing on two runs in a row, so one bad fetch can't mark anything.
+    # Nothing is ever removed from the archive.
     current = {p["id"] for p in items}
     dates = [p["published"] for p in items if p.get("published")]
     oldest = min(dates) if dates else None
-    for p in archive:
-        if oldest and (p.get("published") or "") > oldest and p["id"] not in current:
-            p["deleted_from_source"] = True
+    if oldest and len(items) >= 3:
+        for p in archive:
+            if (p.get("published") or "") <= oldest:
+                continue
+            if p["id"] in current:
+                p.pop("missing_runs", None)
+                if p.get("deleted_from_source") and source == "facebook":
+                    p["deleted_from_source"] = False          # it came back
+                continue
+            p["missing_runs"] = p.get("missing_runs", 0) + 1
+            if p["missing_runs"] >= 2 and not p.get("deleted_from_source"):
+                p["deleted_from_source"] = True
+                p["deleted_seen_at"] = now
 
-    check_links(archive)
+    if source == "rss":
+        check_links(archive)
 
     archive.sort(key=lambda p: p.get("published") or p.get("captured_at") or "", reverse=True)
     POSTS.parent.mkdir(parents=True, exist_ok=True)
     POSTS.write_text(json.dumps(archive, indent=1, ensure_ascii=False))
-    print(f"feed items: {len(items)}  new: {new}  archive total: {len(archive)}")
+    gone = sum(1 for p in archive if p.get("deleted_from_source"))
+    print(f"{datetime.now().strftime('%Y-%m-%d %H:%M')}  source: {source}  posts on page: {len(items)}  "
+          f"new: {new}  deleted so far: {gone}  archive total: {len(archive)}")
 
 
 if __name__ == "__main__":
