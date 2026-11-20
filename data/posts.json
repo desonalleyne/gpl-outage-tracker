@@ -7,9 +7,9 @@
   "published": "2026-11-20T20:17:59+00:00",
   "text": "UPDATE ADVISORY — BERBICE\n\nThe Guyana Power and Light Inc. (GPL) wishes to advise customers from Canefield to Williamsburg and Canefield to Kortberaadt that corrective works remain ongoing at our Canefield Substation.\n\nOur technical teams continue to address the busbar issue encountered during efforts to repower the substation and safely restore electricity supply to affected customers.\n\nGPL recognises the prolonged nature of the service interruption and assures customers that our teams remain actively engaged in completing the necessary corrective works.\n\nFurther updates including an estimated time of repowering as works progress. \n\nGPL apologises for the inconvenience caused and thanks customers for their continued patience and understanding.",
   "images": [],
-  "reactions": 78,
+  "reactions": 81,
   "comments": 117,
-  "shares": 29,
+  "shares": 31,
   "captured_at": "2026-11-20T20:20:03.108192+00:00",
   "type": "update",
   "region": "Berbice",
@@ -47,7 +47,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 9,
+  "missing_runs": 10,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-20T20:55:02.841604+00:00"
  },
@@ -75,7 +75,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 9,
+  "missing_runs": 10,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-20T20:55:02.841604+00:00"
  },
@@ -102,7 +102,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 9,
+  "missing_runs": 10,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-20T20:55:02.841604+00:00"
  },
@@ -130,7 +130,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 9,
+  "missing_runs": 10,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-20T20:55:02.841604+00:00"
  },
@@ -160,7 +160,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 16,
+  "missing_runs": 17,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-20T19:50:03.990584+00:00"
  },
@@ -187,7 +187,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 24,
+  "missing_runs": 25,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-20T19:10:03.305852+00:00"
  },
@@ -277,7 +277,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 112,
+  "missing_runs": 113,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-20T10:20:03.078115+00:00"
  },
