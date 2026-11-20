@@ -1,5 +1,61 @@
 [
  {
+  "id": "fb:GuyanaPowerAndLight:1795216796",
+  "fb_time": 1795216796,
+  "link": "https://www.facebook.com/GuyanaPowerAndLight",
+  "title": "ADVISORY — GEORGETOWN",
+  "published": "2026-11-20T23:19:56+00:00",
+  "text": "ADVISORY — GEORGETOWN\n\nThe Guyana Power and Light Inc. (GPL) wishes to advise customers in Kitty, Campbellville, Section ‘K’ Campbellville and Subryanville that the service interruption being experienced is due to a feeder trip.\n\nOur technical teams are working to identify and resolve the issue and restore electricity as soon as possible.\n\nGPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
+  "images": [],
+  "reactions": 0,
+  "comments": 0,
+  "shares": 0,
+  "captured_at": "2026-11-20T23:20:03.501806+00:00",
+  "type": "unplanned",
+  "region": "Georgetown",
+  "rules": "2026-11-19a",
+  "cause": "No reason given",
+  "feeder_offline": true,
+  "feeders": [],
+  "areas": [
+   "Kitty",
+   "Campbellville",
+   "Section"
+  ],
+  "times": [],
+  "suspected_shedding": [
+   "peak hours",
+   "rotation"
+  ]
+ },
+ {
+  "id": "fb:GuyanaPowerAndLight:1795216687",
+  "fb_time": 1795216687,
+  "link": "https://www.facebook.com/GuyanaPowerAndLight",
+  "title": "ADVISORY — EAST COAST DEMERARA",
+  "published": "2026-11-20T23:18:07+00:00",
+  "text": "ADVISORY — EAST COAST DEMERARA \n\nThe Guyana Power and Light Inc. (GPL) wishes to advise customers from Lowlands to Bygeval that the service interruption being experienced is due to a feeder coming offline. \n\nOur technical teams are working to identify and resolve the issue and restore electricity as soon as possible.\n\nGPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
+  "images": [],
+  "reactions": 2,
+  "comments": 3,
+  "shares": 2,
+  "captured_at": "2026-11-20T23:20:03.501806+00:00",
+  "type": "unplanned",
+  "region": "East Coast Demerara",
+  "rules": "2026-11-19a",
+  "cause": "No reason given",
+  "feeder_offline": true,
+  "feeders": [],
+  "areas": [
+   "Lowlands to Bygeval"
+  ],
+  "times": [],
+  "suspected_shedding": [
+   "peak hours",
+   "rotation"
+  ]
+ },
+ {
   "id": "fb:GuyanaPowerAndLight:1795214556",
   "fb_time": 1795214556,
   "link": "https://www.facebook.com/GuyanaPowerAndLight",
@@ -7,8 +63,8 @@
   "published": "2026-11-20T22:42:36+00:00",
   "text": "ADVISORY — GEORGETOWN/EAST COAST DEMERARA \n\nDear customers between North Sophia and Better Hope, please be advised that the service interruption being experienced is due to a feeder coming offline. \n\nOur teams are working assiduously to restore power within the shortest possible time. \n\nWe sincerely apologize for the inconvenience caused. \n\nAdditional information will be provided in a subsequent post.",
   "images": [],
-  "reactions": 25,
-  "comments": 60,
+  "reactions": 28,
+  "comments": 76,
   "shares": 6,
   "captured_at": "2026-11-20T22:45:03.132785+00:00",
   "type": "unplanned",
@@ -22,7 +78,8 @@
   ],
   "times": [],
   "suspected_shedding": [
-   "peak hours"
+   "peak hours",
+   "rotation"
   ]
  },
  {
@@ -33,8 +90,8 @@
   "published": "2026-11-20T20:17:59+00:00",
   "text": "UPDATE ADVISORY — BERBICE\n\nThe Guyana Power and Light Inc. (GPL) wishes to advise customers from Canefield to Williamsburg and Canefield to Kortberaadt that corrective works remain ongoing at our Canefield Substation.\n\nOur technical teams continue to address the busbar issue encountered during efforts to repower the substation and safely restore electricity supply to affected customers.\n\nGPL recognises the prolonged nature of the service interruption and assures customers that our teams remain actively engaged in completing the necessary corrective works.\n\nFurther updates including an estimated time of repowering as works progress. \n\nGPL apologises for the inconvenience caused and thanks customers for their continued patience and understanding.",
   "images": [],
-  "reactions": 124,
-  "comments": 211,
+  "reactions": 125,
+  "comments": 216,
   "shares": 50,
   "captured_at": "2026-11-20T20:20:03.108192+00:00",
   "type": "update",
