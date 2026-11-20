@@ -1,5 +1,30 @@
 [
  {
+  "id": "fb:GuyanaPowerAndLight:1795203617",
+  "fb_time": 1795203617,
+  "link": "https://www.facebook.com/GuyanaPowerAndLight",
+  "title": "UPDATE ADVISORY – SERVICE INTERRUPTION (ESSEQUIBO COAST)",
+  "published": "2026-11-20T19:40:17+00:00",
+  "text": "UPDATE ADVISORY – SERVICE INTERRUPTION (ESSEQUIBO COAST)\n\nThe Guyana Power and Light Inc. (GPL) wishes to advise that following the trip at the Anna Regina Power Station, electricity has been restored to customers in the following areas:\n\nAnna Regina to Lima\nLima to Devonshire Castle\nDevonshire Castle to Bounty Hall\nAnna Regina to Suddie \n\nOur technical teams continue to work to restore electricity to the remaining affected areas.\n\nGPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
+  "images": [],
+  "reactions": 0,
+  "comments": 4,
+  "shares": 2,
+  "captured_at": "2026-11-20T19:45:03.772951+00:00",
+  "type": "update",
+  "region": "Essequibo Coast",
+  "rules": "2026-11-19a",
+  "cause": null,
+  "feeder_offline": true,
+  "feeders": [],
+  "areas": [
+   "Anna Regina",
+   "Bounty Hall"
+  ],
+  "times": [],
+  "suspected_shedding": []
+ },
+ {
   "id": "fb:GuyanaPowerAndLight:1795201497",
   "fb_time": 1795201497,
   "link": "https://www.facebook.com/GuyanaPowerAndLight",
@@ -7,9 +32,9 @@
   "published": "2026-11-20T19:04:57+00:00",
   "text": "ADVISORY — ESSEQUIBO COAST \n\nDear customers along the Essequibo Coast, please be advised that the service interruption being experienced is due to a trip at our Anna Regina Power Station moments ago. \n\nAll efforts are being made to have power restored to the affected areas within the shortest possible time. \n\nAdditional information will be provided in a subsequent post. \n\nWe sincerely apologize for the inconvenience caused.",
   "images": [],
-  "reactions": 13,
-  "comments": 15,
-  "shares": 5,
+  "reactions": 15,
+  "comments": 17,
+  "shares": 6,
   "captured_at": "2026-11-20T19:05:03.264167+00:00",
   "type": "restored",
   "region": "Essequibo Coast",
@@ -31,9 +56,9 @@
   "published": "2026-11-20T18:48:36+00:00",
   "text": "ADVISORY — West Demerara\n\nThe Guyana Power and Light Inc. (GPL) wishes to advise customers from Best to Vriesland that the service interruption being experienced is due to a feeder coming offline at our Vreed-en-Hoop Substation.\n\nOur technical teams are working to identify and resolve the issue and restore electricity as soon as possible.\n\nGPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
   "images": [],
-  "reactions": 18,
+  "reactions": 19,
   "comments": 17,
-  "shares": 4,
+  "shares": 5,
   "captured_at": "2026-11-20T18:50:03.312239+00:00",
   "type": "unplanned",
   "region": "West Demerara",
@@ -73,7 +98,8 @@
    "Anna Regina"
   ],
   "times": [],
-  "suspected_shedding": []
+  "suspected_shedding": [],
+  "missing_runs": 1
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795192239",
@@ -98,7 +124,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 8,
+  "missing_runs": 9,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-20T19:10:03.305852+00:00"
  },
