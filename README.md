@@ -48,6 +48,10 @@ Turn on Pages under Settings → Pages: deploy from `main`, folder `/ (root)`. K
 
 If you want to see the dashboard before any posts have come in, add `?demo` to the end of the URL. That loads fake sample data.
 
+## The map
+
+The outline of Guyana's regions comes from Natural Earth (public domain). Places are pinned using a hand-made list of rough coordinates, `PLACES` in `index.html`, so treat positions as approximate. A post is pinned at each place it names that's on the list. If none are, it's pinned at its region instead. If it has neither, it's counted under "not on map". Add a name and its rough coordinates to `PLACES` to get it pinned.
+
 ## Fixing mistakes
 
 Don't edit `data/posts.json` by hand. Every run recalculates it from the post text, so your changes would be wiped.
