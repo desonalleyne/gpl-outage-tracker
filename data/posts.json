@@ -1,23 +1,146 @@
 [
  {
-  "id": "d80e8a7cd1acdc1cae497e1e04b233f6",
+  "id": "fb:GuyanaPowerAndLight:1795149756",
+  "fb_time": 1795149756,
+  "link": "https://www.facebook.com/GuyanaPowerAndLight",
+  "title": "UPDATE – SERVICE INTERRUPTION (ESSEQUIBO COAST)",
+  "published": "2026-11-20T04:42:36+00:00",
+  "text": "UPDATE – SERVICE INTERRUPTION (ESSEQUIBO COAST)\n\nGuyana Power and Light Inc. (GPL) wishes to advise that electricity supply has been restored to the following areas:\n\n- Riverstown to Vilvoorden\n- Vilvoorden to Supenaam\n- Anna Regina\n- Richmond\n- Henrietta Housing Scheme\n\nCustomers in the following areas are still experiencing an interruption in electricity supply due to the damaged voltage regulator at the Anna Regina Power Station:\n\n- Cotton Field\n- Reliance\n- Three Friends\n- Devonshire Castle to Charity\n\nGPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
+  "images": [],
+  "reactions": 0,
+  "comments": 9,
+  "shares": 1,
+  "captured_at": "2026-11-20T05:06:58.612064+00:00",
+  "type": "restored",
+  "region": "Essequibo Coast",
+  "rules": "2026-11-19a",
+  "cause": null,
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [
+   "Riverstown to Vilvoorden",
+   "Vilvoorden to Supenaam",
+   "Anna Regina",
+   "Richmond",
+   "Henrietta Housing Scheme",
+   "Cotton Field",
+   "Reliance",
+   "Three Friends",
+   "Devonshire Castle to Charity"
+  ],
+  "times": [],
+  "suspected_shedding": []
+ },
+ {
+  "id": "fb:GuyanaPowerAndLight:1795149553",
+  "fb_time": 1795149553,
+  "link": "https://www.facebook.com/GuyanaPowerAndLight",
+  "title": "UPDATE — BERBICE",
+  "published": "2026-11-20T04:39:13+00:00",
+  "text": "UPDATE — BERBICE\n\nThe Guyana Power and Light Inc. (GPL) wishes to update customers from Canefield to Williamsburg and from Canefield to Kortberaadt on the service interruption currently being experienced.\n\nThis was caused by a system disturbance at our Canefield Substation that took several feeders offline. While trying to restore supply, operatives at the substation saw a flash from one of the switchgear cubicles. As a precaution, the equipment is being checked before electricity is restored.\n\nAdditional information will be provided in a subsequent post.\n\nGPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
+  "images": [],
+  "reactions": 14,
+  "comments": 18,
+  "shares": 1,
+  "captured_at": "2026-11-20T05:06:58.612064+00:00",
+  "type": "restored",
+  "region": "Berbice",
+  "rules": "2026-11-19a",
+  "cause": null,
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [
+   "Canefield to Williamsburg",
+   "Canefield to Kortberaadt"
+  ],
+  "times": [],
+  "suspected_shedding": []
+ },
+ {
+  "id": "fb:GuyanaPowerAndLight:1795148796",
+  "fb_time": 1795148796,
+  "link": "https://www.facebook.com/GuyanaPowerAndLight",
+  "title": "UPDATE ADVISORY – SERVICE INTERRUPTION (ESSEQUIBO COAST)",
+  "published": "2026-11-20T04:26:36+00:00",
+  "text": "UPDATE ADVISORY – SERVICE INTERRUPTION (ESSEQUIBO COAST)\n\nGuyana Power and Light Inc. (GPL) wishes to advise that electricity supply has been restored from Riverstown to Vilvoorden and from Vilvoorden to Supenaam.\n\nCustomers in the following areas are still experiencing an interruption in electricity supply due to the damaged voltage regulator at the Anna Regina Power Station:\n\n- Anna Regina\n- Richmond\n- Henrietta Housing Scheme\n- Cotton Field\n- Reliance\n- Three Friends\n- Devonshire Castle to Charity\n\nGPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
+  "images": [],
+  "reactions": 5,
+  "comments": 6,
+  "shares": 2,
+  "captured_at": "2026-11-20T05:06:58.612064+00:00",
+  "type": "restored",
+  "region": "Essequibo Coast",
+  "rules": "2026-11-19a",
+  "cause": null,
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [
+   "Riverstown to Vilvoorden",
+   "Vilvoorden to Supenaam",
+   "Anna Regina",
+   "Richmond",
+   "Henrietta Housing Scheme",
+   "Cotton Field",
+   "Reliance",
+   "Three Friends",
+   "Devonshire Castle to Charity"
+  ],
+  "times": [],
+  "suspected_shedding": []
+ },
+ {
+  "id": "fb:GuyanaPowerAndLight:1795140651",
+  "fb_time": 1795140651,
+  "link": "https://www.facebook.com/GuyanaPowerAndLight",
+  "title": "ADVISORY — BERBICE",
+  "published": "2026-11-20T02:10:51+00:00",
+  "text": "ADVISORY — BERBICE \n\nDear customers between Canefield and Williamsburg and areas between Canefield to Kortberaadt, please be advised that the service interruption being experienced is due to a system disturbance at our Canefield Substation that has resulted in several feeders coming offline. \n\nOur teams are responding and working diligently to restore power within the shortest possible time. \n\nAdditional information will be provided in a subsequent post. \n\nWe sincerely apologize for the inconvenience caused.",
+  "images": [],
+  "reactions": 33,
+  "comments": 121,
+  "shares": 9,
+  "captured_at": "2026-11-20T05:06:58.612064+00:00",
+  "type": "unplanned",
+  "region": "Berbice",
+  "rules": "2026-11-19a",
+  "cause": "System disturbance",
+  "feeder_offline": true,
+  "feeders": [],
+  "areas": [
+   "Canefield to Williamsburg",
+   "Canefield to Kortberaadt"
+  ],
+  "times": [],
+  "suspected_shedding": []
+ },
+ {
+  "id": "fb:GuyanaPowerAndLight:1795130509",
   "link": "https://m.facebook.com/GuyanaPowerAndLight/posts/pfbid02yVdWyenx2eDoXsSHYfn5jjfrpBP23wshGTRkektWx18BGfbU2QM8WpAgsm4CJJfHl",
-  "title": "ADVISORY – SERVICE INTERRUPTION (ESSEQUIBO COAST) Guyana Power and Light Inc. (GPL) wishes to advise customers in the fo...",
+  "title": "ADVISORY – SERVICE INTERRUPTION (ESSEQUIBO COAST)",
   "published": "2026-11-19T23:21:49+00:00",
   "text": "ADVISORY – SERVICE INTERRUPTION (ESSEQUIBO COAST)\n Guyana Power and Light Inc. (GPL) wishes to advise customers in the following areas that they are currently experiencing an interruption in electricity supply due to reduced generation capacity at the Anna Regina Power Station:\n - Vilvoorden to Supenaam\n - Riverstown to Supenaam\n - Anna Regina\n - Richmond\n - Henrietta Housing Scheme\n This follows a damaged voltage regulator on a rented 1.5-megawatt (MW) Caterpillar (CAT) generator set. **A replacement voltage regulator is expected to be reprogrammed and delivered tomorrow morning** to facilitate the necessary repairs.\n GPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
   "images": [],
   "captured_at": "2026-11-20T01:05:35.365795+00:00",
   "type": "unplanned",
   "region": "Essequibo Coast",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": "Generation shortfall",
   "feeder_offline": false,
   "feeders": [],
   "areas": [
-   "Anna Regina"
+   "Vilvoorden to Supenaam",
+   "Riverstown to Supenaam",
+   "Anna Regina",
+   "Richmond",
+   "Henrietta Housing Scheme"
   ],
   "times": [],
-  "suspected_shedding": []
+  "suspected_shedding": [],
+  "rss_id": "d80e8a7cd1acdc1cae497e1e04b233f6",
+  "fb_time": 1795130509,
+  "reactions": 23,
+  "comments": 45,
+  "shares": 10
  },
  {
   "id": "52104b19e4e8a4aa6189f30e1b4e8fe0",
@@ -29,7 +152,7 @@
   "captured_at": "2026-11-20T01:05:35.365795+00:00",
   "type": "unplanned",
   "region": "East Coast Demerara",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": "No reason given",
   "feeder_offline": true,
   "feeders": [],
@@ -52,7 +175,7 @@
   "captured_at": "2026-11-20T01:05:35.365795+00:00",
   "type": "unplanned",
   "region": "Essequibo Coast",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": "Generation shortfall",
   "feeder_offline": false,
   "feeders": [],
@@ -72,11 +195,16 @@
   "captured_at": "2026-11-20T01:05:35.365795+00:00",
   "type": "unplanned",
   "region": "Georgetown",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": "No reason given",
   "feeder_offline": true,
   "feeders": [],
-  "areas": [],
+  "areas": [
+   "Alexander Village",
+   "River View",
+   "Rahaman Turn to Harold Street",
+   "Industry to Chateau Margot"
+  ],
   "times": [],
   "suspected_shedding": [
    "peak hours",
@@ -93,7 +221,7 @@
   "captured_at": "2026-11-20T01:05:35.365795+00:00",
   "type": "unplanned",
   "region": "East Bank Demerara",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": "No reason given",
   "feeder_offline": true,
   "feeders": [],
@@ -122,7 +250,7 @@
   "captured_at": "2026-11-20T01:05:35.365795+00:00",
   "type": "other",
   "region": null,
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
   "feeder_offline": false,
   "feeders": [],
@@ -140,11 +268,16 @@
   "captured_at": "2026-11-19T18:31:35.622192+00:00",
   "type": "unplanned",
   "region": "Georgetown",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": "No reason given",
   "feeder_offline": true,
   "feeders": [],
-  "areas": [],
+  "areas": [
+   "Water Street",
+   "Lombard Street",
+   "Alexander Village",
+   "River View"
+  ],
   "times": [],
   "suspected_shedding": [
    "rotation"
@@ -163,7 +296,7 @@
   "captured_at": "2026-11-19T18:31:35.622192+00:00",
   "type": "other",
   "region": null,
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
   "feeder_offline": false,
   "feeders": [],
@@ -182,7 +315,7 @@
   "captured_at": "2026-11-19T18:31:35.622192+00:00",
   "type": "unplanned",
   "region": "Demerara",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": "No reason given",
   "feeder_offline": false,
   "feeders": [],
@@ -205,11 +338,14 @@
   "captured_at": "2026-11-19T18:31:35.622192+00:00",
   "type": "update",
   "region": "East Coast Demerara",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
   "feeder_offline": false,
   "feeders": [],
-  "areas": [],
+  "areas": [
+   "Hope Estate",
+   "Hope Housing Scheme"
+  ],
   "times": [
    "15:00 hrs"
   ],
@@ -226,7 +362,7 @@
   "captured_at": "2026-11-19T18:31:35.622192+00:00",
   "type": "planned",
   "region": "Berbice",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": "Planned works",
   "feeder_offline": false,
   "feeders": [],
@@ -249,7 +385,7 @@
   "captured_at": "2026-11-19T18:31:35.622192+00:00",
   "type": "update",
   "region": "#53 Village Substation",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
   "feeder_offline": false,
   "feeders": [],
@@ -270,7 +406,7 @@
   "captured_at": "2026-11-19T18:31:35.622192+00:00",
   "type": "other",
   "region": "Berbice",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
   "feeder_offline": false,
   "feeders": [],
@@ -293,7 +429,7 @@
   "captured_at": "2026-11-19T18:31:35.622192+00:00",
   "type": "other",
   "region": null,
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
   "feeder_offline": false,
   "feeders": [],
@@ -314,7 +450,7 @@
   "captured_at": "2026-11-19T18:31:35.622192+00:00",
   "type": "other",
   "region": null,
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
   "feeder_offline": false,
   "feeders": [],
@@ -335,7 +471,7 @@
   "captured_at": "2026-11-19T18:31:35.622192+00:00",
   "type": "other",
   "region": "East Coast Demerara",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
   "feeder_offline": false,
   "feeders": [],
@@ -354,7 +490,7 @@
   "captured_at": "2026-11-19T09:14:21.634718+00:00",
   "type": "unplanned",
   "region": "Essequibo Coast",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": "No reason given",
   "feeder_offline": true,
   "feeders": [],
@@ -377,12 +513,15 @@
   "captured_at": "2026-11-19T09:14:21.634718+00:00",
   "type": "unplanned",
   "region": "West Bank Demerara",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": "No reason given",
   "feeder_offline": true,
   "feeders": [],
   "areas": [
-   "Vreed-en-Hoop",
+   "Vreed-en-Hoop Stelling Road",
+   "Parfaite Harmonie",
+   "Westminster",
+   "Lust-en-Rust",
    "Canal"
   ],
   "times": [],
@@ -402,7 +541,7 @@
   "captured_at": "2026-11-19T01:22:16.316291+00:00",
   "type": "unplanned",
   "region": "East Coast Demerara",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": "No reason given",
   "feeder_offline": true,
   "feeders": [],
@@ -426,9 +565,9 @@
   "captured_at": "2026-11-19T01:22:16.316291+00:00",
   "type": "unplanned",
   "region": "East Bank Demerara",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": "No reason given",
-  "feeder_offline": false,
+  "feeder_offline": true,
   "feeders": [],
   "areas": [
    "Craig to Providence"
@@ -450,13 +589,15 @@
   "captured_at": "2026-11-19T01:22:16.316291+00:00",
   "type": "unplanned",
   "region": "Georgetown",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": "No reason given",
-  "feeder_offline": false,
+  "feeder_offline": true,
   "feeders": [],
   "areas": [
+   "Mandela Avenue",
    "Lodge",
-   "Bel Air"
+   "Bel Air Park",
+   "Home Stretch Avenue"
   ],
   "times": [],
   "suspected_shedding": [
@@ -477,7 +618,7 @@
   "captured_at": "2026-11-19T01:22:16.316291+00:00",
   "type": "other",
   "region": "East Coast Demerara",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
   "feeder_offline": false,
   "feeders": [],
@@ -501,7 +642,7 @@
   "captured_at": "2026-11-19T01:22:16.316291+00:00",
   "type": "other",
   "region": null,
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
   "feeder_offline": false,
   "feeders": [],
@@ -520,15 +661,17 @@
   "captured_at": "2026-11-18T19:15:56.249676+00:00",
   "type": "unplanned",
   "region": "West Coast",
-  "rules": "2026-11-14c",
-  "cause": "Equipment failure",
-  "feeder_offline": false,
+  "rules": "2026-11-19a",
+  "cause": "No reason given",
+  "feeder_offline": true,
   "feeders": [],
   "areas": [
    "Onverwagt to Inverness"
   ],
   "times": [],
-  "suspected_shedding": [],
+  "suspected_shedding": [
+   "rotation"
+  ],
   "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
  {
@@ -541,15 +684,17 @@
   "captured_at": "2026-11-18T19:15:56.249676+00:00",
   "type": "unplanned",
   "region": "Georgetown",
-  "rules": "2026-11-14c",
-  "cause": "Equipment failure",
-  "feeder_offline": false,
+  "rules": "2026-11-19a",
+  "cause": "No reason given",
+  "feeder_offline": true,
   "feeders": [],
   "areas": [
    "Sophia"
   ],
   "times": [],
-  "suspected_shedding": [],
+  "suspected_shedding": [
+   "rotation"
+  ],
   "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
  {
@@ -564,7 +709,7 @@
   "captured_at": "2026-11-18T19:15:56.249676+00:00",
   "type": "update",
   "region": "East Berbice",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
   "feeder_offline": false,
   "feeders": [],
@@ -589,7 +734,7 @@
   "captured_at": "2026-11-18T19:15:56.249676+00:00",
   "type": "other",
   "region": "East Coast Demerara",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
   "feeder_offline": false,
   "feeders": [],
@@ -608,7 +753,7 @@
   "captured_at": "2026-11-18T19:15:56.249676+00:00",
   "type": "other",
   "region": null,
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
   "feeder_offline": false,
   "feeders": [],
@@ -629,7 +774,7 @@
   "captured_at": "2026-11-18T19:15:56.249676+00:00",
   "type": "update",
   "region": "East Berbice",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
   "feeder_offline": false,
   "feeders": [],
@@ -654,12 +799,12 @@
   "captured_at": "2026-11-18T19:15:56.249676+00:00",
   "type": "restored",
   "region": "West Coast Demerara",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
   "feeder_offline": false,
   "feeders": [],
   "areas": [
-   "Leonora"
+   "Leonora to Naamryck"
   ],
   "times": [
    "14:00 hrs"
@@ -679,7 +824,7 @@
   "captured_at": "2026-11-18T19:15:56.249676+00:00",
   "type": "other",
   "region": "Georgetown",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
   "feeder_offline": false,
   "feeders": [],
@@ -700,11 +845,17 @@
   "captured_at": "2026-11-18T19:15:56.249676+00:00",
   "type": "other",
   "region": null,
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
   "feeder_offline": false,
   "feeders": [],
-  "areas": [],
+  "areas": [
+   "Pay your bills online",
+   "View your consumption history",
+   "Update your contact information",
+   "Submit your meter reading",
+   "Access more convenient account services"
+  ],
   "times": [],
   "suspected_shedding": [],
   "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
@@ -721,7 +872,7 @@
   "captured_at": "2026-11-18T19:15:56.249676+00:00",
   "type": "other",
   "region": null,
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
   "feeder_offline": false,
   "feeders": [],
@@ -742,7 +893,7 @@
   "captured_at": "2026-11-18T19:15:56.249676+00:00",
   "type": "other",
   "region": null,
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
   "feeder_offline": false,
   "feeders": [],
@@ -763,7 +914,7 @@
   "captured_at": "2026-11-18T19:15:56.249676+00:00",
   "type": "other",
   "region": "East Coast Demerara",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
   "feeder_offline": false,
   "feeders": [],
@@ -782,7 +933,7 @@
   "captured_at": "2026-11-18T10:31:10.535880+00:00",
   "type": "unplanned",
   "region": "Essequibo Coast",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": "No reason given",
   "feeder_offline": true,
   "feeders": [],
@@ -803,7 +954,7 @@
   "captured_at": "2026-11-18T10:31:10.535880+00:00",
   "type": "unplanned",
   "region": "Essequibo Coast",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": "No reason given",
   "feeder_offline": true,
   "feeders": [],
@@ -812,8 +963,7 @@
   ],
   "times": [],
   "suspected_shedding": [
-   "peak hours",
-   "rotation"
+   "peak hours"
   ],
   "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
@@ -827,7 +977,7 @@
   "captured_at": "2026-11-18T10:31:10.535880+00:00",
   "type": "update",
   "region": "West Coast Demerara",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
   "feeder_offline": true,
   "feeders": [],
@@ -849,15 +999,16 @@
   "captured_at": "2026-11-18T10:31:10.535880+00:00",
   "type": "unplanned",
   "region": "Essequibo Coast",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": "No reason given",
-  "feeder_offline": false,
+  "feeder_offline": true,
   "feeders": [],
-  "areas": [],
+  "areas": [
+   "Riverstown to Supenaam"
+  ],
   "times": [],
   "suspected_shedding": [
-   "peak hours",
-   "rotation"
+   "peak hours"
   ],
   "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
@@ -871,7 +1022,7 @@
   "captured_at": "2026-11-18T10:31:10.535880+00:00",
   "type": "unplanned",
   "region": "West Coast Demerara",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": "No reason given",
   "feeder_offline": true,
   "feeders": [],
@@ -880,7 +1031,8 @@
   ],
   "times": [],
   "suspected_shedding": [
-   "peak hours"
+   "peak hours",
+   "rotation"
   ],
   "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
@@ -894,16 +1046,19 @@
   "captured_at": "2026-11-18T02:12:48.317779+00:00",
   "type": "unplanned",
   "region": "Georgetown",
-  "rules": "2026-11-14c",
-  "cause": "Equipment failure",
+  "rules": "2026-11-19a",
+  "cause": "No reason given",
   "feeder_offline": true,
   "feeders": [],
   "areas": [
-   "Lamaha",
-   "Campbellville"
+   "Lamaha Gardens",
+   "Section K, Campbellville"
   ],
   "times": [],
-  "suspected_shedding": [],
+  "suspected_shedding": [
+   "peak hours",
+   "rotation"
+  ],
   "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
  {
@@ -916,17 +1071,20 @@
   "captured_at": "2026-11-18T02:12:48.317779+00:00",
   "type": "unplanned",
   "region": "Georgetown",
-  "rules": "2026-11-14c",
-  "cause": "Equipment failure",
+  "rules": "2026-11-19a",
+  "cause": "No reason given",
   "feeder_offline": true,
   "feeders": [],
   "areas": [
-   "Houston",
-   "Eccles",
-   "Providence"
+   "Industrial Site to Houston",
+   "Rahaman Turn to Eccles Public Road",
+   "Sections of Republic Park to Providence Public Road"
   ],
   "times": [],
-  "suspected_shedding": [],
+  "suspected_shedding": [
+   "peak hours",
+   "rotation"
+  ],
   "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
  },
  {
@@ -939,7 +1097,7 @@
   "captured_at": "2026-11-17T19:40:01.159701+00:00",
   "type": "update",
   "region": "Skeldon Power Plant",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
   "feeder_offline": false,
   "feeders": [],
@@ -960,7 +1118,7 @@
   "captured_at": "2026-11-17T19:40:01.159701+00:00",
   "type": "update",
   "region": "Berbice",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
   "feeder_offline": false,
   "feeders": [],
@@ -983,7 +1141,7 @@
   "captured_at": "2026-11-17T19:40:01.159701+00:00",
   "type": "update",
   "region": "Skeldon Power Plant",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
   "feeder_offline": false,
   "feeders": [],
@@ -1008,7 +1166,7 @@
   "captured_at": "2026-11-17T19:40:01.159701+00:00",
   "type": "update",
   "region": "Skeldon Power Plant",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
   "feeder_offline": false,
   "feeders": [],
@@ -1031,7 +1189,7 @@
   "captured_at": "2026-11-17T19:40:01.159701+00:00",
   "type": "other",
   "region": null,
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
   "feeder_offline": false,
   "feeders": [],
@@ -1050,7 +1208,7 @@
   "captured_at": "2026-11-17T19:40:01.159701+00:00",
   "type": "other",
   "region": null,
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
   "feeder_offline": false,
   "feeders": [],
@@ -1071,7 +1229,7 @@
   "captured_at": "2026-11-17T19:40:01.159701+00:00",
   "type": "other",
   "region": null,
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
   "feeder_offline": false,
   "feeders": [],
@@ -1092,7 +1250,7 @@
   "captured_at": "2026-11-17T19:40:01.159701+00:00",
   "type": "other",
   "region": null,
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
   "feeder_offline": false,
   "feeders": [],
@@ -1111,9 +1269,9 @@
   "captured_at": "2026-11-17T19:40:01.159701+00:00",
   "type": "restored",
   "region": "Essequibo Coast",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
-  "feeder_offline": false,
+  "feeder_offline": true,
   "feeders": [],
   "areas": [
    "Anna Regina",
@@ -1131,14 +1289,14 @@
   "text": "UPDATE – SERVICE INTERRUPTION (ESSEQUIBO COAST)\n Guyana Power and Light Inc. (GPL) wishes to advise that electricity has been restored to Bush Lot, Reliance, Mainstay, Land of Plenty and Three Friends.\n Efforts are being made to restore power to areas between Devonshire Castle and Charity, Henrietta Public Road, Richmond Public Road, La Belle Alliance and sections of Lima following a service interruption due to a feeder coming offline. \n Additional information will be provided in a subsequent post. \n We sincerely apologize for the inconvenience caused.",
   "images": [],
   "captured_at": "2026-11-17T10:30:35.037242+00:00",
-  "type": "restored",
+  "type": "update",
   "region": "Essequibo Coast",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
-  "feeder_offline": false,
+  "feeder_offline": true,
   "feeders": [],
   "areas": [
-   "Charity"
+   "Devonshire Castle to Charity"
   ],
   "times": [],
   "suspected_shedding": [],
@@ -1152,14 +1310,14 @@
   "text": "UPDATE – SERVICE INTERRUPTION (ESSEQUIBO COAST)\n Guyana Power and Light Inc. (GPL) wishes to advise that electricity has been restored to Bush Lot, Reliance, Mainstay, Land of Plenty and Three Friends.\n Efforts are being made to restore power to areas between Devonshire Castle and Charity, Henrietta Public Road, Aberdeen and Columbia following a service interruption due to a feeder coming offline. \n Additional information will be provided in a subsequent post. \n We sincerely apologize for the inconvenience caused.",
   "images": [],
   "captured_at": "2026-11-17T10:30:35.037242+00:00",
-  "type": "restored",
+  "type": "update",
   "region": "Essequibo Coast",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
-  "feeder_offline": false,
+  "feeder_offline": true,
   "feeders": [],
   "areas": [
-   "Charity"
+   "Devonshire Castle to Charity"
   ],
   "times": [],
   "suspected_shedding": [],
@@ -1175,12 +1333,13 @@
   "captured_at": "2026-11-17T10:30:35.037242+00:00",
   "type": "restored",
   "region": "Essequibo Coast",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
-  "feeder_offline": false,
+  "feeder_offline": true,
   "feeders": [],
   "areas": [
-   "Charity"
+   "Devonshire Castle to Charity",
+   "Riverstown to Vilvorden"
   ],
   "times": [],
   "suspected_shedding": [],
@@ -1196,7 +1355,7 @@
   "captured_at": "2026-11-17T10:30:35.037242+00:00",
   "type": "update",
   "region": "Essequibo Coast",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
   "feeder_offline": true,
   "feeders": [],
@@ -1218,7 +1377,7 @@
   "captured_at": "2026-11-17T01:57:48.659325+00:00",
   "type": "update",
   "region": "Essequibo Coast",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
   "feeder_offline": true,
   "feeders": [],
@@ -1240,7 +1399,7 @@
   "captured_at": "2026-11-17T01:57:48.659325+00:00",
   "type": "unplanned",
   "region": "East Bank Demerara",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": "No reason given",
   "feeder_offline": true,
   "feeders": [],
@@ -1264,7 +1423,7 @@
   "captured_at": "2026-11-17T01:57:48.659325+00:00",
   "type": "planned",
   "region": "Anna Regina",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": "Planned works",
   "feeder_offline": false,
   "feeders": [],
@@ -1287,7 +1446,7 @@
   "captured_at": "2026-11-17T01:57:48.659325+00:00",
   "type": "update",
   "region": "Georgetown",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
   "feeder_offline": false,
   "feeders": [],
@@ -1309,7 +1468,7 @@
   "captured_at": "2026-11-17T01:57:48.659325+00:00",
   "type": "unplanned",
   "region": "Essequibo Coast",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": "No reason given",
   "feeder_offline": true,
   "feeders": [],
@@ -1332,7 +1491,7 @@
   "captured_at": "2026-11-17T01:57:48.659325+00:00",
   "type": "unplanned",
   "region": "Georgetown",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": "No reason given",
   "feeder_offline": true,
   "feeders": [],
@@ -1359,7 +1518,7 @@
   "captured_at": "2026-11-17T01:57:48.659325+00:00",
   "type": "other",
   "region": "East Bank Demerara",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
   "feeder_offline": false,
   "feeders": [],
@@ -1383,7 +1542,7 @@
   "captured_at": "2026-11-16T18:04:30.502262+00:00",
   "type": "other",
   "region": null,
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
   "feeder_offline": false,
   "feeders": [],
@@ -1404,7 +1563,7 @@
   "captured_at": "2026-11-16T18:04:30.502262+00:00",
   "type": "other",
   "region": "East Bank",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
   "feeder_offline": false,
   "feeders": [],
@@ -1423,7 +1582,7 @@
   "captured_at": "2026-11-16T18:04:30.502262+00:00",
   "type": "restored",
   "region": "East Bank Demerara",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
   "feeder_offline": false,
   "feeders": [],
@@ -1444,7 +1603,7 @@
   "captured_at": "2026-11-16T18:04:30.502262+00:00",
   "type": "other",
   "region": null,
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
   "feeder_offline": false,
   "feeders": [],
@@ -1463,7 +1622,7 @@
   "captured_at": "2026-11-16T18:04:30.502262+00:00",
   "type": "other",
   "region": null,
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
   "feeder_offline": false,
   "feeders": [],
@@ -1482,13 +1641,14 @@
   "captured_at": "2026-11-16T18:04:30.502262+00:00",
   "type": "unplanned",
   "region": "East Bank Demerara",
-  "rules": "2026-11-14c",
-  "cause": "No reason given",
+  "rules": "2026-11-19a",
+  "cause": "System disturbance",
   "feeder_offline": false,
   "feeders": [],
   "areas": [
    "Providence",
-   "Diamond"
+   "National Stadium",
+   "Eastern Diamond Housing Scheme"
   ],
   "times": [],
   "suspected_shedding": [],
@@ -1506,11 +1666,17 @@
   "captured_at": "2026-11-16T18:04:30.502262+00:00",
   "type": "other",
   "region": null,
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
   "feeder_offline": false,
   "feeders": [],
-  "areas": [],
+  "areas": [
+   "Pay your bills online",
+   "View your consumption history",
+   "Update your contact information",
+   "Submit your meter reading",
+   "Access more convenient account services"
+  ],
   "times": [],
   "suspected_shedding": [],
   "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
@@ -1525,12 +1691,15 @@
   "captured_at": "2026-11-16T18:04:30.502262+00:00",
   "type": "unplanned",
   "region": "Essequibo Coast",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": "No reason given",
-  "feeder_offline": false,
+  "feeder_offline": true,
   "feeders": [],
   "areas": [
-   "Anna Regina"
+   "Anna Regina",
+   "Richmond",
+   "Heneritta Housing Scheme",
+   "Lima Sands Mainstay Lake"
   ],
   "times": [],
   "suspected_shedding": [],
@@ -1548,7 +1717,7 @@
   "captured_at": "2026-11-16T00:50:36.999347+00:00",
   "type": "other",
   "region": null,
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
   "feeder_offline": false,
   "feeders": [],
@@ -1571,7 +1740,7 @@
   "captured_at": "2026-11-15T20:52:46.946442+00:00",
   "type": "other",
   "region": null,
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
   "feeder_offline": false,
   "feeders": [],
@@ -1590,11 +1759,16 @@
   "captured_at": "2026-11-15T08:16:01.927202+00:00",
   "type": "unplanned",
   "region": "Georgetown",
-  "rules": "2026-11-14c",
-  "cause": "No reason given",
+  "rules": "2026-11-19a",
+  "cause": "System disturbance",
   "feeder_offline": false,
   "feeders": [],
-  "areas": [],
+  "areas": [
+   "Water Street",
+   "Lombard Street",
+   "Alexander Village",
+   "River View"
+  ],
   "times": [],
   "suspected_shedding": [],
   "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)"
@@ -1609,11 +1783,13 @@
   "captured_at": "2026-11-15T08:16:01.927202+00:00",
   "type": "unplanned",
   "region": "Essequibo Coast",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": "No reason given",
-  "feeder_offline": false,
+  "feeder_offline": true,
   "feeders": [],
-  "areas": [],
+  "areas": [
+   "Riverstown to Supenaam"
+  ],
   "times": [],
   "suspected_shedding": [
    "peak hours"
@@ -1632,7 +1808,7 @@
   "captured_at": "2026-11-15T08:16:01.927202+00:00",
   "type": "other",
   "region": null,
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
   "feeder_offline": false,
   "feeders": [],
@@ -1653,9 +1829,9 @@
   "captured_at": "2026-11-15T01:12:44.095270+00:00",
   "type": "unplanned",
   "region": "East Bank Demerara",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": "No reason given",
-  "feeder_offline": false,
+  "feeder_offline": true,
   "feeders": [],
   "areas": [
    "Agricola",
@@ -1678,9 +1854,9 @@
   "captured_at": "2026-11-15T01:12:44.095270+00:00",
   "type": "unplanned",
   "region": "Berbice",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": "No reason given",
-  "feeder_offline": false,
+  "feeder_offline": true,
   "feeders": [],
   "areas": [],
   "times": [],
@@ -1700,13 +1876,14 @@
   "captured_at": "2026-11-15T01:12:44.095270+00:00",
   "type": "unplanned",
   "region": "Georgetown",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": "No reason given",
-  "feeder_offline": false,
+  "feeder_offline": true,
   "feeders": [],
   "areas": [
    "Kitty",
-   "Campbellville"
+   "Campbellville",
+   "Subryanville"
   ],
   "times": [],
   "suspected_shedding": [
@@ -1725,7 +1902,7 @@
   "captured_at": "2026-11-15T01:12:44.095270+00:00",
   "type": "restored",
   "region": "East Coast Demerara",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
   "feeder_offline": false,
   "feeders": [],
@@ -1746,11 +1923,12 @@
   "captured_at": "2026-11-15T01:12:44.095270+00:00",
   "type": "update",
   "region": "Georgetown",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
   "feeder_offline": true,
   "feeders": [],
   "areas": [
+   "South",
    "North Ruimveldt",
    "Tucville",
    "Lamaha Park",
@@ -1770,7 +1948,7 @@
   "captured_at": "2026-11-14T21:09:47.354538+00:00",
   "type": "update",
   "region": "East Coast Demerara",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
   "feeder_offline": true,
   "feeders": [],
@@ -1791,7 +1969,7 @@
   "captured_at": "2026-11-14T21:09:47.354538+00:00",
   "type": "unplanned",
   "region": "East Coast Demerara",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": "No reason given",
   "feeder_offline": true,
   "feeders": [],
@@ -1814,11 +1992,12 @@
   "captured_at": "2026-11-14T21:09:47.354538+00:00",
   "type": "unplanned",
   "region": "Georgetown",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": "No reason given",
   "feeder_offline": true,
   "feeders": [],
   "areas": [
+   "South",
    "North Ruimveldt",
    "Tucville",
    "Lamaha Park",
@@ -1840,7 +2019,7 @@
   "captured_at": "2026-11-14T21:09:47.354538+00:00",
   "type": "unplanned",
   "region": "Berbice",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": "No reason given",
   "feeder_offline": true,
   "feeders": [],
@@ -1863,16 +2042,16 @@
   "captured_at": "2026-11-14T21:09:47.354538+00:00",
   "type": "unplanned",
   "region": "East Bank Demerara",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": "No reason given",
   "feeder_offline": true,
   "feeders": [],
   "areas": [
    "Grove",
    "Diamond",
-   "Coverden",
+   "Coverden New Scheme",
    "Farm",
-   "Herstelling",
+   "Herstelling New Scheme",
    "Mocha"
   ],
   "times": [],
@@ -1891,7 +2070,7 @@
   "captured_at": "2026-11-14T21:09:47.354538+00:00",
   "type": "unplanned",
   "region": "East Bank Demerara",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": "No reason given",
   "feeder_offline": true,
   "feeders": [],
@@ -1918,7 +2097,7 @@
   "captured_at": "2026-11-14T16:52:40.467088+00:00",
   "type": "other",
   "region": null,
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
   "feeder_offline": false,
   "feeders": [],
@@ -1939,7 +2118,7 @@
   "captured_at": "2026-11-14T16:52:40.467088+00:00",
   "type": "other",
   "region": null,
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
   "feeder_offline": false,
   "feeders": [],
@@ -1958,7 +2137,7 @@
   "captured_at": "2026-11-14T06:44:55.661490+00:00",
   "type": "update",
   "region": "Essequibo Coast",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
   "feeder_offline": true,
   "feeders": [],
@@ -1979,7 +2158,7 @@
   "captured_at": "2026-11-14T06:44:55.661490+00:00",
   "type": "unplanned",
   "region": "Essequibo Coast",
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": "No reason given",
   "feeder_offline": true,
   "feeders": [],
@@ -2009,7 +2188,7 @@
   "times": [],
   "suspected_shedding": [],
   "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)",
-  "rules": "2026-11-14c"
+  "rules": "2026-11-19a"
  },
  {
   "id": "3f419a176796939fc08e13a04f452206",
@@ -2032,7 +2211,7 @@
    "peak hours"
   ],
   "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)",
-  "rules": "2026-11-14c"
+  "rules": "2026-11-19a"
  },
  {
   "id": "3cc4e4260ad38d18402e31fde765c9d6",
@@ -2055,7 +2234,7 @@
   "times": [],
   "suspected_shedding": [],
   "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)",
-  "rules": "2026-11-14c"
+  "rules": "2026-11-19a"
  },
  {
   "id": "9c75b444661343f774e6dc355c0be4ba",
@@ -2079,7 +2258,7 @@
    "rotation"
   ],
   "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)",
-  "rules": "2026-11-14c"
+  "rules": "2026-11-19a"
  },
  {
   "id": "c11d40f26accbf5adbc4f00e0ee0e6a8",
@@ -2104,7 +2283,7 @@
    "rotation"
   ],
   "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)",
-  "rules": "2026-11-14c"
+  "rules": "2026-11-19a"
  },
  {
   "id": "d0c3a57e3b478671ca6ff97510d2a258",
@@ -2125,7 +2304,7 @@
   "times": [],
   "suspected_shedding": [],
   "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)",
-  "rules": "2026-11-14c"
+  "rules": "2026-11-19a"
  },
  {
   "id": "44d77f89898877a08a8c955dc1ce3bfb",
@@ -2146,7 +2325,7 @@
   "times": [],
   "suspected_shedding": [],
   "link_check": "embed: unclear (400, no post text); mobile: unclear (200, login page)",
-  "rules": "2026-11-14c"
+  "rules": "2026-11-19a"
  },
  {
   "id": "c197dda97f56aac9d5a82da2dffbf7ef",
@@ -2167,7 +2346,7 @@
   "times": [],
   "suspected_shedding": [],
   "link_check": "embed: unclear (400, no post text); mobile: unclear (400, no post text)",
-  "rules": "2026-11-14c"
+  "rules": "2026-11-19a"
  },
  {
   "id": "555616cad6490433822e81886bfa6dd2",
@@ -2181,7 +2360,7 @@
   "captured_at": "2026-11-14T10:48:29.177726+00:00",
   "type": "other",
   "region": null,
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "cause": null,
   "feeder_offline": false,
   "feeders": [],
@@ -2210,7 +2389,7 @@
   "suspected_shedding": [
    "rotation"
   ],
-  "rules": "2026-11-14c"
+  "rules": "2026-11-19a"
  },
  {
   "id": "66b5b3f7dd6915fa869ffcc22cec3b97",
@@ -2233,7 +2412,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "rules": "2026-11-14c"
+  "rules": "2026-11-19a"
  },
  {
   "id": "108dccafbb3e5e1d6b79bd34af8d5e4c",
@@ -2258,7 +2437,7 @@
   "suspected_shedding": [
    "rotation"
   ],
-  "rules": "2026-11-14c"
+  "rules": "2026-11-19a"
  },
  {
   "id": "ccca5e364963576b3e2d99ecf17a0583",
@@ -2278,7 +2457,7 @@
   "areas": [],
   "times": [],
   "suspected_shedding": [],
-  "rules": "2026-11-14c",
+  "rules": "2026-11-19a",
   "deleted_from_source": true
  },
  {
@@ -2297,15 +2476,16 @@
   "feeder_offline": false,
   "feeders": [],
   "areas": [
-   "Grove",
+   "Section A Grove",
    "Diamond",
-   "Coverden",
+   "Coverden New Scheme",
+   "Grove",
    "Farm",
    "Herstelling",
    "Mocha"
   ],
   "times": [],
   "suspected_shedding": [],
-  "rules": "2026-11-14c"
+  "rules": "2026-11-19a"
  }
 ]
