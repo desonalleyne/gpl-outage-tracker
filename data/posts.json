@@ -8,7 +8,7 @@
   "text": "UPDATE – SERVICE INTERRUPTION (BERBICE)\n\nGuyana Power and Light Inc.  wishes to update customers from Canefield to Williamsburg and Canefield to Kortberaadt on the ongoing service interruption.\n\nGPL’s technical teams have successfully rectified the damage to the switchgear at the Canefield Substation. However, during attempts to repower the substation, a technical fault was encountered on the busbar, a key network component responsible for facilitating the transmission of electricity from the substation to customers.\n\nOur technical teams are currently investigating the fault to determine the necessary corrective actions.\n\nFurther information, including an estimated restoration time, will be provided as it becomes available.\n\nGPL apologises for the continued inconvenience and thanks customers for their patience and understanding.",
   "images": [],
   "reactions": 65,
-  "comments": 91,
+  "comments": 93,
   "shares": 17,
   "captured_at": "2026-11-20T12:10:03.938230+00:00",
   "type": "update",
@@ -58,7 +58,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 53,
+  "missing_runs": 54,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-20T10:20:03.078115+00:00"
  },
@@ -122,7 +122,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 53,
+  "missing_runs": 54,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-20T10:20:03.078115+00:00"
  },
@@ -134,8 +134,8 @@
   "published": "2026-11-20T04:39:13+00:00",
   "text": "UPDATE — BERBICE\n\nThe Guyana Power and Light Inc. (GPL) wishes to update customers from Canefield to Williamsburg and from Canefield to Kortberaadt on the service interruption currently being experienced.\n\nThis was caused by a system disturbance at our Canefield Substation that took several feeders offline. While trying to restore supply, operatives at the substation saw a flash from one of the switchgear cubicles. As a precaution, the equipment is being checked before electricity is restored.\n\nAdditional information will be provided in a subsequent post.\n\nGPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
   "images": [],
-  "reactions": 87,
-  "comments": 178,
+  "reactions": 88,
+  "comments": 179,
   "shares": 23,
   "captured_at": "2026-11-20T05:06:58.612064+00:00",
   "type": "restored",
@@ -182,7 +182,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 53,
+  "missing_runs": 54,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-20T10:20:03.078115+00:00"
  },
@@ -239,7 +239,7 @@
   "reactions": 29,
   "comments": 48,
   "shares": 10,
-  "missing_runs": 53,
+  "missing_runs": 54,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-20T10:20:03.078115+00:00"
  },
@@ -265,7 +265,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 53,
+  "missing_runs": 54,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-20T10:20:03.078115+00:00"
  },
@@ -288,7 +288,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 53,
+  "missing_runs": 54,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-20T10:20:03.078115+00:00"
  },
@@ -317,7 +317,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 53,
+  "missing_runs": 54,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-20T10:20:03.078115+00:00"
  },
@@ -347,7 +347,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 53,
+  "missing_runs": 54,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-20T10:20:03.078115+00:00"
  },
