@@ -1,5 +1,36 @@
 [
  {
+  "id": "fb:GuyanaPowerAndLight:1795282149",
+  "fb_time": 1795282149,
+  "link": "https://www.facebook.com/GuyanaPowerAndLight",
+  "title": "UPDATE — SERVICE INTERRUPTION (EAST BANK DEMERARA)",
+  "published": "2026-11-21T17:29:09+00:00",
+  "text": "UPDATE — SERVICE INTERRUPTION (EAST BANK DEMERARA)\n\nThe Guyana Power and Light Inc. (GPL) wishes to advise that remedial works have commenced at Cuffy Dam following the earlier incident in which machinery reportedly made contact with a guy wire, causing conductors from one feeder to come into contact with another.\n\nOur technical teams are erecting a structure, elevating the conductors and reinforcing the guy set to safely address the issue.\n\nAreas from Brickery to Timehri and communities along the Linden-Soesdyke Highway have since been repowered.\n\nThe works are expected to be completed by 4:30 PM, after which the remaining affected customers between Garden of Eden and Grove are expected to be repowered.\n\nGPL apologises for the inconvenience caused and thanks customers for their continued patience and understanding.",
+  "images": [
+   "https://scontent-gru2-2.xx.fbcdn.net/v/t39.30808-6/916117157_122213719124585308_158739678638956840_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Lit2rt14UwsQ7kNvwFIkujO&_nc_oc=AdoAO8WKqd114W-25IE1Ysk0ZiuGC99XwICzKQNptX9-S8gkD9ne3xsOCJYYn1mAo7o&_nc_zt=23&_nc_ht=scontent-gru2-2.xx&edm=ADwHzz8EAAAA&_nc_gid=RtFQ440xAWh7xKiY_RNV6A&oh=00_AQTiUtyA9cK4vT3JXfHvJ1SR1Nfo4gWnaarzE5IkJkFcNw&oe=6B07BB90"
+  ],
+  "reactions": 0,
+  "comments": 0,
+  "shares": 1,
+  "captured_at": "2026-11-21T17:30:03.049867+00:00",
+  "type": "restored",
+  "region": "East Bank Demerara",
+  "rules": "2026-11-19a",
+  "cause": null,
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [
+   "Brickery to Timehri",
+   "Garden of Eden to Grove",
+   "Linden",
+   "Soesdyke"
+  ],
+  "times": [
+   "04:30 pm"
+  ],
+  "suspected_shedding": []
+ },
+ {
   "id": "fb:GuyanaPowerAndLight:1795281445",
   "fb_time": 1795281445,
   "link": "https://www.facebook.com/GuyanaPowerAndLight",
@@ -11,9 +42,9 @@
    "https://scontent-gru1-1.xx.fbcdn.net/v/t39.30808-6/916995721_122213717168585308_210356834480442829_n.jpg?stp=dst-jpg_s565x565_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=Y-GSgypZNoMQ7kNvwEdsV62&_nc_oc=Adq7xRjMG5iCkToE8SCmf7huszn_k2eRvEWWzjRLW6AsQXV6263JkzFlLAKwOgxZ3o4&_nc_zt=23&_nc_ht=scontent-gru1-1.xx&edm=ADwHzz8EAAAA&_nc_gid=Jjihrk6wF5-c4pBttcq-AQ&oh=00_AQQuL9unpG1YFH19XOOhBLtKe8u6Dsg_rYXgvKgIu5uRWQ&oe=6B07A0EB",
    "https://scontent-gru1-2.xx.fbcdn.net/v/t39.30808-6/916080025_122213717210585308_5519391481603837708_n.jpg?stp=dst-jpg_s565x565_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=VMeivcUkn7EQ7kNvwEavmX_&_nc_oc=AdpJOMMF8ijeDmdhae3yvQ-msaNpqaJxeG6V_bMAUKBf7LKDx5jWhlEYh4ruz-jLGv0&_nc_zt=23&_nc_ht=scontent-gru1-2.xx&edm=ADwHzz8EAAAA&_nc_gid=Jjihrk6wF5-c4pBttcq-AQ&oh=00_AQRIAHPjqvbEASpbmW1OfwLaFjz_kVoNZ4m4s8ylrj6LuA&oe=6B07B9DC"
   ],
-  "reactions": 5,
-  "comments": 4,
-  "shares": 2,
+  "reactions": 6,
+  "comments": 6,
+  "shares": 5,
   "captured_at": "2026-11-21T17:20:03.210622+00:00",
   "type": "restored",
   "region": "East Bank Demerara",
@@ -43,9 +74,9 @@
    "https://scontent-gru2-1.xx.fbcdn.net/v/t39.30808-6/916382038_122213714246585308_776659103218003158_n.jpg?stp=dst-jpg_p261x260_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ARwtYqhCQkoQ7kNvwENW3d5&_nc_oc=AdpEEe4xaVTIR2ksMD-CU8mOfAH_6P2vYZgnRiByqs_G-uXCFkNxDGwl79HbyBSSGnc&_nc_zt=23&_nc_ht=scontent-gru2-1.xx&edm=ADwHzz8EAAAA&_nc_gid=4NkTAty2mxJlRKieh1Tn9Q&oh=00_AQR7WdUXqRlpuWAbYbrVCrB_mCv2TC_bDr_zOpc-OIpE4A&oe=6B079554",
    "https://scontent-gru1-2.xx.fbcdn.net/v/t39.30808-6/914957568_122213714336585308_4983357731114491129_n.jpg?stp=dst-jpg_p261x260_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ZMY6k8Gi2LkQ7kNvwGuJZGg&_nc_oc=Adqo1u8Domqq42KPG0pnniS4NiANtFhzQ6so0fafJhA6Pnjff83w5N8EhjXpFAyCdg0&_nc_zt=23&_nc_ht=scontent-gru1-2.xx&edm=ADwHzz8EAAAA&_nc_gid=4NkTAty2mxJlRKieh1Tn9Q&oh=00_AQRtq-L6EJ1jvfrqIwcnNGJJMibxwnj7uxe1rTfvrMbSWw&oe=6B07AAEA"
   ],
-  "reactions": 56,
-  "comments": 90,
-  "shares": 32,
+  "reactions": 60,
+  "comments": 100,
+  "shares": 34,
   "captured_at": "2026-11-21T17:00:03.414840+00:00",
   "type": "update",
   "region": "East Berbice",
@@ -65,8 +96,8 @@
   "published": "2026-11-21T16:40:14+00:00",
   "text": "UPDATE — SERVICE INTERRUPTION (EAST BANK DEMERARA)\n\nThe Guyana Power and Light Inc. (GPL) wishes to advise that incremental restoration is in progress following the earlier service interruption from Grove to Timehri and sections of the Linden-Soesdyke Highway due to feeders coming offline. \n\nCustomers from Brickery to Timehri and communities along the Linden-Soesdyke Highway have been repowered.\n\nTroubleshooting and isolation works remain ongoing to identify and resolve the issue affecting the remaining areas between Garden of Eden and Grove. These areas will be repowered once the necessary checks are completed.\n\nGPL apologises for the inconvenience caused and thanks customers for their continued patience and understanding.",
   "images": [],
-  "reactions": 11,
-  "comments": 6,
+  "reactions": 12,
+  "comments": 8,
   "shares": 4,
   "captured_at": "2026-11-21T16:45:03.019978+00:00",
   "type": "update",
