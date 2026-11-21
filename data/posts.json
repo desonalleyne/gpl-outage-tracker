@@ -1,5 +1,34 @@
 [
  {
+  "id": "fb:GuyanaPowerAndLight:1795274021",
+  "fb_time": 1795274021,
+  "link": "https://www.facebook.com/GuyanaPowerAndLight",
+  "title": "PRESS RELEASE",
+  "published": "2026-11-21T15:13:41+00:00",
+  "text": "PRESS RELEASE\n\nGuyana Power and Light Inc.\nSaturday, November 21, 2026\n\nGPL Identifies Fault at Canefield Substation; Power to Be Restored to East Berbice Communities by 1:00 PM Today\n\nGuyana Power and Light Inc. (GPL) has identified the cause of the outage affecting customers served by the Canefield Substation in East Berbice. The problem is an insulation failure in the panel housing the substation's grounding transformer.\n\nThe grounding transformer is a key piece of safety equipment. It allows the substation's protection systems to detect faults and isolate them quickly. Because of the damage to its panel, the grounding transformer cannot be safely placed in service. Re-energising the network without it would put customers, the public and GPL personnel at risk, so the panel must be repaired before power can be restored.\n\nOver the past two days, GPL's technical teams have worked around the clock to find the fault. GPL also brought in specialist support to help with the diagnosis. With the cause now confirmed, repairs to the panel's insulation are underway.\n\nBarring unforeseen complications during final testing, GPL expects to complete the repairs and begin restoring power to the affected communities by 1:00 PM today. Supply may return to different areas in stages so that the network can be brought back safely.\n\nGPL understands the hardship and frustration this prolonged outage has caused households and businesses in East Berbice. The company sincerely apologises and thanks customers for their patience.\n\nGPL will provide further updates as the work progresses.\n\n– END –",
+  "images": [
+   "https://scontent-gru1-2.xx.fbcdn.net/v/t39.30808-6/914360201_122213702660585308_6749873105682612842_n.jpg?stp=dst-jpg_p261x260_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=MrDiELNRZUoQ7kNvwGksRZs&_nc_oc=AdpBq0KlBl9BthoH-5ldv6C--ge1HzlE6PmkX9Y5wCLH4bLRy2h3SdYcRyFemaZJ0c0&_nc_zt=23&_nc_ht=scontent-gru1-2.xx&edm=ADwHzz8EAAAA&_nc_gid=qHgUg_l4dKtJwvlXkPT5aA&oh=00_AQS3Ya-mltawbTRpfTeON4IBTWCx2f2hLQPkofLRzEKDOQ&oe=6B077DB7",
+   "https://scontent-gru1-2.xx.fbcdn.net/v/t39.30808-6/914360201_122213702660585308_6749873105682612842_n.jpg?stp=dst-jpg_p261x260_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=MrDiELNRZUoQ7kNvwGksRZs&_nc_oc=AdpBq0KlBl9BthoH-5ldv6C--ge1HzlE6PmkX9Y5wCLH4bLRy2h3SdYcRyFemaZJ0c0&_nc_zt=23&_nc_ht=scontent-gru1-2.xx&edm=ADwHzz8EAAAA&_nc_gid=qHgUg_l4dKtJwvlXkPT5aA&oh=00_AQS3Ya-mltawbTRpfTeON4IBTWCx2f2hLQPkofLRzEKDOQ&oe=6B077DB7",
+   "https://scontent-gru1-1.xx.fbcdn.net/v/t39.30808-6/916117222_122213702702585308_6107821083497064149_n.jpg?stp=dst-jpg_p261x260_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=PIHqZsHNf-IQ7kNvwGBWT8D&_nc_oc=Adqr9GKrbSANpF9Z9UHCBAijt1RY5RA73rp0bvPoSgNjrjpKb67ZjJvx3Rl4jmN7Z7k&_nc_zt=23&_nc_ht=scontent-gru1-1.xx&edm=ADwHzz8EAAAA&_nc_gid=qHgUg_l4dKtJwvlXkPT5aA&oh=00_AQQqM6mUqa4XaiF60QB4y-WxAnRRRfP3P04yeTHPqwNYlw&oe=6B079988"
+  ],
+  "reactions": 1,
+  "comments": 0,
+  "shares": 1,
+  "captured_at": "2026-11-21T15:15:02.957160+00:00",
+  "type": "restored",
+  "region": "East Berbice",
+  "rules": "2026-11-19a",
+  "cause": null,
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [],
+  "times": [
+   "01:00 pm",
+   "01:00 pm"
+  ],
+  "suspected_shedding": []
+ },
+ {
   "id": "fb:GuyanaPowerAndLight:1795273430",
   "fb_time": 1795273430,
   "link": "https://www.facebook.com/GuyanaPowerAndLight",
@@ -7,8 +36,8 @@
   "published": "2026-11-21T15:03:50+00:00",
   "text": "ADVISORY — EAST BANK DEMERARA\n\nDear customers in sections along the East Bank of Demerara, please be advised that the service interruption being experienced is due to a suspected damaged cable at our Garden of Eden facility. \n\nOur teams are conducting checks and more information will be provided in a subsequent post. \n\nWe sincerely apologize for the inconvenience caused at this time.",
   "images": [],
-  "reactions": 2,
-  "comments": 3,
+  "reactions": 3,
+  "comments": 12,
   "shares": 2,
   "captured_at": "2026-11-21T15:05:03.923344+00:00",
   "type": "unplanned",
@@ -31,7 +60,7 @@
   "published": "2026-11-21T14:34:04+00:00",
   "text": "ADVISORY — GEORGETOWN\n\nThe Guyana Power and Light Inc. (GPL) wishes to advise customers in Alexander Village, River View, and from Rahaman Turn to Harold Street that they are experiencing a service interruption due to a feeder coming offline.\n\nOur technical teams are working to restore electricity as soon as possible.\n\nGPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
   "images": [],
-  "reactions": 10,
+  "reactions": 11,
   "comments": 18,
   "shares": 2,
   "captured_at": "2026-11-21T14:35:03.748236+00:00",
@@ -76,7 +105,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 5,
+  "missing_runs": 6,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-21T14:55:03.396445+00:00"
  },
@@ -131,7 +160,7 @@
   "suspected_shedding": [
    "rotation"
   ],
-  "missing_runs": 5,
+  "missing_runs": 6,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-21T14:55:03.396445+00:00"
  },
@@ -146,7 +175,7 @@
    "https://scontent-gru1-1.xx.fbcdn.net/v/t39.30808-6/920382229_122213689646585308_8293808774982038761_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=gI7cxaXiIDsQ7kNvwEVKcEV&_nc_oc=AdqQF7vH9tAlVj3bFufLWIqMIeweKFJVOO15_QFFEmbZLZEDRNGDsPluRz6OhjAkXFY&_nc_zt=23&_nc_ht=scontent-gru1-1.xx&edm=ADwHzz8EAAAA&_nc_gid=Azq6gkpuIEion0xlU61otg&oh=00_AQSYF9GdcpzzKhibyxDSHj0wDWy9pC7G0PVDo3Z9LkBCwg&oe=6B075EBC"
   ],
   "reactions": 80,
-  "comments": 79,
+  "comments": 82,
   "shares": 22,
   "captured_at": "2026-11-21T13:40:03.433825+00:00",
   "type": "unplanned",
