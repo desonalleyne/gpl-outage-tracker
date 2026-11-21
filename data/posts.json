@@ -1,15 +1,67 @@
 [
  {
+  "id": "fb:GuyanaPowerAndLight:1795300995",
+  "fb_time": 1795300995,
+  "link": "https://www.facebook.com/GuyanaPowerAndLight",
+  "title": "ADVISORY – SERVICE INTERRUPTION (EAST BANK DEMERARA)",
+  "published": "2026-11-21T22:43:15+00:00",
+  "text": "ADVISORY – SERVICE INTERRUPTION (EAST BANK DEMERARA) \n\nGuyana Power and Light Inc. (GPL) wishes to advise customers from Grove to Nandy Park to that they are currently experiencing an interruption in electricity supply due to the distribution feeder going offline. \n\nOur technical teams are working to restore electricity supply to all affected customers. \n\nWe apologize for the inconvenience caused and thank customers for their patience and understanding.",
+  "images": [],
+  "reactions": 2,
+  "comments": 0,
+  "shares": 1,
+  "captured_at": "2026-11-21T22:45:03.608720+00:00",
+  "type": "unplanned",
+  "region": "East Bank Demerara",
+  "rules": "2026-11-19a",
+  "cause": "No reason given",
+  "feeder_offline": true,
+  "feeders": [],
+  "areas": [
+   "Grove to Nandy Park"
+  ],
+  "times": [],
+  "suspected_shedding": [
+   "peak hours",
+   "rotation"
+  ]
+ },
+ {
+  "id": "fb:GuyanaPowerAndLight:1795300904",
+  "fb_time": 1795300904,
+  "link": "https://www.facebook.com/GuyanaPowerAndLight",
+  "title": "UPDATE – SERVICE INTERRUPTION (BERBICE)",
+  "published": "2026-11-21T22:41:44+00:00",
+  "text": "UPDATE – SERVICE INTERRUPTION (BERBICE)\n\nGuyana Power and Light Inc. (GPL) wishes to advise customers from Canefield to Williamsburg and Canefield to Kortberaadt that works at the Canefield Substation have been completed and incremental restoration has commenced.\n\nNew Amsterdam has already been repowered. This repowering excercise will continue until power has been restored to all affected areas. \n\nOur technical teams are continuing the careful, phased restoration of the network to safely return electricity to the remaining affected communities.\n\nGPL fully understands the hardship and frustration caused by this prolonged service interruption and sincerely apologises to our customers. We deeply appreciate your continued patience and understanding as restoration progresses.\n\nFurther updates will be provided as additional areas are repowered.",
+  "images": [],
+  "reactions": 7,
+  "comments": 9,
+  "shares": 7,
+  "captured_at": "2026-11-21T22:45:03.608720+00:00",
+  "type": "restored",
+  "region": "Berbice",
+  "rules": "2026-11-19a",
+  "cause": null,
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [
+   "Canefield to Williamsburg",
+   "New Amsterdam"
+  ],
+  "times": [],
+  "suspected_shedding": []
+ },
+ {
   "id": "fb:GuyanaPowerAndLight:1795298856",
   "fb_time": 1795298856,
   "link": "https://www.facebook.com/GuyanaPowerAndLight",
   "title": "ADVISORY – SERVICE INTERRUPTION (WEST DEMERARA)",
   "published": "2026-11-21T22:07:36+00:00",
-  "text": "ADVISORY – SERVICE INTERRUPTION (WEST DEMERARA)\n\nGuyana Power and Light Inc. (GPL) wishes to advise customers from Philadelphia and surrounding areas that they are currently experiencing an interruption in electricity supply due to a damaged load buster.\n\nGPL’s technical teams have been mobilised to address same and restore electricity supply to all affected customers.\n\nGPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
+  "text": "ADVISORY – SERVICE INTERRUPTION (WEST DEMERARA)\n\nGuyana Power and Light Inc. (GPL) wishes to advise customers from Philadelphia to Parika and surrounding areas that they are currently experiencing an interruption in electricity supply due to a damaged load buster.\n\nGPL’s technical teams have been mobilised to address same and restore electricity supply to all affected customers.\n\nGPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
   "images": [],
-  "reactions": 16,
-  "comments": 22,
-  "shares": 6,
+  "reactions": 17,
+  "comments": 24,
+  "shares": 7,
   "captured_at": "2026-11-21T22:10:03.305882+00:00",
   "type": "unplanned",
   "region": "West Demerara",
@@ -17,10 +69,13 @@
   "cause": "No reason given",
   "feeder_offline": false,
   "feeders": [],
-  "areas": [],
+  "areas": [
+   "Philadelphia to Parika"
+  ],
   "times": [],
   "suspected_shedding": [
-   "peak hours"
+   "peak hours",
+   "rotation"
   ]
  },
  {
@@ -33,9 +88,9 @@
   "images": [
    "https://scontent-gru2-1.xx.fbcdn.net/v/t15.5256-10/896071059_1139238985496682_2427152617714542178_n.jpg?_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=ToMG3eg0XmUQ7kNvwEURkGa&_nc_oc=AdpSsrcnvYo6xj2b3f6apnakZrtjYsMEkQ6OIf7WdCMAxWgPc4JkGGxRm-uvCjtUaFg&_nc_zt=23&_nc_ht=scontent-gru2-1.xx&edm=ADwHzz8EAAAA&_nc_gid=P937BK3yC6EhCbKSBAGAQg&oh=00_AQTpjKVmNlSZLJPiscbapaVAjzszfi28CPCwqtj6NuNehw&oe=6B07D2ED"
   ],
-  "reactions": 215,
-  "comments": 176,
-  "shares": 76,
+  "reactions": 222,
+  "comments": 184,
+  "shares": 80,
   "captured_at": "2026-11-21T21:50:02.986494+00:00",
   "type": "other",
   "region": null,
@@ -55,9 +110,9 @@
   "published": "2026-11-21T19:48:09+00:00",
   "text": "ADVISORY — ONLINE CHAT SERVICE TEMPORARILY UNAVAILABLE\n\nPlease be advised that our Online Chat service via our website is currently unavailable.\n\nCustomers can continue to contact the Guyana Power and Light Inc. (GPL) via WhatsApp at 699-4882, telephone at 226-2600, or our toll-free number 0475.\n\nWe apologise for the inconvenience and thank you for your understanding.",
   "images": [],
-  "reactions": 104,
+  "reactions": 105,
   "comments": 76,
-  "shares": 16,
+  "shares": 17,
   "captured_at": "2026-11-21T19:50:03.283541+00:00",
   "type": "other",
   "region": null,
