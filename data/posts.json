@@ -10,8 +10,8 @@
    "https://scontent-gru2-1.xx.fbcdn.net/v/t39.30808-6/914866203_122213631302585308_138867288363478443_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=wzqZfT3E3scQ7kNvwFDU2pG&_nc_oc=Adoeq4mo9dDV5HagXUydcCopKcGboiGa4b_AeGOmVRaz2CXBunzUC1dvXIMfEjFXrXY&_nc_zt=23&_nc_ht=scontent-gru2-1.xx&edm=ADwHzz8EAAAA&_nc_gid=VVZOXQPFPi5ZR3ixV6yhyg&oh=00_AQQMq6K9yLpAl9Nq_5oWm4Vk27JLo_AhFOB53i7Vp1DH2A&oe=6B06E269"
   ],
   "reactions": 13,
-  "comments": 24,
-  "shares": 2,
+  "comments": 29,
+  "shares": 3,
   "captured_at": "2026-11-21T02:45:03.736964+00:00",
   "type": "restored",
   "region": "Georgetown",
@@ -35,8 +35,8 @@
    "https://scontent-gru1-2.xx.fbcdn.net/v/t39.30808-6/916579748_122213627030585308_6924541234279409862_n.jpg?stp=dst-jpg_p261x260_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=UiazvYnUbfAQ7kNvwFnsoAh&_nc_oc=AdqNLw_-wnMOn-EK7Rfq7LDfHE0ILQXHH-5yaz23_ucc6WlKKtM6NuWnKTBrwSCS8l8&_nc_zt=23&_nc_ht=scontent-gru1-2.xx&edm=ADwHzz8EAAAA&_nc_gid=R2aSD0YdR0ePT2C07yvTTw&oh=00_AQTjLWbZV8B4X-zEp-u6eslFtN7jjOs9qalffMZvUC6QPA&oe=6B06DC64",
    "https://scontent-gru1-2.xx.fbcdn.net/v/t39.30808-6/920632588_122213627036585308_2627398983968005955_n.jpg?stp=dst-jpg_p261x260_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=6b3XUo5RvVsQ7kNvwEMFsHq&_nc_oc=AdpTNt4tA7Qmlm_0dTjOFCYSWc8trha0999YC9X7EHluq8AxvkaDmwAH2MaQYvzHc-4&_nc_zt=23&_nc_ht=scontent-gru1-2.xx&edm=ADwHzz8EAAAA&_nc_gid=R2aSD0YdR0ePT2C07yvTTw&oh=00_AQSC7trq90jBEiOUpDI_ZoT31U7Qlh9_aandLI9odbvGpQ&oe=6B06DCED"
   ],
-  "reactions": 28,
-  "comments": 57,
+  "reactions": 29,
+  "comments": 60,
   "shares": 8,
   "captured_at": "2026-11-21T02:25:03.254937+00:00",
   "type": "update",
@@ -75,7 +75,9 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 1
+  "missing_runs": 2,
+  "deleted_from_source": true,
+  "deleted_seen_at": "2026-11-21T03:10:03.419537+00:00"
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795223924",
@@ -105,7 +107,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 2,
+  "missing_runs": 3,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-21T03:05:03.414773+00:00"
  },
@@ -119,7 +121,7 @@
   "images": [
    "https://scontent-gru2-1.xx.fbcdn.net/v/t15.5256-10/894243462_1861987551595979_906669108346710963_n.jpg?_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=PNysJnOOptYQ7kNvwHck7hW&_nc_oc=AdrGsK6utKwZPPFBr-BFx5khx7czXCv3A-OoFNW55_y_34zYJ1XLx5zoN8tAbVjAY3c&_nc_zt=23&_nc_ht=scontent-gru2-1.xx&edm=ADwHzz8EAAAA&_nc_gid=n7wDBqDf41z2q8OdvlZcIQ&oh=00_AQRTlVCwto9oyFuwJj9hVqrMofUwhiwPxLYZrnQXwgyZEQ&oe=6B06D067"
   ],
-  "reactions": 111,
+  "reactions": 112,
   "comments": 157,
   "shares": 34,
   "captured_at": "2026-11-21T01:00:03.134508+00:00",
@@ -141,7 +143,7 @@
   "published": "2026-11-20T23:23:08+00:00",
   "text": "UPDATE – SERVICE INTERRUPTION (BERBICE)\n\nGuyana Power and Light Inc. (GPL) wishes to advise customers that troubleshooting efforts are still ongoing at the Canefield Substation, and power restoration efforts are expected to commence shortly.\n\nDuring extensive troubleshooting, GPL’s technical teams inspected the wiring, electrical panels, busbar and distribution feeders. Several faulty components were identified and subsequently replaced as part of the corrective works.\n\nGPL’s technical teams continue to investigate and address the remaining technical issues to facilitate the safe restoration of electricity supply to all affected customers.\n\nGPL will continue to provide updates as restoration efforts progress.\n\nGPL apologises for the continued inconvenience and thanks customers for their patience and understanding.",
   "images": [],
-  "reactions": 105,
+  "reactions": 106,
   "comments": 202,
   "shares": 22,
   "captured_at": "2026-11-20T23:25:03.409208+00:00",
