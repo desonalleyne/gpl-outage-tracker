@@ -25,7 +25,9 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 1
+  "missing_runs": 2,
+  "deleted_from_source": true,
+  "deleted_seen_at": "2026-11-21T19:40:03.384085+00:00"
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795282149",
@@ -57,7 +59,9 @@
    "04:30 pm"
   ],
   "suspected_shedding": [],
-  "missing_runs": 1
+  "missing_runs": 2,
+  "deleted_from_source": true,
+  "deleted_seen_at": "2026-11-21T19:40:03.384085+00:00"
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795281445",
@@ -90,7 +94,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 5,
+  "missing_runs": 6,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-21T19:20:02.940723+00:00"
  },
@@ -106,8 +110,8 @@
    "https://scontent-gru2-1.xx.fbcdn.net/v/t39.30808-6/916382038_122213714246585308_776659103218003158_n.jpg?stp=dst-jpg_p261x260_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ARwtYqhCQkoQ7kNvwENW3d5&_nc_oc=AdpEEe4xaVTIR2ksMD-CU8mOfAH_6P2vYZgnRiByqs_G-uXCFkNxDGwl79HbyBSSGnc&_nc_zt=23&_nc_ht=scontent-gru2-1.xx&edm=ADwHzz8EAAAA&_nc_gid=4NkTAty2mxJlRKieh1Tn9Q&oh=00_AQR7WdUXqRlpuWAbYbrVCrB_mCv2TC_bDr_zOpc-OIpE4A&oe=6B079554",
    "https://scontent-gru1-2.xx.fbcdn.net/v/t39.30808-6/914957568_122213714336585308_4983357731114491129_n.jpg?stp=dst-jpg_p261x260_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ZMY6k8Gi2LkQ7kNvwGuJZGg&_nc_oc=Adqo1u8Domqq42KPG0pnniS4NiANtFhzQ6so0fafJhA6Pnjff83w5N8EhjXpFAyCdg0&_nc_zt=23&_nc_ht=scontent-gru1-2.xx&edm=ADwHzz8EAAAA&_nc_gid=4NkTAty2mxJlRKieh1Tn9Q&oh=00_AQRtq-L6EJ1jvfrqIwcnNGJJMibxwnj7uxe1rTfvrMbSWw&oe=6B07AAEA"
   ],
-  "reactions": 98,
-  "comments": 184,
+  "reactions": 99,
+  "comments": 186,
   "shares": 46,
   "captured_at": "2026-11-21T17:00:03.414840+00:00",
   "type": "update",
@@ -147,7 +151,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 5,
+  "missing_runs": 6,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-21T19:20:02.940723+00:00"
  },
@@ -176,7 +180,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 5,
+  "missing_runs": 6,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-21T19:20:02.940723+00:00"
  },
@@ -232,7 +236,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 23,
+  "missing_runs": 24,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-21T15:55:03.463643+00:00"
  },
@@ -263,7 +267,7 @@
   "suspected_shedding": [
    "rotation"
   ],
-  "missing_runs": 9,
+  "missing_runs": 10,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-21T17:05:03.397701+00:00"
  },
@@ -292,7 +296,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 35,
+  "missing_runs": 36,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-21T14:55:03.396445+00:00"
  },
@@ -347,7 +351,7 @@
   "suspected_shedding": [
    "rotation"
   ],
-  "missing_runs": 24,
+  "missing_runs": 25,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-21T14:55:03.396445+00:00"
  },
