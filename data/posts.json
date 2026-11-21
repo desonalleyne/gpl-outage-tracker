@@ -1,5 +1,27 @@
 [
  {
+  "id": "fb:GuyanaPowerAndLight:1795290489",
+  "fb_time": 1795290489,
+  "link": "https://www.facebook.com/GuyanaPowerAndLight",
+  "title": "ADVISORY — ONLINE CHAT SERVICE TEMPORARILY UNAVAILABLE",
+  "published": "2026-11-21T19:48:09+00:00",
+  "text": "ADVISORY — ONLINE CHAT SERVICE TEMPORARILY UNAVAILABLE\n\nPlease be advised that our Online Chat service via our website is currently unavailable.\n\nCustomers can continue to contact the Guyana Power and Light Inc. (GPL) via WhatsApp at 699-4882, telephone at 226-2600, or our toll-free number 0475.\n\nWe apologise for the inconvenience and thank you for your understanding.",
+  "images": [],
+  "reactions": 2,
+  "comments": 4,
+  "shares": 3,
+  "captured_at": "2026-11-21T19:50:03.283541+00:00",
+  "type": "other",
+  "region": null,
+  "rules": "2026-11-19a",
+  "cause": null,
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [],
+  "times": [],
+  "suspected_shedding": []
+ },
+ {
   "id": "fb:GuyanaPowerAndLight:1795287039",
   "fb_time": 1795287039,
   "link": "https://www.facebook.com/GuyanaPowerAndLight",
@@ -25,7 +47,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 3,
+  "missing_runs": 4,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-21T19:40:03.384085+00:00"
  },
@@ -59,7 +81,7 @@
    "04:30 pm"
   ],
   "suspected_shedding": [],
-  "missing_runs": 3,
+  "missing_runs": 4,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-21T19:40:03.384085+00:00"
  },
@@ -94,7 +116,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 7,
+  "missing_runs": 8,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-21T19:20:02.940723+00:00"
  },
@@ -111,7 +133,7 @@
    "https://scontent-gru1-2.xx.fbcdn.net/v/t39.30808-6/914957568_122213714336585308_4983357731114491129_n.jpg?stp=dst-jpg_p261x260_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ZMY6k8Gi2LkQ7kNvwGuJZGg&_nc_oc=Adqo1u8Domqq42KPG0pnniS4NiANtFhzQ6so0fafJhA6Pnjff83w5N8EhjXpFAyCdg0&_nc_zt=23&_nc_ht=scontent-gru1-2.xx&edm=ADwHzz8EAAAA&_nc_gid=4NkTAty2mxJlRKieh1Tn9Q&oh=00_AQRtq-L6EJ1jvfrqIwcnNGJJMibxwnj7uxe1rTfvrMbSWw&oe=6B07AAEA"
   ],
   "reactions": 100,
-  "comments": 191,
+  "comments": 192,
   "shares": 46,
   "captured_at": "2026-11-21T17:00:03.414840+00:00",
   "type": "update",
@@ -151,7 +173,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 7,
+  "missing_runs": 8,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-21T19:20:02.940723+00:00"
  },
@@ -180,7 +202,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 7,
+  "missing_runs": 8,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-21T19:20:02.940723+00:00"
  },
@@ -197,7 +219,7 @@
    "https://scontent-gru1-1.xx.fbcdn.net/v/t39.30808-6/916117222_122213702702585308_6107821083497064149_n.jpg?stp=dst-jpg_p261x260_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=PIHqZsHNf-IQ7kNvwGBWT8D&_nc_oc=Adqr9GKrbSANpF9Z9UHCBAijt1RY5RA73rp0bvPoSgNjrjpKb67ZjJvx3Rl4jmN7Z7k&_nc_zt=23&_nc_ht=scontent-gru1-1.xx&edm=ADwHzz8EAAAA&_nc_gid=qHgUg_l4dKtJwvlXkPT5aA&oh=00_AQQqM6mUqa4XaiF60QB4y-WxAnRRRfP3P04yeTHPqwNYlw&oe=6B079988"
   ],
   "reactions": 114,
-  "comments": 156,
+  "comments": 155,
   "shares": 66,
   "captured_at": "2026-11-21T15:15:02.957160+00:00",
   "type": "restored",
@@ -236,7 +258,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 25,
+  "missing_runs": 26,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-21T15:55:03.463643+00:00"
  },
@@ -267,7 +289,7 @@
   "suspected_shedding": [
    "rotation"
   ],
-  "missing_runs": 11,
+  "missing_runs": 12,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-21T17:05:03.397701+00:00"
  },
@@ -296,7 +318,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 37,
+  "missing_runs": 38,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-21T14:55:03.396445+00:00"
  },
@@ -351,7 +373,7 @@
   "suspected_shedding": [
    "rotation"
   ],
-  "missing_runs": 26,
+  "missing_runs": 27,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-21T14:55:03.396445+00:00"
  },
