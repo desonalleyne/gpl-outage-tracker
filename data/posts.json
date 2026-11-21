@@ -7,9 +7,9 @@
   "published": "2026-11-21T19:48:09+00:00",
   "text": "ADVISORY — ONLINE CHAT SERVICE TEMPORARILY UNAVAILABLE\n\nPlease be advised that our Online Chat service via our website is currently unavailable.\n\nCustomers can continue to contact the Guyana Power and Light Inc. (GPL) via WhatsApp at 699-4882, telephone at 226-2600, or our toll-free number 0475.\n\nWe apologise for the inconvenience and thank you for your understanding.",
   "images": [],
-  "reactions": 60,
-  "comments": 57,
-  "shares": 10,
+  "reactions": 63,
+  "comments": 60,
+  "shares": 11,
   "captured_at": "2026-11-21T19:50:03.283541+00:00",
   "type": "other",
   "region": null,
@@ -47,7 +47,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 15,
+  "missing_runs": 16,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-21T19:40:03.384085+00:00"
  },
@@ -81,7 +81,7 @@
    "04:30 pm"
   ],
   "suspected_shedding": [],
-  "missing_runs": 15,
+  "missing_runs": 16,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-21T19:40:03.384085+00:00"
  },
@@ -116,7 +116,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 19,
+  "missing_runs": 20,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-21T19:20:02.940723+00:00"
  },
@@ -132,8 +132,8 @@
    "https://scontent-gru2-1.xx.fbcdn.net/v/t39.30808-6/916382038_122213714246585308_776659103218003158_n.jpg?stp=dst-jpg_p261x260_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ARwtYqhCQkoQ7kNvwENW3d5&_nc_oc=AdpEEe4xaVTIR2ksMD-CU8mOfAH_6P2vYZgnRiByqs_G-uXCFkNxDGwl79HbyBSSGnc&_nc_zt=23&_nc_ht=scontent-gru2-1.xx&edm=ADwHzz8EAAAA&_nc_gid=4NkTAty2mxJlRKieh1Tn9Q&oh=00_AQR7WdUXqRlpuWAbYbrVCrB_mCv2TC_bDr_zOpc-OIpE4A&oe=6B079554",
    "https://scontent-gru1-2.xx.fbcdn.net/v/t39.30808-6/914957568_122213714336585308_4983357731114491129_n.jpg?stp=dst-jpg_p261x260_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ZMY6k8Gi2LkQ7kNvwGuJZGg&_nc_oc=Adqo1u8Domqq42KPG0pnniS4NiANtFhzQ6so0fafJhA6Pnjff83w5N8EhjXpFAyCdg0&_nc_zt=23&_nc_ht=scontent-gru1-2.xx&edm=ADwHzz8EAAAA&_nc_gid=4NkTAty2mxJlRKieh1Tn9Q&oh=00_AQRtq-L6EJ1jvfrqIwcnNGJJMibxwnj7uxe1rTfvrMbSWw&oe=6B07AAEA"
   ],
-  "reactions": 112,
-  "comments": 199,
+  "reactions": 113,
+  "comments": 200,
   "shares": 50,
   "captured_at": "2026-11-21T17:00:03.414840+00:00",
   "type": "update",
@@ -173,7 +173,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 19,
+  "missing_runs": 20,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-21T19:20:02.940723+00:00"
  },
@@ -202,7 +202,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 19,
+  "missing_runs": 20,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-21T19:20:02.940723+00:00"
  },
@@ -258,7 +258,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 37,
+  "missing_runs": 38,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-21T15:55:03.463643+00:00"
  },
@@ -289,7 +289,7 @@
   "suspected_shedding": [
    "rotation"
   ],
-  "missing_runs": 23,
+  "missing_runs": 24,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-21T17:05:03.397701+00:00"
  },
@@ -318,7 +318,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 49,
+  "missing_runs": 50,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-21T14:55:03.396445+00:00"
  },
@@ -373,7 +373,7 @@
   "suspected_shedding": [
    "rotation"
   ],
-  "missing_runs": 38,
+  "missing_runs": 39,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-21T14:55:03.396445+00:00"
  },
