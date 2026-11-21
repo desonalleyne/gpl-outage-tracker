@@ -24,7 +24,8 @@
    "Soesdyke"
   ],
   "times": [],
-  "suspected_shedding": []
+  "suspected_shedding": [],
+  "missing_runs": 1
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795282149",
@@ -55,7 +56,8 @@
   "times": [
    "04:30 pm"
   ],
-  "suspected_shedding": []
+  "suspected_shedding": [],
+  "missing_runs": 1
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795281445",
@@ -88,7 +90,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 4,
+  "missing_runs": 5,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-21T19:20:02.940723+00:00"
  },
@@ -105,7 +107,7 @@
    "https://scontent-gru1-2.xx.fbcdn.net/v/t39.30808-6/914957568_122213714336585308_4983357731114491129_n.jpg?stp=dst-jpg_p261x260_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ZMY6k8Gi2LkQ7kNvwGuJZGg&_nc_oc=Adqo1u8Domqq42KPG0pnniS4NiANtFhzQ6so0fafJhA6Pnjff83w5N8EhjXpFAyCdg0&_nc_zt=23&_nc_ht=scontent-gru1-2.xx&edm=ADwHzz8EAAAA&_nc_gid=4NkTAty2mxJlRKieh1Tn9Q&oh=00_AQRtq-L6EJ1jvfrqIwcnNGJJMibxwnj7uxe1rTfvrMbSWw&oe=6B07AAEA"
   ],
   "reactions": 98,
-  "comments": 183,
+  "comments": 184,
   "shares": 46,
   "captured_at": "2026-11-21T17:00:03.414840+00:00",
   "type": "update",
@@ -145,7 +147,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 4,
+  "missing_runs": 5,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-21T19:20:02.940723+00:00"
  },
@@ -174,7 +176,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 4,
+  "missing_runs": 5,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-21T19:20:02.940723+00:00"
  },
@@ -190,8 +192,8 @@
    "https://scontent-gru1-2.xx.fbcdn.net/v/t39.30808-6/914360201_122213702660585308_6749873105682612842_n.jpg?stp=dst-jpg_p261x260_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=MrDiELNRZUoQ7kNvwGksRZs&_nc_oc=AdpBq0KlBl9BthoH-5ldv6C--ge1HzlE6PmkX9Y5wCLH4bLRy2h3SdYcRyFemaZJ0c0&_nc_zt=23&_nc_ht=scontent-gru1-2.xx&edm=ADwHzz8EAAAA&_nc_gid=qHgUg_l4dKtJwvlXkPT5aA&oh=00_AQS3Ya-mltawbTRpfTeON4IBTWCx2f2hLQPkofLRzEKDOQ&oe=6B077DB7",
    "https://scontent-gru1-1.xx.fbcdn.net/v/t39.30808-6/916117222_122213702702585308_6107821083497064149_n.jpg?stp=dst-jpg_p261x260_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=PIHqZsHNf-IQ7kNvwGBWT8D&_nc_oc=Adqr9GKrbSANpF9Z9UHCBAijt1RY5RA73rp0bvPoSgNjrjpKb67ZjJvx3Rl4jmN7Z7k&_nc_zt=23&_nc_ht=scontent-gru1-1.xx&edm=ADwHzz8EAAAA&_nc_gid=qHgUg_l4dKtJwvlXkPT5aA&oh=00_AQQqM6mUqa4XaiF60QB4y-WxAnRRRfP3P04yeTHPqwNYlw&oe=6B079988"
   ],
-  "reactions": 112,
-  "comments": 152,
+  "reactions": 113,
+  "comments": 154,
   "shares": 66,
   "captured_at": "2026-11-21T15:15:02.957160+00:00",
   "type": "restored",
@@ -230,7 +232,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 22,
+  "missing_runs": 23,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-21T15:55:03.463643+00:00"
  },
@@ -261,7 +263,7 @@
   "suspected_shedding": [
    "rotation"
   ],
-  "missing_runs": 8,
+  "missing_runs": 9,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-21T17:05:03.397701+00:00"
  },
@@ -290,7 +292,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 34,
+  "missing_runs": 35,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-21T14:55:03.396445+00:00"
  },
@@ -345,7 +347,7 @@
   "suspected_shedding": [
    "rotation"
   ],
-  "missing_runs": 23,
+  "missing_runs": 24,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-21T14:55:03.396445+00:00"
  },
@@ -359,8 +361,8 @@
   "images": [
    "https://scontent-gru1-1.xx.fbcdn.net/v/t39.30808-6/920382229_122213689646585308_8293808774982038761_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=gI7cxaXiIDsQ7kNvwEVKcEV&_nc_oc=AdqQF7vH9tAlVj3bFufLWIqMIeweKFJVOO15_QFFEmbZLZEDRNGDsPluRz6OhjAkXFY&_nc_zt=23&_nc_ht=scontent-gru1-1.xx&edm=ADwHzz8EAAAA&_nc_gid=Azq6gkpuIEion0xlU61otg&oh=00_AQSYF9GdcpzzKhibyxDSHj0wDWy9pC7G0PVDo3Z9LkBCwg&oe=6B075EBC"
   ],
-  "reactions": 87,
-  "comments": 85,
+  "reactions": 91,
+  "comments": 89,
   "shares": 26,
   "captured_at": "2026-11-21T13:40:03.433825+00:00",
   "type": "unplanned",
@@ -385,9 +387,9 @@
    "https://scontent-gru1-2.xx.fbcdn.net/v/t39.30808-6/916364475_122213659718585308_4802816127945817785_n.jpg?stp=dst-jpg_p261x260_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=DizXTW4tIz8Q7kNvwH7Ohs4&_nc_oc=AdpLffz68UpSROiWarAMUJ1p9PyBLg2diveinJ4Gahw3Xruw7vW4o82vXaM334UFkOw&_nc_zt=23&_nc_ht=scontent-gru1-2.xx&edm=ADwHzz8EAAAA&_nc_gid=HnSmBpwQ-mNTrlXzL1JsVQ&oh=00_AQTRotdUvZfLBniSILQwikVmqUjmg4DxLBfei4NhyOURWA&oe=6B071EB4",
    "https://scontent-gru2-1.xx.fbcdn.net/v/t39.30808-6/916364384_122213659700585308_985492882234995702_n.jpg?stp=dst-jpg_p261x260_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=lvakQyG16uEQ7kNvwGLxNd2&_nc_oc=AdreYMa3XoFU7I2DmTIMRzFTZX-hnMrfHQ1bXrCovgxJXfFxO__ybskoN1GrNLb9UKc&_nc_zt=23&_nc_ht=scontent-gru2-1.xx&edm=ADwHzz8EAAAA&_nc_gid=HnSmBpwQ-mNTrlXzL1JsVQ&oh=00_AQSF6wNBCTlicL4Rpj36AeL8LCUaf7s1ir3L4Jf8ugy1bg&oe=6B073119"
   ],
-  "reactions": 128,
-  "comments": 203,
-  "shares": 35,
+  "reactions": 164,
+  "comments": 217,
+  "shares": 39,
   "captured_at": "2026-11-21T07:55:03.577576+00:00",
   "type": "update",
   "region": "Berbice",
