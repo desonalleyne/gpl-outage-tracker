@@ -7,9 +7,9 @@
   "published": "2026-11-21T22:07:36+00:00",
   "text": "ADVISORY – SERVICE INTERRUPTION (WEST DEMERARA)\n\nGuyana Power and Light Inc. (GPL) wishes to advise customers from Philadelphia and surrounding areas that they are currently experiencing an interruption in electricity supply due to a damaged load buster.\n\nGPL’s technical teams have been mobilised to address same and restore electricity supply to all affected customers.\n\nGPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
   "images": [],
-  "reactions": 13,
-  "comments": 21,
-  "shares": 4,
+  "reactions": 16,
+  "comments": 22,
+  "shares": 6,
   "captured_at": "2026-11-21T22:10:03.305882+00:00",
   "type": "unplanned",
   "region": "West Demerara",
@@ -33,9 +33,9 @@
   "images": [
    "https://scontent-gru2-1.xx.fbcdn.net/v/t15.5256-10/896071059_1139238985496682_2427152617714542178_n.jpg?_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=ToMG3eg0XmUQ7kNvwEURkGa&_nc_oc=AdpSsrcnvYo6xj2b3f6apnakZrtjYsMEkQ6OIf7WdCMAxWgPc4JkGGxRm-uvCjtUaFg&_nc_zt=23&_nc_ht=scontent-gru2-1.xx&edm=ADwHzz8EAAAA&_nc_gid=P937BK3yC6EhCbKSBAGAQg&oh=00_AQTpjKVmNlSZLJPiscbapaVAjzszfi28CPCwqtj6NuNehw&oe=6B07D2ED"
   ],
-  "reactions": 201,
-  "comments": 163,
-  "shares": 72,
+  "reactions": 215,
+  "comments": 176,
+  "shares": 76,
   "captured_at": "2026-11-21T21:50:02.986494+00:00",
   "type": "other",
   "region": null,
@@ -55,7 +55,7 @@
   "published": "2026-11-21T19:48:09+00:00",
   "text": "ADVISORY — ONLINE CHAT SERVICE TEMPORARILY UNAVAILABLE\n\nPlease be advised that our Online Chat service via our website is currently unavailable.\n\nCustomers can continue to contact the Guyana Power and Light Inc. (GPL) via WhatsApp at 699-4882, telephone at 226-2600, or our toll-free number 0475.\n\nWe apologise for the inconvenience and thank you for your understanding.",
   "images": [],
-  "reactions": 103,
+  "reactions": 104,
   "comments": 76,
   "shares": 16,
   "captured_at": "2026-11-21T19:50:03.283541+00:00",
@@ -95,7 +95,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 37,
+  "missing_runs": 38,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-21T19:40:03.384085+00:00"
  },
@@ -129,7 +129,7 @@
    "04:30 pm"
   ],
   "suspected_shedding": [],
-  "missing_runs": 37,
+  "missing_runs": 38,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-21T19:40:03.384085+00:00"
  },
@@ -164,7 +164,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 41,
+  "missing_runs": 42,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-21T19:20:02.940723+00:00"
  },
@@ -221,7 +221,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 41,
+  "missing_runs": 42,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-21T19:20:02.940723+00:00"
  },
@@ -250,7 +250,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 41,
+  "missing_runs": 42,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-21T19:20:02.940723+00:00"
  },
