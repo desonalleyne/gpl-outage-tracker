@@ -7,8 +7,8 @@
   "published": "2026-11-21T19:48:09+00:00",
   "text": "ADVISORY — ONLINE CHAT SERVICE TEMPORARILY UNAVAILABLE\n\nPlease be advised that our Online Chat service via our website is currently unavailable.\n\nCustomers can continue to contact the Guyana Power and Light Inc. (GPL) via WhatsApp at 699-4882, telephone at 226-2600, or our toll-free number 0475.\n\nWe apologise for the inconvenience and thank you for your understanding.",
   "images": [],
-  "reactions": 53,
-  "comments": 52,
+  "reactions": 57,
+  "comments": 53,
   "shares": 9,
   "captured_at": "2026-11-21T19:50:03.283541+00:00",
   "type": "other",
@@ -47,7 +47,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 13,
+  "missing_runs": 14,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-21T19:40:03.384085+00:00"
  },
@@ -81,7 +81,7 @@
    "04:30 pm"
   ],
   "suspected_shedding": [],
-  "missing_runs": 13,
+  "missing_runs": 14,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-21T19:40:03.384085+00:00"
  },
@@ -116,7 +116,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 17,
+  "missing_runs": 18,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-21T19:20:02.940723+00:00"
  },
@@ -173,7 +173,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 17,
+  "missing_runs": 18,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-21T19:20:02.940723+00:00"
  },
@@ -202,7 +202,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 17,
+  "missing_runs": 18,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-21T19:20:02.940723+00:00"
  },
@@ -258,7 +258,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 35,
+  "missing_runs": 36,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-21T15:55:03.463643+00:00"
  },
@@ -289,7 +289,7 @@
   "suspected_shedding": [
    "rotation"
   ],
-  "missing_runs": 21,
+  "missing_runs": 22,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-21T17:05:03.397701+00:00"
  },
@@ -318,7 +318,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 47,
+  "missing_runs": 48,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-21T14:55:03.396445+00:00"
  },
@@ -373,7 +373,7 @@
   "suspected_shedding": [
    "rotation"
   ],
-  "missing_runs": 36,
+  "missing_runs": 37,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-21T14:55:03.396445+00:00"
  },
