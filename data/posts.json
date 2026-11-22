@@ -12,10 +12,36 @@
    "https://scontent-gru1-2.xx.fbcdn.net/v/t39.30808-6/912218848_122213774402585308_2122760722370289087_n.jpg?stp=dst-jpg_p261x260_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=pHvvXvQjCJMQ7kNvwGqzv6R&_nc_oc=AdrVABm2qPx2RlB3ZaYznALOTFFoXGZByQXQxEMoWr-U48gbq4ocU74fdiZ5OpdNheM&_nc_zt=23&_nc_ht=scontent-gru1-2.xx&edm=ADwHzz8EAAAA&_nc_gid=5C_7QtWQlnHgr6a6501p8A&oh=00_AQRM_NwCVg-dCZMT-tjtGDsK_MjaenczdgvXYgrfylnPSw&oe=6B083549",
    "https://scontent-gru1-2.xx.fbcdn.net/v/t39.30808-6/917240691_122213774444585308_2416088690729143591_n.jpg?stp=dst-jpg_p261x260_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=wn77rJkWhNoQ7kNvwFeisk6&_nc_oc=AdoZHYu49FvQOXsJhwQu14y0DdnDCEHG-d8BaILc3qJu27AHasblGDnHRhK_ea7DUHQ&_nc_zt=23&_nc_ht=scontent-gru1-2.xx&edm=ADwHzz8EAAAA&_nc_gid=5C_7QtWQlnHgr6a6501p8A&oh=00_AQRsg6mqYyJmQJvTtFp7NOPhRZmmcNLadC1QnfJiYCna8A&oe=6B081E05"
   ],
-  "reactions": 0,
-  "comments": 0,
-  "shares": 1,
+  "reactions": 8,
+  "comments": 8,
+  "shares": 5,
   "captured_at": "2026-11-22T03:00:03.123871+00:00",
+  "type": "restored",
+  "region": "East Berbice",
+  "rules": "2026-11-19a",
+  "cause": null,
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [
+   "Mara to Williamsburg"
+  ],
+  "times": [],
+  "suspected_shedding": []
+ },
+ {
+  "id": "fb:GuyanaPowerAndLight:1795316093",
+  "fb_time": 1795316093,
+  "link": "https://www.facebook.com/GuyanaPowerAndLight",
+  "title": "𝐄𝐀𝐒𝐓 𝐁𝐄𝐑𝐁𝐈𝐂𝐄 𝐑𝐄𝐏𝐎𝐖𝐄𝐑𝐄𝐃 | The majority of East Berbice has been repowered as we continue to monitor the load on the distribution feeders serving communities from Mara to Williamsburg, following the iss",
+  "published": "2026-11-22T02:54:53+00:00",
+  "text": "𝐄𝐀𝐒𝐓 𝐁𝐄𝐑𝐁𝐈𝐂𝐄 𝐑𝐄𝐏𝐎𝐖𝐄𝐑𝐄𝐃 | The majority of East Berbice has been repowered as we continue to monitor the load on the distribution feeders serving communities from Mara to Williamsburg, following the issues at the Canefield Substation.\n\n#MOPUA #GPL #Berbice #PowerRestoration",
+  "images": [
+   "https://scontent-gru1-2.xx.fbcdn.net/v/t39.30808-6/914048651_1125987040310110_6708577054917063658_n.jpg?stp=dst-jpg_s526x395_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=fXouFz4f_k8Q7kNvwGakW3s&_nc_oc=Adq6GIl24-lODyisH2AjliWXUF4OE4BxMiiEiACD_ZrvFWW4LMEIB6SnbMccLk9Tkgs&_nc_zt=23&_nc_ht=scontent-gru1-2.xx&edm=ADwHzz8EAAAA&_nc_gid=4qFZFz6at_C9o5Mi1xcb2Q&oh=00_AQSSZlgBR_m82UarAdUXVbSpdWPPdYX4a1BFAfwv0gIqvQ&oe=6B081673"
+  ],
+  "reactions": null,
+  "comments": null,
+  "shares": null,
+  "captured_at": "2026-11-22T03:05:03.245923+00:00",
   "type": "restored",
   "region": "East Berbice",
   "rules": "2026-11-19a",
@@ -77,7 +103,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 28,
+  "missing_runs": 29,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-22T00:50:03.585495+00:00"
  },
@@ -130,7 +156,8 @@
   "suspected_shedding": [
    "peak hours",
    "rotation"
-  ]
+  ],
+  "missing_runs": 1
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795306916",
@@ -142,9 +169,9 @@
   "images": [
    "https://scontent-gru3-1.xx.fbcdn.net/v/t15.5256-10/895081920_2211338539459618_5146245054184072550_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=yPVLa5jA4SkQ7kNvwFnMCRz&_nc_oc=AdqU7xeKQOmO0d4p3-D2QbLjgsX7czt2wAAga0szE4H_SDjZGHL7TQ54fRP37rir56I&_nc_zt=23&_nc_ht=scontent-gru3-1.xx&edm=ADwHzz8EAAAA&_nc_gid=Kr3lJOcuUkgpKhzT6qvlFg&oh=00_AQTphp7kxL1FT2EZ0rcqIwX3vLS9JL0ZSGEPF6aQf4R1PQ&oe=6B080279"
   ],
-  "reactions": 355,
-  "comments": 390,
-  "shares": 132,
+  "reactions": 360,
+  "comments": 395,
+  "shares": 133,
   "captured_at": "2026-11-22T00:25:02.890988+00:00",
   "type": "restored",
   "region": "East Berbice",
