@@ -28,7 +28,9 @@
    "16:30 hrs"
   ],
   "suspected_shedding": [],
-  "missing_runs": 1
+  "missing_runs": 2,
+  "deleted_from_source": true,
+  "deleted_seen_at": "2026-11-22T18:40:03.467759+00:00"
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795368187",
