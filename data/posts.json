@@ -1,5 +1,29 @@
 [
  {
+  "id": "fb:GuyanaPowerAndLight:1795311521",
+  "fb_time": 1795311521,
+  "link": "https://www.facebook.com/GuyanaPowerAndLight",
+  "title": "𝐌𝐢𝐧𝐢𝐬𝐭𝐞𝐫 𝐈𝐧𝐝𝐚𝐫, 𝐃𝐆 𝐃𝐞 𝐀𝐫𝐦𝐚𝐬 𝐨𝐧 𝐭𝐡𝐞 𝐆𝐫𝐨𝐮𝐧𝐝 𝐚𝐬 𝐏𝐨𝐰𝐞𝐫 𝐑𝐞𝐬𝐭𝐨𝐫𝐚𝐭𝐢𝐨𝐧 𝐏𝐫𝐨𝐠𝐫𝐞𝐬𝐬𝐞𝐬 𝐢𝐧 𝐁𝐞𝐫𝐛𝐢𝐜𝐞",
+  "published": "2026-11-22T01:38:41+00:00",
+  "text": "𝐌𝐢𝐧𝐢𝐬𝐭𝐞𝐫 𝐈𝐧𝐝𝐚𝐫, 𝐃𝐆 𝐃𝐞 𝐀𝐫𝐦𝐚𝐬 𝐨𝐧 𝐭𝐡𝐞 𝐆𝐫𝐨𝐮𝐧𝐝 𝐚𝐬 𝐏𝐨𝐰𝐞𝐫 𝐑𝐞𝐬𝐭𝐨𝐫𝐚𝐭𝐢𝐨𝐧 𝐏𝐫𝐨𝐠𝐫𝐞𝐬𝐬𝐞𝐬 𝐢𝐧 𝐁𝐞𝐫𝐛𝐢𝐜𝐞 \n\nMinister of Public Utilities and Aviation, Hon. Deodat Indar, MP and Director General Alfonso De Armas have been on the ground alongside GPL’s management and technical teams as electricity restoration continues across East Berbice.\n\nGPL’s Executive Management Committee Team Leader, Mr Kesh Nandlall and Divisional Director of Engineering Services, Mr Ryan Ross, have also been providing updates on the progress of the restoration exercise.\n\nWith several communities already repowered, efforts continue to restore supply to all remaining affected areas.  The team will remain on the ground throughout the night, monitoring restoration efforts until electricity is returned to all affected communities.\n\nSpecial thanks to GPL’s management, technical teams and contractors including GPL's Berbice Zone Manager Ravindra Jagnanan who have been working around the clock since Thursday to resolve the issues at the Canefield Substation and restore electricity to residents.\n\nWe also thank the people of Berbice for their continued patience and understanding.\n\n#MOPUA #GPL #Berbice #PowerRestoration",
+  "images": [
+   "https://scontent-gru2-2.xx.fbcdn.net/v/t39.30808-6/921713762_1125935456981935_393388460954197573_n.jpg?stp=dst-jpg_s565x565_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=fPkjDFXTvPkQ7kNvwFApoch&_nc_oc=AdrcSu_QA_jheDFKhRzCX0Qu6NimY7qADoKTAZFajFUye67rSCsyDHHMaJsyvQ7m7K4&_nc_zt=23&_nc_ht=scontent-gru2-2.xx&edm=ADwHzz8EAAAA&_nc_gid=_tY2aSfIc_FJ3OumVoz8kQ&oh=00_AQSmXKCrlT56ir65VNZBG2HCwJlEdOgSSpCLONvoBUlj_Q&oe=6B083424"
+  ],
+  "reactions": null,
+  "comments": null,
+  "shares": null,
+  "captured_at": "2026-11-22T01:55:03.549991+00:00",
+  "type": "restored",
+  "region": "East Berbice",
+  "rules": "2026-11-19a",
+  "cause": null,
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [],
+  "times": [],
+  "suspected_shedding": []
+ },
+ {
   "id": "fb:GuyanaPowerAndLight:1795307981",
   "fb_time": 1795307981,
   "link": "https://www.facebook.com/GuyanaPowerAndLight",
@@ -24,7 +48,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 14,
+  "missing_runs": 15,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-22T00:50:03.585495+00:00"
  },
@@ -38,8 +62,8 @@
   "images": [
    "https://scontent-gru1-2.xx.fbcdn.net/v/t39.30808-6/916666917_122213756348585308_8999555552833824608_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=mUc_ShV9nUEQ7kNvwH4IgNJ&_nc_oc=AdqXyO7AxtlmoK-yGvD0TI9WGE7TjPB9d1YtIr6TLUXGcoBAmRdPg0NEU7LfFt5H8Sg&_nc_zt=23&_nc_ht=scontent-gru1-2.xx&edm=ADwHzz8EAAAA&_nc_gid=qtEzC4v65r01LculRKDqwQ&oh=00_AQT1MzPL6jwpgrjqEXc4QBWCubFzUBp-00uU12MEjW92uw&oe=6B080535"
   ],
-  "reactions": 23,
-  "comments": 27,
+  "reactions": 24,
+  "comments": 28,
   "shares": 12,
   "captured_at": "2026-11-22T00:40:03.725694+00:00",
   "type": "restored",
@@ -89,9 +113,9 @@
   "images": [
    "https://scontent-gru3-1.xx.fbcdn.net/v/t15.5256-10/895081920_2211338539459618_5146245054184072550_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=yPVLa5jA4SkQ7kNvwFnMCRz&_nc_oc=AdqU7xeKQOmO0d4p3-D2QbLjgsX7czt2wAAga0szE4H_SDjZGHL7TQ54fRP37rir56I&_nc_zt=23&_nc_ht=scontent-gru3-1.xx&edm=ADwHzz8EAAAA&_nc_gid=Kr3lJOcuUkgpKhzT6qvlFg&oh=00_AQTphp7kxL1FT2EZ0rcqIwX3vLS9JL0ZSGEPF6aQf4R1PQ&oe=6B080279"
   ],
-  "reactions": 265,
-  "comments": 290,
-  "shares": 113,
+  "reactions": 272,
+  "comments": 300,
+  "shares": 114,
   "captured_at": "2026-11-22T00:25:02.890988+00:00",
   "type": "restored",
   "region": "East Berbice",
@@ -114,7 +138,7 @@
   "text": "ADVISORY – SERVICE INTERRUPTION (EAST COAST DEMERARA – MAHAICA-BERBICE)\n\nGuyana Power and Light Inc. (GPL) wishes to advise customers from Columbia to Central Mahaicony that they are currently experiencing a service interruption due to the distribution feeders going offline. \n\nGPL’s technical teams are working to restore electricity supply to affected customers. \n\nWe apologize for the inconvenience caused and thank customers for their patience and understanding.",
   "images": [],
   "reactions": 24,
-  "comments": 13,
+  "comments": 14,
   "shares": 7,
   "captured_at": "2026-11-22T00:20:03.121332+00:00",
   "type": "unplanned",
