@@ -7,9 +7,9 @@
   "published": "2026-11-22T21:52:51+00:00",
   "text": "ADVISORY – SERVICE INTERRUPTION (EAST COAST DEMERARA)\n\nGuyana Power and Light Inc. (GPL) wishes to advise customers from Lusignan to Enmore that they are currently experiencing an interruption in electricity supply due to a distribution feeder going offline.\n\nGPL’s technical teams are investigating the cause and working to restore electricity supply to all affected customers as quickly and safely as possible.\n\nGPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
   "images": [],
-  "reactions": 19,
-  "comments": 21,
-  "shares": 8,
+  "reactions": 21,
+  "comments": 22,
+  "shares": 9,
   "captured_at": "2026-11-22T21:55:03.368270+00:00",
   "type": "unplanned",
   "region": "East Coast Demerara",
@@ -67,7 +67,7 @@
   "images": [
    "https://external-gru1-1.xx.fbcdn.net/emg1/v/t13/4576841688692581901?url=https%3A%2F%2Fadmin.newsroom.gy%2Fwp-content%2Fuploads%2F2026%2F09%2FWhatsApp-Image-2026-09-14-at-3.18.47-PM-1.jpeg&fb_obo=1&utld=newsroom.gy&_nc_sid=cef909&_nc_ht=external-gru1-1.xx.fbcdn.net&stp=c0.5000x0.5000f_dst-emg0_p500x261_q75_tt6&ccb=18-1&_nc_gid=FEte-Sumg7BvyFksvt3OIg&edm=ADwHzz8EAAAA&_nc_zt=3&oh=06_Q3_FATAl85ZjG3scVPsLe8Uw5vl-0123exNoG0Yj2mAy_KEn&oe=6B050441"
   ],
-  "reactions": 24,
+  "reactions": 25,
   "comments": 8,
   "shares": 1,
   "captured_at": "2026-11-22T17:25:03.733579+00:00",
@@ -133,7 +133,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 6,
+  "missing_runs": 7,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-22T22:00:03.300038+00:00"
  },
