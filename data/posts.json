@@ -9,9 +9,9 @@
   "images": [
    "https://scontent-gru3-1.xx.fbcdn.net/v/t15.5256-10/895081920_2211338539459618_5146245054184072550_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=yPVLa5jA4SkQ7kNvwFnMCRz&_nc_oc=AdqU7xeKQOmO0d4p3-D2QbLjgsX7czt2wAAga0szE4H_SDjZGHL7TQ54fRP37rir56I&_nc_zt=23&_nc_ht=scontent-gru3-1.xx&edm=ADwHzz8EAAAA&_nc_gid=Kr3lJOcuUkgpKhzT6qvlFg&oh=00_AQTphp7kxL1FT2EZ0rcqIwX3vLS9JL0ZSGEPF6aQf4R1PQ&oe=6B080279"
   ],
-  "reactions": 8,
-  "comments": 5,
-  "shares": 4,
+  "reactions": 26,
+  "comments": 34,
+  "shares": 10,
   "captured_at": "2026-11-22T00:25:02.890988+00:00",
   "type": "restored",
   "region": "East Berbice",
@@ -33,8 +33,8 @@
   "published": "2026-11-22T00:18:22+00:00",
   "text": "ADVISORY – SERVICE INTERRUPTION (EAST COAST DEMERARA – MAHAICA-BERBICE)\n\nGuyana Power and Light Inc. (GPL) wishes to advise customers from Columbia to Central Mahaicony that they are currently experiencing a service interruption due to the distribution feeders going offline. \n\nGPL’s technical teams are working to restore electricity supply to affected customers. \n\nWe apologize for the inconvenience caused and thank customers for their patience and understanding.",
   "images": [],
-  "reactions": 6,
-  "comments": 3,
+  "reactions": 10,
+  "comments": 5,
   "shares": 5,
   "captured_at": "2026-11-22T00:20:03.121332+00:00",
   "type": "unplanned",
@@ -61,8 +61,8 @@
   "published": "2026-11-21T23:05:41+00:00",
   "text": "UPDATE – SERVICE INTERRUPTION (BERBICE)\n\nGuyana Power and Light Inc. (GPL) wishes to advise that incremental restoration of electricity is progressing following the completion of works at the Canefield Substation.\n\nElectricity has been restored to customers along Republic Road and Strand, New Amsterdam, as well as from Main Road, New Amsterdam to Mara.\n\nSeveral sections between Canje and Auchlyne have also been repowered, with restoration continuing in the remaining sections.\n\nOur technical teams will continue the incremental restoration process until electricity is safely restored to all affected areas.\n\nWe know this has been a difficult and frustrating period for our customers. GPL sincerely apologises for the prolonged interruption and thanks you for bearing with us as our teams work to restore electricity to every affected area.\n\nFurther updates will be provided as additional areas are repowered.",
   "images": [],
-  "reactions": 36,
-  "comments": 47,
+  "reactions": 38,
+  "comments": 48,
   "shares": 14,
   "captured_at": "2026-11-21T23:10:03.148434+00:00",
   "type": "restored",
@@ -88,8 +88,8 @@
   "images": [
    "https://scontent-gru2-1.xx.fbcdn.net/v/t15.5256-10/896105403_1128969849743783_7679628302348491492_n.jpg?_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=YrSfVajxJSgQ7kNvwFC5dMe&_nc_oc=Adqqg7e4RnNpiv_X54gFX2Wz3fdn6WvBnu9auMEy2BEOfyeyWgBHtSx5hEI4SSP7DPY&_nc_zt=23&_nc_ht=scontent-gru2-1.xx&edm=ADwHzz8EAAAA&_nc_gid=lQgqYiEl5id7Mg0kes4Trg&oh=00_AQR7U-jhWGvTks3g6RNajSBgGrrU5xPKw78mhjHybt18lg&oe=6B080736"
   ],
-  "reactions": 212,
-  "comments": 69,
+  "reactions": 216,
+  "comments": 71,
   "shares": 43,
   "captured_at": "2026-11-21T22:55:03.369019+00:00",
   "type": "other",
@@ -128,7 +128,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 2,
+  "missing_runs": 3,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-22T00:25:02.890988+00:00"
  },
