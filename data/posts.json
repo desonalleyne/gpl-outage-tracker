@@ -7,8 +7,8 @@
   "published": "2026-11-22T22:57:59+00:00",
   "text": "ADVISORY – SERVICE INTERRUPTION (EAST COAST DEMERARA)\n\nGuyana Power and Light Inc.  wishes to advise customers from Lusignan to Success that they are currently experiencing an interruption in electricity supply due to a distribution feeder going offline.\n\nGPL’s technical teams are investigating the cause and working to restore electricity supply to all affected customers as quickly and safely as possible.\n\nGPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
   "images": [],
-  "reactions": 14,
-  "comments": 32,
+  "reactions": 17,
+  "comments": 38,
   "shares": 8,
   "captured_at": "2026-11-22T23:00:03.035230+00:00",
   "type": "unplanned",
@@ -52,7 +52,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 11,
+  "missing_runs": 12,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-22T22:35:04.042073+00:00"
  },
@@ -166,7 +166,7 @@
   "suspected_shedding": [],
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-22T23:05:02.951972+00:00",
-  "missing_runs": 5
+  "missing_runs": 6
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795316093",
