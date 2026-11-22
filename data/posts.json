@@ -14,7 +14,7 @@
   ],
   "reactions": 35,
   "comments": 51,
-  "shares": 14,
+  "shares": 15,
   "captured_at": "2026-11-22T03:00:03.123871+00:00",
   "type": "restored",
   "region": "East Berbice",
@@ -103,7 +103,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 70,
+  "missing_runs": 71,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-22T00:50:03.585495+00:00"
  },
@@ -157,7 +157,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 42,
+  "missing_runs": 43,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-22T03:10:03.093245+00:00"
  },
