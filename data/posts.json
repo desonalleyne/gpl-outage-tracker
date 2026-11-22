@@ -23,7 +23,8 @@
   "times": [],
   "suspected_shedding": [
    "peak hours"
-  ]
+  ],
+  "missing_runs": 1
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795371681",
@@ -133,8 +134,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 7,
-  "deleted_from_source": true,
+  "deleted_from_source": false,
   "deleted_seen_at": "2026-11-22T22:00:03.300038+00:00"
  },
  {
