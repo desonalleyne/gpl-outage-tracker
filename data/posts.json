@@ -7,9 +7,9 @@
   "published": "2026-11-23T03:25:13+00:00",
   "text": "UPDATE – SERVICE INTERRUPTION (GEORGETOWN/EAST COAST DEMERARA)\n\nGuyana Power and Light Inc. (GPL) wishes to advise that electricity supply has been restored to customers in:\n\n- Lamaha Gardens & Section K Campbellville\n- Mandela Avenue, Lodge, Bel Air Park and Home Stretch Avenue\n\nGPL’s technical teams continue to investigate and work towards restoring electricity supply to customers in the following affected areas:\n\n- Lusignan to Success\n- Industry to Chateau Margot\n\nGPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
   "images": [],
-  "reactions": 20,
-  "comments": 43,
-  "shares": 5,
+  "reactions": 23,
+  "comments": 50,
+  "shares": 6,
   "captured_at": "2026-11-23T03:30:03.466653+00:00",
   "type": "restored",
   "region": "Georgetown",
@@ -79,7 +79,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 30,
+  "missing_runs": 31,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T01:30:03.387746+00:00"
  },
@@ -111,7 +111,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 2,
+  "missing_runs": 3,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T03:50:03.860754+00:00"
  },
@@ -141,7 +141,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 30,
+  "missing_runs": 31,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T01:30:03.387746+00:00"
  },
@@ -171,7 +171,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 65,
+  "missing_runs": 66,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-22T22:35:04.042073+00:00"
  },
@@ -207,7 +207,7 @@
   "suspected_shedding": [],
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T01:55:03.570337+00:00",
-  "missing_runs": 25
+  "missing_runs": 26
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795368187",
@@ -287,7 +287,7 @@
   "suspected_shedding": [],
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-22T23:05:02.951972+00:00",
-  "missing_runs": 29
+  "missing_runs": 30
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795316093",
