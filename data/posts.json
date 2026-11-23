@@ -1,5 +1,29 @@
 [
  {
+  "id": "fb:GuyanaPowerAndLight:1795450369",
+  "fb_time": 1795450369,
+  "link": "https://www.facebook.com/GuyanaPowerAndLight",
+  "title": "UPDATE || ESSEQUIBO COAST AND ENVIRONS - INCREMENTAL RESTORATION",
+  "published": "2026-11-23T16:12:49+00:00",
+  "text": "UPDATE || ESSEQUIBO COAST AND ENVIRONS - INCREMENTAL RESTORATION \n\nGuyana Power and Light Inc. (GPL) wishes to notify customers on the Essequibo Coast & Environs that incremental restoration has commenced.\n\nAnna Regina to Lima along with La Union to Suddie has been repowered as our team continue to work towards restoring power to all affected areas as soon as possible.\n\nGPL sincerely apologises for any inconvenience caused and thank customers for their understanding and patience.",
+  "images": [],
+  "reactions": 0,
+  "comments": 0,
+  "shares": 1,
+  "captured_at": "2026-11-23T16:15:03.883107+00:00",
+  "type": "restored",
+  "region": "Essequibo Coast",
+  "rules": "2026-11-19a",
+  "cause": null,
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [
+   "Anna Regina"
+  ],
+  "times": [],
+  "suspected_shedding": []
+ },
+ {
   "id": "fb:GuyanaPowerAndLight:1795448537",
   "fb_time": 1795448537,
   "link": "https://www.facebook.com/GuyanaPowerAndLight",
@@ -47,7 +71,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 141,
+  "missing_runs": 142,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T04:35:03.369232+00:00"
  },
@@ -79,7 +103,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 141,
+  "missing_runs": 142,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T04:35:03.369232+00:00"
  },
@@ -107,7 +131,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 178,
+  "missing_runs": 179,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T01:30:03.387746+00:00"
  },
@@ -139,7 +163,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 150,
+  "missing_runs": 151,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T03:50:03.860754+00:00"
  },
@@ -169,7 +193,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 178,
+  "missing_runs": 179,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T01:30:03.387746+00:00"
  },
@@ -199,7 +223,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 213,
+  "missing_runs": 214,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-22T22:35:04.042073+00:00"
  },
@@ -235,7 +259,7 @@
   "suspected_shedding": [],
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T01:55:03.570337+00:00",
-  "missing_runs": 173
+  "missing_runs": 174
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795368187",
@@ -314,7 +338,8 @@
   "times": [],
   "suspected_shedding": [],
   "deleted_from_source": false,
-  "deleted_seen_at": "2026-11-22T23:05:02.951972+00:00"
+  "deleted_seen_at": "2026-11-22T23:05:02.951972+00:00",
+  "missing_runs": 1
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795316093",
