@@ -7,8 +7,8 @@
   "published": "2026-11-23T22:58:14+00:00",
   "text": "ADVISORY – SERVICE INTERRUPTION (WEST DEMERARA) \n\nGuyana Power and Light Inc. (GPL) wishes to advise customers from Blankenburg, Cornelia Id, Hague Backdam, Anna Catherina and surrounding environs that they are currently experiencing an interruption in electricity supply due to a section of the distribution feeder going offline. \n\nOur technical teams are working to restore electricity supply to all affected customers. \n\nWe apologize for the inconvenience caused and thank customers for their patience and understanding.",
   "images": [],
-  "reactions": 11,
-  "comments": 11,
+  "reactions": 18,
+  "comments": 16,
   "shares": 3,
   "captured_at": "2026-11-23T23:00:03.755342+00:00",
   "type": "unplanned",
@@ -33,7 +33,7 @@
   "text": "ADVISORY - SERVICE INTERRUPTION (EAST COAST DEMERARA)\n\nGuyana Power and Light Inc. (GPL) wishes to advise customers from Better Hope to Success & Ogle that they are currently experiencing a service interruption due to the distribution feeders going offline. \n\nGPL’s technical teams are working to restore electricity supply to all affected customers. \n\nWe apologize for the inconvenience caused and thank customers for their patience and understanding.",
   "images": [],
   "reactions": 28,
-  "comments": 66,
+  "comments": 70,
   "shares": 5,
   "captured_at": "2026-11-23T22:35:03.819521+00:00",
   "type": "unplanned",
@@ -101,7 +101,7 @@
   "suspected_shedding": [
    "rotation"
   ],
-  "missing_runs": 28,
+  "missing_runs": 29,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T21:05:03.278672+00:00"
  },
@@ -120,7 +120,7 @@
    "https://scontent-gru1-1.xx.fbcdn.net/v/t39.30808-6/924879943_122213990450585308_4579716157309582313_n.jpg?stp=dst-jpg_p261x260_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=03fkfuP_HN4Q7kNvwF6y-VC&_nc_oc=AdrQz-ZxZw7Kq6Af2AHhgMuO6rW_fc-DpEpIuiJ_gaC0Gsy6kycG3kHjlfQ0jPAUpS0&_nc_zt=23&_nc_ht=scontent-gru1-1.xx&edm=ADwHzz8EAAAA&_nc_gid=UseMvPn0pjEAfPKzemFf_Q&oh=00_AQT4p61v4fJHpVc3-z5AaEptVWR1SRYFGJxJADnQhPcj9Q&oe=6B0A46E9"
   ],
   "reactions": 49,
-  "comments": 21,
+  "comments": 22,
   "shares": 13,
   "captured_at": "2026-11-23T19:00:03.427673+00:00",
   "type": "unplanned",
