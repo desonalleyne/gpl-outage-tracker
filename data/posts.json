@@ -7,9 +7,9 @@
   "published": "2026-11-23T00:19:38+00:00",
   "text": "ADVISORY – SERVICE INTERRUPTION \n\nGuyana Power and Light Inc. wishes to advise customers in the following areas that they are currently experiencing an interruption in electricity supply due to distribution feeders going offline:\n\n- Lusignan to Enmore\n- Industry to Chateau Margot\n- Lamaha Gardens & Section K Campbellville\n\nGPL’s technical teams are investigating the cause and working to restore electricity supply to all affected customers as quickly and safely as possible.\n\nGPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
   "images": [],
-  "reactions": 51,
-  "comments": 122,
-  "shares": 21,
+  "reactions": 52,
+  "comments": 127,
+  "shares": 22,
   "captured_at": "2026-11-23T00:20:03.716811+00:00",
   "type": "unplanned",
   "region": "East Coast Demerara",
@@ -52,7 +52,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 5,
+  "missing_runs": 6,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T01:30:03.387746+00:00"
  },
@@ -62,10 +62,10 @@
   "link": "https://www.facebook.com/GuyanaPowerAndLight",
   "title": "ADVISORY – SERVICE INTERRUPTION (WEST COAST DEMERARA)",
   "published": "2026-11-22T23:32:34+00:00",
-  "text": "ADVISORY – SERVICE INTERRUPTION (WEST COAST DEMERARA)\n\nGuyana Power and Light Inc. (GPL) wishes to advise customers from Windsor Forest to Best and Craine Housing Scheme that they are currently experiencing an interruption in electricity supply due to a distribution feeder going offline.\n\nGPL’s technical teams are investigating the cause and working to restore electricity supply to all affected customers as quickly and safely as possible.\n\nGPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
+  "text": "ADVISORY – SERVICE INTERRUPTION \n\nGuyana Power and Light Inc.  wishes to advise customers from Windsor Forest to Best, Craine Housing Scheme, Heroes Highway, Agricola to Nandy Park that they are currently experiencing an interruption in electricity supply due to a distribution feeder going offline.\n\nGPL’s technical teams are investigating the cause and working to restore electricity supply to all affected customers as quickly and safely as possible.\n\nGPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
   "images": [],
-  "reactions": 29,
-  "comments": 51,
+  "reactions": 30,
+  "comments": 52,
   "shares": 9,
   "captured_at": "2026-11-22T23:35:03.558266+00:00",
   "type": "unplanned",
@@ -75,7 +75,9 @@
   "feeder_offline": true,
   "feeders": [],
   "areas": [
-   "Windsor Forest to Best"
+   "Windsor Forest to Best",
+   "Agricola",
+   "Nandy Park"
   ],
   "times": [],
   "suspected_shedding": [
@@ -109,7 +111,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 5,
+  "missing_runs": 6,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T01:30:03.387746+00:00"
  },
@@ -139,7 +141,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 40,
+  "missing_runs": 41,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-22T22:35:04.042073+00:00"
  },
@@ -174,7 +176,8 @@
   ],
   "suspected_shedding": [],
   "deleted_from_source": false,
-  "deleted_seen_at": "2026-11-22T18:40:03.467759+00:00"
+  "deleted_seen_at": "2026-11-22T18:40:03.467759+00:00",
+  "missing_runs": 1
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795368187",
@@ -254,7 +257,7 @@
   "suspected_shedding": [],
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-22T23:05:02.951972+00:00",
-  "missing_runs": 7
+  "missing_runs": 8
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795316093",
