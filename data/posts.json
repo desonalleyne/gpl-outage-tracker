@@ -7,8 +7,8 @@
   "published": "2026-11-23T00:19:38+00:00",
   "text": "ADVISORY – SERVICE INTERRUPTION \n\nGuyana Power and Light Inc. wishes to advise customers in the following areas that they are currently experiencing an interruption in electricity supply due to distribution feeders going offline:\n\n- Lusignan to Success \n- Industry to Chateau Margot\n- Lamaha Gardens & Section K Campbellville\n\nGPL’s technical teams are investigating the cause and working to restore electricity supply to all affected customers as quickly and safely as possible.\n\nGPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
   "images": [],
-  "reactions": 62,
-  "comments": 139,
+  "reactions": 66,
+  "comments": 143,
   "shares": 28,
   "captured_at": "2026-11-23T00:20:03.716811+00:00",
   "type": "unplanned",
@@ -52,7 +52,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 9,
+  "missing_runs": 10,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T01:30:03.387746+00:00"
  },
@@ -64,8 +64,8 @@
   "published": "2026-11-22T23:32:34+00:00",
   "text": "ADVISORY – SERVICE INTERRUPTION \n\nGuyana Power and Light Inc.  wishes to advise customers from Windsor Forest to Best, Craine Housing Scheme, Heroes Highway, Agricola to Nandy Park that they are currently experiencing an interruption in electricity supply due to a distribution feeder going offline.\n\nGPL’s technical teams are investigating the cause and working to restore electricity supply to all affected customers as quickly and safely as possible.\n\nGPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
   "images": [],
-  "reactions": 32,
-  "comments": 54,
+  "reactions": 33,
+  "comments": 55,
   "shares": 10,
   "captured_at": "2026-11-22T23:35:03.558266+00:00",
   "type": "unplanned",
@@ -111,7 +111,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 9,
+  "missing_runs": 10,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T01:30:03.387746+00:00"
  },
@@ -141,7 +141,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 44,
+  "missing_runs": 45,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-22T22:35:04.042073+00:00"
  },
@@ -177,7 +177,7 @@
   "suspected_shedding": [],
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T01:55:03.570337+00:00",
-  "missing_runs": 4
+  "missing_runs": 5
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795368187",
@@ -257,7 +257,7 @@
   "suspected_shedding": [],
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-22T23:05:02.951972+00:00",
-  "missing_runs": 11
+  "missing_runs": 12
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795316093",
