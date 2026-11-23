@@ -1,5 +1,32 @@
 [
  {
+  "id": "fb:GuyanaPowerAndLight:1795404313",
+  "fb_time": 1795404313,
+  "link": "https://www.facebook.com/GuyanaPowerAndLight",
+  "title": "UPDATE – SERVICE INTERRUPTION (GEORGETOWN/EAST COAST DEMERARA)",
+  "published": "2026-11-23T03:25:13+00:00",
+  "text": "UPDATE – SERVICE INTERRUPTION (GEORGETOWN/EAST COAST DEMERARA)\n\nGuyana Power and Light Inc. (GPL) wishes to advise that electricity supply has been restored to customers in:\n\n- Lamaha Gardens & Section K Campbellville\n- Mandela Avenue, Lodge, Bel Air Park and Home Stretch Avenue\n\nGPL’s technical teams continue to investigate and work towards restoring electricity supply to customers in the following affected areas:\n\n- Lusignan to Success\n- Industry to Chateau Margot\n\nGPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
+  "images": [],
+  "reactions": 8,
+  "comments": 17,
+  "shares": 1,
+  "captured_at": "2026-11-23T03:30:03.466653+00:00",
+  "type": "restored",
+  "region": "Georgetown",
+  "rules": "2026-11-19a",
+  "cause": null,
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [
+   "Lamaha Gardens & Section K Campbellville",
+   "Mandela Avenue, Lodge, Bel Air Park and Home Stretch Avenue",
+   "Lusignan to Success",
+   "Industry to Chateau Margot"
+  ],
+  "times": [],
+  "suspected_shedding": []
+ },
+ {
   "id": "fb:GuyanaPowerAndLight:1795393178",
   "fb_time": 1795393178,
   "link": "https://www.facebook.com/GuyanaPowerAndLight",
@@ -8,7 +35,7 @@
   "text": "ADVISORY – SERVICE INTERRUPTION \n\nGuyana Power and Light Inc. wishes to advise customers in the following areas that they are currently experiencing an interruption in electricity supply due to distribution feeders going offline:\n\n- Lusignan to Success \n- Industry to Chateau Margot\n- Lamaha Gardens & Section K Campbellville\n\nGPL’s technical teams are investigating the cause and working to restore electricity supply to all affected customers as quickly and safely as possible.\n\nGPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
   "images": [],
   "reactions": 90,
-  "comments": 218,
+  "comments": 219,
   "shares": 31,
   "captured_at": "2026-11-23T00:20:03.716811+00:00",
   "type": "unplanned",
@@ -52,7 +79,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 25,
+  "missing_runs": 26,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T01:30:03.387746+00:00"
  },
@@ -111,7 +138,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 25,
+  "missing_runs": 26,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T01:30:03.387746+00:00"
  },
@@ -141,7 +168,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 60,
+  "missing_runs": 61,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-22T22:35:04.042073+00:00"
  },
@@ -177,7 +204,7 @@
   "suspected_shedding": [],
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T01:55:03.570337+00:00",
-  "missing_runs": 20
+  "missing_runs": 21
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795368187",
