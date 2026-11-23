@@ -7,9 +7,9 @@
   "published": "2026-11-23T22:58:14+00:00",
   "text": "ADVISORY – SERVICE INTERRUPTION (WEST DEMERARA) \n\nGuyana Power and Light Inc. (GPL) wishes to advise customers from Blankenburg, Cornelia Id, Hague Backdam, Anna Catherina and surrounding environs that they are currently experiencing an interruption in electricity supply due to a section of the distribution feeder going offline. \n\nOur technical teams are working to restore electricity supply to all affected customers. \n\nWe apologize for the inconvenience caused and thank customers for their patience and understanding.",
   "images": [],
-  "reactions": 18,
-  "comments": 16,
-  "shares": 3,
+  "reactions": 21,
+  "comments": 18,
+  "shares": 5,
   "captured_at": "2026-11-23T23:00:03.755342+00:00",
   "type": "unplanned",
   "region": "West Demerara",
@@ -33,8 +33,8 @@
   "text": "ADVISORY - SERVICE INTERRUPTION (EAST COAST DEMERARA)\n\nGuyana Power and Light Inc. (GPL) wishes to advise customers from Better Hope to Success & Ogle that they are currently experiencing a service interruption due to the distribution feeders going offline. \n\nGPL’s technical teams are working to restore electricity supply to all affected customers. \n\nWe apologize for the inconvenience caused and thank customers for their patience and understanding.",
   "images": [],
   "reactions": 28,
-  "comments": 70,
-  "shares": 5,
+  "comments": 71,
+  "shares": 6,
   "captured_at": "2026-11-23T22:35:03.819521+00:00",
   "type": "unplanned",
   "region": "East Coast Demerara",
@@ -101,7 +101,7 @@
   "suspected_shedding": [
    "rotation"
   ],
-  "missing_runs": 29,
+  "missing_runs": 30,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T21:05:03.278672+00:00"
  },
