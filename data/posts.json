@@ -24,7 +24,8 @@
    "Industry to Chateau Margot"
   ],
   "times": [],
-  "suspected_shedding": []
+  "suspected_shedding": [],
+  "missing_runs": 1
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795393178",
@@ -53,7 +54,8 @@
   "suspected_shedding": [
    "peak hours",
    "rotation"
-  ]
+  ],
+  "missing_runs": 1
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795391538",
@@ -79,7 +81,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 37,
+  "missing_runs": 38,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T01:30:03.387746+00:00"
  },
@@ -111,7 +113,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 9,
+  "missing_runs": 10,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T03:50:03.860754+00:00"
  },
@@ -141,7 +143,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 37,
+  "missing_runs": 38,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T01:30:03.387746+00:00"
  },
@@ -171,7 +173,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 72,
+  "missing_runs": 73,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-22T22:35:04.042073+00:00"
  },
@@ -207,7 +209,7 @@
   "suspected_shedding": [],
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T01:55:03.570337+00:00",
-  "missing_runs": 32
+  "missing_runs": 33
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795368187",
@@ -270,7 +272,7 @@
    "https://scontent-gru1-2.xx.fbcdn.net/v/t39.30808-6/912218848_122213774402585308_2122760722370289087_n.jpg?stp=dst-jpg_p261x260_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=pHvvXvQjCJMQ7kNvwGqzv6R&_nc_oc=AdrVABm2qPx2RlB3ZaYznALOTFFoXGZByQXQxEMoWr-U48gbq4ocU74fdiZ5OpdNheM&_nc_zt=23&_nc_ht=scontent-gru1-2.xx&edm=ADwHzz8EAAAA&_nc_gid=5C_7QtWQlnHgr6a6501p8A&oh=00_AQRM_NwCVg-dCZMT-tjtGDsK_MjaenczdgvXYgrfylnPSw&oe=6B083549",
    "https://scontent-gru1-2.xx.fbcdn.net/v/t39.30808-6/917240691_122213774444585308_2416088690729143591_n.jpg?stp=dst-jpg_p261x260_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=wn77rJkWhNoQ7kNvwFeisk6&_nc_oc=AdoZHYu49FvQOXsJhwQu14y0DdnDCEHG-d8BaILc3qJu27AHasblGDnHRhK_ea7DUHQ&_nc_zt=23&_nc_ht=scontent-gru1-2.xx&edm=ADwHzz8EAAAA&_nc_gid=5C_7QtWQlnHgr6a6501p8A&oh=00_AQRsg6mqYyJmQJvTtFp7NOPhRZmmcNLadC1QnfJiYCna8A&oe=6B081E05"
   ],
-  "reactions": 67,
+  "reactions": 68,
   "comments": 62,
   "shares": 17,
   "captured_at": "2026-11-22T03:00:03.123871+00:00",
@@ -285,9 +287,8 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "deleted_from_source": true,
-  "deleted_seen_at": "2026-11-22T23:05:02.951972+00:00",
-  "missing_runs": 36
+  "deleted_from_source": false,
+  "deleted_seen_at": "2026-11-22T23:05:02.951972+00:00"
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795316093",
