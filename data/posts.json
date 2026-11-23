@@ -7,9 +7,9 @@
   "published": "2026-11-23T00:19:38+00:00",
   "text": "ADVISORY – SERVICE INTERRUPTION \n\nGuyana Power and Light Inc. wishes to advise customers in the following areas that they are currently experiencing an interruption in electricity supply due to distribution feeders going offline:\n\n- Lusignan to Enmore\n- Industry to Chateau Margot\n- Lamaha Gardens & Section K Campbellville\n\nGPL’s technical teams are investigating the cause and working to restore electricity supply to all affected customers as quickly and safely as possible.\n\nGPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
   "images": [],
-  "reactions": 48,
-  "comments": 114,
-  "shares": 20,
+  "reactions": 51,
+  "comments": 122,
+  "shares": 21,
   "captured_at": "2026-11-23T00:20:03.716811+00:00",
   "type": "unplanned",
   "region": "East Coast Demerara",
@@ -52,7 +52,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 4,
+  "missing_runs": 5,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T01:30:03.387746+00:00"
  },
@@ -64,8 +64,8 @@
   "published": "2026-11-22T23:32:34+00:00",
   "text": "ADVISORY – SERVICE INTERRUPTION (WEST COAST DEMERARA)\n\nGuyana Power and Light Inc. (GPL) wishes to advise customers from Windsor Forest to Best and Craine Housing Scheme that they are currently experiencing an interruption in electricity supply due to a distribution feeder going offline.\n\nGPL’s technical teams are investigating the cause and working to restore electricity supply to all affected customers as quickly and safely as possible.\n\nGPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
   "images": [],
-  "reactions": 28,
-  "comments": 49,
+  "reactions": 29,
+  "comments": 51,
   "shares": 9,
   "captured_at": "2026-11-22T23:35:03.558266+00:00",
   "type": "unplanned",
@@ -109,7 +109,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 4,
+  "missing_runs": 5,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T01:30:03.387746+00:00"
  },
@@ -139,7 +139,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 39,
+  "missing_runs": 40,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-22T22:35:04.042073+00:00"
  },
@@ -149,7 +149,7 @@
   "link": "https://www.facebook.com/GuyanaPowerAndLight",
   "title": "ADVISORY – EMERGENCY SERVICE INTERRUPTION (EAST BANK DEMERARA)",
   "published": "2026-11-22T18:21:21+00:00",
-  "text": "ADVISORY – EMERGENCY SERVICE INTERRUPTION (EAST BANK DEMERARA)\n\nGuyana Power and Light Inc. (GPL) wishes to advise customers in the following areas that they will experience an interruption in electricity supply today, Sunday, November 22, 2026, from 15:30 hrs to 16:30 hrs, to facilitate urgent emergency works at the Garden of Eden Substation:\n\n- Craig to Providence\n- Providence National Stadium\n- Eastern Diamond Housing Scheme\n\nThese works are necessary to make adjustments to the alignment of a 69kV disconnect switch at the substation.\n\nGPL’s technical teams will work to complete the necessary adjustments and restore electricity supply to all affected customers as quickly and safely as possible.\n\nGPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
+  "text": "ADVISORY – EMERGENCY SERVICE INTERRUPTION (EAST BANK DEMERARA)\n\nGuyana Power and Light Inc. (GPL) wishes to advise customers in the following areas that they will experience an interruption in electricity supply today, Sunday, November 22, 2026, from 15:30 hrs to 16:30 hrs, to facilitate urgent emergency works at the Garden of Eden Substation:\n\n- Craig to Providence\n- Providence National Stadium\n- Eastern Diamond Housing Scheme\n- Heroes Highway, Agricola to Nandy Park\n\nThese works are necessary to make adjustments to the alignment of a 69kV disconnect switch at the substation.\n\nGPL’s technical teams will work to complete the necessary adjustments and restore electricity supply to all affected customers as quickly and safely as possible.\n\nGPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
   "images": [],
   "reactions": 16,
   "comments": 19,
@@ -165,6 +165,7 @@
    "Craig to Providence",
    "Providence National Stadium",
    "Eastern Diamond Housing Scheme",
+   "Heroes Highway, Agricola to Nandy Park",
    "Garden of Eden"
   ],
   "times": [
@@ -186,7 +187,7 @@
    "https://external-gru1-1.xx.fbcdn.net/emg1/v/t13/4576841688692581901?url=https%3A%2F%2Fadmin.newsroom.gy%2Fwp-content%2Fuploads%2F2026%2F09%2FWhatsApp-Image-2026-09-14-at-3.18.47-PM-1.jpeg&fb_obo=1&utld=newsroom.gy&_nc_sid=cef909&_nc_ht=external-gru1-1.xx.fbcdn.net&stp=c0.5000x0.5000f_dst-emg0_p500x261_q75_tt6&ccb=18-1&_nc_gid=FEte-Sumg7BvyFksvt3OIg&edm=ADwHzz8EAAAA&_nc_zt=3&oh=06_Q3_FATAl85ZjG3scVPsLe8Uw5vl-0123exNoG0Yj2mAy_KEn&oe=6B050441"
   ],
   "reactions": 30,
-  "comments": 10,
+  "comments": 11,
   "shares": 2,
   "captured_at": "2026-11-22T17:25:03.733579+00:00",
   "type": "other",
