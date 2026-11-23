@@ -8,7 +8,7 @@
   "text": "UPDATE - SERVICE INTERRUPTION (ESSEQUIBO COAST)\n\nGuyana Power and Light Inc. (GPL) wishes to advise customers in sections of the Essequibo Coast that following the restoration efforts, the Anna Regina power station tripped, resulting in another service interruption.\n\nGPL’s technical teams are actively working to identify the underlying cause and restore electricity supply to all affected customers. \n\nGPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
   "images": [],
   "reactions": 1,
-  "comments": 0,
+  "comments": 2,
   "shares": 0,
   "captured_at": "2026-11-23T18:10:03.856348+00:00",
   "type": "update",
@@ -95,7 +95,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 165,
+  "missing_runs": 166,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T04:35:03.369232+00:00"
  },
@@ -127,7 +127,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 165,
+  "missing_runs": 166,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T04:35:03.369232+00:00"
  },
@@ -155,7 +155,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 202,
+  "missing_runs": 203,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T01:30:03.387746+00:00"
  },
@@ -187,7 +187,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 174,
+  "missing_runs": 175,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T03:50:03.860754+00:00"
  },
@@ -217,7 +217,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 202,
+  "missing_runs": 203,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T01:30:03.387746+00:00"
  },
@@ -247,7 +247,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 237,
+  "missing_runs": 238,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-22T22:35:04.042073+00:00"
  },
@@ -283,7 +283,7 @@
   "suspected_shedding": [],
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T01:55:03.570337+00:00",
-  "missing_runs": 197
+  "missing_runs": 198
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795368187",
