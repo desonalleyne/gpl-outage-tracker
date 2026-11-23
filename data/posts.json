@@ -7,9 +7,9 @@
   "published": "2026-11-23T22:30:20+00:00",
   "text": "ADVISORY - SERVICE INTERRUPTION (EAST COAST DEMERARA)\n\nGuyana Power and Light Inc. (GPL) wishes to advise customers from Better Hope to Success & Ogle that they are currently experiencing a service interruption due to the distribution feeders going offline. \n\nGPL’s technical teams are working to restore electricity supply to all affected customers. \n\nWe apologize for the inconvenience caused and thank customers for their patience and understanding.",
   "images": [],
-  "reactions": 21,
-  "comments": 39,
-  "shares": 3,
+  "reactions": 23,
+  "comments": 45,
+  "shares": 4,
   "captured_at": "2026-11-23T22:35:03.819521+00:00",
   "type": "unplanned",
   "region": "East Coast Demerara",
@@ -76,7 +76,7 @@
   "suspected_shedding": [
    "rotation"
   ],
-  "missing_runs": 23,
+  "missing_runs": 24,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T21:05:03.278672+00:00"
  },
@@ -166,7 +166,7 @@
   "areas": [],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 22,
+  "missing_runs": 23,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T21:10:03.310633+00:00"
  },
@@ -193,7 +193,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 23,
+  "missing_runs": 24,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T21:05:03.278672+00:00"
  },
@@ -220,7 +220,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 23,
+  "missing_runs": 24,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T21:05:03.278672+00:00"
  },
@@ -245,7 +245,7 @@
   "areas": [],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 23,
+  "missing_runs": 24,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T21:05:03.278672+00:00"
  },
@@ -275,7 +275,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 191,
+  "missing_runs": 192,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T04:35:03.369232+00:00"
  },
@@ -307,7 +307,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 191,
+  "missing_runs": 192,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T04:35:03.369232+00:00"
  },
@@ -335,7 +335,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 228,
+  "missing_runs": 229,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T01:30:03.387746+00:00"
  },
@@ -367,7 +367,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 200,
+  "missing_runs": 201,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T03:50:03.860754+00:00"
  },
@@ -397,7 +397,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 228,
+  "missing_runs": 229,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T01:30:03.387746+00:00"
  },
@@ -427,7 +427,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 263,
+  "missing_runs": 264,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-22T22:35:04.042073+00:00"
  },
@@ -463,7 +463,7 @@
   "suspected_shedding": [],
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T01:55:03.570337+00:00",
-  "missing_runs": 223
+  "missing_runs": 224
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795368187",
