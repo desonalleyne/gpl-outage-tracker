@@ -1,5 +1,31 @@
 [
  {
+  "id": "fb:GuyanaPowerAndLight:1795469844",
+  "fb_time": 1795469844,
+  "link": "https://www.facebook.com/GuyanaPowerAndLight",
+  "title": "$𝟏𝟐.𝟗𝐁 𝐢𝐧 𝐒𝐮𝐩𝐩𝐥𝐞𝐦𝐞𝐧𝐭𝐚𝐫𝐲 𝐅𝐮𝐧𝐝𝐢𝐧𝐠 𝐀𝐩𝐩𝐫𝐨𝐯𝐞𝐝 𝐟𝐨𝐫 𝐏𝐮𝐛𝐥𝐢𝐜 𝐔𝐭𝐢𝐥𝐢𝐭𝐢𝐞𝐬 𝐚𝐧𝐝 𝐀𝐯𝐢𝐚𝐭𝐢𝐨𝐧",
+  "published": "2026-11-23T21:37:24+00:00",
+  "text": "$𝟏𝟐.𝟗𝐁 𝐢𝐧 𝐒𝐮𝐩𝐩𝐥𝐞𝐦𝐞𝐧𝐭𝐚𝐫𝐲 𝐅𝐮𝐧𝐝𝐢𝐧𝐠 𝐀𝐩𝐩𝐫𝐨𝐯𝐞𝐝 𝐟𝐨𝐫 𝐏𝐮𝐛𝐥𝐢𝐜 𝐔𝐭𝐢𝐥𝐢𝐭𝐢𝐞𝐬 𝐚𝐧𝐝 𝐀𝐯𝐢𝐚𝐭𝐢𝐨𝐧\n\nMinister of Public Utilities and Aviation, Hon. Deodat Indar, MP, this afternoon presented and defended supplementary provisions totalling approximately G$12,938,465,377 during the Committee of Supply’s examination of Financial Paper No. 3 of 2026 at the Arthur Chung Conference Centre (ACCC), as part of the 8th Sitting of the Thirteenth Parliament.\n\nThe provisions, which were presented to the National Assembly on November 18, 2026, were examined by the Committee of Supply in accordance with constitutional requirements.\n\nThe supplementary allocations comprise G$11.33 billion for electricity services fuel comprising G$8 billion for Guyana Power and Light Inc. (GPL) and approximately G$3.33 billion to support other electricity service providers, including those serving Linden, Mabaruma, Mahdia, Port Kaituma, Moruca and Matthew’s Ridge.\n\nG$1.56 billion for the Cheddi Jagan International Airport (CJIA) to support an expanded work programme.\n\nG$52.44 million for hinterland electrification under the Hinterland Electrification Company Inc. (HECI).\n\nThe additional resources are in keeping with the People's Progressive Party/Civic (PPP/C)Government’s commitment to absorbing elevated fuel costs arising from global developments, ensuring that these costs are not passed on to consumers through higher electricity tariffs.\n\nGlobal oil prices climbed from approximately US$71 per barrel at the end of February to a peak above US$144 per barrel in April, an increase of more than 104 per cent. By the end of October, prices remained approximately 67 per cent above pre-war levels.\n\nThe supplementary funding will support the Government’s continued investments in electricity services and aviation infrastructure while protecting households and businesses from rising electricity costs.\n\n#MOPUA #NationalAssembly #SupplementaryFunding #PublicUtilities #Aviation",
+  "images": [
+   "https://scontent-gru2-2.xx.fbcdn.net/v/t39.30808-6/926939721_1127858683456279_6529774519874792084_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=qQavLhKSmz8Q7kNvwFdb7Gf&_nc_oc=AdqlD-ZEleIEAgiIJfZyHOAAahlhWhjkptw2OKQvMgZC-VtyKjaO2y6nm2mVkkDJtlk&_nc_zt=23&_nc_ht=scontent-gru2-2.xx&edm=ADwHzz8EAAAA&_nc_gid=AaBqvPght5VQwLs3re-lVQ&oh=00_AQRvwMKT2B7BBnS9rTolmDJWO8Xp9fMbat4-ZuBJpwNJ4g&oe=6B0A6D8A"
+  ],
+  "reactions": null,
+  "comments": null,
+  "shares": null,
+  "captured_at": "2026-11-23T21:45:03.878723+00:00",
+  "type": "other",
+  "region": null,
+  "rules": "2026-11-19a",
+  "cause": null,
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [
+   "Linden"
+  ],
+  "times": [],
+  "suspected_shedding": []
+ },
+ {
   "id": "fb:GuyanaPowerAndLight:1795462385",
   "fb_time": 1795462385,
   "link": "https://www.facebook.com/GuyanaPowerAndLight",
@@ -20,7 +46,7 @@
   "areas": [],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 9,
+  "missing_runs": 10,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T21:05:03.278672+00:00"
  },
@@ -110,7 +136,7 @@
   "areas": [],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 8,
+  "missing_runs": 9,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T21:10:03.310633+00:00"
  },
@@ -137,7 +163,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 9,
+  "missing_runs": 10,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T21:05:03.278672+00:00"
  },
@@ -164,7 +190,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 9,
+  "missing_runs": 10,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T21:05:03.278672+00:00"
  },
@@ -189,7 +215,7 @@
   "areas": [],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 9,
+  "missing_runs": 10,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T21:05:03.278672+00:00"
  },
@@ -219,7 +245,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 177,
+  "missing_runs": 178,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T04:35:03.369232+00:00"
  },
@@ -251,7 +277,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 177,
+  "missing_runs": 178,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T04:35:03.369232+00:00"
  },
@@ -279,7 +305,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 214,
+  "missing_runs": 215,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T01:30:03.387746+00:00"
  },
@@ -311,7 +337,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 186,
+  "missing_runs": 187,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T03:50:03.860754+00:00"
  },
@@ -341,7 +367,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 214,
+  "missing_runs": 215,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T01:30:03.387746+00:00"
  },
@@ -371,7 +397,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 249,
+  "missing_runs": 250,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-22T22:35:04.042073+00:00"
  },
@@ -407,7 +433,7 @@
   "suspected_shedding": [],
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T01:55:03.570337+00:00",
-  "missing_runs": 209
+  "missing_runs": 210
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795368187",
