@@ -8,7 +8,7 @@
   "text": "ADVISORY – SERVICE INTERRUPTION (ESSEQUIBO COAST)\n\nGuyana Power and Light Inc. (GPL) wishes to advise customers from Riverstown to Supenaam that they are experiencing a service interruption due to a section of the distribution feeder going offline.\n\nGPL’s technical teams are working to restore electricity supply to all affected customers.\n\nWe apologize for the inconvenience caused and thank customers for their continued patience and understanding.",
   "images": [],
   "reactions": 15,
-  "comments": 28,
+  "comments": 29,
   "shares": 5,
   "captured_at": "2026-11-24T01:40:03.119961+00:00",
   "type": "unplanned",
@@ -49,7 +49,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 6,
+  "missing_runs": 7,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T04:45:03.395304+00:00"
  },
@@ -80,7 +80,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 39,
+  "missing_runs": 40,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T02:00:03.507490+00:00"
  },
@@ -110,7 +110,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 54,
+  "missing_runs": 55,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T00:45:03.817208+00:00"
  },
@@ -141,7 +141,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 45,
+  "missing_runs": 46,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T01:30:03.144584+00:00"
  },
@@ -171,7 +171,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 6,
+  "missing_runs": 7,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T04:45:03.395304+00:00"
  },
@@ -202,7 +202,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 57,
+  "missing_runs": 58,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T00:30:03.658813+00:00"
  },
@@ -255,7 +255,7 @@
   "suspected_shedding": [
    "rotation"
   ],
-  "missing_runs": 86,
+  "missing_runs": 87,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T21:05:03.278672+00:00"
  },
@@ -345,7 +345,7 @@
   "areas": [],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 29,
+  "missing_runs": 30,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T21:10:03.310633+00:00"
  },
@@ -372,7 +372,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 30,
+  "missing_runs": 31,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T21:05:03.278672+00:00"
  },
@@ -399,7 +399,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 30,
+  "missing_runs": 31,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T21:05:03.278672+00:00"
  },
@@ -424,7 +424,7 @@
   "areas": [],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 30,
+  "missing_runs": 31,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T21:05:03.278672+00:00"
  },
@@ -454,7 +454,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 198,
+  "missing_runs": 199,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T04:35:03.369232+00:00"
  },
@@ -486,7 +486,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 198,
+  "missing_runs": 199,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T04:35:03.369232+00:00"
  },
@@ -514,7 +514,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 235,
+  "missing_runs": 236,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T01:30:03.387746+00:00"
  },
@@ -546,7 +546,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 207,
+  "missing_runs": 208,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T03:50:03.860754+00:00"
  },
@@ -576,7 +576,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 235,
+  "missing_runs": 236,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T01:30:03.387746+00:00"
  },
@@ -606,7 +606,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 270,
+  "missing_runs": 271,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-22T22:35:04.042073+00:00"
  },
@@ -642,7 +642,7 @@
   "suspected_shedding": [],
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T01:55:03.570337+00:00",
-  "missing_runs": 230
+  "missing_runs": 231
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795368187",
