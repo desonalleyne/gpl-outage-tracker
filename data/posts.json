@@ -7,8 +7,8 @@
   "published": "2026-11-24T00:20:55+00:00",
   "text": "ADVISORY – SERVICE INTERRUPTION (GEORGETOWN) \n\nGuyana Power and Light Inc. (GPL) wishes to advise customers from Mandela Avenue, Lodge, Bel Air Park, Home Stretch Avenue and surrounding environs that they are currently experiencing an interruption in electricity supply due to the distribution feeder going offline. \n\nOur technical teams are working to restore electricity supply to all affected customers. \n\nWe apologize for the inconvenience caused and thank customers for their patience and understanding.",
   "images": [],
-  "reactions": 6,
-  "comments": 7,
+  "reactions": 13,
+  "comments": 11,
   "shares": 4,
   "captured_at": "2026-11-24T00:25:03.666578+00:00",
   "type": "unplanned",
@@ -35,8 +35,8 @@
   "published": "2026-11-23T22:58:14+00:00",
   "text": "ADVISORY – SERVICE INTERRUPTION (WEST DEMERARA) \n\nGuyana Power and Light Inc. (GPL) wishes to advise customers from Blankenburg, Cornelia Id, Hague Backdam, Anna Catherina, Uitvlugt Estate, Zeeburg South and surrounding environs that they are currently experiencing an interruption in electricity supply due to a section of the distribution feeder going offline. \n\nOur technical teams are working to restore electricity supply to all affected customers. \n\nWe apologize for the inconvenience caused and thank customers for their patience and understanding.",
   "images": [],
-  "reactions": 38,
-  "comments": 45,
+  "reactions": 39,
+  "comments": 46,
   "shares": 13,
   "captured_at": "2026-11-23T23:00:03.755342+00:00",
   "type": "unplanned",
@@ -81,7 +81,9 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 1
+  "missing_runs": 2,
+  "deleted_from_source": true,
+  "deleted_seen_at": "2026-11-24T00:30:03.658813+00:00"
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795469844",
@@ -132,7 +134,7 @@
   "suspected_shedding": [
    "rotation"
   ],
-  "missing_runs": 42,
+  "missing_runs": 43,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T21:05:03.278672+00:00"
  },
