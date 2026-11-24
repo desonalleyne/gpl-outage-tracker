@@ -1,5 +1,32 @@
 [
  {
+  "id": "fb:GuyanaPowerAndLight:1795561103",
+  "fb_time": 1795561103,
+  "link": "https://www.facebook.com/GuyanaPowerAndLight",
+  "title": "ADVISORY || EMERGENCY SERVICE INTERRUPTION- EAST COAST DEMERARA",
+  "published": "2026-11-24T22:58:23+00:00",
+  "text": "ADVISORY || EMERGENCY SERVICE INTERRUPTION- EAST COAST DEMERARA \n\nGuyana Power and Light Inc. (GPL) wishes to inform customers from Lusignan to Success that you are currently experiencing a service interruption due to a feeder going offline.\n\nOur teams are currently working to restore electricity supply as soon as possible.\n\nGPL sincerely apologises for any inconvenience caused and thank customers for their understanding and patience.",
+  "images": [],
+  "reactions": 5,
+  "comments": 3,
+  "shares": 1,
+  "captured_at": "2026-11-24T23:00:03.768859+00:00",
+  "type": "unplanned",
+  "region": "East Coast Demerara",
+  "rules": "2026-11-19a",
+  "cause": "No reason given",
+  "feeder_offline": true,
+  "feeders": [],
+  "areas": [
+   "Lusignan to Success"
+  ],
+  "times": [],
+  "suspected_shedding": [
+   "peak hours",
+   "rotation"
+  ]
+ },
+ {
   "id": "fb:GuyanaPowerAndLight:1795558747",
   "fb_time": 1795558747,
   "link": "https://www.facebook.com/GuyanaPowerAndLight",
@@ -7,8 +34,8 @@
   "published": "2026-11-24T22:19:07+00:00",
   "text": "ADVISORY || EMERGENCY SERVICE INTERRUPTION- WEST DEMERARA \n\nGuyana Power and Light Inc. (GPL) wishes to notify customers in Sections of Leonora, Tuschen and Meter-Meer-Zorg that you are currently experiencing a service interruption due to a feeder going offline.\n\nOur teams are currently working to restore electricity supply as soon as possible.\n\nGPL sincerely apologises for any inconvenience caused and thank customers for their understanding and patience.",
   "images": [],
-  "reactions": 47,
-  "comments": 77,
+  "reactions": 53,
+  "comments": 89,
   "shares": 8,
   "captured_at": "2026-11-24T22:20:03.985677+00:00",
   "type": "unplanned",
@@ -53,7 +80,8 @@
   "suspected_shedding": [
    "peak hours",
    "rotation"
-  ]
+  ],
+  "missing_runs": 1
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795553236",
@@ -102,7 +130,7 @@
    "13:30 hrs"
   ],
   "suspected_shedding": [],
-  "missing_runs": 75,
+  "missing_runs": 76,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T16:50:03.155298+00:00"
  },
