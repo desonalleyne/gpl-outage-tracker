@@ -1,5 +1,33 @@
 [
  {
+  "id": "fb:GuyanaPowerAndLight:1795561241",
+  "fb_time": 1795561241,
+  "link": "https://www.facebook.com/GuyanaPowerAndLight",
+  "title": "ADVISORY || EMERGENCY SERVICE INTERRUPTION- BERBICE",
+  "published": "2026-11-24T23:00:41+00:00",
+  "text": "ADVISORY || EMERGENCY SERVICE INTERRUPTION- BERBICE \n\nGuyana Power and Light Inc. (GPL) wishe to notify customers from Onverwagt to Mahaicony and from Canje to Auchlyne that you are currently experiencing a service interruption due to a feeder going offline.\n\nOur teams are currently working assiduously to restore power in the shortest possible time.\n\nGPL sincerely apologises for any inconvenience caused and thank customers for their understanding and patience.",
+  "images": [],
+  "reactions": 5,
+  "comments": 8,
+  "shares": 2,
+  "captured_at": "2026-11-24T23:05:03.833174+00:00",
+  "type": "unplanned",
+  "region": "Berbice",
+  "rules": "2026-11-19a",
+  "cause": "No reason given",
+  "feeder_offline": true,
+  "feeders": [],
+  "areas": [
+   "Onverwagt to Mahaicony",
+   "Canje to Auchlyne"
+  ],
+  "times": [],
+  "suspected_shedding": [
+   "peak hours",
+   "rotation"
+  ]
+ },
+ {
   "id": "fb:GuyanaPowerAndLight:1795561103",
   "fb_time": 1795561103,
   "link": "https://www.facebook.com/GuyanaPowerAndLight",
@@ -7,8 +35,8 @@
   "published": "2026-11-24T22:58:23+00:00",
   "text": "ADVISORY || EMERGENCY SERVICE INTERRUPTION- EAST COAST DEMERARA \n\nGuyana Power and Light Inc. (GPL) wishes to inform customers from Lusignan to Success that you are currently experiencing a service interruption due to a feeder going offline.\n\nOur teams are currently working to restore electricity supply as soon as possible.\n\nGPL sincerely apologises for any inconvenience caused and thank customers for their understanding and patience.",
   "images": [],
-  "reactions": 5,
-  "comments": 3,
+  "reactions": 13,
+  "comments": 13,
   "shares": 1,
   "captured_at": "2026-11-24T23:00:03.768859+00:00",
   "type": "unplanned",
@@ -34,9 +62,9 @@
   "published": "2026-11-24T22:19:07+00:00",
   "text": "ADVISORY || EMERGENCY SERVICE INTERRUPTION- WEST DEMERARA \n\nGuyana Power and Light Inc. (GPL) wishes to notify customers in Sections of Leonora, Tuschen and Meter-Meer-Zorg that you are currently experiencing a service interruption due to a feeder going offline.\n\nOur teams are currently working to restore electricity supply as soon as possible.\n\nGPL sincerely apologises for any inconvenience caused and thank customers for their understanding and patience.",
   "images": [],
-  "reactions": 53,
-  "comments": 89,
-  "shares": 8,
+  "reactions": 59,
+  "comments": 100,
+  "shares": 10,
   "captured_at": "2026-11-24T22:20:03.985677+00:00",
   "type": "unplanned",
   "region": "West Demerara",
@@ -81,7 +109,9 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 1
+  "missing_runs": 2,
+  "deleted_from_source": true,
+  "deleted_seen_at": "2026-11-24T23:05:03.833174+00:00"
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795553236",
