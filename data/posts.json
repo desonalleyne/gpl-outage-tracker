@@ -8,8 +8,8 @@
   "text": "EMERGENCY SERVICE INTERRUPTION – EAST COAST DEMERARA\n\nDear customers in sections of Pidgeon Island and surrounding areas, please be informed that the service interruption being experienced is due to emergency works to replace a pole and associated hardware, which are suspected to have been damaged after being struck by a vehicle. \n\nThese works are expected to be completed by 13:30 hrs.\n\nThe emergency outage became necessary to protect the integrity of the electricity network in the area and to allow our teams to safely carry out the required works.\n\nGPL apologises for the inconvenience caused.",
   "images": [],
   "reactions": 1,
-  "comments": 1,
-  "shares": 2,
+  "comments": 2,
+  "shares": 3,
   "captured_at": "2026-11-24T15:40:03.633959+00:00",
   "type": "unplanned",
   "region": "East Coast Demerara",
@@ -120,7 +120,7 @@
   "suspected_shedding": [
    "peak hours"
   ],
-  "missing_runs": 88,
+  "missing_runs": 89,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T08:55:03.425918+00:00"
  },
@@ -148,7 +148,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 138,
+  "missing_runs": 139,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T04:45:03.395304+00:00"
  },
@@ -179,7 +179,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 171,
+  "missing_runs": 172,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T02:00:03.507490+00:00"
  },
@@ -209,7 +209,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 186,
+  "missing_runs": 187,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T00:45:03.817208+00:00"
  },
@@ -240,7 +240,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 177,
+  "missing_runs": 178,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T01:30:03.144584+00:00"
  },
@@ -270,7 +270,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 138,
+  "missing_runs": 139,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T04:45:03.395304+00:00"
  },
@@ -301,7 +301,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 189,
+  "missing_runs": 190,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T00:30:03.658813+00:00"
  },
