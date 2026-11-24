@@ -1,5 +1,29 @@
 [
  {
+  "id": "fb:GuyanaPowerAndLight:1795519072",
+  "fb_time": 1795519072,
+  "link": "https://www.facebook.com/GuyanaPowerAndLight",
+  "title": "WATCH | With the number of airlines serving Guyana increasing from four in 2020 to 16 in 2026, Minister of Public Utilities and Aviation, Hon. Deodat Indar, MP, explains the need for additional fundin",
+  "published": "2026-11-24T11:17:52+00:00",
+  "text": "WATCH | With the number of airlines serving Guyana increasing from four in 2020 to 16 in 2026, Minister of Public Utilities and Aviation, Hon. Deodat Indar, MP, explains the need for additional funding to advance CJIA’s US$65 million Terminal Two project.\n\nThe 180,000-square-foot terminal is currently 9 per cent complete and is slated for delivery in early 2028.\n\n#MOPUA #CJIA #Aviation #NationalAssembly",
+  "images": [
+   "https://scontent-gru2-1.xx.fbcdn.net/v/t15.5256-10/902373156_1535763071937080_5255123147991216876_n.jpg?_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=K_tlonQk-pIQ7kNvwGFffW4&_nc_oc=Adp_q66t_n9qa2ItIUIwJcLfh0da3ZQQB7I4gckpw7TEmt9MbBt3J42pZ4OjtSFLSkg&_nc_zt=23&_nc_ht=scontent-gru2-1.xx&edm=ADwHzz8EAAAA&_nc_gid=Bha7YJGKZqK7Db0TY2HKSQ&oh=00_AQQvEj_9Lz1iYzH51ktyQYNyQ2DTCourB-oBzaYBnHTnzg&oe=6B0B3781"
+  ],
+  "reactions": 0,
+  "comments": 0,
+  "shares": 0,
+  "captured_at": "2026-11-24T11:20:03.899774+00:00",
+  "type": "other",
+  "region": null,
+  "rules": "2026-11-19a",
+  "cause": null,
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [],
+  "times": [],
+  "suspected_shedding": []
+ },
+ {
   "id": "fb:GuyanaPowerAndLight:1795518083",
   "fb_time": 1795518083,
   "link": "https://www.facebook.com/GuyanaPowerAndLight",
@@ -48,7 +72,7 @@
   "suspected_shedding": [
    "peak hours"
   ],
-  "missing_runs": 30,
+  "missing_runs": 31,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T08:55:03.425918+00:00"
  },
@@ -76,7 +100,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 80,
+  "missing_runs": 81,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T04:45:03.395304+00:00"
  },
@@ -107,7 +131,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 113,
+  "missing_runs": 114,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T02:00:03.507490+00:00"
  },
@@ -137,7 +161,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 128,
+  "missing_runs": 129,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T00:45:03.817208+00:00"
  },
@@ -168,7 +192,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 119,
+  "missing_runs": 120,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T01:30:03.144584+00:00"
  },
@@ -198,7 +222,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 80,
+  "missing_runs": 81,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T04:45:03.395304+00:00"
  },
@@ -229,7 +253,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 131,
+  "missing_runs": 132,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T00:30:03.658813+00:00"
  },
@@ -282,7 +306,7 @@
   "suspected_shedding": [
    "rotation"
   ],
-  "missing_runs": 160,
+  "missing_runs": 161,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T21:05:03.278672+00:00"
  },
