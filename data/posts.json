@@ -7,8 +7,8 @@
   "published": "2026-11-24T00:39:00+00:00",
   "text": "ADVISORY – SERVICE INTERRUPTION (BERBICE) \n\nGuyana Power and Light Inc. (GPL) wishes to advise customers from Nigg, Belvedere and surrounding environs that they are currently experiencing an interruption in electricity supply due to a section of the distribution feeder going offline. \n\nOur technical teams are working to restore electricity supply to all affected customers. \n\nWe apologize for the inconvenience caused and thank customers for their patience and understanding.",
   "images": [],
-  "reactions": 1,
-  "comments": 0,
+  "reactions": 7,
+  "comments": 8,
   "shares": 1,
   "captured_at": "2026-11-24T00:40:03.784958+00:00",
   "type": "unplanned",
@@ -32,9 +32,9 @@
   "published": "2026-11-24T00:38:19+00:00",
   "text": "ADVISORY – SERVICE INTERRUPTION (WEST DEMERARA) \n\nGuyana Power and Light Inc. (GPL) wishes to advise customers from Vreed-en-Hoop Stelling Road, Parfaite Harmonie, West Minister, Lust En Rust, Canal #1&2, Free & Easy and surrounding environs that they are currently experiencing an interruption in electricity supply due to the distribution feeder going offline. \n\nGPL’s technical teams are working to restore electricity supply to all affected customers. \n\nWe apologize for the inconvenience caused and thank customers for their patience and understanding.",
   "images": [],
-  "reactions": 0,
-  "comments": 1,
-  "shares": 1,
+  "reactions": 5,
+  "comments": 5,
+  "shares": 3,
   "captured_at": "2026-11-24T00:40:03.784958+00:00",
   "type": "unplanned",
   "region": "West Demerara",
@@ -78,7 +78,9 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 1
+  "missing_runs": 2,
+  "deleted_from_source": true,
+  "deleted_seen_at": "2026-11-24T00:45:03.817208+00:00"
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795479655",
@@ -88,8 +90,8 @@
   "published": "2026-11-24T00:20:55+00:00",
   "text": "ADVISORY – SERVICE INTERRUPTION (GEORGETOWN) \n\nGuyana Power and Light Inc. (GPL) wishes to advise customers from Mandela Avenue, Lodge, Bel Air Park, Home Stretch Avenue and surrounding environs that they are currently experiencing an interruption in electricity supply due to the distribution feeder going offline. \n\nOur technical teams are working to restore electricity supply to all affected customers. \n\nWe apologize for the inconvenience caused and thank customers for their patience and understanding.",
   "images": [],
-  "reactions": 19,
-  "comments": 39,
+  "reactions": 21,
+  "comments": 46,
   "shares": 9,
   "captured_at": "2026-11-24T00:25:03.666578+00:00",
   "type": "unplanned",
@@ -117,7 +119,7 @@
   "text": "ADVISORY – SERVICE INTERRUPTION (WEST DEMERARA) \n\nGuyana Power and Light Inc. (GPL) wishes to advise customers from Blankenburg, Cornelia Id, Hague Backdam, Anna Catherina, Uitvlugt Estate, Zeeburg South and surrounding environs that they are currently experiencing an interruption in electricity supply due to a section of the distribution feeder going offline. \n\nOur technical teams are working to restore electricity supply to all affected customers. \n\nWe apologize for the inconvenience caused and thank customers for their patience and understanding.",
   "images": [],
   "reactions": 43,
-  "comments": 52,
+  "comments": 56,
   "shares": 14,
   "captured_at": "2026-11-23T23:00:03.755342+00:00",
   "type": "unplanned",
@@ -162,7 +164,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 4,
+  "missing_runs": 5,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T00:30:03.658813+00:00"
  },
