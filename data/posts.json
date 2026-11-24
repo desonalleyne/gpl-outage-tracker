@@ -96,7 +96,7 @@
   "suspected_shedding": [
    "peak hours"
   ],
-  "missing_runs": 47,
+  "missing_runs": 48,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T08:55:03.425918+00:00"
  },
@@ -124,7 +124,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 97,
+  "missing_runs": 98,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T04:45:03.395304+00:00"
  },
@@ -155,7 +155,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 130,
+  "missing_runs": 131,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T02:00:03.507490+00:00"
  },
@@ -185,7 +185,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 145,
+  "missing_runs": 146,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T00:45:03.817208+00:00"
  },
@@ -216,7 +216,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 136,
+  "missing_runs": 137,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T01:30:03.144584+00:00"
  },
@@ -246,7 +246,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 97,
+  "missing_runs": 98,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T04:45:03.395304+00:00"
  },
@@ -277,7 +277,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 148,
+  "missing_runs": 149,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T00:30:03.658813+00:00"
  },
@@ -330,7 +330,7 @@
   "suspected_shedding": [
    "rotation"
   ],
-  "missing_runs": 177,
+  "missing_runs": 178,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-23T21:05:03.278672+00:00"
  },
@@ -349,7 +349,7 @@
    "https://scontent-gru1-1.xx.fbcdn.net/v/t39.30808-6/924879943_122213990450585308_4579716157309582313_n.jpg?stp=dst-jpg_p261x260_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=03fkfuP_HN4Q7kNvwF6y-VC&_nc_oc=AdrQz-ZxZw7Kq6Af2AHhgMuO6rW_fc-DpEpIuiJ_gaC0Gsy6kycG3kHjlfQ0jPAUpS0&_nc_zt=23&_nc_ht=scontent-gru1-1.xx&edm=ADwHzz8EAAAA&_nc_gid=UseMvPn0pjEAfPKzemFf_Q&oh=00_AQT4p61v4fJHpVc3-z5AaEptVWR1SRYFGJxJADnQhPcj9Q&oe=6B0A46E9"
   ],
   "reactions": 60,
-  "comments": 32,
+  "comments": 33,
   "shares": 15,
   "captured_at": "2026-11-23T19:00:03.427673+00:00",
   "type": "unplanned",
