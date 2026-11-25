@@ -35,9 +35,9 @@
   "published": "2026-11-25T21:59:45+00:00",
   "text": "ADVISORY — WEST COAST DEMERARA\n\nDear customers between Windsor Forest and Best Village, please be advised that the service interruption being experienced is due to a feeder coming offline.\n\nOur teams are working assiduously to restore power within the shortest possible time. \n\nWe sincerely apologize for the inconvenience caused. \n\nAdditional information will be provided in a subsequent post.",
   "images": [],
-  "reactions": 34,
-  "comments": 65,
-  "shares": 19,
+  "reactions": 35,
+  "comments": 69,
+  "shares": 20,
   "captured_at": "2026-11-25T22:00:03.190799+00:00",
   "type": "unplanned",
   "region": "West Coast Demerara",
@@ -74,7 +74,7 @@
   "areas": [],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 60,
+  "missing_runs": 61,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T18:10:03.643391+00:00"
  },
@@ -105,7 +105,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 52,
+  "missing_runs": 53,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T18:50:03.212366+00:00"
  },
@@ -130,7 +130,7 @@
   "areas": [],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 52,
+  "missing_runs": 53,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T18:50:03.212366+00:00"
  },
@@ -159,7 +159,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 136,
+  "missing_runs": 137,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T11:50:03.432623+00:00"
  },
@@ -190,7 +190,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 136,
+  "missing_runs": 137,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T11:50:03.432623+00:00"
  },
@@ -217,7 +217,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 136,
+  "missing_runs": 137,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T11:50:03.432623+00:00"
  },
@@ -270,7 +270,7 @@
   "suspected_shedding": [
    "peak hours"
   ],
-  "missing_runs": 186,
+  "missing_runs": 187,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T07:40:03.383750+00:00"
  },
@@ -298,7 +298,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 186,
+  "missing_runs": 187,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T07:40:03.383750+00:00"
  },
@@ -329,7 +329,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 248,
+  "missing_runs": 249,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T02:30:02.931490+00:00"
  },
@@ -361,7 +361,7 @@
    "21:30 hrs"
   ],
   "suspected_shedding": [],
-  "missing_runs": 258,
+  "missing_runs": 259,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T01:40:02.980544+00:00"
  },
@@ -391,7 +391,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 186,
+  "missing_runs": 187,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T07:40:03.383750+00:00"
  },
@@ -422,7 +422,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 278,
+  "missing_runs": 279,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -452,7 +452,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 278,
+  "missing_runs": 279,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -484,7 +484,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 278,
+  "missing_runs": 279,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -514,7 +514,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 289,
+  "missing_runs": 290,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T23:05:03.833174+00:00"
  },
@@ -565,7 +565,7 @@
    "13:30 hrs"
   ],
   "suspected_shedding": [],
-  "missing_runs": 221,
+  "missing_runs": 222,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T16:50:03.155298+00:00"
  },
