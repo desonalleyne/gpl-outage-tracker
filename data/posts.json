@@ -9,7 +9,7 @@
   "images": [],
   "reactions": 6,
   "comments": 21,
-  "shares": 2,
+  "shares": 3,
   "captured_at": "2026-11-25T02:50:03.377565+00:00",
   "type": "unplanned",
   "region": "Essequibo Coast",
@@ -77,7 +77,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 54,
+  "missing_runs": 55,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T02:30:02.931490+00:00"
  },
@@ -109,7 +109,7 @@
    "21:30 hrs"
   ],
   "suspected_shedding": [],
-  "missing_runs": 64,
+  "missing_runs": 65,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T01:40:02.980544+00:00"
  },
@@ -167,7 +167,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 84,
+  "missing_runs": 85,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -197,7 +197,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 84,
+  "missing_runs": 85,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -229,7 +229,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 84,
+  "missing_runs": 85,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -259,7 +259,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 95,
+  "missing_runs": 96,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T23:05:03.833174+00:00"
  },
