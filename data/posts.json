@@ -7,9 +7,9 @@
   "published": "2026-11-24T23:51:56+00:00",
   "text": "ADVISORY || EMERGENCY SERVICE INTERRUPTION- WEST DEMERARA \n\nGuyana Power and Light Inc. (GPL) wishes to inform customers from Leonora to Naamryck that you are currently experiencing a service interruption due to a feeder going offline.\n\nOur teams are working towards restoring power to all affected areas as soon as possible.\n\nGPL sincerely apologises for any inconvenience caused and thank customers for their patience and understanding.",
   "images": [],
-  "reactions": 12,
-  "comments": 23,
-  "shares": 9,
+  "reactions": 16,
+  "comments": 33,
+  "shares": 11,
   "captured_at": "2026-11-24T23:55:03.871462+00:00",
   "type": "unplanned",
   "region": "West Demerara",
@@ -53,7 +53,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 3,
+  "missing_runs": 4,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -83,7 +83,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 3,
+  "missing_runs": 4,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -115,7 +115,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 3,
+  "missing_runs": 4,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -145,7 +145,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 14,
+  "missing_runs": 15,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T23:05:03.833174+00:00"
  },
@@ -196,7 +196,7 @@
    "13:30 hrs"
   ],
   "suspected_shedding": [],
-  "missing_runs": 79,
+  "missing_runs": 80,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T16:50:03.155298+00:00"
  },
