@@ -7,8 +7,8 @@
   "published": "2026-11-25T00:51:38+00:00",
   "text": "ADVISORY || EMERGENCY SERVICE INTERRUPTION- GEORGETOWN \n\nGuyana Power and Light Inc. (GPL) wishes to inform customers at East & West Ruimveldt, La Penitence, North East La Penitence and Albouystown that you are currently experiencing a service interruption due to a feeder going offline.\n\nOur teams are working assiduously to restore power as soon as possible.\n\nGPL sincerely apologises for any inconvenience caused and thank customers for their patience and understanding.",
   "images": [],
-  "reactions": 18,
-  "comments": 32,
+  "reactions": 20,
+  "comments": 35,
   "shares": 6,
   "captured_at": "2026-11-25T00:55:04.050979+00:00",
   "type": "unplanned",
@@ -54,7 +54,8 @@
    "20:45 hrs",
    "21:30 hrs"
   ],
-  "suspected_shedding": []
+  "suspected_shedding": [],
+  "missing_runs": 1
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795564316",
@@ -65,7 +66,7 @@
   "text": "ADVISORY || EMERGENCY SERVICE INTERRUPTION- WEST DEMERARA \n\nGuyana Power and Light Inc. (GPL) wishes to inform customers from Leonora to Naamryck that you are currently experiencing a service interruption due to a feeder going offline.\n\nOur teams are working towards restoring power to all affected areas as soon as possible.\n\nGPL sincerely apologises for any inconvenience caused and thank customers for their patience and understanding.",
   "images": [],
   "reactions": 50,
-  "comments": 123,
+  "comments": 124,
   "shares": 20,
   "captured_at": "2026-11-24T23:55:03.871462+00:00",
   "type": "unplanned",
@@ -110,7 +111,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 20,
+  "missing_runs": 21,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -140,7 +141,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 20,
+  "missing_runs": 21,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -172,7 +173,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 20,
+  "missing_runs": 21,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -202,7 +203,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 31,
+  "missing_runs": 32,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T23:05:03.833174+00:00"
  },
@@ -253,7 +254,7 @@
    "13:30 hrs"
   ],
   "suspected_shedding": [],
-  "missing_runs": 88,
+  "missing_runs": 89,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T16:50:03.155298+00:00"
  },
@@ -267,7 +268,7 @@
   "images": [
    "https://scontent-gru2-2.xx.fbcdn.net/v/t15.5256-10/905266590_2796574274095168_3406354767008111075_n.jpg?_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=WthnzQFuGtcQ7kNvwHYlJNh&_nc_oc=AdoQ8CeM_MFog9TiUVpPyf8SrLP8AwOixr9rmth7Ut8GlmJGbO4_H9TPGQym4nb8p3A&_nc_zt=23&_nc_ht=scontent-gru2-2.xx&edm=ADwHzz8EAAAA&_nc_gid=T8UGZzGLL_y_nKnkKX60Ug&oh=00_AQRmXm_h2UgEDPgXNtkdUpJGsvvNVnl-ndWH9Ge4sXj-2w&oe=6B0B4A89"
   ],
-  "reactions": 21,
+  "reactions": 22,
   "comments": 6,
   "shares": 1,
   "captured_at": "2026-11-24T11:45:03.190330+00:00",
