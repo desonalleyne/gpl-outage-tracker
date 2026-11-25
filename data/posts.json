@@ -9,9 +9,9 @@
   "images": [
    "https://scontent-gru1-1.xx.fbcdn.net/v/t39.30808-6/924401312_122214153284585308_8341846485941914502_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=t0MFCqj_-6wQ7kNvwHtYwCd&_nc_oc=AdqMqeDcKsAuOt4umE6j685Y0MpFh7byayC2C8ADYrUklpBp5qnTUbrYCQqHsQcjmvE&_nc_zt=23&_nc_ht=scontent-gru1-1.xx&edm=ADwHzz8EAAAA&_nc_gid=6l_YhWqxhvGy8J34KG4x0Q&oh=00_AQQRY6mW9Ls6VdJSGm8lYA6ZbT0vUIxgzQalAB0CWk6D5g&oe=6B0C08D9"
   ],
-  "reactions": 3,
-  "comments": 6,
-  "shares": 3,
+  "reactions": 11,
+  "comments": 12,
+  "shares": 4,
   "captured_at": "2026-11-25T00:40:03.637361+00:00",
   "type": "restored",
   "region": "Berbice",
@@ -36,8 +36,8 @@
   "published": "2026-11-24T23:51:56+00:00",
   "text": "ADVISORY || EMERGENCY SERVICE INTERRUPTION- WEST DEMERARA \n\nGuyana Power and Light Inc. (GPL) wishes to inform customers from Leonora to Naamryck that you are currently experiencing a service interruption due to a feeder going offline.\n\nOur teams are working towards restoring power to all affected areas as soon as possible.\n\nGPL sincerely apologises for any inconvenience caused and thank customers for their patience and understanding.",
   "images": [],
-  "reactions": 33,
-  "comments": 86,
+  "reactions": 37,
+  "comments": 95,
   "shares": 17,
   "captured_at": "2026-11-24T23:55:03.871462+00:00",
   "type": "unplanned",
@@ -82,7 +82,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 10,
+  "missing_runs": 11,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -112,7 +112,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 10,
+  "missing_runs": 11,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -144,7 +144,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 10,
+  "missing_runs": 11,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -174,7 +174,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 21,
+  "missing_runs": 22,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T23:05:03.833174+00:00"
  },
@@ -188,7 +188,7 @@
   "images": [
    "https://scontent-gru2-2.xx.fbcdn.net/v/t39.30808-6/920914873_122214127640585308_9181062589646122964_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=sbXVjFErXkwQ7kNvwF7zxip&_nc_oc=AdofxZyeUhYp0sJIsO8CF1i02ovBxKpwfr-MgrqX5J01k_bDgSSloMd0kA4TR1Kx084&_nc_zt=23&_nc_ht=scontent-gru2-2.xx&edm=ADwHzz8EAAAA&_nc_gid=zUatYevfcD5hKuMkgKprZw&oh=00_AQQ11EtMixdrcFWkSPw3AFPkF-u1Q2p33knKRTWVY66iSQ&oe=6B0BDDD8"
   ],
-  "reactions": 72,
+  "reactions": 73,
   "comments": 115,
   "shares": 13,
   "captured_at": "2026-11-24T20:50:03.603884+00:00",
@@ -225,7 +225,7 @@
    "13:30 hrs"
   ],
   "suspected_shedding": [],
-  "missing_runs": 86,
+  "missing_runs": 87,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T16:50:03.155298+00:00"
  },
