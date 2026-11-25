@@ -1,5 +1,30 @@
 [
  {
+  "id": "fb:GuyanaPowerAndLight:1795571774",
+  "fb_time": 1795571774,
+  "link": "https://www.facebook.com/GuyanaPowerAndLight",
+  "title": "UPDATE || EMERGENCY SERVICE INTERRUPTION- WEST DEMERARA - Incremental Restoration",
+  "published": "2026-11-25T01:56:14+00:00",
+  "text": "UPDATE || EMERGENCY SERVICE INTERRUPTION- WEST DEMERARA - Incremental Restoration \n\nGuyana Power and Light Inc. (GPL) wishes to inform customers from Leonora to Naamryck that incremental restoration has commenced.\n\nLeonora to Zeelugt has been repowered with our teams still working towards restoring power to all affected areas as soon as possible.\n\nGPL sincerely apologises for any inconvenience caused and thank customers for their patience and understanding.",
+  "images": [],
+  "reactions": 0,
+  "comments": 1,
+  "shares": 1,
+  "captured_at": "2026-11-25T02:00:03.551506+00:00",
+  "type": "restored",
+  "region": "West Demerara",
+  "rules": "2026-11-19a",
+  "cause": null,
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [
+   "Leonora to Naamryck",
+   "Leonora"
+  ],
+  "times": [],
+  "suspected_shedding": []
+ },
+ {
   "id": "fb:GuyanaPowerAndLight:1795567898",
   "fb_time": 1795567898,
   "link": "https://www.facebook.com/GuyanaPowerAndLight",
@@ -7,8 +32,8 @@
   "published": "2026-11-25T00:51:38+00:00",
   "text": "ADVISORY || EMERGENCY SERVICE INTERRUPTION- GEORGETOWN \n\nGuyana Power and Light Inc. (GPL) wishes to inform customers at East & West Ruimveldt, La Penitence, North East La Penitence and Albouystown that you are currently experiencing a service interruption due to a feeder going offline.\n\nOur teams are working assiduously to restore power as soon as possible.\n\nGPL sincerely apologises for any inconvenience caused and thank customers for their patience and understanding.",
   "images": [],
-  "reactions": 27,
-  "comments": 55,
+  "reactions": 30,
+  "comments": 56,
   "shares": 7,
   "captured_at": "2026-11-25T00:55:04.050979+00:00",
   "type": "unplanned",
@@ -55,7 +80,7 @@
    "21:30 hrs"
   ],
   "suspected_shedding": [],
-  "missing_runs": 5,
+  "missing_runs": 6,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T01:40:02.980544+00:00"
  },
@@ -68,7 +93,7 @@
   "text": "ADVISORY || EMERGENCY SERVICE INTERRUPTION- WEST DEMERARA \n\nGuyana Power and Light Inc. (GPL) wishes to inform customers from Leonora to Naamryck that you are currently experiencing a service interruption due to a feeder going offline.\n\nOur teams are working towards restoring power to all affected areas as soon as possible.\n\nGPL sincerely apologises for any inconvenience caused and thank customers for their patience and understanding.",
   "images": [],
   "reactions": 55,
-  "comments": 136,
+  "comments": 137,
   "shares": 21,
   "captured_at": "2026-11-24T23:55:03.871462+00:00",
   "type": "unplanned",
@@ -113,7 +138,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 25,
+  "missing_runs": 26,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -143,7 +168,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 25,
+  "missing_runs": 26,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -175,7 +200,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 25,
+  "missing_runs": 26,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -205,7 +230,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 36,
+  "missing_runs": 37,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T23:05:03.833174+00:00"
  },
