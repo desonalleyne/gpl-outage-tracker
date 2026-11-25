@@ -8,7 +8,7 @@
   "text": "ADVISORY — EAST BANK DEMERARA\n\nThe Guyana Power and Light Inc. (GPL) wishes to advise that emergency works will be conducted today, Wednesday, November 25, 2026, to replace a damaged cable at the Garden of Eden Substation.\n\nAs a result, customers from Garden of Eden to Grove, East Bank Demerara, will experience an interruption in electricity supply from 6:30 p.m. to 8:30 p.m.\n\nGPL is cognizant of the inconvenience this interruption may cause but emphasises that these works are absolutely necessary to safely restore the affected infrastructure and ensure the continued reliability of electricity supply.\n\nGPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
   "images": [],
   "reactions": 14,
-  "comments": 13,
+  "comments": 14,
   "shares": 11,
   "captured_at": "2026-11-25T22:20:03.621009+00:00",
   "type": "unplanned",
@@ -35,9 +35,9 @@
   "published": "2026-11-25T21:59:45+00:00",
   "text": "ADVISORY — WEST COAST DEMERARA\n\nDear customers between Windsor Forest and Best Village, please be advised that the service interruption being experienced is due to a feeder coming offline.\n\nOur teams are working assiduously to restore power within the shortest possible time. \n\nWe sincerely apologize for the inconvenience caused. \n\nAdditional information will be provided in a subsequent post.",
   "images": [],
-  "reactions": 30,
-  "comments": 61,
-  "shares": 15,
+  "reactions": 32,
+  "comments": 63,
+  "shares": 19,
   "captured_at": "2026-11-25T22:00:03.190799+00:00",
   "type": "unplanned",
   "region": "West Coast Demerara",
@@ -74,7 +74,7 @@
   "areas": [],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 58,
+  "missing_runs": 59,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T18:10:03.643391+00:00"
  },
@@ -105,7 +105,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 50,
+  "missing_runs": 51,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T18:50:03.212366+00:00"
  },
@@ -130,7 +130,7 @@
   "areas": [],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 50,
+  "missing_runs": 51,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T18:50:03.212366+00:00"
  },
@@ -159,7 +159,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 134,
+  "missing_runs": 135,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T11:50:03.432623+00:00"
  },
@@ -190,7 +190,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 134,
+  "missing_runs": 135,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T11:50:03.432623+00:00"
  },
@@ -217,7 +217,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 134,
+  "missing_runs": 135,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T11:50:03.432623+00:00"
  },
@@ -270,7 +270,7 @@
   "suspected_shedding": [
    "peak hours"
   ],
-  "missing_runs": 184,
+  "missing_runs": 185,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T07:40:03.383750+00:00"
  },
@@ -298,7 +298,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 184,
+  "missing_runs": 185,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T07:40:03.383750+00:00"
  },
@@ -329,7 +329,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 246,
+  "missing_runs": 247,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T02:30:02.931490+00:00"
  },
@@ -361,7 +361,7 @@
    "21:30 hrs"
   ],
   "suspected_shedding": [],
-  "missing_runs": 256,
+  "missing_runs": 257,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T01:40:02.980544+00:00"
  },
@@ -391,7 +391,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 184,
+  "missing_runs": 185,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T07:40:03.383750+00:00"
  },
@@ -422,7 +422,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 276,
+  "missing_runs": 277,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -452,7 +452,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 276,
+  "missing_runs": 277,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -484,7 +484,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 276,
+  "missing_runs": 277,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -514,7 +514,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 287,
+  "missing_runs": 288,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T23:05:03.833174+00:00"
  },
@@ -565,7 +565,7 @@
    "13:30 hrs"
   ],
   "suspected_shedding": [],
-  "missing_runs": 219,
+  "missing_runs": 220,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T16:50:03.155298+00:00"
  },
@@ -579,7 +579,7 @@
   "images": [
    "https://scontent-gru2-2.xx.fbcdn.net/v/t15.5256-10/905266590_2796574274095168_3406354767008111075_n.jpg?_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=WthnzQFuGtcQ7kNvwHYlJNh&_nc_oc=AdoQ8CeM_MFog9TiUVpPyf8SrLP8AwOixr9rmth7Ut8GlmJGbO4_H9TPGQym4nb8p3A&_nc_zt=23&_nc_ht=scontent-gru2-2.xx&edm=ADwHzz8EAAAA&_nc_gid=T8UGZzGLL_y_nKnkKX60Ug&oh=00_AQRmXm_h2UgEDPgXNtkdUpJGsvvNVnl-ndWH9Ge4sXj-2w&oe=6B0B4A89"
   ],
-  "reactions": 27,
+  "reactions": 28,
   "comments": 6,
   "shares": 1,
   "captured_at": "2026-11-24T11:45:03.190330+00:00",
