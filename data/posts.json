@@ -1,5 +1,29 @@
 [
  {
+  "id": "fb:GuyanaPowerAndLight:1795602174",
+  "fb_time": 1795602174,
+  "link": "https://www.facebook.com/GuyanaPowerAndLight",
+  "title": "ADVISORY – SERVICE INTERRUPTION (WEST COAST DEMERARA)",
+  "published": "2026-11-25T10:22:54+00:00",
+  "text": "ADVISORY – SERVICE INTERRUPTION (WEST COAST DEMERARA)\n\nGuyana Power and Light Inc. (GPL) wishes to advise customers in a section of Leonora, Tuschen, Meten-Meer-Zorg and surrounding areas that they are currently experiencing an interruption in electricity supply due to a trip on a distribution feeder.\n\nGPL’s technical teams are investigating the cause of the trip and working to restore electricity supply to all affected customers as quickly and safely as possible.\n\nGPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
+  "images": [],
+  "reactions": 1,
+  "comments": 0,
+  "shares": 1,
+  "captured_at": "2026-11-25T10:25:03.269133+00:00",
+  "type": "unplanned",
+  "region": "West Coast Demerara",
+  "rules": "2026-11-19a",
+  "cause": "No reason given",
+  "feeder_offline": true,
+  "feeders": [],
+  "areas": [
+   "Leonora"
+  ],
+  "times": [],
+  "suspected_shedding": []
+ },
+ {
   "id": "fb:GuyanaPowerAndLight:1795601190",
   "fb_time": 1795601190,
   "link": "https://www.facebook.com/GuyanaPowerAndLight",
@@ -10,7 +34,7 @@
    "https://scontent-gru1-1.xx.fbcdn.net/v/t39.30808-6/926522401_122214212372585308_2136204824711498452_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=YouDXQ_ucuAQ7kNvwGl7r3u&_nc_oc=AdryCZCQqxCO9huGtRf9AaK15nC1AtK3FXO_LLfzivaTeC81vEHWl8aLP-7XnSrWWik&_nc_zt=23&_nc_ht=scontent-gru1-1.xx&edm=ADwHzz8EAAAA&_nc_gid=JoxtPdRbdAifaO7TeCDbdA&oh=00_AQQVjSKBYPo_5RzRvB98fBVG6S7gqc5cf_fyP5JBgXeiJg&oe=6B0C81AF"
   ],
   "reactions": 2,
-  "comments": 4,
+  "comments": 6,
   "shares": 2,
   "captured_at": "2026-11-25T10:10:03.806088+00:00",
   "type": "unplanned",
@@ -48,7 +72,7 @@
   "suspected_shedding": [
    "peak hours"
   ],
-  "missing_runs": 34,
+  "missing_runs": 35,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T07:40:03.383750+00:00"
  },
@@ -76,7 +100,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 34,
+  "missing_runs": 35,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T07:40:03.383750+00:00"
  },
@@ -107,7 +131,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 96,
+  "missing_runs": 97,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T02:30:02.931490+00:00"
  },
@@ -139,7 +163,7 @@
    "21:30 hrs"
   ],
   "suspected_shedding": [],
-  "missing_runs": 106,
+  "missing_runs": 107,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T01:40:02.980544+00:00"
  },
@@ -169,7 +193,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 34,
+  "missing_runs": 35,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T07:40:03.383750+00:00"
  },
@@ -200,7 +224,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 126,
+  "missing_runs": 127,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -230,7 +254,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 126,
+  "missing_runs": 127,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -262,7 +286,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 126,
+  "missing_runs": 127,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -292,7 +316,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 137,
+  "missing_runs": 138,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T23:05:03.833174+00:00"
  },
@@ -343,7 +367,7 @@
    "13:30 hrs"
   ],
   "suspected_shedding": [],
-  "missing_runs": 132,
+  "missing_runs": 133,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T16:50:03.155298+00:00"
  },
