@@ -1,5 +1,34 @@
 [
  {
+  "id": "fb:GuyanaPowerAndLight:1795566953",
+  "fb_time": 1795566953,
+  "link": "https://www.facebook.com/GuyanaPowerAndLight",
+  "title": "ADVISORY || EMERGENCY SERVICE INTERRUPTION- BERBICE",
+  "published": "2026-11-25T00:35:53+00:00",
+  "text": "ADVISORY || EMERGENCY SERVICE INTERRUPTION- BERBICE \n\nGuyana Power and Light Inc. (GPL) wishes to notify customers at Main Street, New Amsterdam and Republic Road, New Amsterdam up to Mara will experience an emergency service interruption at 20:45hrs.\n\nThis interruption is required for our technicians to safely replace a burnt connection in the area with electricity supply expected to be restored by 21:30hrs.\n\nGPL sincerely apologises for any inconvenience caused and thank customers for their understanding and patience.",
+  "images": [
+   "https://scontent-gru1-1.xx.fbcdn.net/v/t39.30808-6/924401312_122214153284585308_8341846485941914502_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=t0MFCqj_-6wQ7kNvwHtYwCd&_nc_oc=AdqMqeDcKsAuOt4umE6j685Y0MpFh7byayC2C8ADYrUklpBp5qnTUbrYCQqHsQcjmvE&_nc_zt=23&_nc_ht=scontent-gru1-1.xx&edm=ADwHzz8EAAAA&_nc_gid=6l_YhWqxhvGy8J34KG4x0Q&oh=00_AQQRY6mW9Ls6VdJSGm8lYA6ZbT0vUIxgzQalAB0CWk6D5g&oe=6B0C08D9"
+  ],
+  "reactions": 3,
+  "comments": 6,
+  "shares": 3,
+  "captured_at": "2026-11-25T00:40:03.637361+00:00",
+  "type": "restored",
+  "region": "Berbice",
+  "rules": "2026-11-19a",
+  "cause": null,
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [
+   "New Amsterdam"
+  ],
+  "times": [
+   "20:45 hrs",
+   "21:30 hrs"
+  ],
+  "suspected_shedding": []
+ },
+ {
   "id": "fb:GuyanaPowerAndLight:1795564316",
   "fb_time": 1795564316,
   "link": "https://www.facebook.com/GuyanaPowerAndLight",
@@ -8,7 +37,7 @@
   "text": "ADVISORY || EMERGENCY SERVICE INTERRUPTION- WEST DEMERARA \n\nGuyana Power and Light Inc. (GPL) wishes to inform customers from Leonora to Naamryck that you are currently experiencing a service interruption due to a feeder going offline.\n\nOur teams are working towards restoring power to all affected areas as soon as possible.\n\nGPL sincerely apologises for any inconvenience caused and thank customers for their patience and understanding.",
   "images": [],
   "reactions": 33,
-  "comments": 79,
+  "comments": 86,
   "shares": 17,
   "captured_at": "2026-11-24T23:55:03.871462+00:00",
   "type": "unplanned",
@@ -53,7 +82,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 9,
+  "missing_runs": 10,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -83,7 +112,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 9,
+  "missing_runs": 10,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -115,7 +144,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 9,
+  "missing_runs": 10,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -145,7 +174,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 20,
+  "missing_runs": 21,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T23:05:03.833174+00:00"
  },
@@ -196,7 +225,7 @@
    "13:30 hrs"
   ],
   "suspected_shedding": [],
-  "missing_runs": 85,
+  "missing_runs": 86,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T16:50:03.155298+00:00"
  },
