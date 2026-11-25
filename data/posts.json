@@ -7,9 +7,9 @@
   "published": "2026-11-25T00:51:38+00:00",
   "text": "ADVISORY || EMERGENCY SERVICE INTERRUPTION- GEORGETOWN \n\nGuyana Power and Light Inc. (GPL) wishes to inform customers at East & West Ruimveldt, La Penitence, North East La Penitence and Albouystown that you are currently experiencing a service interruption due to a feeder going offline.\n\nOur teams are working assiduously to restore power as soon as possible.\n\nGPL sincerely apologises for any inconvenience caused and thank customers for their patience and understanding.",
   "images": [],
-  "reactions": 9,
-  "comments": 17,
-  "shares": 3,
+  "reactions": 12,
+  "comments": 24,
+  "shares": 4,
   "captured_at": "2026-11-25T00:55:04.050979+00:00",
   "type": "unplanned",
   "region": "Georgetown",
@@ -37,8 +37,8 @@
   "images": [
    "https://scontent-gru1-1.xx.fbcdn.net/v/t39.30808-6/924401312_122214153284585308_8341846485941914502_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=t0MFCqj_-6wQ7kNvwHtYwCd&_nc_oc=AdqMqeDcKsAuOt4umE6j685Y0MpFh7byayC2C8ADYrUklpBp5qnTUbrYCQqHsQcjmvE&_nc_zt=23&_nc_ht=scontent-gru1-1.xx&edm=ADwHzz8EAAAA&_nc_gid=6l_YhWqxhvGy8J34KG4x0Q&oh=00_AQQRY6mW9Ls6VdJSGm8lYA6ZbT0vUIxgzQalAB0CWk6D5g&oe=6B0C08D9"
   ],
-  "reactions": 26,
-  "comments": 41,
+  "reactions": 29,
+  "comments": 45,
   "shares": 9,
   "captured_at": "2026-11-25T00:40:03.637361+00:00",
   "type": "restored",
@@ -65,7 +65,7 @@
   "text": "ADVISORY || EMERGENCY SERVICE INTERRUPTION- WEST DEMERARA \n\nGuyana Power and Light Inc. (GPL) wishes to inform customers from Leonora to Naamryck that you are currently experiencing a service interruption due to a feeder going offline.\n\nOur teams are working towards restoring power to all affected areas as soon as possible.\n\nGPL sincerely apologises for any inconvenience caused and thank customers for their patience and understanding.",
   "images": [],
   "reactions": 47,
-  "comments": 111,
+  "comments": 115,
   "shares": 18,
   "captured_at": "2026-11-24T23:55:03.871462+00:00",
   "type": "unplanned",
@@ -110,7 +110,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 15,
+  "missing_runs": 16,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -140,7 +140,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 15,
+  "missing_runs": 16,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -172,7 +172,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 15,
+  "missing_runs": 16,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -202,7 +202,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 26,
+  "missing_runs": 27,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T23:05:03.833174+00:00"
  },
