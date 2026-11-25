@@ -23,7 +23,8 @@
   "times": [],
   "suspected_shedding": [
    "peak hours"
-  ]
+  ],
+  "missing_runs": 1
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795571774",
@@ -48,7 +49,8 @@
    "Leonora"
   ],
   "times": [],
-  "suspected_shedding": []
+  "suspected_shedding": [],
+  "missing_runs": 1
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795567898",
@@ -77,7 +79,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 62,
+  "missing_runs": 63,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T02:30:02.931490+00:00"
  },
@@ -109,7 +111,7 @@
    "21:30 hrs"
   ],
   "suspected_shedding": [],
-  "missing_runs": 72,
+  "missing_runs": 73,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T01:40:02.980544+00:00"
  },
@@ -138,7 +140,8 @@
   "suspected_shedding": [
    "peak hours",
    "rotation"
-  ]
+  ],
+  "missing_runs": 1
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795561241",
@@ -167,7 +170,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 92,
+  "missing_runs": 93,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -197,7 +200,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 92,
+  "missing_runs": 93,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -229,7 +232,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 92,
+  "missing_runs": 93,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -259,7 +262,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 103,
+  "missing_runs": 104,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T23:05:03.833174+00:00"
  },
@@ -310,7 +313,7 @@
    "13:30 hrs"
   ],
   "suspected_shedding": [],
-  "missing_runs": 98,
+  "missing_runs": 99,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T16:50:03.155298+00:00"
  },
@@ -324,7 +327,7 @@
   "images": [
    "https://scontent-gru2-2.xx.fbcdn.net/v/t15.5256-10/905266590_2796574274095168_3406354767008111075_n.jpg?_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=WthnzQFuGtcQ7kNvwHYlJNh&_nc_oc=AdoQ8CeM_MFog9TiUVpPyf8SrLP8AwOixr9rmth7Ut8GlmJGbO4_H9TPGQym4nb8p3A&_nc_zt=23&_nc_ht=scontent-gru2-2.xx&edm=ADwHzz8EAAAA&_nc_gid=T8UGZzGLL_y_nKnkKX60Ug&oh=00_AQRmXm_h2UgEDPgXNtkdUpJGsvvNVnl-ndWH9Ge4sXj-2w&oe=6B0B4A89"
   ],
-  "reactions": 23,
+  "reactions": 24,
   "comments": 6,
   "shares": 1,
   "captured_at": "2026-11-24T11:45:03.190330+00:00",
@@ -372,7 +375,7 @@
   "images": [
    "https://external-gru1-1.xx.fbcdn.net/emg1/v/t13/5609073166510778808?url=https%3A%2F%2Fguyanachronicle.com%2Fwp-content%2Fuploads%2F2026%2F11%2Findar.png&fb_obo=1&utld=guyanachronicle.com&_nc_sid=cef909&_nc_ht=external-gru1-1.xx.fbcdn.net&stp=c0.5000x0.5000f_dst-emg0_p500x261_q75_tt6&ccb=18-1&_nc_gid=jTIO4I3Q_xBtgH94Scplzw&edm=ADwHzz8EAAAA&_nc_zt=3&oh=06_Q3_FAeMNuBj1iMP3uwbA1gDP8xd3ZvkwxXtKF_D9cz1DtEot&oe=6B07583D"
   ],
-  "reactions": 3,
+  "reactions": 4,
   "comments": 1,
   "shares": 0,
   "captured_at": "2026-11-24T11:05:03.128786+00:00",
