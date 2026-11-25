@@ -7,8 +7,8 @@
   "published": "2026-11-25T17:23:14+00:00",
   "text": "ADVISORY – SERVICE INTERRUPTION (DEMERARA & BERBICE)\n\nGuyana Power and Light Inc. (GPL) wishes to advise customers in sections of Demerara and Berbice that they are currently experiencing an interruption in electricity supply due to a trip on the L17 Transmission Line, which interconnects the Good Hope and Columbia Substations.\n\nGPL’s technical teams are investigating the cause of the trip and working to restore electricity supply to all affected customers as quickly and safely as possible.\n\nGPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
   "images": [],
-  "reactions": 23,
-  "comments": 19,
+  "reactions": 26,
+  "comments": 28,
   "shares": 7,
   "captured_at": "2026-11-25T17:25:03.062196+00:00",
   "type": "unplanned",
@@ -96,7 +96,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 71,
+  "missing_runs": 72,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T11:50:03.432623+00:00"
  },
@@ -127,7 +127,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 71,
+  "missing_runs": 72,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T11:50:03.432623+00:00"
  },
@@ -154,7 +154,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 71,
+  "missing_runs": 72,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T11:50:03.432623+00:00"
  },
@@ -207,7 +207,7 @@
   "suspected_shedding": [
    "peak hours"
   ],
-  "missing_runs": 121,
+  "missing_runs": 122,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T07:40:03.383750+00:00"
  },
@@ -235,7 +235,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 121,
+  "missing_runs": 122,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T07:40:03.383750+00:00"
  },
@@ -266,7 +266,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 183,
+  "missing_runs": 184,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T02:30:02.931490+00:00"
  },
@@ -298,7 +298,7 @@
    "21:30 hrs"
   ],
   "suspected_shedding": [],
-  "missing_runs": 193,
+  "missing_runs": 194,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T01:40:02.980544+00:00"
  },
@@ -328,7 +328,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 121,
+  "missing_runs": 122,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T07:40:03.383750+00:00"
  },
@@ -359,7 +359,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 213,
+  "missing_runs": 214,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -389,7 +389,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 213,
+  "missing_runs": 214,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -421,7 +421,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 213,
+  "missing_runs": 214,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -451,7 +451,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 224,
+  "missing_runs": 225,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T23:05:03.833174+00:00"
  },
