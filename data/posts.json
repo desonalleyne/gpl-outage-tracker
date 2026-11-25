@@ -7,9 +7,9 @@
   "published": "2026-11-24T23:51:56+00:00",
   "text": "ADVISORY || EMERGENCY SERVICE INTERRUPTION- WEST DEMERARA \n\nGuyana Power and Light Inc. (GPL) wishes to inform customers from Leonora to Naamryck that you are currently experiencing a service interruption due to a feeder going offline.\n\nOur teams are working towards restoring power to all affected areas as soon as possible.\n\nGPL sincerely apologises for any inconvenience caused and thank customers for their patience and understanding.",
   "images": [],
-  "reactions": 4,
-  "comments": 2,
-  "shares": 2,
+  "reactions": 11,
+  "comments": 12,
+  "shares": 8,
   "captured_at": "2026-11-24T23:55:03.871462+00:00",
   "type": "unplanned",
   "region": "West Demerara",
@@ -53,7 +53,9 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 1
+  "missing_runs": 2,
+  "deleted_from_source": true,
+  "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795561103",
@@ -81,7 +83,9 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 1
+  "missing_runs": 2,
+  "deleted_from_source": true,
+  "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795558747",
@@ -111,7 +115,9 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 1
+  "missing_runs": 2,
+  "deleted_from_source": true,
+  "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795558534",
@@ -139,7 +145,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 12,
+  "missing_runs": 13,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T23:05:03.833174+00:00"
  },
@@ -153,8 +159,8 @@
   "images": [
    "https://scontent-gru2-2.xx.fbcdn.net/v/t39.30808-6/920914873_122214127640585308_9181062589646122964_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=sbXVjFErXkwQ7kNvwF7zxip&_nc_oc=AdofxZyeUhYp0sJIsO8CF1i02ovBxKpwfr-MgrqX5J01k_bDgSSloMd0kA4TR1Kx084&_nc_zt=23&_nc_ht=scontent-gru2-2.xx&edm=ADwHzz8EAAAA&_nc_gid=zUatYevfcD5hKuMkgKprZw&oh=00_AQQ11EtMixdrcFWkSPw3AFPkF-u1Q2p33knKRTWVY66iSQ&oe=6B0BDDD8"
   ],
-  "reactions": 67,
-  "comments": 109,
+  "reactions": 68,
+  "comments": 111,
   "shares": 13,
   "captured_at": "2026-11-24T20:50:03.603884+00:00",
   "type": "other",
@@ -190,7 +196,7 @@
    "13:30 hrs"
   ],
   "suspected_shedding": [],
-  "missing_runs": 77,
+  "missing_runs": 78,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T16:50:03.155298+00:00"
  },
@@ -228,7 +234,7 @@
   "images": [
    "https://scontent-gru2-1.xx.fbcdn.net/v/t15.5256-10/902373156_1535763071937080_5255123147991216876_n.jpg?_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=K_tlonQk-pIQ7kNvwGFffW4&_nc_oc=Adp_q66t_n9qa2ItIUIwJcLfh0da3ZQQB7I4gckpw7TEmt9MbBt3J42pZ4OjtSFLSkg&_nc_zt=23&_nc_ht=scontent-gru2-1.xx&edm=ADwHzz8EAAAA&_nc_gid=Bha7YJGKZqK7Db0TY2HKSQ&oh=00_AQQvEj_9Lz1iYzH51ktyQYNyQ2DTCourB-oBzaYBnHTnzg&oe=6B0B3781"
   ],
-  "reactions": 17,
+  "reactions": 18,
   "comments": 0,
   "shares": 0,
   "captured_at": "2026-11-24T11:20:03.899774+00:00",
