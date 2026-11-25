@@ -34,7 +34,7 @@
   "text": "UPDATE || EMERGENCY SERVICE INTERRUPTION- WEST DEMERARA - Incremental Restoration \n\nGuyana Power and Light Inc. (GPL) wishes to inform customers from Leonora to Naamryck that incremental restoration has commenced.\n\nLeonora to Zeelugt has been repowered with our teams still working towards restoring power to all affected areas as soon as possible.\n\nGPL sincerely apologises for any inconvenience caused and thank customers for their patience and understanding.",
   "images": [],
   "reactions": 10,
-  "comments": 18,
+  "comments": 19,
   "shares": 1,
   "captured_at": "2026-11-25T02:00:03.551506+00:00",
   "type": "restored",
@@ -77,7 +77,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 11,
+  "missing_runs": 12,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T02:30:02.931490+00:00"
  },
@@ -109,7 +109,7 @@
    "21:30 hrs"
   ],
   "suspected_shedding": [],
-  "missing_runs": 21,
+  "missing_runs": 22,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T01:40:02.980544+00:00"
  },
@@ -167,7 +167,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 41,
+  "missing_runs": 42,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -197,7 +197,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 41,
+  "missing_runs": 42,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -229,7 +229,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 41,
+  "missing_runs": 42,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -259,7 +259,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 52,
+  "missing_runs": 53,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T23:05:03.833174+00:00"
  },
