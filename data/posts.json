@@ -8,7 +8,7 @@
   "text": "ADVISORY – SERVICE INTERRUPTION (ESSEQUIBO COAST)\n\nGuyana Power and Light Inc. (GPL) wishes to advise customers from Bounty Hall to Charity that they are experiencing a service interruption due to a section of the distribution feeder going offline.\n\nGPL’s technical teams are working to restore electricity supply to all affected customers.\n\nWe apologize for the inconvenience caused and thank customers for their continued patience and understanding.",
   "images": [],
   "reactions": 5,
-  "comments": 16,
+  "comments": 17,
   "shares": 2,
   "captured_at": "2026-11-25T02:50:03.377565+00:00",
   "type": "unplanned",
@@ -77,7 +77,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 28,
+  "missing_runs": 29,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T02:30:02.931490+00:00"
  },
@@ -109,7 +109,7 @@
    "21:30 hrs"
   ],
   "suspected_shedding": [],
-  "missing_runs": 38,
+  "missing_runs": 39,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T01:40:02.980544+00:00"
  },
@@ -167,7 +167,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 58,
+  "missing_runs": 59,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -197,7 +197,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 58,
+  "missing_runs": 59,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -229,7 +229,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 58,
+  "missing_runs": 59,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -259,7 +259,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 69,
+  "missing_runs": 70,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T23:05:03.833174+00:00"
  },
