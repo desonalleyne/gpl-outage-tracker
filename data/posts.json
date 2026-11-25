@@ -1,5 +1,29 @@
 [
  {
+  "id": "fb:GuyanaPowerAndLight:1795601190",
+  "fb_time": 1795601190,
+  "link": "https://www.facebook.com/GuyanaPowerAndLight",
+  "title": "YOUR GPL BILL INFORMATION, MADE EASY!",
+  "published": "2026-11-25T10:06:30+00:00",
+  "text": "YOUR GPL BILL INFORMATION, MADE EASY!\n\nNeed to check your electricity bill without visiting a GPL office?\n\nWith GPL’s online services, accessing your bill information is quick, easy and convenient!\n\n✅ Visit www.gplinc.com\n✅ Select the Card Payment option\n✅ Access your bill information and make payments online.\n\n📱 Stay informed and manage your electricity account from the comfort of your home or office!\n\nSkip the trip. Go digital with GPL!\n\n#GPL #CustomerService #OnlineServices #BillInformation #Convenience #Guyana",
+  "images": [
+   "https://scontent-gru1-1.xx.fbcdn.net/v/t39.30808-6/926522401_122214212372585308_2136204824711498452_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=YouDXQ_ucuAQ7kNvwGl7r3u&_nc_oc=AdryCZCQqxCO9huGtRf9AaK15nC1AtK3FXO_LLfzivaTeC81vEHWl8aLP-7XnSrWWik&_nc_zt=23&_nc_ht=scontent-gru1-1.xx&edm=ADwHzz8EAAAA&_nc_gid=JoxtPdRbdAifaO7TeCDbdA&oh=00_AQQVjSKBYPo_5RzRvB98fBVG6S7gqc5cf_fyP5JBgXeiJg&oe=6B0C81AF"
+  ],
+  "reactions": 0,
+  "comments": 1,
+  "shares": 2,
+  "captured_at": "2026-11-25T10:10:03.806088+00:00",
+  "type": "unplanned",
+  "region": null,
+  "rules": "2026-11-19a",
+  "cause": "No reason given",
+  "feeder_offline": true,
+  "feeders": [],
+  "areas": [],
+  "times": [],
+  "suspected_shedding": []
+ },
+ {
   "id": "fb:GuyanaPowerAndLight:1795574720",
   "fb_time": 1795574720,
   "link": "https://www.facebook.com/GuyanaPowerAndLight",
@@ -24,7 +48,7 @@
   "suspected_shedding": [
    "peak hours"
   ],
-  "missing_runs": 31,
+  "missing_runs": 32,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T07:40:03.383750+00:00"
  },
@@ -52,7 +76,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 31,
+  "missing_runs": 32,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T07:40:03.383750+00:00"
  },
@@ -83,7 +107,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 93,
+  "missing_runs": 94,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T02:30:02.931490+00:00"
  },
@@ -115,7 +139,7 @@
    "21:30 hrs"
   ],
   "suspected_shedding": [],
-  "missing_runs": 103,
+  "missing_runs": 104,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T01:40:02.980544+00:00"
  },
@@ -145,7 +169,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 31,
+  "missing_runs": 32,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T07:40:03.383750+00:00"
  },
@@ -176,7 +200,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 123,
+  "missing_runs": 124,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -206,7 +230,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 123,
+  "missing_runs": 124,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -238,7 +262,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 123,
+  "missing_runs": 124,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -268,7 +292,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 134,
+  "missing_runs": 135,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T23:05:03.833174+00:00"
  },
@@ -319,7 +343,7 @@
    "13:30 hrs"
   ],
   "suspected_shedding": [],
-  "missing_runs": 129,
+  "missing_runs": 130,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T16:50:03.155298+00:00"
  },
