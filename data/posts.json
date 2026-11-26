@@ -20,7 +20,7 @@
   "areas": [],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 72,
+  "missing_runs": 73,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-26T03:00:03.182160+00:00"
  },
@@ -49,7 +49,7 @@
   "suspected_shedding": [
    "peak hours"
   ],
-  "missing_runs": 72,
+  "missing_runs": 73,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-26T03:00:03.182160+00:00"
  },
@@ -76,7 +76,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 72,
+  "missing_runs": 73,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-26T03:00:03.182160+00:00"
  },
@@ -106,7 +106,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 72,
+  "missing_runs": 73,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-26T03:00:03.182160+00:00"
  },
@@ -136,7 +136,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 90,
+  "missing_runs": 91,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-26T01:30:03.755148+00:00"
  },
@@ -167,7 +167,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 106,
+  "missing_runs": 107,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-26T00:10:03.131233+00:00"
  },
@@ -198,7 +198,7 @@
    "08:30 p.m."
   ],
   "suspected_shedding": [],
-  "missing_runs": 106,
+  "missing_runs": 107,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-26T00:10:03.131233+00:00"
  },
@@ -228,7 +228,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 72,
+  "missing_runs": 73,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-26T03:00:03.182160+00:00"
  },
@@ -253,7 +253,7 @@
   "areas": [],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 147,
+  "missing_runs": 148,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T18:10:03.643391+00:00"
  },
@@ -284,7 +284,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 139,
+  "missing_runs": 140,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T18:50:03.212366+00:00"
  },
@@ -309,7 +309,7 @@
   "areas": [],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 139,
+  "missing_runs": 140,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T18:50:03.212366+00:00"
  },
@@ -338,7 +338,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 223,
+  "missing_runs": 224,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T11:50:03.432623+00:00"
  },
@@ -369,7 +369,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 223,
+  "missing_runs": 224,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T11:50:03.432623+00:00"
  },
@@ -396,7 +396,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 223,
+  "missing_runs": 224,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T11:50:03.432623+00:00"
  },
@@ -411,7 +411,7 @@
    "https://scontent-gru1-1.xx.fbcdn.net/v/t39.30808-6/926522401_122214212372585308_2136204824711498452_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=YouDXQ_ucuAQ7kNvwGl7r3u&_nc_oc=AdryCZCQqxCO9huGtRf9AaK15nC1AtK3FXO_LLfzivaTeC81vEHWl8aLP-7XnSrWWik&_nc_zt=23&_nc_ht=scontent-gru1-1.xx&edm=ADwHzz8EAAAA&_nc_gid=JoxtPdRbdAifaO7TeCDbdA&oh=00_AQQVjSKBYPo_5RzRvB98fBVG6S7gqc5cf_fyP5JBgXeiJg&oe=6B0C81AF"
   ],
   "reactions": 16,
-  "comments": 26,
+  "comments": 27,
   "shares": 3,
   "captured_at": "2026-11-25T10:10:03.806088+00:00",
   "type": "unplanned",
@@ -449,7 +449,7 @@
   "suspected_shedding": [
    "peak hours"
   ],
-  "missing_runs": 261,
+  "missing_runs": 262,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T07:40:03.383750+00:00"
  },
@@ -477,7 +477,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 261,
+  "missing_runs": 262,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T07:40:03.383750+00:00"
  },
@@ -508,7 +508,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 323,
+  "missing_runs": 324,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T02:30:02.931490+00:00"
  },
@@ -540,7 +540,7 @@
    "21:30 hrs"
   ],
   "suspected_shedding": [],
-  "missing_runs": 333,
+  "missing_runs": 334,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T01:40:02.980544+00:00"
  },
@@ -570,7 +570,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 261,
+  "missing_runs": 262,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T07:40:03.383750+00:00"
  },
@@ -601,7 +601,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 353,
+  "missing_runs": 354,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -631,7 +631,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 353,
+  "missing_runs": 354,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -663,7 +663,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 353,
+  "missing_runs": 354,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -693,7 +693,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 364,
+  "missing_runs": 365,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T23:05:03.833174+00:00"
  },
@@ -744,7 +744,7 @@
    "13:30 hrs"
   ],
   "suspected_shedding": [],
-  "missing_runs": 296,
+  "missing_runs": 297,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T16:50:03.155298+00:00"
  },
@@ -807,7 +807,7 @@
    "https://external-gru1-1.xx.fbcdn.net/emg1/v/t13/5609073166510778808?url=https%3A%2F%2Fguyanachronicle.com%2Fwp-content%2Fuploads%2F2026%2F11%2Findar.png&fb_obo=1&utld=guyanachronicle.com&_nc_sid=cef909&_nc_ht=external-gru1-1.xx.fbcdn.net&stp=c0.5000x0.5000f_dst-emg0_p500x261_q75_tt6&ccb=18-1&_nc_gid=jTIO4I3Q_xBtgH94Scplzw&edm=ADwHzz8EAAAA&_nc_zt=3&oh=06_Q3_FAeMNuBj1iMP3uwbA1gDP8xd3ZvkwxXtKF_D9cz1DtEot&oe=6B07583D"
   ],
   "reactions": 4,
-  "comments": 2,
+  "comments": 3,
   "shares": 0,
   "captured_at": "2026-11-24T11:05:03.128786+00:00",
   "type": "other",
