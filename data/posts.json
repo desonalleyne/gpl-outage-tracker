@@ -7,8 +7,8 @@
   "published": "2026-11-26T01:53:40+00:00",
   "text": "ADVISORY — EAST COAST DEMERARA\n\nIncremental restoration has commenced, with electricity restored to customers between Good Hope and sections of Non Pariel, East Coast Demerara.\n\nOur technical teams continue to work to restore power to all remaining affected customers as soon as possible.\n\nGPL apologises for the inconvenience caused and thanks customers for their continued patience and understanding.",
   "images": [],
-  "reactions": 1,
-  "comments": 7,
+  "reactions": 3,
+  "comments": 12,
   "shares": 1,
   "captured_at": "2026-11-26T01:55:03.442403+00:00",
   "type": "restored",
@@ -80,8 +80,8 @@
   "text": "ADVISORY — EAST COAST DEMERARA\n\nThe Guyana Power and Light Inc. (GPL) wishes to advise customers from Good Hope to Enmore, East Coast Demerara, that the service interruption being experienced is due to a feeder coming offline.\n\nOur technical teams are working to restore power as soon as possible.\n\nGPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
   "images": [],
   "reactions": 65,
-  "comments": 153,
-  "shares": 23,
+  "comments": 156,
+  "shares": 25,
   "captured_at": "2026-11-25T23:50:03.474680+00:00",
   "type": "unplanned",
   "region": "East Coast Demerara",
@@ -124,7 +124,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 8,
+  "missing_runs": 9,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-26T01:30:03.755148+00:00"
  },
@@ -155,7 +155,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 24,
+  "missing_runs": 25,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-26T00:10:03.131233+00:00"
  },
@@ -186,7 +186,7 @@
    "08:30 p.m."
   ],
   "suspected_shedding": [],
-  "missing_runs": 24,
+  "missing_runs": 25,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-26T00:10:03.131233+00:00"
  },
@@ -198,7 +198,7 @@
   "published": "2026-11-25T21:59:45+00:00",
   "text": "ADVISORY — WEST COAST DEMERARA\n\nDear customers between Windsor Forest and Best Village, please be advised that the service interruption being experienced is due to a feeder coming offline.\n\nOur teams are working assiduously to restore power within the shortest possible time. \n\nWe sincerely apologize for the inconvenience caused. \n\nAdditional information will be provided in a subsequent post.",
   "images": [],
-  "reactions": 57,
+  "reactions": 58,
   "comments": 103,
   "shares": 23,
   "captured_at": "2026-11-25T22:00:03.190799+00:00",
