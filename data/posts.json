@@ -7,8 +7,8 @@
   "published": "2026-11-25T23:59:36+00:00",
   "text": "ADVISORY — ESSEQUIBO COAST\n\nThe Guyana Power and Light Inc. (GPL) wishes to advise customers from Vilvoorden to Supenaam and Riverstown to Supenaam that the service interruption being experienced is due to a feeder coming offline.\n\nOur technical teams are working to restore power as soon as possible.\n\nGPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
   "images": [],
-  "reactions": 27,
-  "comments": 31,
+  "reactions": 29,
+  "comments": 34,
   "shares": 5,
   "captured_at": "2026-11-26T00:00:05.046622+00:00",
   "type": "unplanned",
@@ -34,7 +34,7 @@
   "text": "UPDATE — WEST COAST DEMERARA\n\nCustomers from Windsor Forest to Best Village have been repowered following the earlier service interruption caused by a feeder coming offline.\n\nOur teams are continuing restoration efforts and are currently working to repower De Kinderen and surrounding communities as soon as possible.\n\nGPL sincerely apologises for the inconvenience caused and thanks customers for their continued patience and understanding.",
   "images": [],
   "reactions": 24,
-  "comments": 68,
+  "comments": 71,
   "shares": 9,
   "captured_at": "2026-11-26T00:00:05.046622+00:00",
   "type": "update",
@@ -57,8 +57,8 @@
   "published": "2026-11-25T23:45:59+00:00",
   "text": "ADVISORY — EAST COAST DEMERARA\n\nThe Guyana Power and Light Inc. (GPL) wishes to advise customers from Good Hope to Enmore, East Coast Demerara, that the service interruption being experienced is due to a feeder coming offline.\n\nOur technical teams are working to restore power as soon as possible.\n\nGPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
   "images": [],
-  "reactions": 64,
-  "comments": 146,
+  "reactions": 65,
+  "comments": 150,
   "shares": 23,
   "captured_at": "2026-11-25T23:50:03.474680+00:00",
   "type": "unplanned",
@@ -102,7 +102,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 5,
+  "missing_runs": 6,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-26T01:30:03.755148+00:00"
  },
@@ -133,7 +133,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 21,
+  "missing_runs": 22,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-26T00:10:03.131233+00:00"
  },
@@ -164,7 +164,7 @@
    "08:30 p.m."
   ],
   "suspected_shedding": [],
-  "missing_runs": 21,
+  "missing_runs": 22,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-26T00:10:03.131233+00:00"
  },
@@ -177,7 +177,7 @@
   "text": "ADVISORY — WEST COAST DEMERARA\n\nDear customers between Windsor Forest and Best Village, please be advised that the service interruption being experienced is due to a feeder coming offline.\n\nOur teams are working assiduously to restore power within the shortest possible time. \n\nWe sincerely apologize for the inconvenience caused. \n\nAdditional information will be provided in a subsequent post.",
   "images": [],
   "reactions": 57,
-  "comments": 102,
+  "comments": 103,
   "shares": 23,
   "captured_at": "2026-11-25T22:00:03.190799+00:00",
   "type": "unplanned",
@@ -216,7 +216,7 @@
   "areas": [],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 74,
+  "missing_runs": 75,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T18:10:03.643391+00:00"
  },
@@ -247,7 +247,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 66,
+  "missing_runs": 67,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T18:50:03.212366+00:00"
  },
@@ -272,7 +272,7 @@
   "areas": [],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 66,
+  "missing_runs": 67,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T18:50:03.212366+00:00"
  },
@@ -301,7 +301,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 150,
+  "missing_runs": 151,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T11:50:03.432623+00:00"
  },
@@ -332,7 +332,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 150,
+  "missing_runs": 151,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T11:50:03.432623+00:00"
  },
@@ -359,7 +359,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 150,
+  "missing_runs": 151,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T11:50:03.432623+00:00"
  },
