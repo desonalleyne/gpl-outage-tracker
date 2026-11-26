@@ -8,7 +8,7 @@
   "text": "ADVISORY — EAST COAST DEMERARA\n\nIncremental restoration has commenced, with electricity restored to customers between Good Hope and sections of Non Pariel, East Coast Demerara.\n\nOur technical teams continue to work to restore power to all remaining affected customers as soon as possible.\n\nGPL apologises for the inconvenience caused and thanks customers for their continued patience and understanding.",
   "images": [],
   "reactions": 6,
-  "comments": 20,
+  "comments": 23,
   "shares": 1,
   "captured_at": "2026-11-26T01:55:03.442403+00:00",
   "type": "restored",
@@ -56,7 +56,7 @@
   "text": "UPDATE — WEST COAST DEMERARA\n\nCustomers from Windsor Forest to Best Village have been repowered following the earlier service interruption caused by a feeder coming offline.\n\nOur teams are continuing restoration efforts and are currently working to repower De Kinderen and surrounding communities as soon as possible.\n\nGPL sincerely apologises for the inconvenience caused and thanks customers for their continued patience and understanding.",
   "images": [],
   "reactions": 28,
-  "comments": 80,
+  "comments": 81,
   "shares": 9,
   "captured_at": "2026-11-26T00:00:05.046622+00:00",
   "type": "update",
@@ -124,7 +124,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 14,
+  "missing_runs": 15,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-26T01:30:03.755148+00:00"
  },
@@ -155,7 +155,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 30,
+  "missing_runs": 31,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-26T00:10:03.131233+00:00"
  },
@@ -186,7 +186,7 @@
    "08:30 p.m."
   ],
   "suspected_shedding": [],
-  "missing_runs": 30,
+  "missing_runs": 31,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-26T00:10:03.131233+00:00"
  },
@@ -199,7 +199,7 @@
   "text": "ADVISORY — WEST COAST DEMERARA\n\nDear customers between Windsor Forest and Best Village, please be advised that the service interruption being experienced is due to a feeder coming offline.\n\nOur teams are working assiduously to restore power within the shortest possible time. \n\nWe sincerely apologize for the inconvenience caused. \n\nAdditional information will be provided in a subsequent post.",
   "images": [],
   "reactions": 59,
-  "comments": 105,
+  "comments": 106,
   "shares": 24,
   "captured_at": "2026-11-25T22:00:03.190799+00:00",
   "type": "unplanned",
