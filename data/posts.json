@@ -8,7 +8,7 @@
   "text": "ADVISORY — EAST COAST DEMERARA\n\nIncremental restoration has commenced, with electricity restored to customers between Good Hope and sections of Non Pariel, East Coast Demerara.\n\nOur technical teams continue to work to restore power to all remaining affected customers as soon as possible.\n\nGPL apologises for the inconvenience caused and thanks customers for their continued patience and understanding.",
   "images": [],
   "reactions": 1,
-  "comments": 0,
+  "comments": 7,
   "shares": 1,
   "captured_at": "2026-11-26T01:55:03.442403+00:00",
   "type": "restored",
@@ -29,7 +29,7 @@
   "published": "2026-11-25T23:59:36+00:00",
   "text": "ADVISORY — ESSEQUIBO COAST\n\nThe Guyana Power and Light Inc. (GPL) wishes to advise customers from Vilvoorden to Supenaam and Riverstown to Supenaam that the service interruption being experienced is due to a feeder coming offline.\n\nOur technical teams are working to restore power as soon as possible.\n\nGPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
   "images": [],
-  "reactions": 31,
+  "reactions": 32,
   "comments": 35,
   "shares": 5,
   "captured_at": "2026-11-26T00:00:05.046622+00:00",
@@ -56,7 +56,7 @@
   "text": "UPDATE — WEST COAST DEMERARA\n\nCustomers from Windsor Forest to Best Village have been repowered following the earlier service interruption caused by a feeder coming offline.\n\nOur teams are continuing restoration efforts and are currently working to repower De Kinderen and surrounding communities as soon as possible.\n\nGPL sincerely apologises for the inconvenience caused and thanks customers for their continued patience and understanding.",
   "images": [],
   "reactions": 25,
-  "comments": 73,
+  "comments": 74,
   "shares": 9,
   "captured_at": "2026-11-26T00:00:05.046622+00:00",
   "type": "update",
@@ -80,7 +80,7 @@
   "text": "ADVISORY — EAST COAST DEMERARA\n\nThe Guyana Power and Light Inc. (GPL) wishes to advise customers from Good Hope to Enmore, East Coast Demerara, that the service interruption being experienced is due to a feeder coming offline.\n\nOur technical teams are working to restore power as soon as possible.\n\nGPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
   "images": [],
   "reactions": 65,
-  "comments": 150,
+  "comments": 153,
   "shares": 23,
   "captured_at": "2026-11-25T23:50:03.474680+00:00",
   "type": "unplanned",
@@ -124,7 +124,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 7,
+  "missing_runs": 8,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-26T01:30:03.755148+00:00"
  },
@@ -155,7 +155,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 23,
+  "missing_runs": 24,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-26T00:10:03.131233+00:00"
  },
@@ -186,7 +186,7 @@
    "08:30 p.m."
   ],
   "suspected_shedding": [],
-  "missing_runs": 23,
+  "missing_runs": 24,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-26T00:10:03.131233+00:00"
  },
