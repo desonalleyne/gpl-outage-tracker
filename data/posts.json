@@ -8,7 +8,7 @@
   "text": "UPDATE – SERVICE INTERRUPTION (BERBICE)\n\nGuyana Power and Light Inc. (GPL) wishes to advise customers from #53 Village to Williamsburg that they continue to experience a service interruption due to a trip at the #53 Substation, which caused the distribution feeders to go offline.\n\nOur technical teams have been mobilised to carry out checks to identify the cause and restore electricity supply to all affected customers.\n\nGPL sincerely apologises for the inconvenience caused and thanks customers for their continued patience and understanding.",
   "images": [],
   "reactions": 19,
-  "comments": 14,
+  "comments": 16,
   "shares": 3,
   "captured_at": "2026-11-26T11:45:03.793131+00:00",
   "type": "update",
@@ -64,7 +64,7 @@
   "areas": [],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 124,
+  "missing_runs": 125,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-26T03:00:03.182160+00:00"
  },
@@ -93,7 +93,7 @@
   "suspected_shedding": [
    "peak hours"
   ],
-  "missing_runs": 124,
+  "missing_runs": 125,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-26T03:00:03.182160+00:00"
  },
@@ -120,7 +120,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 124,
+  "missing_runs": 125,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-26T03:00:03.182160+00:00"
  },
@@ -150,7 +150,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 124,
+  "missing_runs": 125,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-26T03:00:03.182160+00:00"
  },
@@ -180,7 +180,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 142,
+  "missing_runs": 143,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-26T01:30:03.755148+00:00"
  },
@@ -211,7 +211,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 158,
+  "missing_runs": 159,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-26T00:10:03.131233+00:00"
  },
@@ -242,7 +242,7 @@
    "08:30 p.m."
   ],
   "suspected_shedding": [],
-  "missing_runs": 158,
+  "missing_runs": 159,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-26T00:10:03.131233+00:00"
  },
@@ -272,7 +272,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 124,
+  "missing_runs": 125,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-26T03:00:03.182160+00:00"
  },
@@ -297,7 +297,7 @@
   "areas": [],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 199,
+  "missing_runs": 200,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T18:10:03.643391+00:00"
  },
@@ -328,7 +328,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 191,
+  "missing_runs": 192,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T18:50:03.212366+00:00"
  },
@@ -353,7 +353,7 @@
   "areas": [],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 191,
+  "missing_runs": 192,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T18:50:03.212366+00:00"
  },
@@ -382,7 +382,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 275,
+  "missing_runs": 276,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T11:50:03.432623+00:00"
  },
@@ -413,7 +413,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 275,
+  "missing_runs": 276,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T11:50:03.432623+00:00"
  },
@@ -440,7 +440,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 275,
+  "missing_runs": 276,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T11:50:03.432623+00:00"
  },
@@ -493,7 +493,7 @@
   "suspected_shedding": [
    "peak hours"
   ],
-  "missing_runs": 313,
+  "missing_runs": 314,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T07:40:03.383750+00:00"
  },
@@ -521,7 +521,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 313,
+  "missing_runs": 314,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T07:40:03.383750+00:00"
  },
@@ -552,7 +552,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 375,
+  "missing_runs": 376,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T02:30:02.931490+00:00"
  },
@@ -584,7 +584,7 @@
    "21:30 hrs"
   ],
   "suspected_shedding": [],
-  "missing_runs": 385,
+  "missing_runs": 386,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T01:40:02.980544+00:00"
  },
@@ -614,7 +614,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 313,
+  "missing_runs": 314,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T07:40:03.383750+00:00"
  },
@@ -645,7 +645,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 405,
+  "missing_runs": 406,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -675,7 +675,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 405,
+  "missing_runs": 406,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -707,7 +707,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 405,
+  "missing_runs": 406,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T00:00:03.122116+00:00"
  },
@@ -737,7 +737,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 416,
+  "missing_runs": 417,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T23:05:03.833174+00:00"
  },
@@ -788,7 +788,7 @@
    "13:30 hrs"
   ],
   "suspected_shedding": [],
-  "missing_runs": 348,
+  "missing_runs": 349,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-24T16:50:03.155298+00:00"
  },
