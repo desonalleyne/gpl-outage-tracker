@@ -124,7 +124,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 15,
+  "missing_runs": 16,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-26T01:30:03.755148+00:00"
  },
@@ -155,7 +155,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 31,
+  "missing_runs": 32,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-26T00:10:03.131233+00:00"
  },
@@ -186,7 +186,7 @@
    "08:30 p.m."
   ],
   "suspected_shedding": [],
-  "missing_runs": 31,
+  "missing_runs": 32,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-26T00:10:03.131233+00:00"
  },
@@ -199,7 +199,7 @@
   "text": "ADVISORY — WEST COAST DEMERARA\n\nDear customers between Windsor Forest and Best Village, please be advised that the service interruption being experienced is due to a feeder coming offline.\n\nOur teams are working assiduously to restore power within the shortest possible time. \n\nWe sincerely apologize for the inconvenience caused. \n\nAdditional information will be provided in a subsequent post.",
   "images": [],
   "reactions": 59,
-  "comments": 106,
+  "comments": 107,
   "shares": 24,
   "captured_at": "2026-11-25T22:00:03.190799+00:00",
   "type": "unplanned",
