@@ -8,7 +8,7 @@
   "text": "ADVISORY — ESSEQUIBO COAST\n\nThe Guyana Power and Light Inc. (GPL) wishes to advise customers from Vilvoorden to Supenaam and Riverstown to Supenaam that the service interruption being experienced is due to a feeder coming offline.\n\nOur technical teams are working to restore power as soon as possible.\n\nGPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
   "images": [],
   "reactions": 25,
-  "comments": 26,
+  "comments": 28,
   "shares": 4,
   "captured_at": "2026-11-26T00:00:05.046622+00:00",
   "type": "unplanned",
@@ -57,8 +57,8 @@
   "published": "2026-11-25T23:45:59+00:00",
   "text": "ADVISORY — EAST COAST DEMERARA\n\nThe Guyana Power and Light Inc. (GPL) wishes to advise customers from Good Hope to Enmore, East Coast Demerara, that the service interruption being experienced is due to a feeder coming offline.\n\nOur technical teams are working to restore power as soon as possible.\n\nGPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
   "images": [],
-  "reactions": 54,
-  "comments": 129,
+  "reactions": 56,
+  "comments": 132,
   "shares": 20,
   "captured_at": "2026-11-25T23:50:03.474680+00:00",
   "type": "unplanned",
@@ -101,7 +101,8 @@
   "suspected_shedding": [
    "peak hours",
    "rotation"
-  ]
+  ],
+  "missing_runs": 1
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795648733",
@@ -130,7 +131,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 16,
+  "missing_runs": 17,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-26T00:10:03.131233+00:00"
  },
@@ -161,7 +162,7 @@
    "08:30 p.m."
   ],
   "suspected_shedding": [],
-  "missing_runs": 16,
+  "missing_runs": 17,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-26T00:10:03.131233+00:00"
  },
@@ -173,7 +174,7 @@
   "published": "2026-11-25T21:59:45+00:00",
   "text": "ADVISORY — WEST COAST DEMERARA\n\nDear customers between Windsor Forest and Best Village, please be advised that the service interruption being experienced is due to a feeder coming offline.\n\nOur teams are working assiduously to restore power within the shortest possible time. \n\nWe sincerely apologize for the inconvenience caused. \n\nAdditional information will be provided in a subsequent post.",
   "images": [],
-  "reactions": 56,
+  "reactions": 57,
   "comments": 99,
   "shares": 23,
   "captured_at": "2026-11-25T22:00:03.190799+00:00",
@@ -213,7 +214,7 @@
   "areas": [],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 69,
+  "missing_runs": 70,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T18:10:03.643391+00:00"
  },
@@ -244,7 +245,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 61,
+  "missing_runs": 62,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T18:50:03.212366+00:00"
  },
@@ -269,7 +270,7 @@
   "areas": [],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 61,
+  "missing_runs": 62,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T18:50:03.212366+00:00"
  },
@@ -298,7 +299,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 145,
+  "missing_runs": 146,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T11:50:03.432623+00:00"
  },
@@ -329,7 +330,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 145,
+  "missing_runs": 146,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T11:50:03.432623+00:00"
  },
@@ -356,7 +357,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 145,
+  "missing_runs": 146,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-25T11:50:03.432623+00:00"
  },
@@ -371,7 +372,7 @@
    "https://scontent-gru1-1.xx.fbcdn.net/v/t39.30808-6/926522401_122214212372585308_2136204824711498452_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=YouDXQ_ucuAQ7kNvwGl7r3u&_nc_oc=AdryCZCQqxCO9huGtRf9AaK15nC1AtK3FXO_LLfzivaTeC81vEHWl8aLP-7XnSrWWik&_nc_zt=23&_nc_ht=scontent-gru1-1.xx&edm=ADwHzz8EAAAA&_nc_gid=JoxtPdRbdAifaO7TeCDbdA&oh=00_AQQVjSKBYPo_5RzRvB98fBVG6S7gqc5cf_fyP5JBgXeiJg&oe=6B0C81AF"
   ],
   "reactions": 15,
-  "comments": 14,
+  "comments": 16,
   "shares": 3,
   "captured_at": "2026-11-25T10:10:03.806088+00:00",
   "type": "unplanned",
