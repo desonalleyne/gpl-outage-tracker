@@ -7,8 +7,8 @@
   "published": "2026-11-27T17:26:39+00:00",
   "text": "ADVISORY || EMERGENCY SERVICE INTERRUPTION- EAST BANK DEMERARA \n\nGuyana Power and Light Inc. (GPL) wishes to notify customers from Garden of Eden to Grove that you are currently experiencing a service interruption due to a feeder going offline.\n\nOur teams are working towards restoring power to all affected customers as soon as possible.\n\nGPL sincerely apologises for any inconvenience caused and thank customers for their patience and understanding.",
   "images": [],
-  "reactions": 7,
-  "comments": 5,
+  "reactions": 9,
+  "comments": 6,
   "shares": 2,
   "captured_at": "2026-11-27T17:30:03.899870+00:00",
   "type": "unplanned",
@@ -84,7 +84,7 @@
   "text": "ADVISORY || EMERGENCY SERVICE INTERRUPTION- EAST BANK DEMERARA \n\nGuyana Power and Light Inc. (GPL) wishes to notify customers at Grove, Diamond, Coverden New Scheme, Farm, Herstelling New Scheme and Mocha that you are currently experiencing a service interruption due to a feeder going offline.\n\nOur teams are working towards restoring power to all affected areas as soon as possible.\n\nGPL sincerely apologises for any inconvenience caused and thanks customers for their understanding and patience.",
   "images": [],
   "reactions": 13,
-  "comments": 12,
+  "comments": 13,
   "shares": 2,
   "captured_at": "2026-11-27T16:25:03.824435+00:00",
   "type": "unplanned",
@@ -131,7 +131,7 @@
   "suspected_shedding": [
    "rotation"
   ],
-  "missing_runs": 17,
+  "missing_runs": 18,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-27T16:25:03.824435+00:00"
  },
