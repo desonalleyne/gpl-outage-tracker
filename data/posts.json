@@ -24,7 +24,9 @@
   "suspected_shedding": [
    "peak hours"
   ],
-  "missing_runs": 1
+  "missing_runs": 2,
+  "deleted_from_source": true,
+  "deleted_seen_at": "2026-11-27T03:35:03.672180+00:00"
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795743278",
@@ -35,7 +37,7 @@
   "text": "UPDATE – SERVICE RESTORATION (BERBICE)\n\nGuyana Power and Light Inc. (GPL) wishes to advise that all affected customers from #53 Village to Williamsburg have been repowered.\n\nThe remedial works at the #53 Substation have been completed, and electricity supply has been restored to all customers affected by the earlier system disturbance.\n\nGPL thanks customers for their patience and understanding while its technical teams worked to safely complete the necessary remedial works and restore service.",
   "images": [],
   "reactions": 40,
-  "comments": 50,
+  "comments": 51,
   "shares": 8,
   "captured_at": "2026-11-27T01:35:03.364775+00:00",
   "type": "restored",
@@ -157,7 +159,9 @@
    "13:40 hrs"
   ],
   "suspected_shedding": [],
-  "missing_runs": 1
+  "missing_runs": 2,
+  "deleted_from_source": true,
+  "deleted_seen_at": "2026-11-27T03:35:03.672180+00:00"
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795708872",
