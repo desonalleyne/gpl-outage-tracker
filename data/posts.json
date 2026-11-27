@@ -9,7 +9,7 @@
   "images": [
    "https://scontent-gru2-1.xx.fbcdn.net/v/t39.30808-6/928060989_122214508424585308_3810584821067549594_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ZsyIU76jwJAQ7kNvwF73lof&_nc_oc=AdpN67zpai4T6Dx9tEPOjtxb77Ztf-fRFHFCfkqmg6EV9o_R8AtKzzn0jg9WzQiOv-Y&_nc_zt=23&_nc_ht=scontent-gru2-1.xx&edm=ADwHzz8EAAAA&_nc_gid=Zs8scHGBS0lfvdY8ZlP0_w&oh=00_AQWdOk6WN1wGirSGUueXXXhn9lf0ucYYgFozDNrEIPAang&oe=6B0F7C08"
   ],
-  "reactions": 1,
+  "reactions": 4,
   "comments": 0,
   "shares": 1,
   "captured_at": "2026-11-27T18:00:03.715448+00:00",
@@ -27,6 +27,32 @@
   "suspected_shedding": []
  },
  {
+  "id": "fb:GuyanaPowerAndLight:1795801747",
+  "fb_time": 1795801747,
+  "link": "https://www.facebook.com/GuyanaPowerAndLight",
+  "title": "READ | The Government of Guyana is targeting an investment of about US$5 billion to upgrade the country’s electricity transmission and distribution networks, as it moves to strengthen the energy infra",
+  "published": "2026-11-27T17:49:07+00:00",
+  "text": "READ | The Government of Guyana is targeting an investment of about US$5 billion to upgrade the country’s electricity transmission and distribution networks, as it moves to strengthen the energy infrastructure needed to support a rapidly expanding economy.\n\nVice President Dr Bharrat Jagdeo outlined the scale of the planned investment while addressing the Guyana Manufacturing and Services Association (GMSA) annual awards and dinner on Thursday night at the Kingston Marriott, explaining that approximately US$2.3 billion would be needed to develop a modern transmission backbone, with a further US$2.5 billion required to upgrade the distribution network.\n\nClick the link to read the full news article 🔗👇\n\nhttps://fueled.gy/article/us-5b-to-modernise-guyanas-electricity-transmission-distribution-system---jagdeo?fbclid=IwY2xjawV2oV9leHRuA2FlbQIxMQBwZG9mBXNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR8to8sPNtjzGdmPip046ukYoovA-ZoF0t7XT69PRvMa0qiBgxuLfkkjFQEDQw_aem_yO31AG9pMOSbzBsVpAmRMg",
+  "images": [
+   "https://external-gru1-1.xx.fbcdn.net/emg1/v/t13/6406204886820220090?url=https%3A%2F%2Fcdn.prod.website-files.com%2F694017ec1eb4716f752b1351%2F6b09c0475496f46663cdd990_6a696634c8c5c2a0a40e2e19_Photo-40-p-800.webp&fb_obo=1&utld=website-files.com&_nc_sid=cef909&_nc_ht=external-gru1-1.xx.fbcdn.net&stp=c0.5000x0.5000f_dst-emg0_p500x375_q75_tt6&ccb=18-1&_nc_gid=4X-JpyDhs24B5QdGDLa5Gw&edm=ADwHzz8EAAAA&_nc_zt=3&_nc_enc=UnY84GpAF6luCi2_GFXvregCh2s_plXOfoniYBA9Prtfms-L_3IvR88ISI0Y4R6IVEcvBzdF98lPhVNJwzUXKi0bmFmHWUX09c0&oh=06_Q3_FAe8VNpwyhhh9w5opcCv5keWQjLXroNn7KRhaXcbc6fSZ&oe=6B0BAE6A"
+  ],
+  "reactions": null,
+  "comments": null,
+  "shares": null,
+  "captured_at": "2026-11-27T18:05:03.106371+00:00",
+  "type": "other",
+  "region": null,
+  "rules": "2026-11-19a",
+  "cause": null,
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [
+   "Kingston"
+  ],
+  "times": [],
+  "suspected_shedding": []
+ },
+ {
   "id": "fb:GuyanaPowerAndLight:1795800399",
   "fb_time": 1795800399,
   "link": "https://www.facebook.com/GuyanaPowerAndLight",
@@ -34,7 +60,7 @@
   "published": "2026-11-27T17:26:39+00:00",
   "text": "ADVISORY || EMERGENCY SERVICE INTERRUPTION- EAST BANK DEMERARA \n\nGuyana Power and Light Inc. (GPL) wishes to notify customers from Garden of Eden to Grove that you are currently experiencing a service interruption due to a feeder going offline.\n\nOur teams are working towards restoring power to all affected customers as soon as possible.\n\nGPL sincerely apologises for any inconvenience caused and thank customers for their patience and understanding.",
   "images": [],
-  "reactions": 12,
+  "reactions": 13,
   "comments": 8,
   "shares": 2,
   "captured_at": "2026-11-27T17:30:03.899870+00:00",
@@ -61,7 +87,7 @@
   "text": "UPDATE || EMERGENCY SERVICE INTERRUPTION- WEST DEMERARA \n\nGuyana Power and Light Inc. (GPL) wishes to notify customers from Best to Vriesland that incremental restoration has commenced.\n\nOur teams are currently working towards restoring electricity supply to all affected areas as soon as possible.\n\nGPL sincerely apologises for any inconvenience caused and thank customers for their patience and understanding.",
   "images": [],
   "reactions": 4,
-  "comments": 3,
+  "comments": 4,
   "shares": 3,
   "captured_at": "2026-11-27T17:05:03.295858+00:00",
   "type": "update",
