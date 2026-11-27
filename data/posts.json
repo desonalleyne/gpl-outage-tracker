@@ -11,7 +11,7 @@
   ],
   "reactions": 9,
   "comments": 3,
-  "shares": 8,
+  "shares": 9,
   "captured_at": "2026-11-27T19:30:03.640136+00:00",
   "type": "other",
   "region": null,
@@ -130,7 +130,9 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 1
+  "missing_runs": 2,
+  "deleted_from_source": true,
+  "deleted_seen_at": "2026-11-27T21:15:03.595481+00:00"
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795802852",
