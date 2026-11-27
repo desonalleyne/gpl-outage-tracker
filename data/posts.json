@@ -1,5 +1,32 @@
 [
  {
+  "id": "fb:GuyanaPowerAndLight:1795802127",
+  "fb_time": 1795802127,
+  "link": "https://www.facebook.com/GuyanaPowerAndLight",
+  "title": "ADVISORY || EMERGENCY SERVICE INTERRUPTION- BERBICE",
+  "published": "2026-11-27T17:55:27+00:00",
+  "text": "ADVISORY || EMERGENCY SERVICE INTERRUPTION- BERBICE \n\nGuyana Power and Light wishes to notify customers at Crabwood Creek that there will be a sevice interruption from 14:00hrs.\n\nThe service interruption is to facilitate the replacement of a broken pole top pin and insulator with power expected to be restored by 15:00hrs.\n\nGPL sincerely apologises for any inconvenience this interruption may cause and thanks customers for their patience and understanding.",
+  "images": [
+   "https://scontent-gru2-1.xx.fbcdn.net/v/t39.30808-6/928060989_122214508424585308_3810584821067549594_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ZsyIU76jwJAQ7kNvwF73lof&_nc_oc=AdpN67zpai4T6Dx9tEPOjtxb77Ztf-fRFHFCfkqmg6EV9o_R8AtKzzn0jg9WzQiOv-Y&_nc_zt=23&_nc_ht=scontent-gru2-1.xx&edm=ADwHzz8EAAAA&_nc_gid=Zs8scHGBS0lfvdY8ZlP0_w&oh=00_AQWdOk6WN1wGirSGUueXXXhn9lf0ucYYgFozDNrEIPAang&oe=6B0F7C08"
+  ],
+  "reactions": 1,
+  "comments": 0,
+  "shares": 1,
+  "captured_at": "2026-11-27T18:00:03.715448+00:00",
+  "type": "restored",
+  "region": "Berbice",
+  "rules": "2026-11-19a",
+  "cause": null,
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [],
+  "times": [
+   "14:00 hrs",
+   "15:00 hrs"
+  ],
+  "suspected_shedding": []
+ },
+ {
   "id": "fb:GuyanaPowerAndLight:1795800399",
   "fb_time": 1795800399,
   "link": "https://www.facebook.com/GuyanaPowerAndLight",
@@ -8,7 +35,7 @@
   "text": "ADVISORY || EMERGENCY SERVICE INTERRUPTION- EAST BANK DEMERARA \n\nGuyana Power and Light Inc. (GPL) wishes to notify customers from Garden of Eden to Grove that you are currently experiencing a service interruption due to a feeder going offline.\n\nOur teams are working towards restoring power to all affected customers as soon as possible.\n\nGPL sincerely apologises for any inconvenience caused and thank customers for their patience and understanding.",
   "images": [],
   "reactions": 12,
-  "comments": 6,
+  "comments": 8,
   "shares": 2,
   "captured_at": "2026-11-27T17:30:03.899870+00:00",
   "type": "unplanned",
