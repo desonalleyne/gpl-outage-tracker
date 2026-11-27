@@ -7,9 +7,9 @@
   "published": "2026-11-27T16:24:44+00:00",
   "text": "ADVISORY || EMERGENCY SERVICE INTERRUPTION- WEST DEMERARA \n\nGuyana Power and Light Inc. (GPL) wishes to notify customers from Best to Vriesland that you are currently experiencing a service interruption due to a feeder going offline.\n\nOur teams are currently working to restore electricity supply as soon as possible.\n\nGPL sincerely apologises for any inconvenience caused and thank customers for their patience and understanding.",
   "images": [],
-  "reactions": 3,
+  "reactions": 4,
   "comments": 7,
-  "shares": 5,
+  "shares": 6,
   "captured_at": "2026-11-27T16:25:03.824435+00:00",
   "type": "unplanned",
   "region": "West Demerara",
@@ -81,7 +81,7 @@
   "suspected_shedding": [
    "rotation"
   ],
-  "missing_runs": 7,
+  "missing_runs": 8,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-27T16:25:03.824435+00:00"
  },
@@ -138,7 +138,7 @@
   "suspected_shedding": [
    "peak hours"
   ],
-  "missing_runs": 161,
+  "missing_runs": 162,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-27T03:35:03.672180+00:00"
  },
@@ -150,7 +150,7 @@
   "published": "2026-11-27T01:34:38+00:00",
   "text": "UPDATE – SERVICE RESTORATION (BERBICE)\n\nGuyana Power and Light Inc. (GPL) wishes to advise that all affected customers from #53 Village to Williamsburg have been repowered.\n\nThe remedial works at the #53 Substation have been completed, and electricity supply has been restored to all customers affected by the earlier system disturbance.\n\nGPL thanks customers for their patience and understanding while its technical teams worked to safely complete the necessary remedial works and restore service.",
   "images": [],
-  "reactions": 54,
+  "reactions": 55,
   "comments": 55,
   "shares": 7,
   "captured_at": "2026-11-27T01:35:03.364775+00:00",
@@ -196,7 +196,7 @@
    "19:00 hrs"
   ],
   "suspected_shedding": [],
-  "missing_runs": 14,
+  "missing_runs": 15,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-27T15:50:03.425879+00:00"
  },
@@ -210,7 +210,7 @@
   "images": [
    "https://scontent-gru1-1.xx.fbcdn.net/v/t15.5256-10/933629279_2180045642608481_7442741471076451638_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=bRPyW6mfMaIQ7kNvwGODaj5&_nc_oc=AdoHoKrXAaMxlrfk-O-kmmi1mJoFZImMwpXeXfqUxI1qz0y6iYlKHxayXwB4jL4VAyM&_nc_zt=23&_nc_ht=scontent-gru1-1.xx&edm=ADwHzz8EAAAA&_nc_gid=9y9eG6y-fGjSh_uw1-lm-w&oh=00_AQT_8rhWNMyo9MQUNS4YaGwQgWyACpcrroBYA2JSr425HQ&oe=6B0E61E6"
   ],
-  "reactions": 300,
+  "reactions": 301,
   "comments": 237,
   "shares": 74,
   "captured_at": "2026-11-26T20:20:03.078655+00:00",
