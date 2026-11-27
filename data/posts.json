@@ -24,7 +24,7 @@
   "suspected_shedding": [
    "peak hours"
   ],
-  "missing_runs": 81,
+  "missing_runs": 82,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-27T03:35:03.672180+00:00"
  },
@@ -36,9 +36,9 @@
   "published": "2026-11-27T01:34:38+00:00",
   "text": "UPDATE – SERVICE RESTORATION (BERBICE)\n\nGuyana Power and Light Inc. (GPL) wishes to advise that all affected customers from #53 Village to Williamsburg have been repowered.\n\nThe remedial works at the #53 Substation have been completed, and electricity supply has been restored to all customers affected by the earlier system disturbance.\n\nGPL thanks customers for their patience and understanding while its technical teams worked to safely complete the necessary remedial works and restore service.",
   "images": [],
-  "reactions": 45,
+  "reactions": 46,
   "comments": 53,
-  "shares": 8,
+  "shares": 7,
   "captured_at": "2026-11-27T01:35:03.364775+00:00",
   "type": "restored",
   "region": "Berbice",
@@ -65,7 +65,7 @@
   ],
   "reactions": 33,
   "comments": 64,
-  "shares": 7,
+  "shares": 6,
   "captured_at": "2026-11-26T21:10:03.603088+00:00",
   "type": "restored",
   "region": "East Bank Demerara",
@@ -94,7 +94,7 @@
    "https://scontent-gru1-1.xx.fbcdn.net/v/t15.5256-10/933629279_2180045642608481_7442741471076451638_n.jpg?_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=5fad0e&_nc_ohc=bRPyW6mfMaIQ7kNvwGODaj5&_nc_oc=AdoHoKrXAaMxlrfk-O-kmmi1mJoFZImMwpXeXfqUxI1qz0y6iYlKHxayXwB4jL4VAyM&_nc_zt=23&_nc_ht=scontent-gru1-1.xx&edm=ADwHzz8EAAAA&_nc_gid=9y9eG6y-fGjSh_uw1-lm-w&oh=00_AQT_8rhWNMyo9MQUNS4YaGwQgWyACpcrroBYA2JSr425HQ&oe=6B0E61E6"
   ],
   "reactions": 247,
-  "comments": 192,
+  "comments": 193,
   "shares": 65,
   "captured_at": "2026-11-26T20:20:03.078655+00:00",
   "type": "update",
@@ -159,7 +159,7 @@
    "13:40 hrs"
   ],
   "suspected_shedding": [],
-  "missing_runs": 81,
+  "missing_runs": 82,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-27T03:35:03.672180+00:00"
  },
