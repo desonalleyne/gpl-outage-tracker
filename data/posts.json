@@ -1,5 +1,33 @@
 [
  {
+  "id": "fb:GuyanaPowerAndLight:1795821484",
+  "fb_time": 1795821484,
+  "link": "https://www.facebook.com/GuyanaPowerAndLight",
+  "title": "ADVISORY – SERVICE INTERRUPTION (GEORGETOWN)",
+  "published": "2026-11-27T23:18:04+00:00",
+  "text": "ADVISORY – SERVICE INTERRUPTION (GEORGETOWN)\n\nDear Customers in Mandela Ave, Lodge, Bel Air Park, Home Stretch Avenue and surrounding environs, please be advised that you are currently experiencing a service interruption due to the distribution feeder going offline. \n\nTechnical teams are working to restore electricity supply to all affected customers.\n\nGPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
+  "images": [],
+  "reactions": 2,
+  "comments": 4,
+  "shares": 1,
+  "captured_at": "2026-11-27T23:20:03.620115+00:00",
+  "type": "unplanned",
+  "region": "Georgetown",
+  "rules": "2026-11-19a",
+  "cause": "No reason given",
+  "feeder_offline": true,
+  "feeders": [],
+  "areas": [
+   "Lodge",
+   "Bel Air"
+  ],
+  "times": [],
+  "suspected_shedding": [
+   "peak hours",
+   "rotation"
+  ]
+ },
+ {
   "id": "fb:GuyanaPowerAndLight:1795817514",
   "fb_time": 1795817514,
   "link": "https://www.facebook.com/GuyanaPowerAndLight",
@@ -8,8 +36,8 @@
   "text": "ADVISORY – SERVICE INTERRUPTION (EAST BANK DEMERARA)\n\nGuyana Power and Light Inc. (GPL) wishes to advise customers from Garden of Eden to Timehri to Long Creek that they are currently experiencing a service interruption due to the distribution feeder going offline. \n\nOur technical teams are working to restore electricity supply to all affected customers. \n\nGPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
   "images": [],
   "reactions": 59,
-  "comments": 79,
-  "shares": 11,
+  "comments": 84,
+  "shares": 12,
   "captured_at": "2026-11-27T22:15:03.737076+00:00",
   "type": "unplanned",
   "region": "East Bank Demerara",
@@ -36,7 +64,7 @@
   "text": "ADVISORY – SERVICE INTERRUPTION (EAST COAST DEMERARA)\n\nGuyana Power and Light Inc. (GPL) wishes to advise customers from Industry to Chateau Margot that they are currently experiencing a service interruption due to the distribution feeder going offline. \n\nOur technical teams are working to restore electricity supply to all affected customers. \n\nWe apologize for the inconvenience caused and thank customers for their patience and understanding.",
   "images": [],
   "reactions": 13,
-  "comments": 24,
+  "comments": 26,
   "shares": 4,
   "captured_at": "2026-11-27T22:05:03.624187+00:00",
   "type": "unplanned",
@@ -88,7 +116,7 @@
   "text": "ADVISORY – SERVICE INTERRUPTION (GEORGETOWN) \n\nGuyana Power and Light Inc. (GPL) wishes to advise customers from the following areas that they are currently experiencing an interruption in electricity supply due to the distribution feeders going offline:\n\n– Kitty, Campbellville, Subryanville\n– Albert Street, Robb Street, Alberttown, Bourda, Cummingsburg and surrounding environs\n– Alexander Village, Riverview, Rahaman Turn to Harold Street\n\nOur technical teams are working to restore electricity supply to all affected customers. \n\nWe apologize for the inconvenience caused and thank customers for their patience and understanding.",
   "images": [],
   "reactions": 31,
-  "comments": 51,
+  "comments": 55,
   "shares": 7,
   "captured_at": "2026-11-27T21:50:03.264937+00:00",
   "type": "unplanned",
