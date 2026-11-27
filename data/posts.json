@@ -1,5 +1,59 @@
 [
  {
+  "id": "fb:GuyanaPowerAndLight:1795816174",
+  "fb_time": 1795816174,
+  "link": "https://www.facebook.com/GuyanaPowerAndLight",
+  "title": "ADVISORY – SERVICE INTERRUPTION (WEST DEMERARA)",
+  "published": "2026-11-27T21:49:34+00:00",
+  "text": "ADVISORY – SERVICE INTERRUPTION (WEST DEMERARA) \n\nGuyana Power and Light Inc. (GPL) wishes to advise customers from Windsor Forest and surrounding environs that they are currently experiencing an interruption in electricity supply due to a section of the distribution feeder going offline. \n\nGPL’s technical teams are working to restore electricity supply to all affected customers. \n\nWe apologize for the inconvenience caused and thank customers for their patience and understanding.",
+  "images": [],
+  "reactions": 0,
+  "comments": 0,
+  "shares": 1,
+  "captured_at": "2026-11-27T21:50:03.264937+00:00",
+  "type": "unplanned",
+  "region": "West Demerara",
+  "rules": "2026-11-19a",
+  "cause": "No reason given",
+  "feeder_offline": true,
+  "feeders": [],
+  "areas": [],
+  "times": [],
+  "suspected_shedding": [
+   "peak hours",
+   "rotation"
+  ]
+ },
+ {
+  "id": "fb:GuyanaPowerAndLight:1795815974",
+  "fb_time": 1795815974,
+  "link": "https://www.facebook.com/GuyanaPowerAndLight",
+  "title": "ADVISORY – SERVICE INTERRUPTION (GEORGETOWN)",
+  "published": "2026-11-27T21:46:14+00:00",
+  "text": "ADVISORY – SERVICE INTERRUPTION (GEORGETOWN) \n\nGuyana Power and Light Inc. (GPL) wishes to advise customers from the following areas that they are currently experiencing an interruption in electricity supply due to the distribution feeders going offline:\n\n– Kitty, Campbellville, Subryanville\n– Albert Street, Robb Street, Alberttown, Bourda, Cummingsburg and surrounding environs\n\nOur technical teams are working to restore electricity supply to all affected customers. \n\nWe apologize for the inconvenience caused and thank customers for their patience and understanding.",
+  "images": [],
+  "reactions": 0,
+  "comments": 2,
+  "shares": 2,
+  "captured_at": "2026-11-27T21:50:03.264937+00:00",
+  "type": "unplanned",
+  "region": "Georgetown",
+  "rules": "2026-11-19a",
+  "cause": "No reason given",
+  "feeder_offline": true,
+  "feeders": [],
+  "areas": [
+   "Kitty",
+   "Campbellville",
+   "Alberttown"
+  ],
+  "times": [],
+  "suspected_shedding": [
+   "peak hours",
+   "rotation"
+  ]
+ },
+ {
   "id": "fb:GuyanaPowerAndLight:1795815275",
   "fb_time": 1795815275,
   "link": "https://www.facebook.com/GuyanaPowerAndLight",
@@ -22,8 +76,10 @@
   ],
   "times": [],
   "suspected_shedding": [
-   "peak hours"
-  ]
+   "peak hours",
+   "rotation"
+  ],
+  "missing_runs": 1
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795807799",
@@ -35,7 +91,7 @@
   "images": [
    "https://scontent-gru1-2.xx.fbcdn.net/v/t39.30808-6/929695729_122214519890585308_2772505421950385636_n.jpg?stp=dst-jpg_p394x394_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=zfPeyyL39dAQ7kNvwFPjUGO&_nc_oc=Adq0pElvoMV2QC7-FjGTyxbjUdqZep57ps0eTeo1iKMox6RE0fg7ej_Li2cBVYW7zQ4&_nc_zt=23&_nc_ht=scontent-gru1-2.xx&edm=ADwHzz8EAAAA&_nc_gid=W2JE1m5MU1Fo-juZL4GCEw&oh=00_AQWrrDHqZfCOlX31ihllHFP4Ta7-e_TH78_LxNZze5P0Zg&oe=6B0FAFDC"
   ],
-  "reactions": 10,
+  "reactions": 11,
   "comments": 4,
   "shares": 9,
   "captured_at": "2026-11-27T19:30:03.640136+00:00",
