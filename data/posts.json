@@ -1,5 +1,29 @@
 [
  {
+  "id": "fb:GuyanaPowerAndLight:1795880885",
+  "fb_time": 1795880885,
+  "link": "https://www.facebook.com/GuyanaPowerAndLight",
+  "title": "UPDATE #2 — ESSEQUIBO COAST",
+  "published": "2026-11-28T15:48:05+00:00",
+  "text": "UPDATE #2 — ESSEQUIBO COAST\n\nThe Guyana Power and Light Inc. (GPL) wishes to advise customers along the Essequibo Coast that incremental restoration of electricity remains ongoing following the earlier service interruption caused by a trip at our Anna Regina Power Station.\n\nElectricity has been restored to the following areas:\n\nAnna Regina to Lima  \nAnna Regina to Three Friends  \nThree Friends to La Union  \nLima to Devonshire Castle  \nLa Union to Suddie\n\nOur technical teams continue to work to restore electricity to the remaining affected areas as soon as possible.\n\nGPL apologises for the inconvenience caused and thanks customers for their continued patience and understanding.",
+  "images": [],
+  "reactions": 1,
+  "comments": 0,
+  "shares": 2,
+  "captured_at": "2026-11-28T15:50:03.385808+00:00",
+  "type": "update",
+  "region": "Essequibo Coast",
+  "rules": "2026-11-19a",
+  "cause": null,
+  "feeder_offline": true,
+  "feeders": [],
+  "areas": [
+   "Anna Regina"
+  ],
+  "times": [],
+  "suspected_shedding": []
+ },
+ {
   "id": "fb:GuyanaPowerAndLight:1795877897",
   "fb_time": 1795877897,
   "link": "https://www.facebook.com/GuyanaPowerAndLight",
@@ -31,9 +55,9 @@
   "published": "2026-11-28T14:46:02+00:00",
   "text": "ADVISORY — ESSEQUIBO COAST\n\nThe Guyana Power and Light Inc. (GPL) wishes to advise customers along the Essequibo Coast that the service interruption being experienced is due to a trip at our Anna Regina Power Station.\n\nOur technical teams are working to identify and resolve the issue and restore electricity as soon as possible.\n\nGPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
   "images": [],
-  "reactions": 4,
+  "reactions": 6,
   "comments": 5,
-  "shares": 1,
+  "shares": 2,
   "captured_at": "2026-11-28T14:50:03.388664+00:00",
   "type": "unplanned",
   "region": "Essequibo Coast",
@@ -97,7 +121,7 @@
   "suspected_shedding": [
    "rotation"
   ],
-  "missing_runs": 29,
+  "missing_runs": 30,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T13:30:03.738198+00:00"
  },
@@ -128,7 +152,7 @@
   "suspected_shedding": [
    "rotation"
   ],
-  "missing_runs": 45,
+  "missing_runs": 46,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T12:10:03.204487+00:00"
  },
@@ -155,7 +179,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 71,
+  "missing_runs": 72,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T10:00:02.985846+00:00"
  },
@@ -183,7 +207,8 @@
   "times": [],
   "suspected_shedding": [],
   "deleted_from_source": false,
-  "deleted_seen_at": "2026-11-28T05:50:03.053741+00:00"
+  "deleted_seen_at": "2026-11-28T05:50:03.053741+00:00",
+  "missing_runs": 1
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795837448",
@@ -208,7 +233,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 71,
+  "missing_runs": 72,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T10:00:02.985846+00:00"
  },
@@ -238,7 +263,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 155,
+  "missing_runs": 156,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:00:03.666693+00:00"
  },
@@ -268,7 +293,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 154,
+  "missing_runs": 155,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -295,7 +320,7 @@
   "areas": [],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 10,
+  "missing_runs": 11,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T15:05:03.818027+00:00"
  },
@@ -323,7 +348,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 154,
+  "missing_runs": 155,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -354,7 +379,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 166,
+  "missing_runs": 167,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T02:05:03.778891+00:00"
  },
@@ -385,7 +410,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 154,
+  "missing_runs": 155,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -415,7 +440,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 155,
+  "missing_runs": 156,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:00:03.666693+00:00"
  },
@@ -443,7 +468,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 154,
+  "missing_runs": 155,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -475,7 +500,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 154,
+  "missing_runs": 155,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -505,7 +530,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 172,
+  "missing_runs": 173,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-27T21:55:03.405601+00:00"
  },
