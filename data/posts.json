@@ -7,9 +7,9 @@
   "published": "2026-11-28T03:44:08+00:00",
   "text": "ADVISORY – SERVICE INTERRUPTION (ESSEQUIBO COAST)\n\nGuyana Power and Light Inc. (GPL) wishes to advise customers on the Essequibo Coast that they are currently experiencing an interruption in electricity supply due to a system disturbance at the Anna Regina Power Station.\n\nGPL’s technical teams are working to identify the cause and restore electricity supply to all affected customers as quickly and safely as possible.\n\nGPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
   "images": [],
-  "reactions": 0,
-  "comments": 0,
-  "shares": 1,
+  "reactions": 4,
+  "comments": 2,
+  "shares": 3,
   "captured_at": "2026-11-28T03:45:03.421520+00:00",
   "type": "unplanned",
   "region": "Essequibo Coast",
@@ -49,7 +49,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 11,
+  "missing_runs": 12,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:00:03.666693+00:00"
  },
@@ -79,7 +79,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 10,
+  "missing_runs": 11,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -93,7 +93,7 @@
   "images": [
    "https://scontent-gru1-2.xx.fbcdn.net/v/t39.30808-6/932156374_122214549608585308_5958382737626707794_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=BzL-33hch1oQ7kNvwFg_-YL&_nc_oc=AdpkHYydTKXUdO5ysJEk9_xAXGZGPeoMjw0bSpsnkr0bEZKhFghdYOyeOvauPp8RVcE&_nc_zt=23&_nc_ht=scontent-gru1-2.xx&edm=ADwHzz8EAAAA&_nc_gid=W5Wd1YLpe-hES9O_IM-xrA&oh=00_AQUdkjMhh9gKuZI_yf_8RO9egjWzlvcExGp949saeOAcaQ&oe=6B0FDEDD"
   ],
-  "reactions": 72,
+  "reactions": 73,
   "comments": 98,
   "shares": 37,
   "captured_at": "2026-11-28T00:20:02.968061+00:00",
@@ -131,7 +131,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 10,
+  "missing_runs": 11,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -162,7 +162,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 22,
+  "missing_runs": 23,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T02:05:03.778891+00:00"
  },
@@ -193,7 +193,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 10,
+  "missing_runs": 11,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -223,7 +223,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 11,
+  "missing_runs": 12,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:00:03.666693+00:00"
  },
@@ -251,7 +251,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 10,
+  "missing_runs": 11,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -283,7 +283,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 10,
+  "missing_runs": 11,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -313,7 +313,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 28,
+  "missing_runs": 29,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-27T21:55:03.405601+00:00"
  },
@@ -327,7 +327,7 @@
   "images": [
    "https://scontent-gru1-2.xx.fbcdn.net/v/t39.30808-6/929695729_122214519890585308_2772505421950385636_n.jpg?stp=dst-jpg_p394x394_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=zfPeyyL39dAQ7kNvwFPjUGO&_nc_oc=Adq0pElvoMV2QC7-FjGTyxbjUdqZep57ps0eTeo1iKMox6RE0fg7ej_Li2cBVYW7zQ4&_nc_zt=23&_nc_ht=scontent-gru1-2.xx&edm=ADwHzz8EAAAA&_nc_gid=W2JE1m5MU1Fo-juZL4GCEw&oh=00_AQWrrDHqZfCOlX31ihllHFP4Ta7-e_TH78_LxNZze5P0Zg&oe=6B0FAFDC"
   ],
-  "reactions": 21,
+  "reactions": 22,
   "comments": 11,
   "shares": 10,
   "captured_at": "2026-11-27T19:30:03.640136+00:00",
