@@ -7,8 +7,8 @@
   "published": "2026-11-28T14:46:02+00:00",
   "text": "ADVISORY — ESSEQUIBO COAST\n\nThe Guyana Power and Light Inc. (GPL) wishes to advise customers along the Essequibo Coast that the service interruption being experienced is due to a trip at our Anna Regina Power Station.\n\nOur technical teams are working to identify and resolve the issue and restore electricity as soon as possible.\n\nGPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
   "images": [],
-  "reactions": 0,
-  "comments": 0,
+  "reactions": 1,
+  "comments": 1,
   "shares": 1,
   "captured_at": "2026-11-28T14:50:03.388664+00:00",
   "type": "unplanned",
@@ -20,6 +20,30 @@
   "areas": [
    "Anna Regina"
   ],
+  "times": [],
+  "suspected_shedding": []
+ },
+ {
+  "id": "fb:GuyanaPowerAndLight:1795875334",
+  "fb_time": 1795875334,
+  "link": "https://www.facebook.com/GuyanaPowerAndLight",
+  "title": "READ | Cheaper cooking gas, a large national fuel reserve, and possibly a refinery are among the initiatives under consideration by the Government of Guyana to lower energy costs, Vice President Dr. B",
+  "published": "2026-11-28T14:15:34+00:00",
+  "text": "READ | Cheaper cooking gas, a large national fuel reserve, and possibly a refinery are among the initiatives under consideration by the Government of Guyana to lower energy costs, Vice President Dr. Bharrat Jagdeo said this week.\n\nSpeaking at the Guyana Manufacturing and Services Association’s annual awards and dinner on Thursday, Jagdeo said there are two ventures under consideration to secure diesel, gasoline and other fuels for national use: building a refinery, or creating a massive national strategic reserve.\n\nClick the link to read the full news article 🔗👇\n\nhttps://fueled.gy/article/from-cooking-gas-to-fuel-reserves-govt-plans-to-cut-costs-beyond-increased-power-supply?fbclid=IwdGRleAV3wSBleHRuA2FlbQIxMQBwZG9mBWZkaWQWUTEFIiUDBJIDnPyopmT__BCLJzShx3NydGMGYXBwX2lkCjY2Mjg1NjgzNzkAAR-hbJWVP2hIv-qUBjk7P8iTJzrQwWQU2P7r-tEu42D1UxkvK_R8vk2gctGLqA_aem_7yHzV_On88RO2qGR_ELk4w",
+  "images": [
+   "https://external-gru1-1.xx.fbcdn.net/emg1/v/t13/50382401610937113?url=https%3A%2F%2Fcdn.prod.website-files.com%2F694017ec1eb4716f752b1351%2F6b0ad4fd09c989985738b657_927318307_1131594063082741_3774860548111182744_n.jpg&fb_obo=1&utld=website-files.com&_nc_sid=cef909&_nc_ht=external-gru1-1.xx.fbcdn.net&stp=c0.5000x0.5000f_dst-emg0_p500x375_q75_tt6&ccb=18-1&_nc_gid=YMjlMlWqfpVKWMld0beZbw&edm=ADwHzz8EAAAA&_nc_zt=3&oh=06_Q3_FAUo1_ChOjDXDSeWYfpeUfJkjlo7535rRjVVRx8vblKOc&oe=6B0CD364"
+  ],
+  "reactions": null,
+  "comments": null,
+  "shares": null,
+  "captured_at": "2026-11-28T14:55:03.519937+00:00",
+  "type": "other",
+  "region": null,
+  "rules": "2026-11-19a",
+  "cause": null,
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [],
   "times": [],
   "suspected_shedding": []
  },
@@ -49,7 +73,7 @@
   "suspected_shedding": [
    "rotation"
   ],
-  "missing_runs": 18,
+  "missing_runs": 19,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T13:30:03.738198+00:00"
  },
@@ -80,7 +104,7 @@
   "suspected_shedding": [
    "rotation"
   ],
-  "missing_runs": 34,
+  "missing_runs": 35,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T12:10:03.204487+00:00"
  },
@@ -107,7 +131,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 60,
+  "missing_runs": 61,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T10:00:02.985846+00:00"
  },
@@ -160,7 +184,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 60,
+  "missing_runs": 61,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T10:00:02.985846+00:00"
  },
@@ -190,7 +214,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 144,
+  "missing_runs": 145,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:00:03.666693+00:00"
  },
@@ -220,7 +244,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 143,
+  "missing_runs": 144,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -272,7 +296,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 143,
+  "missing_runs": 144,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -303,7 +327,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 155,
+  "missing_runs": 156,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T02:05:03.778891+00:00"
  },
@@ -334,7 +358,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 143,
+  "missing_runs": 144,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -364,7 +388,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 144,
+  "missing_runs": 145,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:00:03.666693+00:00"
  },
@@ -392,7 +416,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 143,
+  "missing_runs": 144,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -424,7 +448,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 143,
+  "missing_runs": 144,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -454,9 +478,33 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 161,
+  "missing_runs": 162,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-27T21:55:03.405601+00:00"
+ },
+ {
+  "id": "fb:GuyanaPowerAndLight:1795808603",
+  "fb_time": 1795808603,
+  "link": "https://www.facebook.com/GuyanaPowerAndLight",
+  "title": "Gas-to-Energy power plant to deliver 220 MW in March, with rest to follow by June 2027 – Jagdeo",
+  "published": "2026-11-27T19:43:23+00:00",
+  "text": "Gas-to-Energy power plant to deliver 220 MW in March, with rest to follow by June 2027 – Jagdeo\n\nThe 300 megawatts powerplant for the Gas-to-Energy project is expected to reach full capacity by June 2027, says Vice President Dr....",
+  "images": [
+   "https://external-gru1-1.xx.fbcdn.net/emg1/v/t13/9972598349569381133?url=https%3A%2F%2Fi0.wp.com%2Fdpi.gov.gy%2Fwp-content%2Fuploads%2F2025%2F09%2F544651870_1327856812041203_628300584917630065_n.jpg%3Ffit%3D640%252C408%26quality%3D89%26ssl%3D1&fb_obo=1&utld=wp.com&_nc_sid=cef909&_nc_ht=external-gru1-1.xx.fbcdn.net&stp=c0.5000x0.5000f_dst-emg0_p500x375_q75_tt6&ccb=18-1&_nc_gid=YMjlMlWqfpVKWMld0beZbw&edm=ADwHzz8EAAAA&_nc_zt=3&_nc_enc=U04vVBsAPyECYGqvY1cpOsruu47QnXJrS_kpqRC_5u6uBxgGbeoRuWFXhj0zR3ycnPXj3OqVLBt11Vf-oiwc8VS9Y_lyzqxI4Dc&oh=06_Q3_FASt4ycCXBA-sNDnwerJAdb8bAu_gsRR2O713J9D93ybZ&oe=6B0CC1FE"
+  ],
+  "reactions": null,
+  "comments": null,
+  "shares": null,
+  "captured_at": "2026-11-28T14:55:03.519937+00:00",
+  "type": "other",
+  "region": null,
+  "rules": "2026-11-19a",
+  "cause": null,
+  "feeder_offline": false,
+  "feeders": [],
+  "areas": [],
+  "times": [],
+  "suspected_shedding": []
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795807799",
