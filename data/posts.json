@@ -24,7 +24,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 7,
+  "missing_runs": 8,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T12:10:03.204487+00:00"
  },
@@ -51,7 +51,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 33,
+  "missing_runs": 34,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T10:00:02.985846+00:00"
  },
@@ -104,7 +104,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 33,
+  "missing_runs": 34,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T10:00:02.985846+00:00"
  },
@@ -134,7 +134,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 117,
+  "missing_runs": 118,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:00:03.666693+00:00"
  },
@@ -164,7 +164,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 116,
+  "missing_runs": 117,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -179,7 +179,7 @@
    "https://scontent-gru1-2.xx.fbcdn.net/v/t39.30808-6/932156374_122214549608585308_5958382737626707794_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=BzL-33hch1oQ7kNvwFg_-YL&_nc_oc=AdpkHYydTKXUdO5ysJEk9_xAXGZGPeoMjw0bSpsnkr0bEZKhFghdYOyeOvauPp8RVcE&_nc_zt=23&_nc_ht=scontent-gru1-2.xx&edm=ADwHzz8EAAAA&_nc_gid=W5Wd1YLpe-hES9O_IM-xrA&oh=00_AQUdkjMhh9gKuZI_yf_8RO9egjWzlvcExGp949saeOAcaQ&oe=6B0FDEDD"
   ],
   "reactions": 81,
-  "comments": 106,
+  "comments": 107,
   "shares": 39,
   "captured_at": "2026-11-28T00:20:02.968061+00:00",
   "type": "other",
@@ -216,7 +216,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 116,
+  "missing_runs": 117,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -247,7 +247,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 128,
+  "missing_runs": 129,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T02:05:03.778891+00:00"
  },
@@ -278,7 +278,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 116,
+  "missing_runs": 117,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -308,7 +308,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 117,
+  "missing_runs": 118,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:00:03.666693+00:00"
  },
@@ -336,7 +336,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 116,
+  "missing_runs": 117,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -368,7 +368,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 116,
+  "missing_runs": 117,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -398,7 +398,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 134,
+  "missing_runs": 135,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-27T21:55:03.405601+00:00"
  },
