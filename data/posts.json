@@ -21,7 +21,8 @@
    "Anna Regina"
   ],
   "times": [],
-  "suspected_shedding": []
+  "suspected_shedding": [],
+  "missing_runs": 1
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795837812",
@@ -46,8 +47,7 @@
   "areas": [],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 50,
-  "deleted_from_source": true,
+  "deleted_from_source": false,
   "deleted_seen_at": "2026-11-28T05:50:03.053741+00:00"
  },
  {
@@ -72,7 +72,8 @@
    "Anna Regina"
   ],
   "times": [],
-  "suspected_shedding": []
+  "suspected_shedding": [],
+  "missing_runs": 1
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795827173",
@@ -100,7 +101,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 84,
+  "missing_runs": 85,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:00:03.666693+00:00"
  },
@@ -130,7 +131,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 83,
+  "missing_runs": 84,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -182,7 +183,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 83,
+  "missing_runs": 84,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -213,7 +214,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 95,
+  "missing_runs": 96,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T02:05:03.778891+00:00"
  },
@@ -244,7 +245,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 83,
+  "missing_runs": 84,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -274,7 +275,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 84,
+  "missing_runs": 85,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:00:03.666693+00:00"
  },
@@ -302,7 +303,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 83,
+  "missing_runs": 84,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -334,7 +335,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 83,
+  "missing_runs": 84,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -364,7 +365,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 101,
+  "missing_runs": 102,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-27T21:55:03.405601+00:00"
  },
@@ -424,9 +425,8 @@
   "areas": [],
   "times": [],
   "suspected_shedding": [],
-  "deleted_from_source": true,
-  "deleted_seen_at": "2026-11-28T04:00:03.731375+00:00",
-  "missing_runs": 72
+  "deleted_from_source": false,
+  "deleted_seen_at": "2026-11-28T04:00:03.731375+00:00"
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795805667",
