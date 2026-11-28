@@ -7,7 +7,7 @@
   "published": "2026-11-28T17:47:43+00:00",
   "text": "ADVISORY — LAMAHA GARDENS AND SECTION K, CAMPBELLVILLE\n\nThe Guyana Power and Light Inc. (GPL) wishes to advise customers in Lamaha Gardens and Section K, Campbellville that the service interruption being experienced is due to a feeder coming offline.\n\nOur technical teams are working to restore electricity as soon as possible.\n\nGPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
   "images": [],
-  "reactions": 2,
+  "reactions": 3,
   "comments": 0,
   "shares": 1,
   "captured_at": "2026-11-28T17:50:03.615962+00:00",
@@ -97,7 +97,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 2,
+  "missing_runs": 3,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T17:55:03.595529+00:00"
  },
@@ -151,7 +151,7 @@
   "suspected_shedding": [
    "rotation"
   ],
-  "missing_runs": 55,
+  "missing_runs": 56,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T13:30:03.738198+00:00"
  },
@@ -182,7 +182,7 @@
   "suspected_shedding": [
    "rotation"
   ],
-  "missing_runs": 71,
+  "missing_runs": 72,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T12:10:03.204487+00:00"
  },
@@ -209,7 +209,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 97,
+  "missing_runs": 98,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T10:00:02.985846+00:00"
  },
@@ -238,7 +238,7 @@
   "suspected_shedding": [],
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T15:55:03.361125+00:00",
-  "missing_runs": 26
+  "missing_runs": 27
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795837448",
@@ -263,7 +263,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 97,
+  "missing_runs": 98,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T10:00:02.985846+00:00"
  },
@@ -293,7 +293,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 181,
+  "missing_runs": 182,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:00:03.666693+00:00"
  },
@@ -323,7 +323,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 180,
+  "missing_runs": 181,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -350,7 +350,7 @@
   "areas": [],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 36,
+  "missing_runs": 37,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T15:05:03.818027+00:00"
  },
@@ -378,7 +378,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 180,
+  "missing_runs": 181,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -409,7 +409,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 192,
+  "missing_runs": 193,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T02:05:03.778891+00:00"
  },
@@ -440,7 +440,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 180,
+  "missing_runs": 181,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -470,7 +470,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 181,
+  "missing_runs": 182,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:00:03.666693+00:00"
  },
@@ -498,7 +498,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 180,
+  "missing_runs": 181,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -530,7 +530,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 180,
+  "missing_runs": 181,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -560,7 +560,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 198,
+  "missing_runs": 199,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-27T21:55:03.405601+00:00"
  },
