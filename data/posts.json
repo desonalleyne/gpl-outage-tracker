@@ -1,5 +1,29 @@
 [
  {
+  "id": "fb:GuyanaPowerAndLight:1795877162",
+  "fb_time": 1795877162,
+  "link": "https://www.facebook.com/GuyanaPowerAndLight",
+  "title": "ADVISORY — ESSEQUIBO COAST",
+  "published": "2026-11-28T14:46:02+00:00",
+  "text": "ADVISORY — ESSEQUIBO COAST\n\nThe Guyana Power and Light Inc. (GPL) wishes to advise customers along the Essequibo Coast that the service interruption being experienced is due to a trip at our Anna Regina Power Station.\n\nOur technical teams are working to identify and resolve the issue and restore electricity as soon as possible.\n\nGPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
+  "images": [],
+  "reactions": 0,
+  "comments": 0,
+  "shares": 1,
+  "captured_at": "2026-11-28T14:50:03.388664+00:00",
+  "type": "unplanned",
+  "region": "Essequibo Coast",
+  "rules": "2026-11-19a",
+  "cause": "No reason given",
+  "feeder_offline": true,
+  "feeders": [],
+  "areas": [
+   "Anna Regina"
+  ],
+  "times": [],
+  "suspected_shedding": []
+ },
+ {
   "id": "fb:GuyanaPowerAndLight:1795870748",
   "fb_time": 1795870748,
   "link": "https://www.facebook.com/GuyanaPowerAndLight",
@@ -25,7 +49,7 @@
   "suspected_shedding": [
    "rotation"
   ],
-  "missing_runs": 17,
+  "missing_runs": 18,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T13:30:03.738198+00:00"
  },
@@ -56,7 +80,7 @@
   "suspected_shedding": [
    "rotation"
   ],
-  "missing_runs": 33,
+  "missing_runs": 34,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T12:10:03.204487+00:00"
  },
@@ -83,7 +107,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 59,
+  "missing_runs": 60,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T10:00:02.985846+00:00"
  },
@@ -136,7 +160,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 59,
+  "missing_runs": 60,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T10:00:02.985846+00:00"
  },
@@ -166,7 +190,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 143,
+  "missing_runs": 144,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:00:03.666693+00:00"
  },
@@ -196,7 +220,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 142,
+  "missing_runs": 143,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -248,7 +272,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 142,
+  "missing_runs": 143,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -279,7 +303,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 154,
+  "missing_runs": 155,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T02:05:03.778891+00:00"
  },
@@ -310,7 +334,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 142,
+  "missing_runs": 143,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -340,7 +364,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 143,
+  "missing_runs": 144,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:00:03.666693+00:00"
  },
@@ -368,7 +392,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 142,
+  "missing_runs": 143,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -400,7 +424,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 142,
+  "missing_runs": 143,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -430,7 +454,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 160,
+  "missing_runs": 161,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-27T21:55:03.405601+00:00"
  },
@@ -491,7 +515,8 @@
   "times": [],
   "suspected_shedding": [],
   "deleted_from_source": false,
-  "deleted_seen_at": "2026-11-28T13:05:03.748314+00:00"
+  "deleted_seen_at": "2026-11-28T13:05:03.748314+00:00",
+  "missing_runs": 1
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795805667",
