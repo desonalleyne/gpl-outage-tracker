@@ -34,8 +34,8 @@
   "published": "2026-11-28T00:35:56+00:00",
   "text": "ADVISORY – SERVICE INTERRUPTION (EAST COAST DEMERARA)\n\nDear Customers from Lusignan to Enmore, please be advised that you are currently experiencing a service interruption due to the distribution feeder going offline. \n\nTechnical teams are working to restore electricity supply to all affected customers.\n\nGPL apologizes for the inconvenience caused and thank customers for their patience and understanding.",
   "images": [],
-  "reactions": 56,
-  "comments": 118,
+  "reactions": 57,
+  "comments": 121,
   "shares": 11,
   "captured_at": "2026-11-28T00:40:03.338095+00:00",
   "type": "unplanned",
@@ -129,7 +129,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 9,
+  "missing_runs": 10,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T02:05:03.778891+00:00"
  },
