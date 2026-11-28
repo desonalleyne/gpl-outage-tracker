@@ -7,8 +7,8 @@
   "published": "2026-11-28T00:52:53+00:00",
   "text": "ADVISORY – SERVICE INTERRUPTION (GEORGETOWN)\n\nGuyana Power and Light Inc. (GPL) wishes to advise customers from A to E Field Sophia that they are currently experiencing a service interruption due to the distribution feeder going offline. \n\nGPL’s technical teams are working to restore electricity supply to affected customers. \n\nWe apologize for the inconvenience caused and thank customers for their patience and understanding.",
   "images": [],
-  "reactions": 33,
-  "comments": 83,
+  "reactions": 34,
+  "comments": 84,
   "shares": 5,
   "captured_at": "2026-11-28T00:55:02.952399+00:00",
   "type": "unplanned",
@@ -85,7 +85,7 @@
   "published": "2026-11-27T23:53:00+00:00",
   "text": "ADVISORY – SERVICE INTERRUPTION (BERBICE) \n\nGuyana Power and Light Inc. (GPL) wishes to advise customers from Fort Ordinance and surrounding environs that they are currently experiencing an interruption in electricity supply due to a section of the distribution feeder going offline. \n\nOur technical teams are working to restore electricity supply to all affected customers. \n\nWe apologize for the inconvenience caused and thank customers for their patience and understanding.",
   "images": [],
-  "reactions": 38,
+  "reactions": 39,
   "comments": 45,
   "shares": 9,
   "captured_at": "2026-11-27T23:55:02.885252+00:00",
@@ -129,7 +129,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 10,
+  "missing_runs": 11,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T02:05:03.778891+00:00"
  },
