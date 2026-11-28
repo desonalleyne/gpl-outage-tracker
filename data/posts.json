@@ -9,7 +9,7 @@
   "images": [],
   "reactions": 8,
   "comments": 4,
-  "shares": 1,
+  "shares": 2,
   "captured_at": "2026-11-28T13:00:03.592315+00:00",
   "type": "unplanned",
   "region": "East Bank Demerara",
@@ -53,7 +53,7 @@
   "suspected_shedding": [
    "rotation"
   ],
-  "missing_runs": 13,
+  "missing_runs": 14,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T12:10:03.204487+00:00"
  },
@@ -80,7 +80,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 39,
+  "missing_runs": 40,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T10:00:02.985846+00:00"
  },
@@ -133,7 +133,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 39,
+  "missing_runs": 40,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T10:00:02.985846+00:00"
  },
@@ -163,7 +163,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 123,
+  "missing_runs": 124,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:00:03.666693+00:00"
  },
@@ -193,7 +193,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 122,
+  "missing_runs": 123,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -245,7 +245,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 122,
+  "missing_runs": 123,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -276,7 +276,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 134,
+  "missing_runs": 135,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T02:05:03.778891+00:00"
  },
@@ -307,7 +307,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 122,
+  "missing_runs": 123,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -337,7 +337,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 123,
+  "missing_runs": 124,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:00:03.666693+00:00"
  },
@@ -365,7 +365,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 122,
+  "missing_runs": 123,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -397,7 +397,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 122,
+  "missing_runs": 123,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -427,7 +427,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 140,
+  "missing_runs": 141,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-27T21:55:03.405601+00:00"
  },
@@ -489,7 +489,7 @@
   "suspected_shedding": [],
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T13:05:03.748314+00:00",
-  "missing_runs": 2
+  "missing_runs": 3
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795805667",
