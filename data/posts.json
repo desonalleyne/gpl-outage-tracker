@@ -25,7 +25,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 2,
+  "missing_runs": 3,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:00:03.666693+00:00"
  },
@@ -55,7 +55,9 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 1
+  "missing_runs": 2,
+  "deleted_from_source": true,
+  "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795825029",
@@ -69,7 +71,7 @@
   ],
   "reactions": 72,
   "comments": 93,
-  "shares": 34,
+  "shares": 35,
   "captured_at": "2026-11-28T00:20:02.968061+00:00",
   "type": "other",
   "region": "Demerara",
@@ -105,7 +107,9 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 1
+  "missing_runs": 2,
+  "deleted_from_source": true,
+  "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795821484",
@@ -134,7 +138,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 13,
+  "missing_runs": 14,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T02:05:03.778891+00:00"
  },
@@ -165,7 +169,9 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 1
+  "missing_runs": 2,
+  "deleted_from_source": true,
+  "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795817052",
@@ -193,7 +199,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 2,
+  "missing_runs": 3,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:00:03.666693+00:00"
  },
@@ -221,7 +227,9 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 1
+  "missing_runs": 2,
+  "deleted_from_source": true,
+  "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795815974",
@@ -251,7 +259,9 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 1
+  "missing_runs": 2,
+  "deleted_from_source": true,
+  "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795815275",
@@ -279,7 +289,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 19,
+  "missing_runs": 20,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-27T21:55:03.405601+00:00"
  },
