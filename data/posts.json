@@ -7,8 +7,8 @@
   "published": "2026-11-28T15:48:05+00:00",
   "text": "UPDATE #2 — ESSEQUIBO COAST\n\nThe Guyana Power and Light Inc. (GPL) wishes to advise customers along the Essequibo Coast that incremental restoration of electricity remains ongoing following the earlier service interruption caused by a trip at our Anna Regina Power Station.\n\nElectricity has been restored to the following areas:\n\nAnna Regina to Lima  \nAnna Regina to Three Friends  \nThree Friends to La Union  \nLima to Devonshire Castle  \nLa Union to Suddie\n\nOur technical teams continue to work to restore electricity to the remaining affected areas as soon as possible.\n\nGPL apologises for the inconvenience caused and thanks customers for their continued patience and understanding.",
   "images": [],
-  "reactions": 1,
-  "comments": 2,
+  "reactions": 2,
+  "comments": 3,
   "shares": 2,
   "captured_at": "2026-11-28T15:50:03.385808+00:00",
   "type": "update",
@@ -121,7 +121,7 @@
   "suspected_shedding": [
    "rotation"
   ],
-  "missing_runs": 31,
+  "missing_runs": 32,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T13:30:03.738198+00:00"
  },
@@ -152,7 +152,7 @@
   "suspected_shedding": [
    "rotation"
   ],
-  "missing_runs": 47,
+  "missing_runs": 48,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T12:10:03.204487+00:00"
  },
@@ -179,7 +179,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 73,
+  "missing_runs": 74,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T10:00:02.985846+00:00"
  },
@@ -208,7 +208,7 @@
   "suspected_shedding": [],
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T15:55:03.361125+00:00",
-  "missing_runs": 2
+  "missing_runs": 3
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795837448",
@@ -233,7 +233,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 73,
+  "missing_runs": 74,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T10:00:02.985846+00:00"
  },
@@ -263,7 +263,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 157,
+  "missing_runs": 158,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:00:03.666693+00:00"
  },
@@ -293,7 +293,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 156,
+  "missing_runs": 157,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -320,7 +320,7 @@
   "areas": [],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 12,
+  "missing_runs": 13,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T15:05:03.818027+00:00"
  },
@@ -348,7 +348,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 156,
+  "missing_runs": 157,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -379,7 +379,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 168,
+  "missing_runs": 169,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T02:05:03.778891+00:00"
  },
@@ -410,7 +410,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 156,
+  "missing_runs": 157,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -440,7 +440,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 157,
+  "missing_runs": 158,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:00:03.666693+00:00"
  },
@@ -468,7 +468,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 156,
+  "missing_runs": 157,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -500,7 +500,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 156,
+  "missing_runs": 157,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -530,7 +530,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 174,
+  "missing_runs": 175,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-27T21:55:03.405601+00:00"
  },
