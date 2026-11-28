@@ -25,7 +25,7 @@
   "suspected_shedding": [
    "rotation"
   ],
-  "missing_runs": 8,
+  "missing_runs": 9,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T13:30:03.738198+00:00"
  },
@@ -56,7 +56,7 @@
   "suspected_shedding": [
    "rotation"
   ],
-  "missing_runs": 24,
+  "missing_runs": 25,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T12:10:03.204487+00:00"
  },
@@ -83,7 +83,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 50,
+  "missing_runs": 51,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T10:00:02.985846+00:00"
  },
@@ -98,7 +98,7 @@
    "https://scontent-gru2-2.xx.fbcdn.net/v/t39.30808-6/933052426_122214566006585308_4134054248400867918_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=QOr_wUVYO7YQ7kNvwHIj-tx&_nc_oc=Ado40psvgJR_nWFhFZknd6iet6LxCurxo5GRIEN3J_uVp7ZuMaaY4uKj8Q55SK_CliQ&_nc_zt=23&_nc_ht=scontent-gru2-2.xx&edm=ADwHzz8EAAAA&_nc_gid=gs5n7rfMh6uPo_0T32T3cQ&oh=00_AQViBgSaU7WiA3Ob941_Ox7PKeGQ0uxYRGsgCDBfsfAJlg&oe=6B101E77"
   ],
   "reactions": 3,
-  "comments": 2,
+  "comments": 3,
   "shares": 4,
   "captured_at": "2026-11-28T03:55:03.662710+00:00",
   "type": "other",
@@ -136,7 +136,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 50,
+  "missing_runs": 51,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T10:00:02.985846+00:00"
  },
@@ -166,7 +166,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 134,
+  "missing_runs": 135,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:00:03.666693+00:00"
  },
@@ -196,7 +196,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 133,
+  "missing_runs": 134,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -211,7 +211,7 @@
    "https://scontent-gru1-2.xx.fbcdn.net/v/t39.30808-6/932156374_122214549608585308_5958382737626707794_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=BzL-33hch1oQ7kNvwFg_-YL&_nc_oc=AdpkHYydTKXUdO5ysJEk9_xAXGZGPeoMjw0bSpsnkr0bEZKhFghdYOyeOvauPp8RVcE&_nc_zt=23&_nc_ht=scontent-gru1-2.xx&edm=ADwHzz8EAAAA&_nc_gid=W5Wd1YLpe-hES9O_IM-xrA&oh=00_AQUdkjMhh9gKuZI_yf_8RO9egjWzlvcExGp949saeOAcaQ&oe=6B0FDEDD"
   ],
   "reactions": 82,
-  "comments": 107,
+  "comments": 109,
   "shares": 40,
   "captured_at": "2026-11-28T00:20:02.968061+00:00",
   "type": "other",
@@ -248,7 +248,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 133,
+  "missing_runs": 134,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -279,7 +279,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 145,
+  "missing_runs": 146,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T02:05:03.778891+00:00"
  },
@@ -310,7 +310,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 133,
+  "missing_runs": 134,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -340,7 +340,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 134,
+  "missing_runs": 135,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:00:03.666693+00:00"
  },
@@ -368,7 +368,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 133,
+  "missing_runs": 134,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -400,7 +400,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 133,
+  "missing_runs": 134,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -430,7 +430,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 151,
+  "missing_runs": 152,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-27T21:55:03.405601+00:00"
  },
@@ -445,7 +445,7 @@
    "https://scontent-gru1-2.xx.fbcdn.net/v/t39.30808-6/929695729_122214519890585308_2772505421950385636_n.jpg?stp=dst-jpg_p394x394_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=zfPeyyL39dAQ7kNvwFPjUGO&_nc_oc=Adq0pElvoMV2QC7-FjGTyxbjUdqZep57ps0eTeo1iKMox6RE0fg7ej_Li2cBVYW7zQ4&_nc_zt=23&_nc_ht=scontent-gru1-2.xx&edm=ADwHzz8EAAAA&_nc_gid=W2JE1m5MU1Fo-juZL4GCEw&oh=00_AQWrrDHqZfCOlX31ihllHFP4Ta7-e_TH78_LxNZze5P0Zg&oe=6B0FAFDC"
   ],
   "reactions": 26,
-  "comments": 14,
+  "comments": 15,
   "shares": 11,
   "captured_at": "2026-11-27T19:30:03.640136+00:00",
   "type": "other",
@@ -478,7 +478,7 @@
    "https://scontent-gru1-2.xx.fbcdn.net/v/t39.30808-6/925929922_122214515084585308_8855003231438458545_n.jpg?stp=cp6_dst-jpegr_p261x260_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=QQJfA12r5oQQ7kNvwF8q2Ho&_nc_oc=AdqcMNYGKIYkTY89oGprLHAgL-h-bJ8DxaJyS9cogr2b5YRZp65nUwEf0E9LXN8opDg&_nc_zt=23&se=-1&_nc_ht=scontent-gru1-2.xx&edm=ADwHzz8EAAAA&_nc_gid=ybHkO8W-Ik-66WaB855Qtg&oh=00_AQX5GGxBuHSFIXXCd-ecD4nCtFR_AO8rNxi3nWJqKuoI6g&oe=6B0F8F7B"
   ],
   "reactions": 3,
-  "comments": 1,
+  "comments": 2,
   "shares": 1,
   "captured_at": "2026-11-27T19:00:03.621829+00:00",
   "type": "other",
