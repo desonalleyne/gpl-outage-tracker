@@ -8,7 +8,7 @@
   "text": "ADVISORY – SERVICE INTERRUPTION (GEORGETOWN)\n\nGuyana Power and Light Inc. (GPL) wishes to advise customers from A to E Field Sophia that they are currently experiencing a service interruption due to the distribution feeder going offline. \n\nGPL’s technical teams are working to restore electricity supply to affected customers. \n\nWe apologize for the inconvenience caused and thank customers for their patience and understanding.",
   "images": [],
   "reactions": 32,
-  "comments": 81,
+  "comments": 83,
   "shares": 5,
   "captured_at": "2026-11-28T00:55:02.952399+00:00",
   "type": "unplanned",
@@ -63,8 +63,8 @@
   "images": [
    "https://scontent-gru1-2.xx.fbcdn.net/v/t39.30808-6/932156374_122214549608585308_5958382737626707794_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=BzL-33hch1oQ7kNvwFg_-YL&_nc_oc=AdpkHYydTKXUdO5ysJEk9_xAXGZGPeoMjw0bSpsnkr0bEZKhFghdYOyeOvauPp8RVcE&_nc_zt=23&_nc_ht=scontent-gru1-2.xx&edm=ADwHzz8EAAAA&_nc_gid=W5Wd1YLpe-hES9O_IM-xrA&oh=00_AQUdkjMhh9gKuZI_yf_8RO9egjWzlvcExGp949saeOAcaQ&oe=6B0FDEDD"
   ],
-  "reactions": 69,
-  "comments": 90,
+  "reactions": 70,
+  "comments": 91,
   "shares": 32,
   "captured_at": "2026-11-28T00:20:02.968061+00:00",
   "type": "other",
@@ -129,7 +129,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 7,
+  "missing_runs": 8,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T02:05:03.778891+00:00"
  },
