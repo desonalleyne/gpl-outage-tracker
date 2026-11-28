@@ -32,7 +32,7 @@
   "text": "ADVISORY – SERVICE INTERRUPTION (ESSEQUIBO COAST)\n\nGuyana Power and Light Inc. (GPL) wishes to advise customers on the Essequibo Coast that they are currently experiencing an interruption in electricity supply due to a system disturbance at the Anna Regina Power Station.\n\nGPL’s technical teams are working to identify the cause and restore electricity supply to all affected customers as quickly and safely as possible.\n\nGPL apologises for the inconvenience caused and thanks customers for their patience and understanding.",
   "images": [],
   "reactions": 6,
-  "comments": 8,
+  "comments": 9,
   "shares": 3,
   "captured_at": "2026-11-28T03:45:03.421520+00:00",
   "type": "unplanned",
@@ -73,7 +73,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 20,
+  "missing_runs": 21,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:00:03.666693+00:00"
  },
@@ -103,7 +103,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 19,
+  "missing_runs": 20,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -118,7 +118,7 @@
    "https://scontent-gru1-2.xx.fbcdn.net/v/t39.30808-6/932156374_122214549608585308_5958382737626707794_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=BzL-33hch1oQ7kNvwFg_-YL&_nc_oc=AdpkHYydTKXUdO5ysJEk9_xAXGZGPeoMjw0bSpsnkr0bEZKhFghdYOyeOvauPp8RVcE&_nc_zt=23&_nc_ht=scontent-gru1-2.xx&edm=ADwHzz8EAAAA&_nc_gid=W5Wd1YLpe-hES9O_IM-xrA&oh=00_AQUdkjMhh9gKuZI_yf_8RO9egjWzlvcExGp949saeOAcaQ&oe=6B0FDEDD"
   ],
   "reactions": 75,
-  "comments": 99,
+  "comments": 100,
   "shares": 38,
   "captured_at": "2026-11-28T00:20:02.968061+00:00",
   "type": "other",
@@ -155,7 +155,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 19,
+  "missing_runs": 20,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -186,7 +186,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 31,
+  "missing_runs": 32,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T02:05:03.778891+00:00"
  },
@@ -217,7 +217,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 19,
+  "missing_runs": 20,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -247,7 +247,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 20,
+  "missing_runs": 21,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:00:03.666693+00:00"
  },
@@ -275,7 +275,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 19,
+  "missing_runs": 20,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -307,7 +307,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 19,
+  "missing_runs": 20,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -337,7 +337,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 37,
+  "missing_runs": 38,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-27T21:55:03.405601+00:00"
  },
@@ -399,7 +399,7 @@
   "suspected_shedding": [],
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T04:00:03.731375+00:00",
-  "missing_runs": 8
+  "missing_runs": 9
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795805667",
