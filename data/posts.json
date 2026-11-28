@@ -53,7 +53,7 @@
   "suspected_shedding": [
    "rotation"
   ],
-  "missing_runs": 15,
+  "missing_runs": 16,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T12:10:03.204487+00:00"
  },
@@ -80,7 +80,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 41,
+  "missing_runs": 42,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T10:00:02.985846+00:00"
  },
@@ -133,7 +133,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 41,
+  "missing_runs": 42,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T10:00:02.985846+00:00"
  },
@@ -163,7 +163,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 125,
+  "missing_runs": 126,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:00:03.666693+00:00"
  },
@@ -193,7 +193,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 124,
+  "missing_runs": 125,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -245,7 +245,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 124,
+  "missing_runs": 125,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -276,7 +276,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 136,
+  "missing_runs": 137,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T02:05:03.778891+00:00"
  },
@@ -307,7 +307,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 124,
+  "missing_runs": 125,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -337,7 +337,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 125,
+  "missing_runs": 126,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:00:03.666693+00:00"
  },
@@ -365,7 +365,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 124,
+  "missing_runs": 125,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -397,7 +397,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 124,
+  "missing_runs": 125,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -427,7 +427,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 142,
+  "missing_runs": 143,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-27T21:55:03.405601+00:00"
  },
@@ -489,7 +489,7 @@
   "suspected_shedding": [],
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T13:05:03.748314+00:00",
-  "missing_runs": 4
+  "missing_runs": 5
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795805667",
