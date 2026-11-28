@@ -7,9 +7,9 @@
   "published": "2026-11-28T18:08:52+00:00",
   "text": "ADVISORY || EMERGENCY SERVICE INTERRUPTION- BERBICE \n\nGuyana Power and Light Inc. (GPL) wishes to notify customers from Low Lands to Bygeval that you are experiencing a service interruption due to a feeder going offline.\n\nOur teams are working towards restoring power to all affected areas as soon as possible.\n\nGPL sincerely apologises for any inconvenience caused and thank customers for their understanding and patience.",
   "images": [],
-  "reactions": 0,
-  "comments": 0,
-  "shares": 1,
+  "reactions": 4,
+  "comments": 4,
+  "shares": 2,
   "captured_at": "2026-11-28T18:10:02.915085+00:00",
   "type": "unplanned",
   "region": "Berbice",
@@ -125,7 +125,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 5,
+  "missing_runs": 6,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T17:55:03.595529+00:00"
  },
@@ -152,7 +152,9 @@
   "areas": [],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 1
+  "missing_runs": 2,
+  "deleted_from_source": true,
+  "deleted_seen_at": "2026-11-28T18:15:03.048568+00:00"
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795870748",
@@ -180,7 +182,7 @@
   "suspected_shedding": [
    "rotation"
   ],
-  "missing_runs": 58,
+  "missing_runs": 59,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T13:30:03.738198+00:00"
  },
@@ -211,7 +213,7 @@
   "suspected_shedding": [
    "rotation"
   ],
-  "missing_runs": 74,
+  "missing_runs": 75,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T12:10:03.204487+00:00"
  },
@@ -238,7 +240,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 100,
+  "missing_runs": 101,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T10:00:02.985846+00:00"
  },
@@ -267,7 +269,7 @@
   "suspected_shedding": [],
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T15:55:03.361125+00:00",
-  "missing_runs": 29
+  "missing_runs": 30
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795837448",
@@ -292,7 +294,7 @@
   ],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 100,
+  "missing_runs": 101,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T10:00:02.985846+00:00"
  },
@@ -322,7 +324,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 184,
+  "missing_runs": 185,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:00:03.666693+00:00"
  },
@@ -352,7 +354,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 183,
+  "missing_runs": 184,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -379,7 +381,7 @@
   "areas": [],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 39,
+  "missing_runs": 40,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T15:05:03.818027+00:00"
  },
@@ -407,7 +409,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 183,
+  "missing_runs": 184,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -438,7 +440,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 195,
+  "missing_runs": 196,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T02:05:03.778891+00:00"
  },
@@ -469,7 +471,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 183,
+  "missing_runs": 184,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -499,7 +501,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 184,
+  "missing_runs": 185,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:00:03.666693+00:00"
  },
@@ -527,7 +529,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 183,
+  "missing_runs": 184,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -559,7 +561,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 183,
+  "missing_runs": 184,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T03:05:04.026661+00:00"
  },
@@ -589,7 +591,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 201,
+  "missing_runs": 202,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-27T21:55:03.405601+00:00"
  },
