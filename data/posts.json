@@ -25,7 +25,9 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 1
+  "missing_runs": 2,
+  "deleted_from_source": true,
+  "deleted_seen_at": "2026-11-28T03:00:03.666693+00:00"
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795826156",
@@ -52,7 +54,8 @@
   "suspected_shedding": [
    "peak hours",
    "rotation"
-  ]
+  ],
+  "missing_runs": 1
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795825029",
@@ -65,8 +68,8 @@
    "https://scontent-gru1-2.xx.fbcdn.net/v/t39.30808-6/932156374_122214549608585308_5958382737626707794_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=BzL-33hch1oQ7kNvwFg_-YL&_nc_oc=AdpkHYydTKXUdO5ysJEk9_xAXGZGPeoMjw0bSpsnkr0bEZKhFghdYOyeOvauPp8RVcE&_nc_zt=23&_nc_ht=scontent-gru1-2.xx&edm=ADwHzz8EAAAA&_nc_gid=W5Wd1YLpe-hES9O_IM-xrA&oh=00_AQUdkjMhh9gKuZI_yf_8RO9egjWzlvcExGp949saeOAcaQ&oe=6B0FDEDD"
   ],
   "reactions": 72,
-  "comments": 92,
-  "shares": 33,
+  "comments": 93,
+  "shares": 34,
   "captured_at": "2026-11-28T00:20:02.968061+00:00",
   "type": "other",
   "region": "Demerara",
@@ -101,7 +104,8 @@
   "suspected_shedding": [
    "peak hours",
    "rotation"
-  ]
+  ],
+  "missing_runs": 1
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795821484",
@@ -130,7 +134,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 12,
+  "missing_runs": 13,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-28T02:05:03.778891+00:00"
  },
@@ -160,7 +164,8 @@
   "suspected_shedding": [
    "peak hours",
    "rotation"
-  ]
+  ],
+  "missing_runs": 1
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795817052",
@@ -188,7 +193,9 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 1
+  "missing_runs": 2,
+  "deleted_from_source": true,
+  "deleted_seen_at": "2026-11-28T03:00:03.666693+00:00"
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795816174",
@@ -213,7 +220,8 @@
   "suspected_shedding": [
    "peak hours",
    "rotation"
-  ]
+  ],
+  "missing_runs": 1
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795815974",
@@ -242,7 +250,8 @@
   "suspected_shedding": [
    "peak hours",
    "rotation"
-  ]
+  ],
+  "missing_runs": 1
  },
  {
   "id": "fb:GuyanaPowerAndLight:1795815275",
@@ -270,7 +279,7 @@
    "peak hours",
    "rotation"
   ],
-  "missing_runs": 18,
+  "missing_runs": 19,
   "deleted_from_source": true,
   "deleted_seen_at": "2026-11-27T21:55:03.405601+00:00"
  },
@@ -284,9 +293,9 @@
   "images": [
    "https://scontent-gru1-2.xx.fbcdn.net/v/t39.30808-6/929695729_122214519890585308_2772505421950385636_n.jpg?stp=dst-jpg_p394x394_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=zfPeyyL39dAQ7kNvwFPjUGO&_nc_oc=Adq0pElvoMV2QC7-FjGTyxbjUdqZep57ps0eTeo1iKMox6RE0fg7ej_Li2cBVYW7zQ4&_nc_zt=23&_nc_ht=scontent-gru1-2.xx&edm=ADwHzz8EAAAA&_nc_gid=W2JE1m5MU1Fo-juZL4GCEw&oh=00_AQWrrDHqZfCOlX31ihllHFP4Ta7-e_TH78_LxNZze5P0Zg&oe=6B0FAFDC"
   ],
-  "reactions": 16,
-  "comments": 8,
-  "shares": 9,
+  "reactions": 21,
+  "comments": 11,
+  "shares": 10,
   "captured_at": "2026-11-27T19:30:03.640136+00:00",
   "type": "other",
   "region": null,
@@ -330,8 +339,7 @@
   "areas": [],
   "times": [],
   "suspected_shedding": [],
-  "missing_runs": 2,
-  "deleted_from_source": true,
+  "deleted_from_source": false,
   "deleted_seen_at": "2026-11-27T22:10:03.792699+00:00"
  },
  {
@@ -370,9 +378,9 @@
   "images": [
    "https://scontent-gru1-2.xx.fbcdn.net/v/t39.30808-6/931915574_122214512804585308_7668004500487920926_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=yVxRhlZDmMIQ7kNvwH2zlqt&_nc_oc=AdrYOAqMHzintNI0DTBc7sYeMU36grVRqoI9oZ0uOhQzpFh9g_MB5Cdn1e30qFFdvIU&_nc_zt=23&_nc_ht=scontent-gru1-2.xx&edm=ADwHzz8EAAAA&_nc_gid=087BeXBfzjZ8x3b8iRuf-A&oh=00_AQXoIAw0kqHTAGTnVwQCcqzcdEAVeRNJ3Lvc1KCIVRqvqA&oe=6B0F9324"
   ],
-  "reactions": 2,
+  "reactions": 5,
   "comments": 0,
-  "shares": 2,
+  "shares": 3,
   "captured_at": "2026-11-27T18:45:03.682588+00:00",
   "type": "other",
   "region": null,
